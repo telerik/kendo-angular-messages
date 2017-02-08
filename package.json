@@ -6,6 +6,9 @@
   "scripts": {
     "test": "gulp lint"
   },
+  "bin": {
+    "kendo-translate": "./bin/kendo-translate"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/telerik/kendo-angular-messages.git"
@@ -19,5 +22,9 @@
   "devDependencies": {
     "gulp": "3.9.1",
     "gulp-yaml-validate": "1.0.2"
+  },
+  "dependencies": {
+    "glob": "7.1.1",
+    "xlf-translate": "0.1.0"
   }
 }

@@ -1,0 +1,75 @@
+#!/usr/bin/env node
+'use strict';
+
+const glob = require("glob")
+const path = require('path');
+const yaml = require('js-yaml');
+const fs = require('fs');
+const xml = require('xml2js');
+const translate = require('xlf-translate');
+
+const args = (() => {
+    const argparse = require('argparse');
+    const parser = new argparse.ArgumentParser({
+        version: '0.1.0',
+        addHelp: true,
+        description: 'kendo-translate populates Kendo UI for Angular messages in application message files'
+    });
+
+    parser.addArgument([ '-l', '--locale' ], {
+        help: 'the locale ID, for example "en-US"',
+        required: true
+    });
+
+    parser.addArgument([ '-m', '--messages-file' ], {
+        help: 'messages file to process, for example "src/i18n/messages.en.xlf"',
+        required: true
+    });
+
+    parser.addArgument([ '-f', '--force' ], {
+        help: 'overwrites existing translations',
+        defaultValue: false,
+        action: 'storeTrue'
+    });
+
+    return parser.parseArgs();
+})();
+
+const msgRoot = path.resolve(__dirname, '../messages');
+
+const translateMessages = (translations) => {
+    const messageData = fs.readFileSync(args.messages_file);
+    const parser = new xml.Parser();
+    parser.parseString(messageData, (err, result) => {
+        if (err) {
+            throw new Error(`Unable to parse '${args.messages_file}'`);
+        }
+
+        const stats = translate(result, translations, args.force);
+
+        const builder = new xml.Builder();
+        const out = builder.buildObject(result);
+
+        fs.writeFileSync(args.messages_file, out);
+        console.info('Done.');
+        console.info(`  ${stats.count} targets translated.`);
+        console.info(`  ${stats.skip} non-empty targets skipped. Use --force to overwrite.`);
+    });
+};
+
+const loadTranslations = (err, files) => {
+    if (err || files.length === 0) {
+        throw new Error(`Unable to load translation files for locale '${args.locale}'`);
+    }
+
+    const lang = {};
+    files.forEach((current) => {
+        const data = fs.readFileSync(current);
+        Object.assign(lang, yaml.safeLoad(data));
+    });
+
+    translateMessages(lang);
+};
+
+glob(`${msgRoot}/**/*.${args.locale}.yml`, { nocase: true }, loadTranslations);
+
