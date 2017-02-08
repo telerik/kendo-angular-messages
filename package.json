@@ -1,0 +1,23 @@
+{
+  "name": "@progress/kendo-angular-messages",
+  "version": "0.1.0",
+  "description": "Kendo UI for Angular localization messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/telerik/kendo-angular-messages.git"
+  },
+  "author": "Progress",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "bugs": {
+    "url": "https://github.com/telerik/kendo-angular-messages/issues"
+  },
+  "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-yaml-validate": "1.0.2"
+  }
+}
