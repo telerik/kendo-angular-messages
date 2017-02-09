@@ -68,7 +68,7 @@ const parseYaml = data => new Task((reject, resolve) => {
 
 // verifyFile :: [FilePath] -> Task Error [FilePath]
 const verifyFile = files => new Task((reject, resolve) => {
-    files.length ? resolve(files) : reject(new Error(`Unable to parse '${args.messages_file}'`));
+    files.length ? resolve(files) : reject(new Error(`Unable to locate '${args.messages_file}' file`));
 });
 
 // parseXml :: FileContent -> Task XML
