@@ -1,12 +1,14 @@
 #!/usr/bin/env node
 'use strict';
 
-const glob = require("glob")
+const glob = require("glob");
 const path = require('path');
 const yaml = require('js-yaml');
 const fs = require('fs');
 const xml = require('xml2js');
 const translate = require('xlf-translate');
+const Task = require('data.task');
+const R = require('ramda');
 
 const args = (() => {
     const argparse = require('argparse');
@@ -37,39 +39,105 @@ const args = (() => {
 
 const msgRoot = path.resolve(__dirname, '../messages');
 
-const translateMessages = (translations) => {
-    const messageData = fs.readFileSync(args.messages_file);
-    const parser = new xml.Parser();
-    parser.parseString(messageData, (err, result) => {
-        if (err) {
-            throw new Error(`Unable to parse '${args.messages_file}'`);
-        }
+const langFiles = `**/*.${args.locale}.yml`;
 
-        const stats = translate(result, translations, args.force);
+const extendAll = R.reduce(R.mergeWith(R.merge), {});
 
-        const builder = new xml.Builder();
-        const out = builder.buildObject(result);
-
-        fs.writeFileSync(args.messages_file, out);
-        console.info('Done.');
-        console.info(`  ${stats.count} targets translated.`);
-        console.info(`  ${stats.skip} non-empty targets skipped. Use --force to overwrite.`);
-    });
+const complete = (reject, resolve) => (error, result) => {
+    error ? reject(error) : resolve(result);
 };
 
-const loadTranslations = (err, files) => {
-    if (err || files.length === 0) {
-        throw new Error(`Unable to load translation files for locale '${args.locale}'`);
+// findFiles :: String => Task [FilePath]
+const findFiles = wildcard => new Task((reject, resolve) => {
+    glob(wildcard, { nocase: true, root: msgRoot }, complete(reject, resolve));
+});
+
+//  readFile :: FilePath -> Task FileContent
+const readFile = filename => new Task((reject, resolve) => {
+    fs.readFile(filename, 'utf8', complete(reject, resolve));
+});
+
+// parseYaml :: FileContent -> Task YML
+const parseYaml = data => new Task((reject, resolve) => {
+    try {
+        resolve(yaml.safeLoad(data));
+    } catch (e) {
+        reject(e);
     }
+});
 
-    const lang = {};
-    files.forEach((current) => {
-        const data = fs.readFileSync(current);
-        Object.assign(lang, yaml.safeLoad(data));
-    });
+// verifyFile :: [FilePath] -> Task Error [FilePath]
+const verifyFile = files => new Task((reject, resolve) => {
+    files.length ? resolve(files) : reject(new Error(`Unable to locate '${args.messages_file}' file`));
+});
 
-    translateMessages(lang);
-};
+// parseXml :: FileContent -> Task XML
+const parseXml = data => new Task((reject, resolve) => {
+    const parser = new xml.Parser();
 
-glob(`${msgRoot}/**/*.${args.locale}.yml`, { nocase: true }, loadTranslations);
+    parser.parseString(data, complete(reject, resolve));
+});
+
+// parseYamlFile :: FilePath -> Task YML
+const parseYamlFile = R.pipe(readFile, R.chain(parseYaml));
+
+// parseXmlFile :: FilePath -> Task XML
+const parseXmlFile = R.pipe(readFile, R.chain(parseXml));
+
+// safeTranslate :: XML -> YML -> Task XML Stats
+const safeTranslate = R.curry((data, translations) => new Task((reject, resolve) => {
+    try {
+        const stats = translate(data, translations, args.force);
+        resolve({data, stats});
+    } catch(e) {
+        reject(e);
+    }
+}));
+
+// writeFile :: (XML, Stats) -> Task Stats
+const writeFile = obj => new Task((reject, resolve) => {
+    const builder = new xml.Builder();
+    const out = builder.buildObject(obj.data);
+
+    try {
+        fs.writeFileSync(args.messages_file, out);
+        resolve(obj.stats);
+    } catch(e) {
+        reject(e);
+    }
+});
+
+// processFiles :: (FilePath -> Task a) -> [FilePath] -> Task a
+const processFiles = (processor, guard) => R.pipe(
+    findFiles,
+    R.chain(guard),
+    R.map(R.map(processor)),
+    R.chain(R.sequence(Task.of))
+);
+
+// translations :: [FilePath] -> Task YML
+const translations = R.pipe(
+    processFiles(parseYamlFile, Task.of),
+    R.map(extendAll)
+);
+
+// mergeTranslations :: FilePath -> YML -> XML
+const mergeTranslations = path => translations => R.pipe(
+    processFiles(parseXmlFile, verifyFile),
+    R.chain(xmlFiles => safeTranslate(R.head(xmlFiles), translations))
+)(path);
+
+const main = () => {
+    translations(langFiles)
+        .chain(mergeTranslations(args.messages_file))
+        .chain(writeFile)
+        .fork(console.error, stats => {
+            console.info('Done.');
+            console.info(`  ${stats.count} targets translated.`);
+            console.info(`  ${stats.skip} non-empty targets skipped. Use --force to overwrite.`);
+        });
+}
+
+main();
+
 
