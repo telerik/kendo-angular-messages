@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Træk en kolonneoverskrift herover for at gruppére på den kolonne
+
+    # The label visible in the Grid when there are no records
+    noRecords: 
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Gå til første side
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Gå til forrige side
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Gå til næste side
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Gå til sidste side
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Side
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: af
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: emner
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: emner pr side

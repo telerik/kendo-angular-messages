@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: 列ヘッダーをここにドラッグ アンド ドロップして、その列でグループ化
+
+    # The label visible in the Grid when there are no records
+    noRecords: 
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: 最初のページに移動
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: 前のページに移動
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: 次のページに移動
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: 最後のページに移動
+
+    # The label before the current page number in the Grid pager
+    pagerPage: ページ
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: /
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: 項目
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: 項目 (1 ページあたり)

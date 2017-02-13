@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Trageți un antet de coloană și plasați-l aici pentru a grupa după acea coloană
+
+    # The label visible in the Grid when there are no records
+    noRecords: 
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Prima pagină
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Pagina precedentă
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Pagina următoare
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Ultima pagină
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Pagina
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: din
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: elemente
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: elemente per pagină

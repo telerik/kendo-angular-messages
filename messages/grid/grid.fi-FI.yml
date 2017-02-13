@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Vedä sarakeotsikko tähän ryhmitelläksesi sarakkeen perusteella
+
+    # The label visible in the Grid when there are no records
+    noRecords: Ei tietueita.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Ensimmäinen sivu
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Edellinen sivu
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Seuraava sivu
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Viimeinen sivu
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Sivu
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: /
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: tulosta
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: tulosta sivulla

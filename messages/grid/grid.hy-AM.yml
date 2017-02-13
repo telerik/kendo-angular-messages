@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Սյան արժեքները խմբավորելու համար սյան վերնագիրը քաշեք այստեղ։
+
+    # The label visible in the Grid when there are no records
+    noRecords: Հասանելի տվյալներ չկան։
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Վերադառնալ առաջին էջ
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Վերադառնալ նախորդ էջ
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Անցնել հաջորդ էջ
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Անցնել վերջին էջ
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Էջ
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: {0}-ից
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: տողերի
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: տողերի քանակ էջում

@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Bir sütun başlığını sürükleyin ve bu sütuna göre gruplandırmak için buraya bırakın
+
+    # The label visible in the Grid when there are no records
+    noRecords: 
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: İlk sayfaya git
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Sayfaları İncele
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Bir sonraki sayfaya git
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Son sayfaya git
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Sayfa
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: {0}
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: Sayfa
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: Sayfa başına ürün

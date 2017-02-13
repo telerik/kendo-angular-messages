@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Přetáhněte sem záhlaví sloupce pro seskupení dle vybraného sloupce.
+
+    # The label visible in the Grid when there are no records
+    noRecords: Žádný záznam nenalezen.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Na první stránku
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Na předchozí stránku
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Na další stránku
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Na poslední stránku
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Strana
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: z
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: záznamů
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: záznamů na stránku

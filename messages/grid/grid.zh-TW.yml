@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: 拖拽列標題到此處按列組合顯示
+
+    # The label visible in the Grid when there are no records
+    noRecords: 
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: 首頁
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: 上一頁
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: 下一頁
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: 末頁
+
+    # The label before the current page number in the Grid pager
+    pagerPage: 頁
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: 共
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: 每頁
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: 每頁
