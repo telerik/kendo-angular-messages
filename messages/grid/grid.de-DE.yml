@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Ziehen Sie eine Spaltenüberschrift hierher, um nach dieser Spalte zu gruppieren
+
+    # The label visible in the Grid when there are no records
+    noRecords: Keine Datensätze verfügbar.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Zur ersten Seite
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Zur vorherigen Seite
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Zur nächsten Seite
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Zur letzten Seite
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Seite
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: von
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: Elemente
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: Elemente pro Seite

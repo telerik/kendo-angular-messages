@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Перетягніть сюди заголовок стовпця, щоб згрупувати записи з цього стовпця
+
+    # The label visible in the Grid when there are no records
+    noRecords: Немає записів доступні.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Повернутися на першу сторінку
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Перейти на попередню сторінку
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Перейдіть на наступну сторінку
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: До останньої сторінки
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Сторінка
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: з
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: елементів
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: елементів на сторінці

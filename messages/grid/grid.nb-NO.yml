@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Dra en kolonne hit for å sortere på den kolonnen
+
+    # The label visible in the Grid when there are no records
+    noRecords: Ingen poster tilgjengelig.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Gå til første side
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Gå til forrige side
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Gå til neste side
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Gå til siste siden
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Side
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: av
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: poster
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: poster per side

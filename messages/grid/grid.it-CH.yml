@@ -1,0 +1,31 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Trascina l'header di una colonna e rilascialo qui per raggruppare secondo tale colonna
+
+    # The label visible in the Grid when there are no records
+    noRecords: Nessun record disponibile.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Vai alla prima pagina
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Vai alla pagina precedente
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Vai alla prossima pagina
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Vai all'ultima pagina
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Pagina
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: di
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: elementi
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: elementi per pagina
