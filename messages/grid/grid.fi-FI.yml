@@ -22,7 +22,7 @@ kendo:
     pagerPage: Sivu
 
     # The label before the total pages number in the Grid pager
-    pagerOf: /
+    pagerOf: of
 
     # The label after the total pages number in the Grid pager
     pagerItems: tulosta

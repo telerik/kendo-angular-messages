@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Træk en kolonneoverskrift herover for at gruppére på den kolonne
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Ingen optegnelser til rådighed.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Gå til første side

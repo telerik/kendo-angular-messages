@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Przeciągnij nagłówek kolumny i upuść go tutaj aby pogrupować według tej kolumny
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Rejestry dostępne.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Idź do pierwszej strony

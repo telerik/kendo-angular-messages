@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: 列ヘッダーをここにドラッグ アンド ドロップして、その列でグループ化
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: 利用可能な記録はありません。
 
     # The label for the first page button in Grid pager
     pagerFirstPage: 最初のページに移動
@@ -22,7 +22,7 @@ kendo:
     pagerPage: ページ
 
     # The label before the total pages number in the Grid pager
-    pagerOf: /
+    pagerOf: の
 
     # The label after the total pages number in the Grid pager
     pagerItems: 項目

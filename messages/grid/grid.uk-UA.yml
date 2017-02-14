@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Перетягніть сюди заголовок стовпця, щоб згрупувати записи з цього стовпця
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Немає записів доступні.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Повернутися на першу сторінку

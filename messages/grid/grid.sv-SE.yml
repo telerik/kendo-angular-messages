@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Dra en kolumnrubrik hit för att sortera på den kolumnen
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Inga uppgifter tillgängliga.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Gå till första sidan

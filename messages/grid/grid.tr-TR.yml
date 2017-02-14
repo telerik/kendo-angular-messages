@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Bir sütun başlığını sürükleyin ve bu sütuna göre gruplandırmak için buraya bırakın
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Kayıt mevcut değil.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: İlk sayfaya git
@@ -22,7 +22,7 @@ kendo:
     pagerPage: Sayfa
 
     # The label before the total pages number in the Grid pager
-    pagerOf: {0}
+    pagerOf: öğeden
 
     # The label after the total pages number in the Grid pager
     pagerItems: Sayfa

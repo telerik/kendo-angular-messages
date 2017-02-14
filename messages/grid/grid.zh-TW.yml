@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: 拖拽列標題到此處按列組合顯示
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: 沒有可用的記錄。
 
     # The label for the first page button in Grid pager
     pagerFirstPage: 首頁

@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Trascina l'header di una colonna e rilascialo qui per raggruppare secondo tale colonna
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Nessun record disponibile.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Vai alla prima pagina

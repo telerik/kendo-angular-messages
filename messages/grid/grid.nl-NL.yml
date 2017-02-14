@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Sleep een kolomtitel in dit vak om de kolom te groeperen.
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Geen verslagen beschikbaar.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Ga naar eerste pagina

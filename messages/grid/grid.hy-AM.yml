@@ -22,7 +22,7 @@ kendo:
     pagerPage: Էջ
 
     # The label before the total pages number in the Grid pager
-    pagerOf: {0}-ից
+    pagerOf: የ
 
     # The label after the total pages number in the Grid pager
     pagerItems: տողերի

@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Trageți un antet de coloană și plasați-l aici pentru a grupa după acea coloană
 
     # The label visible in the Grid when there are no records
-    noRecords: 
+    noRecords: Nu exista inregistrari disponibile.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Prima pagină
