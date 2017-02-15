@@ -1,0 +1,39 @@
+sudo: false
+language: node_js
+cache:
+  directories:
+    - node_modules
+    - typings
+notifications:
+  email: false
+  webhooks:
+    urls:
+      - https://chatops.telerik.com/hooks/WRz8C2rQcmRtJ8WuZ/v8yugPDm9Zne88nJWLBCTgxAsFcDmQoJBYes3qWE2RYtXjXE
+    on_success: change
+    on_failure: always
+    on_start: never
+node_js:
+  - '6'
+env:
+  - CXX=g++-4.8
+addons:
+  apt:
+    sources:
+      - ubuntu-toolchain-r-test
+    packages:
+      - g++-4.8
+before_install:
+  - npm i -g npm@^3.8.0
+  - echo "@progress:registry=https://$PROGRESS_REGISTRY_HOST/" > .npmrc
+  - echo "//$PROGRESS_REGISTRY_HOST/:_authToken=\"$PROGRESS_REGISTRY_TOKEN\"" >> .npmrc
+before_script:
+  - "npm prune"
+  - "npm update"
+script:
+  - npm run lint
+after_success:
+  - npm run semantic-release
+branches:
+  except:
+    - "/^v\\d+\\.\\d+\\.\\d+$/"
+
