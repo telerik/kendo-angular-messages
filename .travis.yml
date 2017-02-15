@@ -27,10 +27,9 @@ before_install:
   - echo "@progress:registry=https://$PROGRESS_REGISTRY_HOST/" > .npmrc
   - echo "//$PROGRESS_REGISTRY_HOST/:_authToken=\"$PROGRESS_REGISTRY_TOKEN\"" >> .npmrc
 before_script:
-  - "npm prune"
-  - "npm update"
+  - npm update
 script:
-  - npm run test
+  - npm run lint
 after_success:
   - npm run semantic-release
 branches:

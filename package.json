@@ -1,10 +1,11 @@
 {
   "name": "@progress/kendo-angular-messages",
   "version": "0.0.0-semantically-released",
-  "description": "Kendo UI for Angular localization messages",
+  "description": "Localization messages - Kendo UI for Angular",
   "main": "index.js",
   "scripts": {
-    "test": "gulp lint"
+    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
+    "lint": "gulp lint"
   },
   "bin": {
     "kendo-translate": "./bin/kendo-translate"
@@ -14,19 +15,47 @@
     "url": "git+https://github.com/telerik/kendo-angular-messages.git"
   },
   "author": "Progress",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "SEE LICENSE IN LICENSE",
   "bugs": {
     "url": "https://github.com/telerik/kendo-angular-messages/issues"
   },
   "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
   "devDependencies": {
+    "cz-conventional-changelog": "1.2.0",
+    "ghooks": "^2.0.0",
     "gulp": "3.9.1",
-    "gulp-yaml-validate": "1.0.2"
+    "gulp-yaml-validate": "1.0.2",
+    "semantic-release": "6.3.2",
+    "validate-commit-msg": "2.11.1"
   },
   "dependencies": {
     "data.task": "^3.1.1",
     "glob": "7.1.1",
     "ramda": "^0.23.0",
     "xlf-translate": "0.1.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    },
+    "ghooks": {
+      "pre-commit": "npm run lint",
+      "commit-msg": "validate-commit-msg"
+    },
+    "validate-commit-msg": {
+      "types": [
+        "feat",
+        "fix",
+        "docs",
+        "style",
+        "refactor",
+        "perf",
+        "test",
+        "chore",
+        "revert"
+      ],
+      "warnOnFail": false,
+      "maxSubjectLength": 100
+    }
   }
 }
