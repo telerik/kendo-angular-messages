@@ -15,16 +15,15 @@ const args = (() => {
     const parser = new argparse.ArgumentParser({
         version: '0.1.0',
         addHelp: true,
-        description: 'kendo-translate populates Kendo UI for Angular messages in application message files'
+        description: 'Populates Kendo UI for Angular messages in i18n message files'
+    });
+
+    parser.addArgument('file', {
+        help: 'XLIFF file to process, e.g. "src/i18n/messages.en.xlf"',
     });
 
     parser.addArgument([ '-l', '--locale' ], {
         help: 'the locale ID, for example "en-US"',
-        required: true
-    });
-
-    parser.addArgument([ '-m', '--messages-file' ], {
-        help: 'messages file to process, for example "src/i18n/messages.en.xlf"',
         required: true
     });
 
@@ -68,7 +67,7 @@ const parseYaml = data => new Task((reject, resolve) => {
 
 // verifyFile :: [FilePath] -> Task Error [FilePath]
 const verifyFile = files => new Task((reject, resolve) => {
-    files.length ? resolve(files) : reject(new Error(`Unable to locate '${args.messages_file}' file`));
+    files.length ? resolve(files) : reject(new Error(`Unable to locate '${args.file}' file`));
 });
 
 // parseXml :: FileContent -> Task XML
@@ -100,7 +99,7 @@ const writeFile = obj => new Task((reject, resolve) => {
     const out = builder.buildObject(obj.data);
 
     try {
-        fs.writeFileSync(args.messages_file, out);
+        fs.writeFileSync(args.file, out);
         resolve(obj.stats);
     } catch(e) {
         reject(e);
@@ -129,7 +128,7 @@ const mergeTranslations = path => translations => R.pipe(
 
 const main = () => {
     translations(langFiles)
-        .chain(mergeTranslations(args.messages_file))
+        .chain(mergeTranslations(args.file))
         .chain(writeFile)
         .fork(console.error, stats => {
             console.info('Done.');

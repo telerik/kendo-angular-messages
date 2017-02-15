@@ -17,10 +17,10 @@ npm install @progress/kendo-angular-messages
 The `kendo-translate` script will look-up translations for the specified locale and this package and populate them in the specified XLIFF (.xlf) file.
 
 ```
-kendo-translate --messages-file <path> --locale <locale-id> [--force]
+kendo-translate <file> --locale <locale-id> [--force]
 ```
 
-* `--messages-file`, `-m` the path to the .xlf messages file
+* `file` the path to the .xlf messages file
 * `--locale`, `-l` the locale ID string, e.g. `es-ES`
 * `--force`, `-f` if set will overwrite existing translations (`<target>` elemements)
 
