@@ -25,7 +25,7 @@
     "ghooks": "^2.0.0",
     "gulp": "3.9.1",
     "gulp-yaml-validate": "1.0.2",
-    "semantic-release": "6.3.2",
+    "semantic-release": "^4.0.0",
     "validate-commit-msg": "2.11.1"
   },
   "dependencies": {
