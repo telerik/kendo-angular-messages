@@ -57,5 +57,8 @@
       "warnOnFail": false,
       "maxSubjectLength": 100
     }
+  },
+  "publishConfig": {
+    "registry": "https://registry.npm.telerik.com"
   }
 }
