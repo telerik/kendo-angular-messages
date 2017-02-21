@@ -1,0 +1,37 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: Peruuta
+
+    # The text for the Clear button
+    clearSelectedFiles: Clear
+
+    # The drop zone hint
+    dropFilesHere: pudota tiedostot tähän ladataksesi palvelimeen
+
+    # The header status message after file upload completion
+    headerStatusUploaded: Valmis
+
+    # The header status message during file upload
+    headerStatusUploading: Ladataan...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: File type not allowed.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: File size too large.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: File size too small.
+
+    # The text for the Remove button
+    remove: Poista
+
+    # The text for the Retry button
+    retry: Yritä uudelleen
+
+    # The text for the Select button
+    select: Valitse tiedostoja...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: Lataa tiedostot palvelimeen

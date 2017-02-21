@@ -1,0 +1,37 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: Դադարեցնել ներբեռնումը
+
+    # The text for the Clear button
+    clearSelectedFiles: Clear
+
+    # The drop zone hint
+    dropFilesHere: Ներբեռնելու համար քաշեք ֆայլերը այստեղ
+
+    # The header status message after file upload completion
+    headerStatusUploaded: Կատարված է
+
+    # The header status message during file upload
+    headerStatusUploading: Բեռնվում է...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: File type not allowed.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: File size too large.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: File size too small.
+
+    # The text for the Remove button
+    remove: Հեռացնել
+
+    # The text for the Retry button
+    retry: Կրկնել
+
+    # The text for the Select button
+    select: Ընտրել...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: Ներբեռնել ընտրված ֆայլերը
