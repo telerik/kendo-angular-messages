@@ -1,0 +1,37 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: בטל
+
+    # The text for the Clear button
+    clearSelectedFiles: Clear
+
+    # The drop zone hint
+    dropFilesHere: גרור קבצים לכאן כדי להעלות
+
+    # The header status message after file upload completion
+    headerStatusUploaded: בוצע
+
+    # The header status message during file upload
+    headerStatusUploading: מעלה קבצים
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: File type not allowed.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: File size too large.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: File size too small.
+
+    # The text for the Remove button
+    remove: הסר
+
+    # The text for the Retry button
+    retry: חזור על הפעולה שוב
+
+    # The text for the Select button
+    select: העלאה
+
+    # The text for the Upload files button
+    uploadSelectedFiles: העלה קבצים שבחרת

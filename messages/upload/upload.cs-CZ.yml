@@ -1,0 +1,37 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: Zrušit
+
+    # The text for the Clear button
+    clearSelectedFiles: Clear
+
+    # The drop zone hint
+    dropFilesHere: Pro nahrání přetáhněte soubory sem
+
+    # The header status message after file upload completion
+    headerStatusUploaded: Hotovo
+
+    # The header status message during file upload
+    headerStatusUploading: Nahrávám...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: File type not allowed.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: File size too large.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: File size too small.
+
+    # The text for the Remove button
+    remove: Smazat
+
+    # The text for the Retry button
+    retry: Zkusit znova
+
+    # The text for the Select button
+    select: Vyberte...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: Nahrát soubory
