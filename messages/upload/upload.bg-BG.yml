@@ -18,6 +18,9 @@ kendo:
     # The text for the invalid allowed extensions restriction message
     invalidFileExtension: Този тип файл не е разрешен.
 
+    # The text for the invalid files message
+    invalidFiles: Невалидни файлове. Моля проверете критериите за качване.
+
     # The text for the invalid max file size restriction message
     invalidMaxFileSize: Размерът на файла е твърде голям.
 
