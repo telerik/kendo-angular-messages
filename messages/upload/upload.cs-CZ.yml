@@ -18,6 +18,9 @@ kendo:
     # The text for the invalid allowed extensions restriction message
     invalidFileExtension: File type not allowed.
 
+    # The text for the invalid files message
+    invalidFiles: Invalid file(s). Please check file upload requirements.
+
     # The text for the invalid max file size restriction message
     invalidMaxFileSize: File size too large.
 
