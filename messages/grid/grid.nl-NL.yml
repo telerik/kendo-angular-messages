@@ -29,3 +29,46 @@ kendo:
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: items per pagina
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Is gelijk aan
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Is ongelijk aan
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: is niets
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: is niet nul
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: is leeg
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: is niet leeg
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Begint met
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Bevat
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Bevat niet
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Eindigt op
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: Is groter of gelijk aan
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: Is groter dan
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: Is kleiner of gelijk aan
+
+    # The text of the "less than" filter operator
+    filterLtOperator: Is kleiner of gelijk aan
+

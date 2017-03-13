@@ -29,3 +29,46 @@ kendo:
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: záznamov na stranu
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Je
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Nie je
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: Je null
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: Nie je null
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: Je prázdne
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: Nie je prázdne
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Začína s
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Obsahuje
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Neobsahuje
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Končí s
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: Je väčšie alebo sa rovná
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: Je väčšie ako
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: Je menšie alebo sa rovná
+
+    # The text of the "less than" filter operator
+    filterLtOperator: Je menšie alebo sa rovná
+
