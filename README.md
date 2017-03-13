@@ -1,29 +1,36 @@
-# Kendo UI for Angular Localized Messages
+# Kendo UI for Angular: Localized Messages
 
-This repository contains translated messages for Kendo UI for Angular components. It also includes an utility to populate these messages in application message files in the XLIFF format.
+* [Overview](https://github.com/telerik/kendo-angular-messages#overview)
+* [Basic Usage](https://github.com/telerik/kendo-angular-messages#basic-usage)
+* [Installation](https://github.com/telerik/kendo-angular-messages#installation)
+* [Building](https://github.com/telerik/kendo-angular-messages#building)
 
-See the [Localizing Messages](http://www.telerik.com/kendo-angular-ui/compontents/localization) help topic for more details.
+## Overview
 
-## Installation
+This repository contains translated messages for Kendo UI components for Angular 2.
 
-The `@progress/kendo-angular-messages` package is available as a scoped registry. Follow the instructions in the [Getting Started](http://www.telerik.com/kendo-angular-ui/getting-started/) help topic on how to set up access to the registry.
+It also includes a utility to populate these messages in application message files in an XLIFF format. For more details, refer to the article on [localization of messages](http://www.telerik.com/kendo-angular-ui/compontents/localization).
 
-```
-npm install @progress/kendo-angular-messages
-```
+## Basic Usage
 
-## Usage
-
-The `kendo-translate` script will look-up translations for the specified locale and this package and populate them in the specified XLIFF (.xlf) file.
+The `kendo-translate` script looks up translations for the specified locale and the package, and populates them in the specified XLIFF (`.xlf`) file.
 
 ```
 kendo-translate <file> --locale <locale-id> [--force]
 ```
 
-* `file` the path to the .xlf messages file
-* `--locale`, `-l` the locale ID string, e.g. `es-ES`
-* `--force`, `-f` if set will overwrite existing translations (`<target>` elemements)
+* `file`&mdash;The path to the `.xlf` message file.
+* `--locale`, `-l`&mdash;The locale ID string. For example, `es-ES`.
+* `--force`, `-f`&mdash;If set, it overwrites the existing translations (`<target>` elements).
+
+## Installation
+
+The `@progress/kendo-angular-messages` package is available as a scoped registry. To set up access to the registry, follow the instructions in the article on [getting started](http://www.telerik.com/kendo-angular-ui/getting-started/).
+
+```
+npm install @progress/kendo-angular-messages
+```
 
 ## Building
 
-You can build the package from this repository by running `npm pack`.
+To build the package from this repository, run the `npm pack` command.
