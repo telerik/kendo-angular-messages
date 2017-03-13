@@ -29,3 +29,46 @@ kendo:
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: elemente per pagină
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Egal cu
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Diferit de
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: este nul
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: nu este nul
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: este gol
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: nu este gol
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Începe cu
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Conține
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Nu conține
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Se termină cu
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: Mai mare sau egal cu
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: Mai mare decât
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: Mai mic sau egal cu
+
+    # The text of the "less than" filter operator
+    filterLtOperator: Mai mic sau egal cu
+
