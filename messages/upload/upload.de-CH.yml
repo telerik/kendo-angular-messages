@@ -4,7 +4,7 @@ kendo:
     cancel: Beenden
 
     # The text for the Clear button
-    clearSelectedFiles: Clear
+    clearSelectedFiles: Entfernen
 
     # The drop zone hint
     dropFilesHere: Dateien hierhin ziehen zum Hochladen
@@ -16,16 +16,16 @@ kendo:
     headerStatusUploading: Hochladen...
 
     # The text for the invalid allowed extensions restriction message
-    invalidFileExtension: File type not allowed.
+    invalidFileExtension: Dateityp nicht erlaubt.
 
     # The text for the invalid files message
-    invalidFiles: Invalid file(s). Please check file upload requirements.
+    invalidFiles: Ungültige Datei(en). Bitte überprüfe Datei Anforderungen.
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize: File size too large.
+    invalidMaxFileSize: Dateigrösse zu gross.
 
     # The text for the invalid min file size restriction message
-    invalidMinFileSize: File size too small.
+    invalidMinFileSize: Dateigrösse zu klein.
 
     # The text for the Remove button
     remove: Löschen
