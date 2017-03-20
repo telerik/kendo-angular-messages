@@ -72,3 +72,9 @@ kendo:
     # The text of the "less than" filter operator
     filterLtOperator: Je menší nebo rovno
 
+    # The text of the "Is true" filter option
+    filterIsTrue: je pravda
+
+    # The text of the "Is false" filter option
+    filterIsFalse: není pravda
+
