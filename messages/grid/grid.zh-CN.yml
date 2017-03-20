@@ -72,3 +72,9 @@ kendo:
     # The text of the "less than" filter operator
     filterLtOperator: 小于等于
 
+    # The text of the "Is true" filter option
+    filterIsTrue: 为真
+
+    # The text of the "Is false" filter option
+    filterIsFalse: 为假
+

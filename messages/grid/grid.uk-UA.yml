@@ -72,3 +72,9 @@ kendo:
     # The text of the "less than" filter operator
     filterLtOperator: менше або рівними
 
+    # The text of the "Is true" filter option
+    filterIsTrue: істина
+
+    # The text of the "Is false" filter option
+    filterIsFalse: хиба
+
