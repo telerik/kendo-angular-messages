@@ -73,8 +73,10 @@ kendo:
     filterLtOperator: Daha küçük veya eşit
 
     # The text of the "Is true" filter option
-    filterIsTrue: Doğru 
+    filterIsTrue: Doğru
 
     # The text of the "Is false" filter option
     filterIsFalse: Yanlış
 
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Herşey)

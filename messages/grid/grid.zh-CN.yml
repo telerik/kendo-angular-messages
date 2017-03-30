@@ -78,3 +78,5 @@ kendo:
     # The text of the "Is false" filter option
     filterIsFalse: 为假
 
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (所有)
