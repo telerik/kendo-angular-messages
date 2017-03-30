@@ -78,3 +78,5 @@ kendo:
     # The text of the "Is false" filter option
     filterIsFalse: er falskt
 
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Alle)
