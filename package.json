@@ -8,7 +8,7 @@
     "lint": "gulp lint"
   },
   "bin": {
-    "kendo-translate": "./bin/kendo-translate"
+    "kendo-translate": "./bin/kendo-translate.js"
   },
   "repository": {
     "type": "git",
