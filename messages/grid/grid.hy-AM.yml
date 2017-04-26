@@ -29,3 +29,54 @@ kendo:
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: տողերի քանակ էջում
+
+    # The text of the "equal" filter operator
+    filterEqOperator: հավասար է
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: հավասար չէ
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: առոչինչ է
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: է ոչ թե անվավեր
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: դատարկ է
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: դատարկ չէ
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: սկասվում է
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: պարունակում է
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: չի պարունակում
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: ավարտվում է
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: մեծ է կամ հավասար
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: մեծ է
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: փոքր է կամ հավասար
+
+    # The text of the "less than" filter operator
+    filterLtOperator: փոքր է կամ հավասար
+
+    # The text of the "Is true" filter option
+    filterIsTrue: ճիշտ է
+
+    # The text of the "Is false" filter option
+    filterIsFalse: սխալ է
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (բոլորը)

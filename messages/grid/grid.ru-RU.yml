@@ -29,3 +29,54 @@ kendo:
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: элементов на странице
+
+    # The text of the "equal" filter operator
+    filterEqOperator: равно
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: не равно
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: нулевой
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: Не равно null
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: пусто
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: Не пусто
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: начинающимися на
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: содержащими
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: не содержит
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: оканчивается на
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: больше или равно
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: больше
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: меньше или равно
+
+    # The text of the "less than" filter operator
+    filterLtOperator: меньше или равно
+
+    # The text of the "Is true" filter option
+    filterIsTrue: истина
+
+    # The text of the "Is false" filter option
+    filterIsFalse: ложь
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Все)

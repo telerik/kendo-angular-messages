@@ -29,3 +29,54 @@ kendo:
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: 每頁
+
+    # The text of the "equal" filter operator
+    filterEqOperator: 等於
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: 不等於
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: 为null
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: 不为null
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: 是空的
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: 不是空的
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: 開頭為
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: 包含
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: 不包含
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: 結尾為
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: 大於等於
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: 大於
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: 小於等於
+
+    # The text of the "less than" filter operator
+    filterLtOperator: 小於等於
+
+    # The text of the "Is true" filter option
+    filterIsTrue: 為真
+
+    # The text of the "Is false" filter option
+    filterIsFalse: 為假
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (所有)

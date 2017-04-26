@@ -29,3 +29,54 @@ kendo:
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: 項目 (1 ページあたり)
+
+    # The text of the "equal" filter operator
+    filterEqOperator: が次の値と同じ
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: が次の値と異なる
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: ヌル
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: nullではありません
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: 空です
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: 空ではない
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: が次で始まる
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: が次を含む
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: が次を含まない
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: が次で終わる
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: が次の値以上
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: が次の値より大きい
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: が次の値以下
+
+    # The text of the "less than" filter operator
+    filterLtOperator: が次の値以下
+
+    # The text of the "Is true" filter option
+    filterIsTrue: 真である
+
+    # The text of the "Is false" filter option
+    filterIsFalse: 偽である
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (すべて)

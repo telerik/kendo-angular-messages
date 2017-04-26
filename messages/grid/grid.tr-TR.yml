@@ -22,10 +22,61 @@ kendo:
     pagerPage: Sayfa
 
     # The label before the total pages number in the Grid pager
-    pagerOf: öğeden
+    pagerOf: {0}
 
     # The label after the total pages number in the Grid pager
     pagerItems: Sayfa
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: Sayfa başına ürün
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Eşittir
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Eşit değildir
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: Boştur
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: Boş değil
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: boş
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: boş değil
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: İle başlar
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: İçeriyor
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: İçermiyor
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: İle biter
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: Daha büyük veya eşittir
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: Büyüktür
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: Daha küçük veya eşit
+
+    # The text of the "less than" filter operator
+    filterLtOperator: Daha küçük veya eşit
+
+    # The text of the "Is true" filter option
+    filterIsTrue: Doğru
+
+    # The text of the "Is false" filter option
+    filterIsFalse: Yanlış
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Herşey)
