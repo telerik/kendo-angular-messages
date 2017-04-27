@@ -80,3 +80,16 @@ kendo:
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (Herşey)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: Sonra ya da eşit
+
+    # The text of the after date filter operator
+    filterAfterOperator: Sonra
+
+    # The text of the before date filter operator
+    filterBeforeOperator: Önce
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: Önce ya da eşit
+
