@@ -80,3 +80,16 @@ kendo:
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (את כל)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: אחרי או שווה ל
+
+    # The text of the after date filter operator
+    filterAfterOperator: אחרי
+
+    # The text of the before date filter operator
+    filterBeforeOperator: לפני
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: לפני או שווה ל
+

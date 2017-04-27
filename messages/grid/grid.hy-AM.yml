@@ -80,3 +80,16 @@ kendo:
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (բոլորը)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: մեծ է կամ հավասար
+
+    # The text of the after date filter operator
+    filterAfterOperator: մեծ է
+
+    # The text of the before date filter operator
+    filterBeforeOperator: փոքր է
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: փոքր է կամ հավասար
+
