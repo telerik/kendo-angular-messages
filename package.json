@@ -21,18 +21,20 @@
   },
   "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
   "devDependencies": {
-    "cz-conventional-changelog": "1.2.0",
+    "cz-conventional-changelog": "^1.2.0",
     "ghooks": "^2.0.0",
-    "gulp": "3.9.1",
-    "gulp-yaml-validate": "1.0.2",
+    "gulp": "^3.9.1",
+    "gulp-yaml-validate": "^1.0.2",
     "semantic-release": "^4.0.0",
-    "validate-commit-msg": "2.11.1"
+    "validate-commit-msg": "^2.11.1"
   },
   "dependencies": {
+    "cheerio": "^0.22.0",
     "data.task": "^3.1.1",
     "glob": "7.1.1",
+    "js-yaml": "^3.7.0",
     "ramda": "^0.23.0",
-    "xlf-translate": "^1.0.0"
+    "xlf-translate": "^2.0.0"
   },
   "config": {
     "commitizen": {

@@ -1,11 +1,11 @@
 #!/usr/bin/env node
 'use strict';
 
-const glob = require("glob");
+const glob = require('glob');
 const path = require('path');
 const yaml = require('js-yaml');
 const fs = require('fs');
-const xml = require('xml2js');
+const cheerio = require('cheerio');
 const translate = require('xlf-translate');
 const Task = require('data.task');
 const R = require('ramda');
@@ -33,6 +33,11 @@ const args = (() => {
         action: 'storeTrue'
     });
 
+    parser.addArgument([ '-e', '--encoding' ], {
+        help: 'Specifies the message files encoding. Default is "utf-8".',
+        defaultValue: 'utf-8'
+    });
+
     return parser.parseArgs();
 })();
 
@@ -53,7 +58,7 @@ const findFiles = wildcard => new Task((reject, resolve) => {
 
 //  readFile :: FilePath -> Task FileContent
 const readFile = filename => new Task((reject, resolve) => {
-    fs.readFile(filename, 'utf8', complete(reject, resolve));
+    fs.readFile(filename, args.encoding, complete(reject, resolve));
 });
 
 // parseYaml :: FileContent -> Task YML
@@ -72,9 +77,8 @@ const verifyFile = files => new Task((reject, resolve) => {
 
 // parseXml :: FileContent -> Task XML
 const parseXml = data => new Task((reject, resolve) => {
-    const parser = new xml.Parser();
-
-    parser.parseString(data, complete(reject, resolve));
+    const doc = cheerio.load(data, { xmlMode: true, decodeEntities: false })
+    resolve(doc);
 });
 
 // parseYamlFile :: FilePath -> Task YML
@@ -95,8 +99,7 @@ const safeTranslate = R.curry((data, translations) => new Task((reject, resolve)
 
 // writeFile :: (XML, Stats) -> Task Stats
 const writeFile = obj => new Task((reject, resolve) => {
-    const builder = new xml.Builder();
-    const out = builder.buildObject(obj.data);
+    const out = obj.data.html();
 
     try {
         fs.writeFileSync(args.file, out);
