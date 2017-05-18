@@ -1,0 +1,7 @@
+kendo:
+  datepicker:
+    # The label for the today button in the calendar header
+    today: Tänään
+
+    # The label for the toggle button in the datepicker component
+    toggle: Toggle calendar

@@ -80,3 +80,16 @@ kendo:
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (All)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: Is after or equal to
+
+    # The text of the after date filter operator
+    filterAfterOperator: Is after
+
+    # The text of the before date filter operator
+    filterBeforeOperator: Is before
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: Is before or equal to
+

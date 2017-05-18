@@ -80,3 +80,16 @@ kendo:
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (所有)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: 大于等于
+
+    # The text of the after date filter operator
+    filterAfterOperator: 大于
+
+    # The text of the before date filter operator
+    filterBeforeOperator: 小于
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: 小于等于
+

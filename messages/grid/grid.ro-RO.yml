@@ -80,3 +80,16 @@ kendo:
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (Toate)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: După sau egal cu
+
+    # The text of the after date filter operator
+    filterAfterOperator: După
+
+    # The text of the before date filter operator
+    filterBeforeOperator: Înainte de
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: Înainte sau egal cu
+
