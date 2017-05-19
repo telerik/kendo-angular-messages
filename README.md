@@ -7,7 +7,7 @@
 
 ## Overview
 
-This repository contains translated messages for Kendo UI components for Angular 2.
+This repository contains translated messages for Kendo UI components for Angular.
 
 It also includes a utility to populate these messages in application message files in an XLIFF format. For more details, refer to the article on [localization of messages](http://www.telerik.com/kendo-angular-ui/compontents/localization).
 
@@ -35,11 +35,11 @@ npm install @progress/kendo-angular-messages
 
 To build the package from this repository, run the `npm pack` command.
 
-## How to Contribute
+## Contribution
 
-The Kendo UI for Angular message translations are distributed under a permissive [Apache License](https://github.com/telerik/kendo-angular-messages/blob/master/LICENSE.md). We accept contributions that improve the existing translations or add new languages.
+The message translations of Kendo UI for Angular are distributed under a permissive [Apache License](https://github.com/telerik/kendo-angular-messages/blob/master/LICENSE.md). We accept contributions that improve the existing translations or add new ones.
 
-Before contributing to Kendo UI for Angular, please:
+Before contributing to Kendo UI for Angular, please make sure that you:
 
-1. Read and sign the [Kendo UI for Angular Contribution License Agreement](goo.gl/forms/dXc1RaE8le6rVZ0h1), to confirm you've read and acknowledged the legal aspects of your contributions, and
+1. Read and sign the [Kendo UI for Angular Contribution License Agreement (CLA)](goo.gl/forms/dXc1RaE8le6rVZ0h1). The CLA confirms that you acknowledge the legal aspects of your contributions.
 2. Submit a Pull Request.
