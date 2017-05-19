@@ -39,7 +39,7 @@ To build the package from this repository, run the `npm pack` command.
 
 The message translations of Kendo UI for Angular are distributed under a permissive [Apache License](https://github.com/telerik/kendo-angular-messages/blob/master/LICENSE.md). We accept contributions that improve the existing translations or add new ones.
 
-Before contributing to Kendo UI for Angular, please make sure that you:
+Before you pose your suggestions, please make sure that you:
 
 1. Read and sign the [Kendo UI for Angular Contribution License Agreement (CLA)](goo.gl/forms/dXc1RaE8le6rVZ0h1). The CLA confirms that you acknowledge the legal aspects of your contributions.
 2. Submit a Pull Request.
