@@ -34,3 +34,12 @@ npm install @progress/kendo-angular-messages
 ## Building
 
 To build the package from this repository, run the `npm pack` command.
+
+## How to Contribute
+
+The Kendo UI for Angular message translations are distributed under a permissive [Apache License](https://github.com/telerik/kendo-angular-messages/blob/master/LICENSE.md). We accept contributions that improve the existing translations or add new languages.
+
+Before contributing to Kendo UI for Angular, please:
+
+1. Read and sign the [Kendo UI for Angular Contribution License Agreement](goo.gl/forms/dXc1RaE8le6rVZ0h1), to confirm you've read and acknowledged the legal aspects of your contributions, and
+2. Submit a Pull Request.
