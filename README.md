@@ -3,7 +3,7 @@
 * [Overview](https://github.com/telerik/kendo-angular-messages#overview)
 * [Basic Usage](https://github.com/telerik/kendo-angular-messages#basic-usage)
 * [Installation](https://github.com/telerik/kendo-angular-messages#installation)
-* [Building](https://github.com/telerik/kendo-angular-messages#building)
+* [Build](https://github.com/telerik/kendo-angular-messages#build)
 
 ## Overview
 
