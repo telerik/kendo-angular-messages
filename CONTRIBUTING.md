@@ -9,8 +9,8 @@ We accept third-party contributions.
 You can contribute by:
 
 * Submitting bug-fixes.
-* Proposing document or existing code updates.
-* Building up on features and functionalities.  
+* Proposing changes in documentation or updates to existing code.
+* Adding features or missing functionalities.  
 
 ## Steps to Contribute
 
