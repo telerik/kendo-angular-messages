@@ -3,11 +3,11 @@
 * [Overview](https://github.com/telerik/kendo-angular-messages#overview)
 * [Basic Usage](https://github.com/telerik/kendo-angular-messages#basic-usage)
 * [Installation](https://github.com/telerik/kendo-angular-messages#installation)
-* [Building](https://github.com/telerik/kendo-angular-messages#building)
+* [Builds](https://github.com/telerik/kendo-angular-messages#builds)
 
 ## Overview
 
-This repository contains translated messages for Kendo UI components for Angular 2.
+This repository contains translated messages for Kendo UI components for Angular.
 
 It also includes a utility to populate these messages in application message files in an XLIFF format. For more details, refer to the article on [localization of messages](http://www.telerik.com/kendo-angular-ui/compontents/localization).
 
@@ -31,6 +31,6 @@ The `@progress/kendo-angular-messages` package is available as a scoped registry
 npm install @progress/kendo-angular-messages
 ```
 
-## Building
+## Builds
 
 To build the package from this repository, run the `npm pack` command.
