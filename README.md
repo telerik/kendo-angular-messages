@@ -3,7 +3,7 @@
 * [Overview](https://github.com/telerik/kendo-angular-messages#overview)
 * [Basic Usage](https://github.com/telerik/kendo-angular-messages#basic-usage)
 * [Installation](https://github.com/telerik/kendo-angular-messages#installation)
-* [Build](https://github.com/telerik/kendo-angular-messages#build)
+* [Builds](https://github.com/telerik/kendo-angular-messages#builds)
 
 ## Overview
 
@@ -31,6 +31,6 @@ The `@progress/kendo-angular-messages` package is available as a scoped registry
 npm install @progress/kendo-angular-messages
 ```
 
-## Build
+## Builds
 
 To build the package from this repository, run the `npm pack` command.
