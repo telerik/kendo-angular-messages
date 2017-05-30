@@ -4,8 +4,8 @@
   "description": "Localization messages - Kendo UI for Angular",
   "main": "index.js",
   "scripts": {
-    "semantic-release": "semantic-release pre && npm publish && semantic-release post",
-    "lint": "gulp lint"
+    "lint": "gulp lint",
+    "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post"
   },
   "bin": {
     "kendo-translate": "./bin/kendo-translate.js"
@@ -21,11 +21,12 @@
   },
   "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
   "devDependencies": {
+    "@telerik/semantic-prerelease": "^1.0.0",
     "cz-conventional-changelog": "1.2.0",
     "ghooks": "^2.0.0",
     "gulp": "^3.9.1",
     "gulp-yaml-validate": "^1.0.2",
-    "semantic-release": "^4.0.0",
+    "semantic-release": "^6.3.6",
     "validate-commit-msg": "2.11.1"
   },
   "dependencies": {
@@ -62,5 +63,19 @@
   },
   "publishConfig": {
     "registry": "https://registry.npm.telerik.com"
+  },
+  "release": {
+    "debug": false,
+    "branchTags": {
+      "develop": "dev"
+    },
+    "fallbackTags": {
+      "dev": "latest"
+    },
+    "analyzeCommits": "@telerik/semantic-prerelease/analyzeCommits",
+    "generateNotes": "@telerik/semantic-prerelease/generateNotes",
+    "getLastRelease": "@telerik/semantic-prerelease/getLastRelease",
+    "verifyConditions": "@telerik/semantic-prerelease/verifyConditions",
+    "verifyRelease": "@telerik/semantic-prerelease/verifyRelease"
   }
 }
