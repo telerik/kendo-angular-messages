@@ -25,7 +25,7 @@ kendo-translate <file> --locale <locale-id> [--force]
 
 ## Installation
 
-The `@progress/kendo-angular-messages` package is available as a scoped registry. To set up access to the registry, follow the instructions in the article on [getting started](http://www.telerik.com/kendo-angular-ui/getting-started/).
+To install the `@progress/kendo-angular-messages` package, follow the instructions in the article on [getting started](http://www.telerik.com/kendo-angular-ui/getting-started/).
 
 ```
 npm install @progress/kendo-angular-messages
