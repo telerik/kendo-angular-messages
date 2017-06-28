@@ -32,7 +32,8 @@ before_script:
   - npm update
 script:
   - npm run lint
-  - git fetch --unshallow origin refs/heads/master:refs/remotes/origin/master
+  - git fetch --unshallow origin || true
+  - git fetch origin refs/heads/master:refs/remotes/origin/master
 after_success:
   - npm run semantic-release
 branches:
