@@ -1,0 +1,41 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: تراجع
+
+    # The text for the Clear button
+    clearSelectedFiles: المسح
+
+    # The drop zone hint
+    dropFilesHere: اسحب الملفات الى هنا
+
+    # The header status message after file upload completion
+    headerStatusUploaded: تم
+
+    # The header status message during file upload
+    headerStatusUploading: جارى الرفع...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: نوع الملف غير مسموح به.
+
+    # The text for the invalid files message
+    invalidFiles: ملف (ملفات) غير صالح. يرجى التحقق من متطلبات تحميل الملف.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize:حجم الملف كبير جدا.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: حجم الملف صغير جدا.
+
+    # The text for the Remove button
+    remove: إزالة
+
+    # The text for the Retry button
+    retry: إعادة المحاولة
+
+    # The text for the Select button
+    select: اختر الملفات...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: تحميل الملفات
+
