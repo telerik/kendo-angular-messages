@@ -1,7 +1,7 @@
 kendo:
   grid:
     # The label visible in the Grid group panel when it is empty
-    groupPanelEmpty:اسحب رأس عمود واسقطه هنا لتجميعه بهذا العمود
+    groupPanelEmpty: اسحب رأس عمود واسقطه هنا لتجميعه بهذا العمود
 
     # The label visible in the Grid when there are no records
     noRecords: لا توجد عناصر متاحة
