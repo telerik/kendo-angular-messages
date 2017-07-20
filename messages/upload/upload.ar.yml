@@ -22,7 +22,7 @@ kendo:
     invalidFiles: ملف (ملفات) غير صالح. يرجى التحقق من متطلبات تحميل الملف.
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize:حجم الملف كبير جدا.
+    invalidMaxFileSize: حجم الملف كبير جدا.
 
     # The text for the invalid min file size restriction message
     invalidMinFileSize: حجم الملف صغير جدا.
