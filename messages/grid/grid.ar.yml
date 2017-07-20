@@ -1,0 +1,95 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty:اسحب رأس عمود واسقطه هنا لتجميعه بهذا العمود
+
+    # The label visible in the Grid when there are no records
+    noRecords: لا توجد عناصر متاحة
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: انتقل إلى الصفحة الأولى
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: انتقل إلى الصفحة السابقة
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: انتقل إلى الصفحة التالية
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: انتقل إلى الصفحة الأخيرة
+
+    # The label before the current page number in the Grid pager
+    pagerPage: الصفحة
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: من
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: العناصر
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: العناصر لكل صفحة
+
+    # The text of the "equal" filter operator
+    filterEqOperator: يساوي
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: لا يساوي
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: Is null
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: غير فارغ
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: فارغ
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: غير فارغ
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: يبدأ ب 
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: يحتوى
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: لا يحتوي
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: ينتهي ب
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: أكبر من أو يساوي
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: أكبر من
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: أقل من أو يساوي
+
+    # The text of the "less than" filter operator
+    filterLtOperator: أقل من أو يساوي
+
+    # The text of the "Is true" filter option
+    filterIsTrue: صحيح
+
+    # The text of the "Is false" filter option
+    filterIsFalse: غير صحيح
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (الكل)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: هو بعد أو يساوي
+
+    # The text of the after date filter operator
+    filterAfterOperator: هو بعد
+
+    # The text of the before date filter operator
+    filterBeforeOperator: قبل ذلك
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: هو قبل أو يساوي
+
