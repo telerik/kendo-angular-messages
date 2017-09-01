@@ -1,0 +1,7 @@
+kendo:
+  switch:
+    # The title of the **On** button of the Switch
+    on: עַל
+
+    # The title of the **Off** button of the Switch
+    off: כבוי
