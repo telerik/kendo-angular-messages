@@ -1,0 +1,22 @@
+kendo:
+  timepicker:
+    # The text of the Accept button in the popup footer of the TimeList.
+    accept: Встановити
+
+    # The label of the Accept button in the popup footer of the TimeList.
+    acceptLabel: Встановити
+
+    # The text of the Cancel button in the popup footer of the TimeList.
+    cancel: Скасувати
+
+    # The label of the Cancel button in the popup footer of the TimeList.
+    cancelLabel: Скасувати
+
+    # The text of the Now button in the popup header of the TimeList.
+    now: Зараз
+
+    # The label of the Now button in the popup header of the TimeList.
+    nowLabel: Зараз
+
+    # The label for the toggle button in the timepicker component
+    toggle: Переключити список часу

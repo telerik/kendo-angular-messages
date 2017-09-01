@@ -1,0 +1,22 @@
+kendo:
+  timepicker:
+    # The text of the Accept button in the popup footer of the TimeList.
+    accept: Sada
+
+    # The label of the Accept button in the popup footer of the TimeList.
+    acceptLabel: Sada
+
+    # The text of the Cancel button in the popup footer of the TimeList.
+    cancel: Storno
+
+    # The label of the Cancel button in the popup footer of the TimeList.
+    cancelLabel: Storno
+
+    # The text of the Now button in the popup header of the TimeList.
+    now: Teraz
+
+    # The label of the Now button in the popup header of the TimeList.
+    nowLabel: Teraz
+
+    # The label for the toggle button in the timepicker component
+    toggle: Prepínanie časového zoznamu
