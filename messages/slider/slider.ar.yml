@@ -1,0 +1,13 @@
+kendo:
+  slider:
+    # The title of the **Increase** button of the Slider.
+    increment: زيادة القيمة
+
+    # The title of the **Decrease** button of the Slider.
+    decrement: تخفيض القيمة
+
+    #The title of the drag handle of the Slider.
+    dragHandle: drag
+
+
+

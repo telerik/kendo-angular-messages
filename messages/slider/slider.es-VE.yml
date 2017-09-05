@@ -1,0 +1,11 @@
+kendo:
+  slider:
+    # The title of the **Increase** button of the Slider.
+    increment: Incrementar valor
+
+    # The title of the **Decrease** button of the Slider.
+    decrement: Disminuir valor
+
+    #The title of the drag handle of the Slider.
+    dragHandle: drag
+
