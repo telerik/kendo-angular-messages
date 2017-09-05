@@ -1,0 +1,11 @@
+kendo:
+  slider:
+    # The title of the **Increase** button of the Slider.
+    increment: 値を増やす
+
+    # The title of the **Decrease** button of the Slider.
+    decrement: 値を減らす
+
+    #The title of the drag handle of the Slider.
+    dragHandle: drag
+
