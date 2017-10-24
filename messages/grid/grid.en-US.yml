@@ -70,7 +70,7 @@ kendo:
     filterLteOperator: Is less than or equal to
 
     # The text of the "less than" filter operator
-    filterLtOperator: Is less than or equal to
+    filterLtOperator: Is less than
 
     # The text of the "Is true" filter option
     filterIsTrue: is true
