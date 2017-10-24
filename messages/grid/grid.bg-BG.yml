@@ -70,7 +70,7 @@ kendo:
     filterLteOperator: Е по-малко или равно на
 
     # The text of the "less than" filter operator
-    filterLtOperator: Е по-малко или равно на
+    filterLtOperator: Е по-малко от
 
     # The text of the "Is true" filter option
     filterIsTrue: е вярно
