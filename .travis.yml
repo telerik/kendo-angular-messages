@@ -3,31 +3,16 @@ language: node_js
 cache:
   directories:
     - node_modules
-    - typings
 notifications:
   email: false
-  webhooks:
-    urls:
-      - https://chatops.telerik.com/hooks/WRz8C2rQcmRtJ8WuZ/v8yugPDm9Zne88nJWLBCTgxAsFcDmQoJBYes3qWE2RYtXjXE
-    on_success: change
-    on_failure: always
-    on_start: never
 node_js:
-  - '6'
-env:
-  - CXX=g++-4.8
+  - '8'
 addons:
   apt:
     sources:
       - git-core
-      - ubuntu-toolchain-r-test
     packages:
-      - g++-4.8
       - git
-before_install:
-  - npm i -g npm@^5
-before_script:
-  - npm update
 script:
   - npm run lint
   - git fetch --unshallow origin || true
