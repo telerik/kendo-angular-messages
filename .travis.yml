@@ -14,10 +14,6 @@ addons:
       - ubuntu-toolchain-r-test
     packages:
       - git
-before_install:
-  - npm i -g npm@^5
-before_script:
-  - npm update
 script:
   - npm run lint
   - git fetch --unshallow origin || true
