@@ -93,3 +93,9 @@ kendo:
     # The text of the before or equal date filter operator
     filterBeforeOrEqualOperator: до или равна
 
+    # The text of the "filter button"
+    filterFilterButton: фильтровать
+
+    # The text of the "clear filter button"
+    filterClearButton: очистить
+
