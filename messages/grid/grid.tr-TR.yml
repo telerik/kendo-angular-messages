@@ -99,3 +99,9 @@ kendo:
     # The text of the "clear filter button"
     filterClearButton: Temizle
 
+    # The text of the "And" filter logic
+    filterAndLogic: Ve
+
+    # The text of the "Or" filter logic
+    filterOrLogic: ya da
+
