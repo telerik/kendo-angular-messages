@@ -99,3 +99,9 @@ kendo:
     # The text of the "clear filter button"
     filterClearButton: 清除
 
+    # The text of the "And" filter logic
+    filterAndLogic: 并且
+
+    # The text of the "Or" filter logic
+    filterOrLogic: 或
+

@@ -99,3 +99,9 @@ kendo:
     # The text of the "clear filter button"
     filterClearButton: Filter wissen
 
+    # The text of the "And" filter logic
+    filterAndLogic: En
+
+    # The text of the "Or" filter logic
+    filterOrLogic: Of
+
