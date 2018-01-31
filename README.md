@@ -9,7 +9,7 @@
 
 This repository contains translated messages for Kendo UI components for Angular.
 
-It also includes a utility to populate these messages in application message files in an XLIFF format. For more details, refer to the article on [localization of messages](http://www.telerik.com/kendo-angular-ui/compontents/localization).
+It also includes a utility to populate these messages in application message files in an XLIFF format. For more details, refer to the article on [localization of messages](http://www.telerik.com/kendo-angular-ui/components/localization).
 
 ## Basic Usage
 
