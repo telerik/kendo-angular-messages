@@ -1,7 +1,7 @@
 kendo:
   numerictextbox:
     # The label for the **Increment** button title in the NumericTextBox
-    increment: Kasvata arvoa
+    increment: Augmenter la valeur
 
     # The label for the **Decrement** button title in the NumericTextBox
-    decrement: Vähennä arvoa
+    decrement: Diminuer la valeur

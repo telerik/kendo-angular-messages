@@ -1,10 +1,10 @@
 kendo:
   slider:
     # The title of the **Increase** button of the Slider.
-    increment: Kasvata arvoa
+    increment: Augmenter la valeur
 
     # The title of the **Decrease** button of the Slider.
-    decrement: Vähennä arvoa
+    decrement: Diminuer la valeur
 
     #The title of the drag handle of the Slider.
     dragHandle: drag
