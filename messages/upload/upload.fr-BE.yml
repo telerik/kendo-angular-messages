@@ -10,7 +10,7 @@ kendo:
     dropFilesHere: déposer les fichiers à télécharger ici
 
     # The header status message after file upload completion
-    headerStatusUploaded: Téléchargé
+    headerStatusUploaded: Complété
 
     # The header status message during file upload
     headerStatusUploading: Téléchargement...
