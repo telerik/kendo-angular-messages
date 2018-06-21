@@ -105,3 +105,30 @@ kendo:
     # The text of the "Or" filter logic
     filterOrLogic: Alebo
 
+    # The loading text
+    loading: Loading
+
+    # The title of the column menu icon
+    columnMenu: Column Menu
+
+    # The text shown in the column menu for the columns item
+    columns: Columns
+
+    # The text shown in the column menu for the lock item
+    lock: Lock
+
+    # The text shown in the column menu for the unlock item
+    unlock: Unlock
+
+    # The text shown in the column menu for the sort ascending item
+    sortAscending: Sort Ascending
+
+    # The text shown in the column menu for the sort descending item
+    sortDescending: Sort Descending
+
+    # The text shown in the column menu or column chooser for the columns apply button
+    columnsApply: Apply
+
+    # The text shown in the column menu or column chooser for the columns reset button
+    columnsReset: Reset
+
