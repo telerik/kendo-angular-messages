@@ -1,7 +1,7 @@
 kendo:
   numerictextbox:
     # The label for the **Increment** button title in the NumericTextBox
-    increment: Увеличить значение
+    increment: РЈРІРµР»РёС‡РёС‚СЊ Р·РЅР°С‡РµРЅРёРµ
 
     # The label for the **Decrement** button title in the NumericTextBox
-    decrement: Уменьшить значение
+    decrement: РЈРјРµРЅСЊС€РёС‚СЊ Р·РЅР°С‡РµРЅРёРµ
