@@ -1,11 +1,11 @@
 kendo:
   slider:
     # The title of the **Increase** button of the Slider.
-    increment: Aumentar valor
+    increment: Увеличить значение
 
     # The title of the **Decrease** button of the Slider.
-    decrement: Diminuir valor
+    decrement: Уменьшить значение
 
     #The title of the drag handle of the Slider.
-    dragHandle: drag
+    dragHandle: Изменить
 

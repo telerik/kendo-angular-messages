@@ -1,7 +1,7 @@
 kendo:
   datepicker:
     # The label for the today button in the calendar header
-    today: Today
+    today: Сегодня
 
     # The label for the toggle button in the datepicker component
-    toggle: Toggle calendar
+    toggle: Переключить календарь
