@@ -109,32 +109,32 @@ kendo:
     filterOrLogic: или
 
     # The loading text
-    loading: Loading
+    loading: Загрузка
 
     # The label of the sort icon
     sort: Sort
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Меню колонок
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Колонки
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Заблокировать
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Разблокировать
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Сортировать по возрастанию
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Сортировать по убыванию
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Применить
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Сбросить
 

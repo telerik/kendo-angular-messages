@@ -1,7 +1,7 @@
 kendo:
   dateinput:
     # The label for the **Increment** button in the DateInput
-    increment: Aumentar valor
+    increment: Увеличить значение
 
     # The label for the **Decrement** button in the DateInput
-    decrement: Diminuir valor
+    decrement: Уменьшить значение
