@@ -30,6 +30,9 @@ kendo:
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: елементів на сторінці
 
+    # The label of the filter cell or icon
+    filter: Filter
+
     # The text of the "equal" filter operator
     filterEqOperator: рівні
 
@@ -107,6 +110,9 @@ kendo:
 
     # The loading text
     loading: Loading
+
+    # The label of the sort icon
+    sort: Sort
 
     # The title of the column menu icon
     columnMenu: Column Menu
