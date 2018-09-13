@@ -1,7 +1,7 @@
 kendo:
   numerictextbox:
     # The label for the **Increment** button title in the NumericTextBox
-    increment: 値を増やす
+    increment: Verhogen
 
     # The label for the **Decrement** button title in the NumericTextBox
-    decrement: 値を減らす
+    decrement: Verlagen

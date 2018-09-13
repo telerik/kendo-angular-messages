@@ -1,7 +1,7 @@
 kendo:
   dateinput:
     # The label for the **Increment** button in the DateInput
-    increment: 値を増やす
+    increment: Verhogen
 
     # The label for the **Decrement** button in the DateInput
-    decrement: 値を減らす
+    decrement: Verlagen
