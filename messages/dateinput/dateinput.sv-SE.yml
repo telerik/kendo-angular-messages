@@ -4,4 +4,4 @@ kendo:
     increment: Öka värde
 
     # The label for the **Decrement** button in the DateInput
-    decrement: Miska värde
+    decrement: Minska värde
