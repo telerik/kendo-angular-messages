@@ -1,10 +1,10 @@
 kendo:
   slider:
     # The title of the **Increase** button of the Slider.
-    increment: Zvýšiť hodnotu
+    increment: Öka värde
 
     # The title of the **Decrease** button of the Slider.
-    decrement: Znížiť hodnotu
+    decrement: Minska värde
 
     #The title of the drag handle of the Slider.
     dragHandle: drag
