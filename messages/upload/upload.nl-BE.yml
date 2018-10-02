@@ -4,7 +4,7 @@ kendo:
     cancel: Annuleren
 
     # The text for the Clear button
-    clearSelectedFiles: Clear
+    clearSelectedFiles: Verwijderen
 
     # The drop zone hint
     dropFilesHere: Sleep bestanden hier naartoe
@@ -16,16 +16,16 @@ kendo:
     headerStatusUploading: Uploaden...
 
     # The text for the invalid allowed extensions restriction message
-    invalidFileExtension: File type not allowed.
+    invalidFileExtension: Bestandstype niet toegestaan.
 
     # The text for the invalid files message
-    invalidFiles: Invalid file(s). Please check file upload requirements.
+    invalidFiles: Ongeldige bestand(en). Controleer de vereisten voor het uploaden van bestanden.
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize: File size too large.
+    invalidMaxFileSize: Bestandsgrootte te groot.
 
     # The text for the invalid min file size restriction message
-    invalidMinFileSize: File size too small.
+    invalidMinFileSize: Bestandsgrootte te klein.
 
     # The text for the Remove button
     remove: Verwijderen

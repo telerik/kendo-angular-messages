@@ -109,10 +109,10 @@ kendo:
     filterOrLogic: Of
 
     # The loading text
-    loading: Loading
+    loading: Bezig met laden
 
     # The label of the sort icon
-    sort: Sort
+    sort: Sorteren
 
     # The title of the column menu icon
     columnMenu: Column Menu
