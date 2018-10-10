@@ -25,7 +25,7 @@ kendo:
     pagerOf: von
 
     # The label after the total pages number in the Grid pager
-    pagerItems: Elemente
+    pagerItems: Elementen
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: Elemente pro Seite
@@ -34,22 +34,22 @@ kendo:
     filter: Filter
 
     # The text of the "equal" filter operator
-    filterEqOperator: gleich ist
+    filterEqOperator: ist gleich
 
     # The text of the "not equal" filter operator
-    filterNotEqOperator: nicht gleich ist
+    filterNotEqOperator: ist nicht gleich
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Null ist
+    filterIsNullOperator: ist Null
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: nicht Null ist
+    filterIsNotNullOperator: ist nicht Null
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: leer ist
+    filterIsEmptyOperator: ist leer
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: nicht leer ist
+    filterIsNotEmptyOperator: ist nicht leer
 
     # The text of the "starts with" filter operator
     filterStartsWithOperator: beginnt mit
@@ -58,22 +58,22 @@ kendo:
     filterContainsOperator: beinhaltet
 
     # The text of the "does not contain" filter operator
-    filterNotContainsOperator: nicht beinhaltet
+    filterNotContainsOperator: beinhaltet nicht
 
     # The text of the "ends with" filter operator
     filterEndsWithOperator: endet mit
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: grösser als oder gleich ist
+    filterGteOperator: ist größer als oder gleich
 
     # The text of the "greater than" filter operator
-    filterGtOperator: grösser ist als
+    filterGtOperator: ist größer als
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: kleiner als oder gleich ist
+    filterLteOperator: ist kleiner oder gleich als
 
     # The text of the "less than" filter operator
-    filterLtOperator: kleiner als oder gleich ist
+    filterLtOperator: ist kleiner als
 
     # The text of the "Is true" filter option
     filterIsTrue: ist richtig
@@ -85,16 +85,16 @@ kendo:
     filterBooleanAll: (Alle)
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: gleich oder später ist als
+    filterAfterOrEqualOperator: ist gleich oder später als
 
     # The text of the after date filter operator
-    filterAfterOperator: später ist als
+    filterAfterOperator: ist später als
 
     # The text of the before date filter operator
-    filterBeforeOperator: früher ist als
+    filterBeforeOperator: ist früher als
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: früher oder gleich ist
+    filterBeforeOrEqualOperator: ist gleich oder früher als
 
     # The text of the "filter button"
     filterFilterButton: Filtern
@@ -109,32 +109,32 @@ kendo:
     filterOrLogic: oder
 
     # The loading text
-    loading: Loading
+    loading: Laden
 
     # The label of the sort icon
-    sort: Sort
+    sort: Sortieren
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Spaltenmenü
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Spalten
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Sperren
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Entsperren
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Aufsteigend sortieren
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Absteigend sortieren
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Übernehmen
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Zurücksetzen
 
