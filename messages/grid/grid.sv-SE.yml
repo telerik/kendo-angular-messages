@@ -130,7 +130,7 @@ kendo:
     sortAscending: Sortera Stigande
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sortera Sjunkande
+    sortDescending: Sortera Fallande
 
     # The text shown in the column menu or column chooser for the columns apply button
     columnsApply: Tillämpa
