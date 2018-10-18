@@ -1,0 +1,16 @@
+kendo:
+  autocomplete:
+    # The text displayed in the popup when there are no items
+    noDataText: No data found
+
+  combobox:
+    # The text displayed in the popup when there are no items
+    noDataText: No data found
+
+  dropdownlist:
+    # The text displayed in the popup when there are no items
+    noDataText: No data found
+
+  multiselect:
+    # The text displayed in the popup when there are no items
+    noDataText: No data found

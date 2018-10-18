@@ -1,0 +1,16 @@
+kendo:
+  autocomplete:
+    # The text displayed in the popup when there are no items
+    noDataText: Няма данни
+
+  combobox:
+    # The text displayed in the popup when there are no items
+    noDataText: Няма данни
+
+  dropdownlist:
+    # The text displayed in the popup when there are no items
+    noDataText: Няма данни
+
+  multiselect:
+    # The text displayed in the popup when there are no items
+    noDataText: Няма данни
