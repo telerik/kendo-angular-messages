@@ -7,12 +7,6 @@ notifications:
   email: false
 node_js:
   - '8'
-addons:
-  apt:
-    sources:
-      - git-core
-    packages:
-      - git
 script:
   - npm run lint
   - git fetch --unshallow origin || true
