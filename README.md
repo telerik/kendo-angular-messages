@@ -16,7 +16,7 @@ It also includes a utility to populate these messages in application message fil
 The `kendo-translate` script looks up translations for the specified locale and the package, and populates them in the specified XLIFF (`.xlf`) file.
 
 ```
-kendo-translate <file> --locale <locale-id> [--force]
+npx kendo-translate <file> --locale <locale-id> [--force]
 ```
 
 * `file`&mdash;The path to the `.xlf` message file.
