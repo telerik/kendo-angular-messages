@@ -3,14 +3,26 @@ kendo:
     # The text displayed in the popup when there are no items
     noDataText: Няма данни
 
+    # The title of the clear button
+    clearTitle: изчисти
+
   combobox:
     # The text displayed in the popup when there are no items
     noDataText: Няма данни
+
+    # The title of the clear button
+    clearTitle: изчисти
 
   dropdownlist:
     # The text displayed in the popup when there are no items
     noDataText: Няма данни
 
+    # The title of the clear button
+    clearTitle: изчисти
+
   multiselect:
     # The text displayed in the popup when there are no items
     noDataText: Няма данни
+
+    # The title of the clear button
+    clearTitle: изчисти
