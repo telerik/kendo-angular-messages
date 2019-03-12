@@ -3,14 +3,26 @@ kendo:
     # The text displayed in the popup when there are no items
     noDataText: No data found
 
+    # The title of the clear button
+    clearTitle: clear
+
   combobox:
     # The text displayed in the popup when there are no items
     noDataText: No data found
+
+    # The title of the clear button
+    clearTitle: clear
 
   dropdownlist:
     # The text displayed in the popup when there are no items
     noDataText: No data found
 
+    # The title of the clear button
+    clearTitle: clear
+
   multiselect:
     # The text displayed in the popup when there are no items
     noDataText: No data found
+
+    # The title of the clear button
+    clearTitle: clear
