@@ -4,4 +4,4 @@ kendo:
     today: Heute
 
     # The label for the toggle button in the datepicker component
-    toggle: Toggle calendar
+    toggle: Kalender umschalten

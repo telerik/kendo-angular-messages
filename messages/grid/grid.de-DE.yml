@@ -25,7 +25,7 @@ kendo:
     pagerOf: von
 
     # The label after the total pages number in the Grid pager
-    pagerItems: Elementen
+    pagerItems: Elemente
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: Elemente pro Seite
