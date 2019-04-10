@@ -43,7 +43,7 @@ const args = (() => {
 
 const msgRoot = path.resolve(__dirname, '../messages');
 
-const langFiles = `**/*.${args.locale}.yml`;
+const langFiles = `/**/*.${args.locale}.yml`;
 
 const extendAll = R.reduce(R.mergeWith(R.merge), {});
 
