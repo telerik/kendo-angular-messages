@@ -33,7 +33,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "data.task": "^3.1.1",
-    "glob": "7.1.1",
+    "glob": "^7.1.1",
     "js-yaml": "^3.7.0",
     "ramda": "^0.23.0",
     "xlf-translate": "^2.0.0"
