@@ -4,4 +4,4 @@ kendo:
     today: Oggi
 
     # The label for the toggle button in the datepicker component
-    toggle: Toggle calendar
+    toggle: Calendario Toggle
