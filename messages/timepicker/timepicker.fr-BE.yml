@@ -19,4 +19,4 @@ kendo:
     nowLabel: Maintenant
 
     # The label for the toggle button in the timepicker component
-    toggle: Liste de temps de basculement
+    toggle: Afficher le sélecteur

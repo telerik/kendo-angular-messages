@@ -31,7 +31,7 @@ kendo:
     pagerItemsPerPage: articles par page
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtrer
 
     # The text of the "equal" filter operator
     filterEqOperator: Est égal à
@@ -73,7 +73,7 @@ kendo:
     filterLteOperator: Est inférieur ou égal à
 
     # The text of the "less than" filter operator
-    filterLtOperator: Est inférieur ou égal à
+    filterLtOperator: Est inférieur
 
     # The text of the "Is true" filter option
     filterIsTrue: est vrai
@@ -124,17 +124,17 @@ kendo:
     lock: Bloquer
 
     # The text shown in the column menu for the unlock item
-    unlock: Debloquer
+    unlock: Débloquer
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Trier ascendent
+    sortAscending: Tri croissant
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Trier descendent
+    sortDescending: Tri décroissant
 
     # The text shown in the column menu or column chooser for the columns apply button
     columnsApply: Appliquer
 
     # The text shown in the column menu or column chooser for the columns reset button
     columnsReset: Réinitialiser
-    
+
