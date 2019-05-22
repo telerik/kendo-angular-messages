@@ -33,10 +33,13 @@
   "dependencies": {
     "acorn": "^6.1.1",
     "acorn-walk": "^6.1.1",
+    "chalk": "^2.4.2",
     "cheerio": "^0.22.0",
     "data.task": "^3.1.1",
+    "fuzzy-matching": "^0.4.3",
     "glob": "^7.1.1",
-    "js-yaml": "^3.7.0",
+    "js-yaml": "^3.13.1",
+    "prompts": "^2.1.0",
     "ramda": "^0.23.0",
     "xlf-translate": "^2.0.0"
   },

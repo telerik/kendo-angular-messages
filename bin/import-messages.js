@@ -1,10 +1,13 @@
 #!/usr/bin/env node
 
 const path = require('path');
-const yaml = require('js-yaml');
 const fs = require('fs');
 const acorn = require('acorn');
 const walk = require('acorn-walk');
+const yaml = require('js-yaml');
+const FuzzyMatching = require('fuzzy-matching');
+const prompts = require('prompts');
+const chalk = require('chalk');
 
 const args = (() => {
     const argparse = require('argparse');
@@ -14,13 +17,12 @@ const args = (() => {
         description: 'Converts Kendo UI for jQuery message translations to YAML files'
     });
 
-    parser.addArgument('file', {
+    parser.addArgument('jsFile', {
         help: 'Kendo UI for jQuery message file to convert, e.g. "kendo-messages.es-ES.xlf"',
     });
 
-    parser.addArgument([ '-c', '--component' ], {
-        help: 'the component name, for example "scheduler"',
-        required: true
+    parser.addArgument('ymlFile', {
+        help: 'YAML Message file to update, e.g. "messages/scheduler/scheduler.es-ES.yml"',
     });
 
     parser.addArgument([ '-f', '--force' ], {
@@ -37,7 +39,12 @@ const args = (() => {
     return parser.parseArgs();
 })();
 
-const msgRoot = path.resolve(__dirname, '../messages');
+const stats = {
+    translated: 0,
+    missing: 0
+};
+
+const userKeyMap = new Map();
 
 const expressionText = expression => {
     if (expression.type === 'Identifier') {
@@ -56,45 +63,154 @@ const expressionText = expression => {
     return propertyName;
 }
 
-const readObject = (target, expression) => {
+const readMessages = (messages, expression, prefix) => {
     if (expression.type !== 'ObjectExpression') {
         return;
     }
 
     expression.properties.forEach(prop => {
-        const key = prop.key.value;
+        const key = prefix + '.' + prop.key.value;
         const value = prop.value;
 
-        if (!target[key]) {
-            target[key] = {};
-        }
-
         if (value.type === 'ObjectExpression') {
-            readObject(target[key], value);
+            readMessages(messages, value, key);
         } else if (value.type === 'Literal') {
-            target[key] = value.value;
+            messages.set(key, value.value);
         }
     })
 }
 
-const parseFile = () => {
-    const text = fs.readFileSync(args.file, args.encoding);
+const loadMessages = () => {
+    const values = new Map();
+    const text = fs.readFileSync(args.jsFile, args.encoding);
     walk.simple(acorn.parse(text), {
         CallExpression(node) {
             if (node.callee.property && node.callee.property.name === 'extend') {
-                const destination = expressionText(node.arguments[1]);
-                if (destination.toLowerCase().startsWith('kendo.ui.' + args.component.toLowerCase() + '.') &&
-                    destination.toLowerCase().endsWith('messages')) {
+                const destination = expressionText(node.arguments[1]).toLowerCase();
+                if (destination.startsWith('kendo.ui.') && destination.endsWith('messages')) {
                     const data = node.arguments[2];
-                    const messages = { kendo: {} };
-                    const slot = messages.kendo[args.component.toLowerCase()] = {};
-                    readObject(slot, data);
-
-                    console.log(JSON.stringify(messages, null, 2));
+                    const prefix = 'kendo.' + destination.split('.')[2];
+                    readMessages(values, data, prefix);
                 }
             }
         }
     });
+
+    const index = new FuzzyMatching([...values.keys()]);
+    return {
+        index,
+        values
+    };
+};
+
+async function confirmTranslation(options) {
+    const { key, value, matchedKey, matchedValue } = options;
+
+    console.log(
+        chalk.yellow('WARN:'), chalk.bold('Found an approximate match'),
+`
+    ${key}: ${value}
+    ${matchedKey}: ${matchedValue}
+
+`
+    );
+
+    const questions = [{
+        type: 'confirm',
+        name: 'match',
+        message: 'Is this correct?'
+    }];
+
+    const response = await prompts(questions);
+    console.log(response);
 }
 
-parseFile();
+async function translate(lang, messages, prefix, replacements) {
+    for (let key of Object.keys(lang)) {
+        const value = lang[key];
+        const fullKey = prefix + '.' + key;
+        if (typeof value === 'object') {
+            await translate(value, messages, fullKey, replacements);
+        } else if (typeof value === 'string') {
+            const lookup = messages.index.get(fullKey);
+            let translation = null;
+
+            if (lookup.distance > 0.7) {
+                translation = messages.values.get(lookup.value);
+
+                if (lookup.distance < 1) {
+                    translation = await confirmTranslation({
+                        key: fullKey,
+                        value: value,
+                        matchedKey: lookup.value,
+                        matchedValue: translation
+                    });
+                }
+            }
+
+            if (translation) {
+                replacements.set(fullKey, translation);
+                stats.translated++;
+            } else {
+                stats.missing++;
+            }
+        }
+    };
+
+    return replacements;
+};
+
+function locateKey(key, lines) {
+    const parts = key.split('.');
+    let indent = -1;
+
+    let part = parts.shift();
+    let lineNum = 0;
+    for (lineNum = 0; lineNum < lines.length; lineNum++) {
+        const line = lines[lineNum];
+        const trimmed = line.trimStart();
+        if (trimmed.startsWith(part + ':')) {
+            if (parts.length === 0) {
+                return lineNum;
+            }
+
+            const lineIndent = line.length - trimmed.length;
+            if (lineIndent > indent) {
+                indent = lineIndent;
+                part = parts.shift();
+            }
+        }
+    }
+
+    return -1;
+}
+
+async function translateFile() {
+    const ymlText = fs.readFileSync(args.ymlFile, args.encoding);
+    const lang = yaml.safeLoad(ymlText);
+    const messages = loadMessages();
+    const replacements = new Map();
+    await translate(lang.kendo, messages, 'kendo', replacements);
+
+    let ymlLines = ymlText.split('\n');
+    for (let [key, value] of replacements) {
+        let pos = locateKey(key, ymlLines);
+        const delimiter = ymlLines[pos].indexOf(':');
+
+        if (value.startsWith(' ') || value.includes(':')) {
+            value = value.replace(/'/g, "''");
+            value = `'${value}'`;
+        }
+
+        if (delimiter > -1) {
+            ymlLines[pos] = ymlLines[pos].substring(0, delimiter) + ': ' + value;
+        }
+    }
+
+    const output = ymlLines.join('\n');
+    //fs.writeFileSync(args.ymlFile, output, args.encoding);
+
+    console.log(`Completed. ${stats.translated} messages translated, ${stats.missing} messages missing.`);
+}
+
+translateFile();
