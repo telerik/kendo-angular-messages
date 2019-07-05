@@ -103,61 +103,53 @@ const loadMessages = () => {
     };
 };
 
-async function confirmTranslation(options) {
-    const { key, value, matchedKey, matchedValue } = options;
-
-    console.log(
-        chalk.yellow('WARN:'), chalk.bold('Found an approximate match'),
-`
-    ${key}: ${value}
-    ${matchedKey}: ${matchedValue}
-
-`
-    );
-
-    const questions = [{
+async function confirmTranslations(replacements, confirmations) {
+    const questions = confirmations.map(item => ({
         type: 'confirm',
-        name: 'match',
-        message: 'Is this correct?'
-    }];
+        name: item.key,
+        message: chalk.yellow('WARN:') + chalk.bold('Found an approximate match') + chalk.reset() +
+`
+    ${item.key}: ${item.value}
+    ${item.matchedKey}: ${item.matchedValue}
 
-    const response = await prompts(questions);
-    console.log(response);
+`
+    }));
+
+    await prompts(questions, {
+        onSubmit: (prompt, answer) => {
+            console.log(prompt.name, answer);
+        }
+    });
 }
 
-async function translate(lang, messages, prefix, replacements) {
+const ACCEPTABLE_MATCH = 0.7;
+const EXACT_MATCH = 1;
+
+function translate(lang, messages, prefix, replacements, confirmations) {
     for (let key of Object.keys(lang)) {
         const value = lang[key];
         const fullKey = prefix + '.' + key;
         if (typeof value === 'object') {
-            await translate(value, messages, fullKey, replacements);
+            translate(value, messages, fullKey, replacements, confirmations);
         } else if (typeof value === 'string') {
             const lookup = messages.index.get(fullKey);
-            let translation = null;
+            const translation = messages.values.get( lookup.value );
 
-            if (lookup.distance > 0.7) {
-                translation = messages.values.get(lookup.value);
-
-                if (lookup.distance < 1) {
-                    translation = await confirmTranslation({
-                        key: fullKey,
-                        value: value,
-                        matchedKey: lookup.value,
-                        matchedValue: translation
-                    });
-                }
-            }
-
-            if (translation) {
+            if (lookup.distance === EXACT_MATCH) {
                 replacements.set(fullKey, translation);
                 stats.translated++;
+            } else if (lookup.distance > ACCEPTABLE_MATCH) {
+                confirmations.push({
+                    key: fullKey,
+                    value: value,
+                    matchedKey: lookup.value,
+                    matchedValue: translation
+                });
             } else {
                 stats.missing++;
             }
         }
     };
-
-    return replacements;
 };
 
 function locateKey(key, lines) {
@@ -190,7 +182,10 @@ async function translateFile() {
     const lang = yaml.safeLoad(ymlText);
     const messages = loadMessages();
     const replacements = new Map();
-    await translate(lang.kendo, messages, 'kendo', replacements);
+    const confirmations = [];
+    translate(lang.kendo, messages, 'kendo', replacements, confirmations);
+
+    await confirmTranslations(replacements, confirmations);
 
     let ymlLines = ymlText.split('\n');
     for (let [key, value] of replacements) {
