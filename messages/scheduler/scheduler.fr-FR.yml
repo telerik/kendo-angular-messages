@@ -1,0 +1,306 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: jour(s)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: Après
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Finir:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Jamais
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: occurrence(s)
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: Sur
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Une fois par jour
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Une fois par mois
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Jamais
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Une fois par semaine
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Une fois par an
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: Jour
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: mois
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Répéter l''opération sur:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: quatrième
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: dernier
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: second
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: troisième
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Répéter
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: jour
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: jour de la semaine
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: jour de week-end
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: semaine(s)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Répéter l''opération sur:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: année(ans)
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: de
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Répéter l''opération sur:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Agenda
+
+    # The all day text displayed in the day and week views.
+    allDay: toute la journée
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Annuler
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Date
+
+    # The day view title.
+    dayViewTitle: Titre
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Etes-vous sûr de vouloir supprimer cet élément?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Suppression de l'élément
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Voulez-vous supprimer seulement cet évènement ou toute la série?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Suppression de toute la série
+
+    # The delete icon title.
+    deleteTitle: Suppression de l'élément
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Effacer
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Modifier l'occurrence courante
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: Toute la journée
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Description
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: Use separate start and end time zones
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: End timezone
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Titre
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Voulez-vous modifier seulement cet évènement ou toute la série?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Modification de l'élément courant
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Modifier la série
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Evènement
+
+    # The month view title.
+    monthViewTitle: Mois
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: jour(s)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: occurrence(s)
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Une fois par jour
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Une fois par mois
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Jamais
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Une fois par semaine
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Une fois par an
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: Jour
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: mois
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Répéter l''opération sur:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: premier
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: quatrième
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: dernier
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: second
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: troisième
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Répéter
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: jour
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: jour de la semaine
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: semaine(s)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Répéter l''opération sur:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: année(ans)
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Répéter chaque:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Répéter l''opération sur:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Montrer toute la journée
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Montrer les heures ouvrables
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Time
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: Aujourd'hui
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

@@ -1,0 +1,306 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: 日
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: 後
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: '終了:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: なし
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: 回
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: オン
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: 毎日
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: 毎月
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: なし
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: 毎週
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: 毎年
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: 日
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: か月
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: '次のときに繰り返す:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: 4 番目
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: 最後
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: 2 番目
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: 3 番目
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: 繰り返す
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: 日
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: 平日
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: 週末
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: 週間
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: '次のときに繰り返す:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: 年
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: の
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: '次のときに繰り返す:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: 予定
+
+    # The all day text displayed in the day and week views.
+    allDay: すべての日
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: キャンセル
+
+    # The date header text displayed in the agenda view.
+    dateHeader: 日付
+
+    # The day view title.
+    dayViewTitle: タイトル
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Are you sure you want to delete this event?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: イベントを削除
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: このイベントの回のみを削除しますか、それとも系列全体を削除しますか?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: 系列を削除
+
+    # The delete icon title.
+    deleteTitle: イベントを削除
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: 削除
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: 現在の回を編集
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: 終日のイベント
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: 説明
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: 開始と終了で別のタイムゾーンを使用する
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: 終了タイムゾーン
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: タイトル
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: このイベントの回のみを編集しますか、それとも系列全体を編集しますか?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: 定期的な項目を編集
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: 系列を編集
+
+    # The event header text displayed in the agenda view.
+    eventHeader: イベント
+
+    # The month view title.
+    monthViewTitle: 月
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: 日
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: 回
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: 毎日
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: 毎月
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: なし
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: 毎週
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: 毎年
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: 日
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: か月
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: '次のときに繰り返す:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: 最初
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: 4 番目
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: 最後
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: 2 番目
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: 3 番目
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: 繰り返す
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: 日
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: 平日
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: 週間
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: '次のときに繰り返す:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: 年
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: '次の間隔で繰り返す:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: '次のときに繰り返す:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: 24 時間表示
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: 営業時間を表示
+
+    # The time header text displayed in the agenda view.
+    timeHeader: 時間
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: 今日
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

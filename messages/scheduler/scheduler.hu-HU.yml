@@ -1,0 +1,306 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: nap(ok)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: Után
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Vége:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Soha
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: előfordulás(ok)
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: 'Ekkor:'
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Naponta
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Havonta
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Soha
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Hetente
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Évente
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: nap
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: hónap(ok)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Ismételje:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: negyedik
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: utolsó
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: második
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: harmadik
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Ismétlődés
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: nap
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: munkanap
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: pihenőnap
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: hét(ek)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Ismételje:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: év(ek)
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: a(z)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Ismételje:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Naptár
+
+    # The all day text displayed in the day and week views.
+    allDay: egész nap
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Mégse
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Dátum
+
+    # The day view title.
+    dayViewTitle: Cím
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Biztos, hogy törölni akarja az eseményt?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Esemény törlése
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Csak ezt az alkalmat szeretné törölni, vagy az összes ismétlődést?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Összes ismétlődés törlése
+
+    # The delete icon title.
+    deleteTitle: Esemény törlése
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Törlés
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Alkalom szerkesztése
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: Egész napos esemény
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Leírás
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: A kezdés és a befejezés időzónája eltérő
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: Befejezés időzónája
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Cím
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Csak ezt az alkalmat szeretné szerkeszteni, vagy az összes ismétlődést?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Ismétlődő elem szerkesztése
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Összes ismétlődés szerkesztése
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Esemény
+
+    # The month view title.
+    monthViewTitle: Hónap
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: nap(ok)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: előfordulás(ok)
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Naponta
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Havonta
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Soha
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Hetente
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Évente
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: nap
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: hónap(ok)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Ismételje:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: első
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: negyedik
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: utolsó
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: második
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: harmadik
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Ismétlődés
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: nap
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: munkanap
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: hét(ek)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Ismételje:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: év(ek)
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Ismételje minden:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Ismételje:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Teljes nap mutatása
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Munkaórák mutatása
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Idő
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: Ma
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

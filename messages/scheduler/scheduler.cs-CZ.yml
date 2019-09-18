@@ -1,0 +1,306 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: dní
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: Konec po
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Konec:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Nikdy
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: opakování
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: Dne
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Denně
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Měsíčně
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Nikdy
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Týdně
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Ročně
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: Den
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: měsíc(e)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Opakovat v:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: čtvrtý
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: poslední
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: druhý
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: třetí
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Opakování
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: den
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: pracovní den
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: víkend
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: týden(ny)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Opakovat v:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: rok(y)
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: z
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Opakovat v:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Agenda
+
+    # The all day text displayed in the day and week views.
+    allDay: celý den
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Zrušit
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Datum
+
+    # The day view title.
+    dayViewTitle: Nadpis
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Opravdu chcete smazat tuto událost?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Smazat událost
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Chcete smazat jen vybranou událost, nebo i všechna opakování?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Smazat vše
+
+    # The delete icon title.
+    deleteTitle: Smazat událost
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Smazat
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Upravit jen vybranou událost
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: Celodenní
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Popis
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: Různá časové pásma pro začátek a konec
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: Časové pásmo konce
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Nadpis
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Chcete upravit jen vybranou událost, nebo i všechna opakování?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Upravit opakující se událost
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Upravit vše
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Událost
+
+    # The month view title.
+    monthViewTitle: Měsíc
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: dní
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: opakování
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Denně
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Měsíčně
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Nikdy
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Týdně
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Ročně
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: Den
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: měsíc(e)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Opakovat v:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: první
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: čtvrtý
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: poslední
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: druhý
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: třetí
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Opakování
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: den
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: pracovní den
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: týden(ny)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Opakovat v:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: rok(y)
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Opakovat každý:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Opakovat v:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Zobrazit celý den
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Zobrazit pracovní dobu
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Čas
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: Dnes
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+
