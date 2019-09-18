@@ -9,7 +9,7 @@
 
 This repository contains translated messages for Kendo UI components for Angular.
 
-It also includes a utility to populate these messages in application message files in an XLIFF format. For more details, refer to the article on [localization of messages](http://www.telerik.com/kendo-angular-ui/components/localization).
+It also includes a utility to populate these messages in application message files in an XLIFF format. For more details, refer to the article on [Translation of Messages](https://www.telerik.com/kendo-angular-ui/components/globalization/localization/messages/).
 
 ## Basic Usage
 
@@ -25,7 +25,7 @@ npx kendo-translate <file> --locale <locale-id> [--force]
 
 ## Installation
 
-To install the `@progress/kendo-angular-messages` package, follow the instructions in the article on [getting started](http://www.telerik.com/kendo-angular-ui/getting-started/).
+To install the `@progress/kendo-angular-messages` package, follow the instructions in the article on [getting started](https://www.telerik.com/kendo-angular-ui/getting-started/).
 
 ```
 npm install @progress/kendo-angular-messages
