@@ -76,5 +76,5 @@
     "verifyConditions": "@telerik/semantic-prerelease/verifyConditions",
     "verifyRelease": "@telerik/semantic-prerelease/verifyRelease"
   },
-  "files": ["bin", "messages"]
+  "files": ["bin", "messages", "CONTRIBUTING.md"]
 }
