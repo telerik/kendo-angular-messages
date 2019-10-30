@@ -1,6 +1,0 @@
-.travis.yml
-.npmignore
-gulpfile.js
-*.tgz
-/artifacts
-shippable.yml
