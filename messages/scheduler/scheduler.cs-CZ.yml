@@ -101,10 +101,10 @@ kendo:
     allDay: celý den
 
     # The All events text displayed in the timeline views when there is no vertical grouping.
-    allEvents: All events
+    allEvents: Všechny události
 
     # The text of today's date in the header of the Calendar.
-    calendarToday: TODAY
+    calendarToday: DNES
 
     # The text similar to 'Cancel' displayed in scheduler.
     cancel: Zrušit
@@ -113,7 +113,7 @@ kendo:
     dateHeader: Datum
 
     # The day view title.
-    dayViewTitle: Nadpis
+    dayViewTitle: Den
 
     # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
     deleteConfirmation: Opravdu chcete smazat tuto událost?
@@ -122,13 +122,13 @@ kendo:
     deleteDialogTitle: Smazat událost
 
     # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    deleteOccurrence: Smazat vybranou událost
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
-    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+    deleteRecurringConfirmation: Chcete smazat jen vybranou událost, nebo i všechna opakování?
 
     # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
-    deleteRecurringDialogTitle: Chcete smazat jen vybranou událost, nebo i všechna opakování?
+    deleteRecurringDialogTitle: Smazat opakující se událost
 
     # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
     deleteSeries: Smazat vše
@@ -152,10 +152,10 @@ kendo:
     editorEventSeparateTimeZones: Různá časové pásma pro začátek a konec
 
     # The text similar to 'Time Zone' displayed in the scheduler event editor.
-    editorEventTimeZone: Časové pásmo konce
+    editorEventTimeZone: Časové pásmo
 
     # The text similar to 'Event' displayed as title of the scheduler event editor.
-    editorTitle: Nadpis
+    editorTitle: Událost
 
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
     editRecurringConfirmation: Chcete upravit jen vybranou událost, nebo i všechna opakování?
@@ -173,13 +173,13 @@ kendo:
     monthViewTitle: Měsíc
 
     # The multi day view title.
-    multiDayViewTitle: Multi-Day
+    multiDayViewTitle: Více dnů
 
     # The title of the navigation next button.
-    nextTitle: Next
+    nextTitle: Další
 
     # The title of the navigation previous button.
-    previousTitle: Previous
+    previousTitle: Předchozí
 
     # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorDailyInterval: dní
@@ -188,19 +188,19 @@ kendo:
     recurrenceEditorDailyRepeatEvery: 'Opakovat každý:'
 
     # The text similar to 'After' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndAfter: After
+    recurrenceEditorEndAfter: Po
 
     # The text similar to 'End' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndLabel: End
+    recurrenceEditorEndLabel: Konec
 
     # The text similar to 'Never' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndNever: Never
+    recurrenceEditorEndNever: Nikdy
 
     # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorEndOccurrence: opakování
 
     # The text similar to 'On' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndOn: On
+    recurrenceEditorEndOn: Dne
 
     # The text similar to 'Daily' displayed in the scheduler recurrence editor.
     recurrenceEditorFrequenciesDaily: Denně
@@ -287,20 +287,19 @@ kendo:
     timeHeader: Čas
 
     # The timeline month view title.
-    timelineMonthViewTitle: Timeline Month
+    timelineMonthViewTitle: Časová osa měsíce
 
     # The timeline view title.
-    timelineViewTitle: Timeline
+    timelineViewTitle: Časová osa
 
     # The timeline week view title.
-    timelineWeekViewTitle: Timeline Week
+    timelineWeekViewTitle: Časová osa týdne
 
     # The today button text displayed in the navigation.
     today: Dnes
 
     # The week view title.
-    weekViewTitle: Week
+    weekViewTitle: Týden
 
     # The work week view title.
-    workWeekViewTitle: Work Week
-
+    workWeekViewTitle: Pracovní týden
