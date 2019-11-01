@@ -1,0 +1,19 @@
+language: node_js
+
+node_js:
+  - 10
+
+branches:
+  except:
+    - master
+    - develop
+
+env:
+  global:
+    - PATH=$PATH:./node_modules/.bin
+    - secure: 1UqaOdvbIPbTGU4jrnL5lw0CSO5xYgMBIvssmFyWRDBqpYIP/q36mAZJNjt51JB8OV7h/ZEdeZSZc+ehz76QVW0l8TRMvNcJ4TafVlAoGs5F7iH5pW0KjHscJrvLM1eVIERC0AhD1NouYq94Zl73mC6mSUEi/tPVC2HlLkqq+rxSSeL+hSpxhagD/AuwowuZ3Y72wVJaOTqj0Ft/T9KmQ1h9b845k0qEfcFUK9TNiGvUpKF1tT/H+s7ill5K5FT3IcSgpIpfhzkD+OwWXDEthTLRgeNjOebRudbSW4PePMacegEn6Vno+Tm4qJtfsoJvM//fv7DPMIpLgjuLIvSQDA==
+build:
+  # http://docs.shippable.com/ci/shippableyml/#ci
+  ci:
+    - npm install --no-audit --ignore-scripts
+    - npm run lint
