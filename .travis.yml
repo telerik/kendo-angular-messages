@@ -1,0 +1,18 @@
+dist: xenial
+language: node_js
+cache:
+  directories:
+    - node_modules
+notifications:
+  email: false
+node_js:
+  - '8'
+script:
+  - npm run lint
+  - git fetch --unshallow origin || true
+  - git fetch origin refs/heads/master:refs/remotes/origin/master
+after_success:
+  - npm run semantic-release
+branches:
+  except:
+    - "/^v\\d+\\.\\d+\\.\\d+(\\-.*)?$/"
