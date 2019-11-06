@@ -25,10 +25,10 @@ kendo:
     pagerOf: de
 
     # The label after the total pages number in the Grid pager
-    pagerItems: articles
+    pagerItems: éléments
 
     # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: articles par page
+    pagerItemsPerPage: éléments par page
 
     # The label of the filter cell or icon
     filter: Filtrer
@@ -40,10 +40,10 @@ kendo:
     filterNotEqOperator: N’est pas égal à
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Est nul
+    filterIsNullOperator: Est nulle
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: N’est pas nul
+    filterIsNotNullOperator: N’est pas nulle
 
     # The text of the "is empty" filter operator
     filterIsEmptyOperator: Est vide
