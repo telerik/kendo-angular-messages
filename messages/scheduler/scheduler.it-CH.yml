@@ -109,6 +109,9 @@ kendo:
     # The text similar to 'Cancel' displayed in scheduler.
     cancel: Annulla
 
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
     # The date header text displayed in the agenda view.
     dateHeader: Data
 
