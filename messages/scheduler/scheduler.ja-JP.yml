@@ -125,7 +125,7 @@ kendo:
     editorEventEnd: End
 
     # The text similar to 'End Time Zone' displayed in the scheduler event editor.
-    editorEventEnd: End Time Zone
+    editorEventEndTimeZone: End Time Zone
 
     # The date header text displayed in the agenda view.
     dateHeader: 日付
