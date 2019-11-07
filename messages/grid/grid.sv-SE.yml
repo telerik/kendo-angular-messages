@@ -138,3 +138,15 @@ kendo:
     # The text shown in the column menu or column chooser for the columns reset button
     columnsReset: Återställ
 
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
+
