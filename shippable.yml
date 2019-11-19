@@ -3,15 +3,11 @@ language: node_js
 node_js:
   - 10
 
-branches:
-  except:
-    - master
-    - develop
-
 env:
   global:
     - PATH=$PATH:./node_modules/.bin
-    - secure: 1UqaOdvbIPbTGU4jrnL5lw0CSO5xYgMBIvssmFyWRDBqpYIP/q36mAZJNjt51JB8OV7h/ZEdeZSZc+ehz76QVW0l8TRMvNcJ4TafVlAoGs5F7iH5pW0KjHscJrvLM1eVIERC0AhD1NouYq94Zl73mC6mSUEi/tPVC2HlLkqq+rxSSeL+hSpxhagD/AuwowuZ3Y72wVJaOTqj0Ft/T9KmQ1h9b845k0qEfcFUK9TNiGvUpKF1tT/H+s7ill5K5FT3IcSgpIpfhzkD+OwWXDEthTLRgeNjOebRudbSW4PePMacegEn6Vno+Tm4qJtfsoJvM//fv7DPMIpLgjuLIvSQDA==
+    - secure: uW+a9ILOBWyyu0PhcoEjyu1vvfWc1q3rQi7Rj69rLKhg1tia9zEFiLWxY3pTO6TsrgUuH+SD1zzElVppV3kkbwL1FQ4lgACOB+p76y+c2VD+A7StLgNkWnoUSy7YRyMCZRg/7DUsw+oLOvQcUfubZqdLKRLfJca4ebfGD5utc8cfVO7HjqhFN/teFJ/7LDyTNsbpAi0oOzH0UNMyyREoi+o/Qgfqv5ByLPiiJA2bKvxBQs1CeiN4qWPWR21LDrEehLLnZZ7c/5wMh15LlYBPdxGn2pSK+0Yy9V6YrX0YQkqaXLMyOvlp53VfDlWj8LyRV0JZZoVewh9RXxPCbyvKKQ==
+
 build:
   # http://docs.shippable.com/ci/shippableyml/#ci
   ci:
