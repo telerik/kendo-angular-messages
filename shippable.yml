@@ -17,11 +17,6 @@ build:
   ci:
     - npm install --no-audit --ignore-scripts
     - npm run lint
-    - npm run api-check
-    - npm run build-package
-    - npm run test:ci
-    - npm run e2e:ci
-    - npm run e2e_visual:ci --if-present
   on_success:
     - npx ci-semantic-release
 
