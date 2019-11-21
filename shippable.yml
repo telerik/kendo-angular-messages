@@ -28,6 +28,7 @@ jobs:
     type: runSh
     steps:
       - IN: kendo-angular-messages-repo
+        switch: off
       - IN: kendo-angular-messages_ciRepo
         switch: off
       - TASK:
