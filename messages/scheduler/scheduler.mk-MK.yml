@@ -109,6 +109,24 @@ kendo:
     # The text similar to 'Cancel' displayed in scheduler.
     cancel: Откажи
 
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
+    # The text similar to 'Title' displayed in the scheduler event editor.
+    editorEventTitle: Title
+
+    # The text similar to 'Start' displayed in the scheduler event editor.
+    editorEventStart: Start
+
+    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    editorEventStartTimeZone: Start Time Zone
+
+    # The text similar to 'End' displayed in the scheduler event editor.
+    editorEventEnd: End
+
+    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    editorEventEndTimeZone: End Time Zone
+
     # The date header text displayed in the agenda view.
     dateHeader: Датум
 

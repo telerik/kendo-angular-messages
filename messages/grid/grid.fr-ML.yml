@@ -25,10 +25,10 @@ kendo:
     pagerOf: de
 
     # The label after the total pages number in the Grid pager
-    pagerItems: articles
+    pagerItems: éléments
 
     # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: articles par page
+    pagerItemsPerPage: éléments par page
 
     # The label of the filter cell or icon
     filter: Filtrer
@@ -137,4 +137,16 @@ kendo:
 
     # The text shown in the column menu or column chooser for the columns reset button
     columnsReset: Réinitialiser
+
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
 

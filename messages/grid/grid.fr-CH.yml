@@ -25,10 +25,10 @@ kendo:
     pagerOf: de
 
     # The label after the total pages number in the Grid pager
-    pagerItems: articles
+    pagerItems: éléments
 
     # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: articles par page
+    pagerItemsPerPage: éléments par page
 
     # The label of the filter cell or icon
     filter: Filtrer
@@ -40,10 +40,10 @@ kendo:
     filterNotEqOperator: N’est pas égal à
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Est nul
+    filterIsNullOperator: Est nulle
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: N’est pas nul
+    filterIsNotNullOperator: N’est pas nulle
 
     # The text of the "is empty" filter operator
     filterIsEmptyOperator: Est vide
@@ -137,4 +137,16 @@ kendo:
 
     # The text shown in the column menu or column chooser for the columns reset button
     columnsReset: Réinitialiser
+
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
 
