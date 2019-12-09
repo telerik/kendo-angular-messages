@@ -191,7 +191,7 @@ kendo:
     monthViewTitle: Mois
 
     # The multi day view title.
-    multiDayViewTitle: Multi-Day
+    multiDayViewTitle: Multi-Jours
 
     # The title of the navigation next button.
     nextTitle: Prochain
