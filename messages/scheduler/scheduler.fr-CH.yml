@@ -101,31 +101,31 @@ kendo:
     allDay: toute la journée
 
     # The All events text displayed in the timeline views when there is no vertical grouping.
-    allEvents: All events
+    allEvents: Tous les événements
 
     # The text of today's date in the header of the Calendar.
-    calendarToday: TODAY
+    calendarToday: AUJOURD'HUI
 
     # The text similar to 'Cancel' displayed in scheduler.
     cancel: Annuler
 
     # The text similar to 'Save' displayed in scheduler.
-    save: Save
+    save: Sauvegarder
 
     # The text similar to 'Title' displayed in the scheduler event editor.
-    editorEventTitle: Title
+    editorEventTitle: Titre
 
     # The text similar to 'Start' displayed in the scheduler event editor.
-    editorEventStart: Start
+    editorEventStart: Début
 
     # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
-    editorEventStartTimeZone: Start Time Zone
+    editorEventStartTimeZone: Début Zone Horaire
 
     # The text similar to 'End' displayed in the scheduler event editor.
-    editorEventEnd: End
+    editorEventEnd: Fin
 
     # The text similar to 'End Time Zone' displayed in the scheduler event editor.
-    editorEventEndTimeZone: End Time Zone
+    editorEventEndTimeZone: Fin Zone Horaire
 
     # The date header text displayed in the agenda view.
     dateHeader: Date
@@ -140,13 +140,13 @@ kendo:
     deleteDialogTitle: Suppression de l'élément
 
     # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    deleteOccurrence: Suppression l'occurrence courante
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
-    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+    deleteRecurringConfirmation: Voulez-vous supprimer seulement cette occurrence ou toute la série ?
 
     # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
-    deleteRecurringDialogTitle: Voulez-vous supprimer seulement cet évènement ou toute la série?
+    deleteRecurringDialogTitle: Voulez-vous supprimer seulement cet évènement ou toute la série ?
 
     # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
     deleteSeries: Suppression de toute la série
@@ -167,10 +167,10 @@ kendo:
     editorEventDescription: Description
 
     # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
-    editorEventSeparateTimeZones: Use separate start and end time zones
+    editorEventSeparateTimeZones: Utiliser une Zone Horaire de début et de fin différente
 
     # The text similar to 'Time Zone' displayed in the scheduler event editor.
-    editorEventTimeZone: End timezone
+    editorEventTimeZone: Zone Horaire
 
     # The text similar to 'Event' displayed as title of the scheduler event editor.
     editorTitle: Titre
@@ -194,10 +194,10 @@ kendo:
     multiDayViewTitle: Multi-Day
 
     # The title of the navigation next button.
-    nextTitle: Next
+    nextTitle: Prochain
 
     # The title of the navigation previous button.
-    previousTitle: Previous
+    previousTitle: Précédent
 
     # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorDailyInterval: jour(s)
@@ -206,13 +206,13 @@ kendo:
     recurrenceEditorDailyRepeatEvery: 'Répéter chaque:'
 
     # The text similar to 'After' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndAfter: After
+    recurrenceEditorEndAfter: Après
 
     # The text similar to 'End' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndLabel: End
+    recurrenceEditorEndLabel: Fin
 
     # The text similar to 'Never' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndNever: Never
+    recurrenceEditorEndNever: Jamais
 
     # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorEndOccurrence: occurrence(s)
@@ -272,7 +272,7 @@ kendo:
     recurrenceEditorWeekdaysWeekday: jour de la semaine
 
     # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
-    recurrenceEditorWeekdaysWeekendday: Weekend Day
+    recurrenceEditorWeekdaysWeekendday: jour du week-end
 
     # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorWeeklyInterval: semaine(s)
@@ -287,7 +287,7 @@ kendo:
     recurrenceEditorYearlyInterval: année(ans)
 
     # The text similar to 'of' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyOf: of
+    recurrenceEditorYearlyOf: de
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
     recurrenceEditorYearlyRepeatEvery: 'Répéter chaque:'
@@ -302,23 +302,23 @@ kendo:
     showWorkDay: Montrer les heures ouvrables
 
     # The time header text displayed in the agenda view.
-    timeHeader: Time
+    timeHeader: Heure
 
     # The timeline month view title.
-    timelineMonthViewTitle: Timeline Month
+    timelineMonthViewTitle: Mois
 
     # The timeline view title.
-    timelineViewTitle: Timeline
+    timelineViewTitle: Jour
 
     # The timeline week view title.
-    timelineWeekViewTitle: Timeline Week
+    timelineWeekViewTitle: Semaine de travail
 
     # The today button text displayed in the navigation.
     today: Aujourd'hui
 
     # The week view title.
-    weekViewTitle: Week
+    weekViewTitle: Semaine
 
     # The work week view title.
-    workWeekViewTitle: Work Week
+    workWeekViewTitle: Semaine de travail
 
