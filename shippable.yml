@@ -23,9 +23,9 @@ resources:
       versionTemplate:
         sourceName:       telerik/kendo-angular-messages
         branch:           develop
-    - name: shippable-push-public-repos-messages
+    - name: shippable-angular-messages-push
       type: integration
-      integration: shippable-push-public-repos
+      integration: shippable-angular-messages
 jobs:
   - name: kendo-angular-messages-publish_develop_as_latest
     type: runSh
@@ -34,11 +34,11 @@ jobs:
         switch: off
       - IN: kendo-angular-messages_ciRepo
         switch: off
-      - IN: shippable-push-public-repos
+      - IN: shippable-angular-messages-push
         switch: off
       - TASK:
           name: kendo-angular-messages-publish_develop
           script:
-            - ssh-add $SHIPPABLEPUSHPUBLICREPOSMESSAGES_PRIVATE_KEY_PATH
+            - ssh-add $SHIPPABLEANGULARMESSAGESPUSH_PRIVATE_KEY_PATH
             - cd $KENDOANGULARMESSAGESREPO_STATE && git remote set-url --push origin git@github.com:telerik/kendo-angular-messages.git && git checkout master && git pull --rebase
             - npm install @telerik/semantic-prerelease@1 --no-save && npx release-master
