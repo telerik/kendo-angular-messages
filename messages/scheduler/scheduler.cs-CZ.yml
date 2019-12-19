@@ -61,7 +61,7 @@ kendo:
     offsetPositionsThird: třetí
 
     # The text similar to 'Repeat' displayed in the recurrence editor.
-    repeat: Opakování
+    repeat: Opakovat
 
     # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
     weekdaysDay: den
