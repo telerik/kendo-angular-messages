@@ -32,8 +32,6 @@ jobs:
     steps:
       - IN: kendo-angular-messages-repo
         switch: off
-      - IN: kendo-angular-messages_ciRepo
-        switch: off
       - IN: shippable-angular-messages-push
         switch: off
       - TASK:
