@@ -1,0 +1,4 @@
+kendo:
+  dialog:
+    # The label for the close button
+    closeTitle: затвори
