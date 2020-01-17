@@ -1,0 +1,4 @@
+kendo:
+  datetimepicker:
+    # The label for the close button
+    closeTitle: затвори
