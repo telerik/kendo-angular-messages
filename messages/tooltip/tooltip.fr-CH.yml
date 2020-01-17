@@ -1,4 +1,4 @@
 kendo:
-  datetimepicker:
+  tooltip:
     # The label for the close button
     closeTitle: close
