@@ -4,4 +4,4 @@ kendo:
     today: Dnes
 
     # The label for the toggle button in the datepicker component
-    toggle: Toggle calendar
+    toggle: Zobrazit/skrýt kalendář
