@@ -1,16 +1,16 @@
 kendo:
   recurrenceeditor:
     # The text similar to 'day(s)' displayed in the recurrence editor.
-    dailyInterval: dní
+    dailyInterval: den
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    dailyRepeatEvery: 'Opakovat každý:'
+    dailyRepeatEvery: Opakovat každý
 
     # The text similar to 'After' displayed in the recurrence editor.
     endAfter: Konec po
 
     # The text similar to 'End' displayed in the recurrence editor.
-    endLabel: 'Konec:'
+    endLabel: Konec
 
     # The text similar to 'Never' displayed in the recurrence editor.
     endNever: Nikdy
@@ -40,13 +40,13 @@ kendo:
     monthlyDay: Den
 
     # The text similar to 'month(s)' displayed in the recurrence editor.
-    monthlyInterval: měsíc(e)
+    monthlyInterval: měsíc
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    monthlyRepeatEvery: 'Opakovat každý:'
+    monthlyRepeatEvery: Opakovat každý
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    monthlyRepeatOn: 'Opakovat v:'
+    monthlyRepeatOn: Opakovat v
 
     # The text similar to 'Fourth' displayed in the recurrence editor.
     offsetPositionsFourth: čtvrtý
@@ -61,7 +61,7 @@ kendo:
     offsetPositionsThird: třetí
 
     # The text similar to 'Repeat' displayed in the recurrence editor.
-    repeat: Opakování
+    repeat: Opakovat
 
     # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
     weekdaysDay: den
@@ -73,25 +73,25 @@ kendo:
     weekdaysWeekendday: víkend
 
     # The text similar to 'week(s)' displayed in the recurrence editor.
-    weeklyInterval: týden(ny)
+    weeklyInterval: týden
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    weeklyRepeatEvery: 'Opakovat každý:'
+    weeklyRepeatEvery: Opakovat každý
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    weeklyRepeatOn: 'Opakovat v:'
+    weeklyRepeatOn: Opakovat v
 
     # The text similar to 'year(s)' displayed in the recurrence editor.
-    yearlyInterval: rok(y)
+    yearlyInterval: rok
 
     # The text similar to 'of' displayed in the recurrence editor.
     yearlyOf: z
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    yearlyRepeatEvery: 'Opakovat každý:'
+    yearlyRepeatEvery: Opakovat každý
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    yearlyRepeatOn: 'Opakovat v:'
+    yearlyRepeatOn: Opakovat v
 
   scheduler:
     # The agenda view title.
@@ -110,22 +110,22 @@ kendo:
     cancel: Zrušit
 
     # The text similar to 'Save' displayed in scheduler.
-    save: Save
+    save: Uložit
 
     # The text similar to 'Title' displayed in the scheduler event editor.
-    editorEventTitle: Title
+    editorEventTitle: Nadpis
 
     # The text similar to 'Start' displayed in the scheduler event editor.
-    editorEventStart: Start
+    editorEventStart: Začátek
 
     # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
-    editorEventStartTimeZone: Start Time Zone
+    editorEventStartTimeZone: Časová zóna začátku
 
     # The text similar to 'End' displayed in the scheduler event editor.
-    editorEventEnd: End
+    editorEventEnd: Konec
 
     # The text similar to 'End Time Zone' displayed in the scheduler event editor.
-    editorEventEndTimeZone: End Time Zone
+    editorEventEndTimeZone:  Časová zóna konce
 
     # The date header text displayed in the agenda view.
     dateHeader: Datum
@@ -200,10 +200,10 @@ kendo:
     previousTitle: Předchozí
 
     # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
-    recurrenceEditorDailyInterval: dní
+    recurrenceEditorDailyInterval: den
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorDailyRepeatEvery: 'Opakovat každý:'
+    recurrenceEditorDailyRepeatEvery: Opakovat každý
 
     # The text similar to 'After' displayed in the scheduler recurrence editor.
     recurrenceEditorEndAfter: Po
@@ -239,13 +239,13 @@ kendo:
     recurrenceEditorMonthlyDay: Den
 
     # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
-    recurrenceEditorMonthlyInterval: měsíc(e)
+    recurrenceEditorMonthlyInterval: měsíc
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatEvery: 'Opakovat každý:'
+    recurrenceEditorMonthlyRepeatEvery: Opakovat každý
 
     # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatOn: 'Opakovat v:'
+    recurrenceEditorMonthlyRepeatOn: Opakovat v
 
     # The text similar to 'First' displayed in the scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFirst: první
@@ -272,28 +272,28 @@ kendo:
     recurrenceEditorWeekdaysWeekday: pracovní den
 
     # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
-    recurrenceEditorWeekdaysWeekendday: Weekend Day
+    recurrenceEditorWeekdaysWeekendday: víkend
 
     # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
-    recurrenceEditorWeeklyInterval: týden(ny)
+    recurrenceEditorWeeklyInterval: týden
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatEvery: 'Opakovat každý:'
+    recurrenceEditorWeeklyRepeatEvery: Opakovat každý
 
     # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatOn: 'Opakovat v:'
+    recurrenceEditorWeeklyRepeatOn: Opakovat v
 
     # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyInterval: rok(y)
+    recurrenceEditorYearlyInterval: rok
 
     # The text similar to 'of' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyOf: of
+    recurrenceEditorYearlyOf: z
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatEvery: 'Opakovat každý:'
+    recurrenceEditorYearlyRepeatEvery: Opakovat každý
 
     # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatOn: 'Opakovat v:'
+    recurrenceEditorYearlyRepeatOn: Opakovat v
 
     # The text of the show full day button displayed in the footer of the day, week and timeline views.
     showFullDay: Zobrazit celý den
