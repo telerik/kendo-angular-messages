@@ -1,4 +1,4 @@
 kendo:
   tooltip:
-    # The label for the close button
-    closeTitle: затвори
+    # The title for the close button
+    closeTitle: Затвори
