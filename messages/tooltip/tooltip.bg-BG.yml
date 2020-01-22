@@ -1,0 +1,4 @@
+kendo:
+  tooltip:
+    # The title for the close button
+    closeTitle: Затвори

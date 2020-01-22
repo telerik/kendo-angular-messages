@@ -1,10 +1,10 @@
 kendo:
   timepicker:
     # The text of the Accept button in the popup footer of the TimeList.
-    accept: Dát
+    accept: Nastavit
 
     # The label of the Accept button in the popup footer of the TimeList.
-    acceptLabel: Dát
+    acceptLabel: Nastavit
 
     # The text of the Cancel button in the popup footer of the TimeList.
     cancel: Zrušit
@@ -19,4 +19,4 @@ kendo:
     nowLabel: Nyní
 
     # The label for the toggle button in the timepicker component
-    toggle: Otevřít/zavřít načasovat listina
+    toggle: Zobrazit/skrýt výběr času
