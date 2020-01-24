@@ -1,4 +1,4 @@
 kendo:
   dialog:
     # The label for the close button
-    closeTitle: schließen
+    closeTitle: Schließen
