@@ -4,10 +4,10 @@ kendo:
     closeTitle: Schließen
 
     # The title of the restore button
-    restoreTitle: Restore
+    restoreTitle: Wiederherstellen
 
     # The title of the maximize button
-    maximizeTitle: Maximize
+    maximizeTitle: Maximieren
 
     # The title of the minimize button
-    minimizeTitle: Minimize
+    minimizeTitle: Minimieren
