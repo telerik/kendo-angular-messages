@@ -1,0 +1,13 @@
+kendo:
+  window:
+    # The title for the close button
+    closeTitle: Schließen
+
+    # The title of the restore button
+    restoreTitle: Restore
+
+    # The title of the maximize button
+    maximizeTitle: Maximize
+
+    # The title of the minimize button
+    minimizeTitle: Minimize
