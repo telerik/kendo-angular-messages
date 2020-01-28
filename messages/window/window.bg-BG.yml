@@ -1,6 +1,6 @@
 kendo:
   window:
-    # The title for the close button
+    # The title of the close button
     closeTitle: Затвори
 
     # The title of the restore button
