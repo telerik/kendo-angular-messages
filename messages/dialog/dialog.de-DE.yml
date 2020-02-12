@@ -1,0 +1,4 @@
+kendo:
+  dialog:
+    # The title of the close button
+    closeTitle: Schließen
