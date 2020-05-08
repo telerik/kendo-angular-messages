@@ -4,13 +4,13 @@ kendo:
     dailyInterval: jour(s)
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    dailyRepeatEvery: 'Répéter chaque:'
+    dailyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'After' displayed in the recurrence editor.
     endAfter: Après
 
     # The text similar to 'End' displayed in the recurrence editor.
-    endLabel: 'Finir:'
+    endLabel: 'Finir :'
 
     # The text similar to 'Never' displayed in the recurrence editor.
     endNever: Jamais
@@ -19,7 +19,7 @@ kendo:
     endOccurrence: occurrence(s)
 
     # The text similar to 'On' displayed in the recurrence editor.
-    endOn: Sur
+    endOn: Le
 
     # The text similar to 'Daily' displayed in the recurrence editor.
     frequenciesDaily: Une fois par jour
@@ -43,10 +43,10 @@ kendo:
     monthlyInterval: mois
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    monthlyRepeatEvery: 'Répéter chaque:'
+    monthlyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    monthlyRepeatOn: 'Répéter l''opération sur:'
+    monthlyRepeatOn: 'Répéter le :'
 
     # The text similar to 'Fourth' displayed in the recurrence editor.
     offsetPositionsFourth: quatrième
@@ -76,22 +76,22 @@ kendo:
     weeklyInterval: semaine(s)
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    weeklyRepeatEvery: 'Répéter chaque:'
+    weeklyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    weeklyRepeatOn: 'Répéter l''opération sur:'
+    weeklyRepeatOn: 'Répéter le :'
 
     # The text similar to 'year(s)' displayed in the recurrence editor.
-    yearlyInterval: année(ans)
+    yearlyInterval: année(s)
 
     # The text similar to 'of' displayed in the recurrence editor.
     yearlyOf: de
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    yearlyRepeatEvery: 'Répéter chaque:'
+    yearlyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    yearlyRepeatOn: 'Répéter l''opération sur:'
+    yearlyRepeatOn: 'Répéter le :'
 
   scheduler:
     # The agenda view title.
@@ -101,7 +101,7 @@ kendo:
     allDay: toute la journée
 
     # The All events text displayed in the timeline views when there is no vertical grouping.
-    allEvents: Tous les événements
+    allEvents: Tous les évènements
 
     # The text of today's date in the header of the Calendar.
     calendarToday: AUJOURD'HUI
@@ -113,7 +113,7 @@ kendo:
     save: Sauvegarder
 
     # The text similar to 'Title' displayed in the scheduler event editor.
-    editorEventTitle: Titre
+    editorEventTitle: Evènement
 
     # The text similar to 'Start' displayed in the scheduler event editor.
     editorEventStart: Début
@@ -131,16 +131,16 @@ kendo:
     dateHeader: Date
 
     # The day view title.
-    dayViewTitle: Titre
+    dayViewTitle: Jour
 
     # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
-    deleteConfirmation: Etes-vous sûr de vouloir supprimer cet élément?
+    deleteConfirmation: Etes-vous sûr de vouloir supprimer cet évènement ?
 
     # The title of the remove confirmation dialog, similar to 'Delete Event'.
-    deleteDialogTitle: Suppression de l'élément
+    deleteDialogTitle: Suppression de l'évènement'
 
     # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
-    deleteOccurrence: Suppression l'occurrence courante
+    deleteOccurrence: Supprimer l'occurrence courante
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
     deleteRecurringConfirmation: Voulez-vous supprimer seulement cette occurrence ou toute la série ?
@@ -149,13 +149,13 @@ kendo:
     deleteRecurringDialogTitle: Voulez-vous supprimer seulement cet évènement ou toute la série ?
 
     # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
-    deleteSeries: Suppression de toute la série
+    deleteSeries: Supprimer la série
 
     # The delete icon title.
-    deleteTitle: Suppression de l'élément
+    deleteTitle: Suppression de l'évènement
 
     # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
-    destroy: Effacer
+    destroy: Supprimer
 
     # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
     editOccurrence: Modifier l'occurrence courante
@@ -173,7 +173,7 @@ kendo:
     editorEventTimeZone: Zone Horaire
 
     # The text similar to 'Event' displayed as title of the scheduler event editor.
-    editorTitle: Titre
+    editorTitle: Evènement
 
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
     editRecurringConfirmation: Voulez-vous modifier seulement cet évènement ou toute la série?
@@ -203,7 +203,7 @@ kendo:
     recurrenceEditorDailyInterval: jour(s)
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorDailyRepeatEvery: 'Répéter chaque:'
+    recurrenceEditorDailyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'After' displayed in the scheduler recurrence editor.
     recurrenceEditorEndAfter: Après
@@ -218,7 +218,7 @@ kendo:
     recurrenceEditorEndOccurrence: occurrence(s)
 
     # The text similar to 'On' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndOn: On
+    recurrenceEditorEndOn: Le
 
     # The text similar to 'Daily' displayed in the scheduler recurrence editor.
     recurrenceEditorFrequenciesDaily: Une fois par jour
@@ -242,10 +242,10 @@ kendo:
     recurrenceEditorMonthlyInterval: mois
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatEvery: 'Répéter chaque:'
+    recurrenceEditorMonthlyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatOn: 'Répéter l''opération sur:'
+    recurrenceEditorMonthlyRepeatOn: 'Répéter le :'
 
     # The text similar to 'First' displayed in the scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFirst: premier
@@ -278,22 +278,22 @@ kendo:
     recurrenceEditorWeeklyInterval: semaine(s)
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatEvery: 'Répéter chaque:'
+    recurrenceEditorWeeklyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatOn: 'Répéter l''opération sur:'
+    recurrenceEditorWeeklyRepeatOn: 'Répéter le :'
 
     # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyInterval: année(ans)
+    recurrenceEditorYearlyInterval: année(s)
 
     # The text similar to 'of' displayed in the scheduler recurrence editor.
     recurrenceEditorYearlyOf: de
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatEvery: 'Répéter chaque:'
+    recurrenceEditorYearlyRepeatEvery: 'Répéter chaque :'
 
     # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatOn: 'Répéter l''opération sur:'
+    recurrenceEditorYearlyRepeatOn: 'Répéter le :'
 
     # The text of the show full day button displayed in the footer of the day, week and timeline views.
     showFullDay: Montrer toute la journée
