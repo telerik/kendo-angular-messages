@@ -1,0 +1,152 @@
+kendo:
+  treelist:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Ziehen Sie eine Spaltenüberschrift hierher, um nach dieser Spalte zu gruppieren
+
+    # The label visible in the Grid when there are no records
+    noRecords: Keine Datensätze verfügbar.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Zur ersten Seite
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Zur vorherigen Seite
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Zur nächsten Seite
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Zur letzten Seite
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Seite
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: von
+
+    # The label after the total items count in the TreeList pager
+    pagerItemsTotal: Elementen
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: Elemente pro Seite
+
+    # The label of the filter cell or icon
+    filter: Filter
+
+    # The text of the "equal" filter operator
+    filterEqOperator: ist gleich
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: ist nicht gleich
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: ist Null
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: ist nicht Null
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: ist leer
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: ist nicht leer
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: beginnt mit
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: beinhaltet
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: beinhaltet nicht
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: endet mit
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: ist größer als oder gleich
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: ist größer als
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: ist kleiner oder gleich als
+
+    # The text of the "less than" filter operator
+    filterLtOperator: ist kleiner als
+
+    # The text of the "Is true" filter option
+    filterIsTrue: ist richtig
+
+    # The text of the "Is false" filter option
+    filterIsFalse: ist falsch
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Alle)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: ist gleich oder später als
+
+    # The text of the after date filter operator
+    filterAfterOperator: ist später als
+
+    # The text of the before date filter operator
+    filterBeforeOperator: ist früher als
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: ist gleich oder früher als
+
+    # The text of the "filter button"
+    filterFilterButton: Filtern
+
+    # The text of the "clear filter button"
+    filterClearButton: Löschen
+
+    # The text of the "And" filter logic
+    filterAndLogic: und
+
+    # The text of the "Or" filter logic
+    filterOrLogic: oder
+
+    # The loading text
+    loading: Laden
+
+    # The label of the sort icon
+    sort: Sortieren
+
+    # The title of the column menu icon
+    columnMenu: Spaltenmenü
+
+    # The text shown in the column menu for the columns item
+    columns: Spalten
+
+    # The text shown in the column menu for the lock item
+    lock: Sperren
+
+    # The text shown in the column menu for the unlock item
+    unlock: Entsperren
+
+    # The text shown in the column menu for the sort ascending item
+    sortAscending: Aufsteigend sortieren
+
+    # The text shown in the column menu for the sort descending item
+    sortDescending: Absteigend sortieren
+
+    # The text shown in the column menu or column chooser for the columns apply button
+    columnsApply: Übernehmen
+
+    # The text shown in the column menu or column chooser for the columns reset button
+    columnsReset: Zurücksetzen
+
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
+
