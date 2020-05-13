@@ -1,0 +1,152 @@
+kendo:
+  treelist:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Sleep een kolomtitel in dit vak om de kolom te groeperen.
+
+    # The label visible in the Grid when there are no records
+    noRecords: Geen verslagen beschikbaar.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Ga naar eerste pagina
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Ga naar vorige pagina
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Ga naar volgende pagina
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Ga naar laatste pagina
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Pagina
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: van
+
+    # The label after the total items count in the TreeList pager
+    pagerItemsTotal: items
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: items per pagina
+
+    # The label of the filter cell or icon
+    filter: Filter
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Is gelijk aan
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Is ongelijk aan
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: is niets
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: is niet nul
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: is leeg
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: is niet leeg
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Begint met
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Bevat
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Bevat niet
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Eindigt op
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: Is groter of gelijk aan
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: Is groter dan
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: Is kleiner of gelijk aan
+
+    # The text of the "less than" filter operator
+    filterLtOperator: Is kleiner of gelijk aan
+
+    # The text of the "Is true" filter option
+    filterIsTrue: is waar
+
+    # The text of the "Is false" filter option
+    filterIsFalse: is niet waar
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Alle)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: Is op of na
+
+    # The text of the after date filter operator
+    filterAfterOperator: Is na
+
+    # The text of the before date filter operator
+    filterBeforeOperator: Is voor
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: Is op of voor
+
+    # The text of the "filter button"
+    filterFilterButton: Filter
+
+    # The text of the "clear filter button"
+    filterClearButton: Filter wissen
+
+    # The text of the "And" filter logic
+    filterAndLogic: En
+
+    # The text of the "Or" filter logic
+    filterOrLogic: Of
+
+    # The loading text
+    loading: Bezig met laden
+
+    # The label of the sort icon
+    sort: Sorteren
+
+    # The title of the column menu icon
+    columnMenu: Column Menu
+
+    # The text shown in the column menu for the columns item
+    columns: Columns
+
+    # The text shown in the column menu for the lock item
+    lock: Lock
+
+    # The text shown in the column menu for the unlock item
+    unlock: Unlock
+
+    # The text shown in the column menu for the sort ascending item
+    sortAscending: Sort Ascending
+
+    # The text shown in the column menu for the sort descending item
+    sortDescending: Sort Descending
+
+    # The text shown in the column menu or column chooser for the columns apply button
+    columnsApply: Apply
+
+    # The text shown in the column menu or column chooser for the columns reset button
+    columnsReset: Reset
+
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
+
