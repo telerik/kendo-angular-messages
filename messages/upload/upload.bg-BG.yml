@@ -7,7 +7,28 @@ kendo:
     clearSelectedFiles: Изчисти файловете
 
     # The drop zone hint
-    dropFilesHere: Преместете с мишката файлове тук за да ги качите
+    dropFilesHere: Преместете с мишката файлове тук, за да ги качите
+
+    # The external drop zone hint
+    externalDropFilesHere: Преместете с мишката файлове тук, за да ги качите
+
+    # The status message for a batch of files
+    filesBatchStatus: файла
+
+    # The status message for a batch of files after failed upload
+    filesBatchStatusFailed: файла не бяха качени успешно.
+
+    # The status message for a batch of files after successful upload
+    filesBatchStatusUploaded: файла бяха качени успешно.
+
+    # The file status message after failed upload
+    fileStatusFailed: Файлът не беше качен успешно.
+
+    # The file status message after successful upload
+    fileStatusUploaded: Файлът беше качен успешно.
+
+    # The header status message when the file upload is paused
+    headerStatusPaused: Пауза
 
     # The header status message after file upload completion
     headerStatusUploaded: Готово
@@ -17,9 +38,6 @@ kendo:
 
     # The text for the invalid allowed extensions restriction message
     invalidFileExtension: Този тип файл не е разрешен.
-
-    # The text for the invalid files message
-    invalidFiles: Невалидни файлове. Моля проверете критериите за качване.
 
     # The text for the invalid max file size restriction message
     invalidMaxFileSize: Размерът на файла е твърде голям.
