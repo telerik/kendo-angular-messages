@@ -1,0 +1,324 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: days(s)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Gentag hver:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: Efter
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Slut:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Aldrig
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: forekomst(er)
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: Den
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Daglig
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Månedlig
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Aldrig
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Ugentlig
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Årlig
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: Dag
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: måned(er)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Gentag hver:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Gentag den:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: fjerde
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: sidste
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: anden
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: tredje
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Gentag
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: dag
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: ugedag
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: weekend dag
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: uge(r)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Gentag hver:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Gentag den:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: år
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Gentag hvert:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Gentag den:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Agenda
+
+    # The all day text displayed in the day and week views.
+    allDay: hele dagen
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Fortryd
+
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
+    # The text similar to 'Title' displayed in the scheduler event editor.
+    editorEventTitle: Title
+
+    # The text similar to 'Start' displayed in the scheduler event editor.
+    editorEventStart: Start
+
+    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    editorEventStartTimeZone: Start Time Zone
+
+    # The text similar to 'End' displayed in the scheduler event editor.
+    editorEventEnd: End
+
+    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    editorEventEndTimeZone: End Time Zone
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Dato
+
+    # The day view title.
+    dayViewTitle: Titel
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Er du sikker på at du vil slette denne begivenhed?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Slet begivenhed
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Vil du kun slette denne hændelse eller hele serien?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Slet hele serien
+
+    # The delete icon title.
+    deleteTitle: Slet begivenhed
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Slet
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Rediger denne hændelse
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: Hele dagen
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Beskrivelse
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: Brug forskellige start og slut tidszoner
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: Slut tidszone
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Titel
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Vil du kun redigere denne hændelse eller hele serien?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Rediger tilbagevendende hændelse
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Rediger hele serien
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Begivenhed
+
+    # The month view title.
+    monthViewTitle: Måned
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: days(s)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Gentag hver:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: forekomst(er)
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Daglig
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Månedlig
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Aldrig
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Ugentlig
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Årlig
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: Dag
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: måned(er)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Gentag hver:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Gentag den:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: første
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: fjerde
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: sidste
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: anden
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: tredje
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Gentag
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: dag
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: ugedag
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: uge(r)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Gentag hver:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Gentag den:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: år
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Gentag hvert:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Gentag den:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Vis hel dag
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Vis arbejdsdag
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Tid
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: I dag
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

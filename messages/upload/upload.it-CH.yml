@@ -18,9 +18,6 @@ kendo:
     # The text for the invalid allowed extensions restriction message
     invalidFileExtension: Tipo di file non consentito.
 
-    # The text for the invalid files message
-    invalidFiles: File non validi. Controllare i requisiti per il caricamento dei file.
-
     # The text for the invalid max file size restriction message
     invalidMaxFileSize: Dimensione file troppo grande.
 
@@ -38,3 +35,24 @@ kendo:
 
     # The text for the Upload files button
     uploadSelectedFiles: Upload dei file selezionati
+
+    # The external drop zone hint
+    externalDropFilesHere: Drag and drop files here to upload
+
+    # The status message for a batch of files
+    filesBatchStatus: files
+
+    # The status message for a batch of files after failed upload
+    filesBatchStatusFailed: files failed to upload.
+
+    # The status message for a batch of files after successful upload
+    filesBatchStatusUploaded: files successfully uploaded.
+
+    # The file status message after failed upload
+    fileStatusFailed: File failed to upload.
+
+    # The file status message after successful upload
+    fileStatusUploaded: File successfully uploaded.
+
+    # The header status message when the file upload is paused
+    headerStatusPaused: Paused

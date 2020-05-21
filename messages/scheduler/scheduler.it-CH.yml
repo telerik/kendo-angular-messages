@@ -1,0 +1,324 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: giorno(i)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: Dopo
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Fine:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Mai
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: Occorrenza(e)
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: Il
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Ogni giorno
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Ogni mese
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Mai
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Ogni settimana
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Ogni anno
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: Giorno
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: mese(i)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Repeti quando::'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: quarto
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: ultimo
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: secondo
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: terzo
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Ripeti
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: giorno
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: giorno della settimana
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: giorno finesettimana
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: settimana(e)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Ripeti quando:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: anno(i)
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: di
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Ripeti quando:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Agenda
+
+    # The all day text displayed in the day and week views.
+    allDay: tutto il giorno
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Annulla
+
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
+    # The text similar to 'Title' displayed in the scheduler event editor.
+    editorEventTitle: Title
+
+    # The text similar to 'Start' displayed in the scheduler event editor.
+    editorEventStart: Start
+
+    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    editorEventStartTimeZone: Start Time Zone
+
+    # The text similar to 'End' displayed in the scheduler event editor.
+    editorEventEnd: End
+
+    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    editorEventEndTimeZone: End Time Zone
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Data
+
+    # The day view title.
+    dayViewTitle: Titolo
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Sicuro di voler rimuovere questo evento?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Rimuovi evento
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Vuoi rimuovere solo questo evento o la serie completa?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Rimuovi la serie
+
+    # The delete icon title.
+    deleteTitle: Rimuovi evento
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Rimuovi
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Modifica l'evento corrente
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: Giornata intera
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Descrizione
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: Usa differenti fusi orari per l'inizio e la fine
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: Fuso orario finale
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Titolo
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Vuoi modifcare solo questo evento o la serie completa?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Modifica elemento ricorrente
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Modifica la serie
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Evento
+
+    # The month view title.
+    monthViewTitle: Mese
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: giorno(i)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: Occorrenza(e)
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Ogni giorno
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Ogni mese
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Mai
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Ogni settimana
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Ogni anno
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: Giorno
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: mese(i)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Repeti quando::'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: primo
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: quarto
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: ultimo
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: secondo
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: terzo
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Ripeti
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: giorno
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: giorno della settimana
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: settimana(e)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Ripeti quando:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: anno(i)
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Ripeti ogni:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Ripeti quando:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Mostra il giorno completo
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Mostra solo le ore lavorative
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Tempo
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: Oggi
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

@@ -25,13 +25,13 @@ kendo:
     pagerOf: de
 
     # The label after the total pages number in the Grid pager
-    pagerItems: articles
+    pagerItems: éléments
 
     # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: articles par page
+    pagerItemsPerPage: éléments par page
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtrer
 
     # The text of the "equal" filter operator
     filterEqOperator: Est égal à
@@ -124,17 +124,29 @@ kendo:
     lock: Bloquer
 
     # The text shown in the column menu for the unlock item
-    unlock: Debloquer
+    unlock: Débloquer
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Trier ascendent
+    sortAscending: Tri croissant
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Trier descendent
+    sortDescending: Tri décroissant
 
     # The text shown in the column menu or column chooser for the columns apply button
     columnsApply: Appliquer
 
     # The text shown in the column menu or column chooser for the columns reset button
     columnsReset: Réinitialiser
+
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
 

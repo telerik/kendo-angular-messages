@@ -1,0 +1,37 @@
+kendo:
+  datetimepicker:
+    # The Date tab text in the datetimepicker popup header
+    dateTab: Date
+
+    # The label for the Date tab in the datetimepicker popup header
+    dateTabLabel: Date tab
+
+    # The Time tab text in the datetimepicker popup header
+    timeTab: Time
+
+    # The label for the Time tab in the datetimepicker popup header
+    timeTabLabel: Time tab
+
+    # The label for the toggle button in the datetimepicker component
+    toggle: Toggle popup
+
+    # The Accept button text in the datetimepicker component
+    accept: Set
+
+    # The label for the Accept button in the datetimepicker component
+    acceptLabel: Set
+
+    # The Cancel button text in the datetimepicker component
+    cancel: Cancel
+
+    # The label for the Cancel button in the datetimepicker component
+    cancelLabel: Cancel
+
+    # The Now button text in the timepicker component
+    now: NOW
+
+    # The label for the Now button in the timepicker component
+    nowLabel: Select now
+
+    # The label for the today button in the calendar header
+    today: TODAY

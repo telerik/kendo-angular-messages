@@ -1,7 +1,7 @@
 kendo:
   switch:
     # The title of the **On** button of the Switch
-    on: Sur
+    on: Activé
 
     # The title of the **Off** button of the Switch
-    off: De
+    off: Désactivé

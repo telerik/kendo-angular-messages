@@ -1,0 +1,324 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: 天
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 週期
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: 重複
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 截止
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: 從不
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: 次後
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: 止於
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: 每天
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: 每月
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: 從不
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: 每週
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: 每年
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: 幾號
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: 月
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 週期
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 重複於
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: 第四
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: 最後一
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: 第二
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: 第三
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: 重複
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: 天
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: 工作日
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: 週末
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: 周
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 週期
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 重複於
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: 年
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: 在
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 週期
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 重複於
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: 列表視圖
+
+    # The all day text displayed in the day and week views.
+    allDay: 全天
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: 取消
+
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
+    # The text similar to 'Title' displayed in the scheduler event editor.
+    editorEventTitle: Title
+
+    # The text similar to 'Start' displayed in the scheduler event editor.
+    editorEventStart: Start
+
+    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    editorEventStartTimeZone: Start Time Zone
+
+    # The text similar to 'End' displayed in the scheduler event editor.
+    editorEventEnd: End
+
+    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    editorEventEndTimeZone: End Time Zone
+
+    # The date header text displayed in the agenda view.
+    dateHeader: 日期
+
+    # The day view title.
+    dayViewTitle: 事件標題
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: 你確定要刪除這個事件嗎？
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: 刪除事件
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: 你想僅刪除當前事件還是整個週期事件？
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: 刪除整個週期事件
+
+    # The delete icon title.
+    deleteTitle: 刪除事件
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: 刪除
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: 編輯當前事件
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: 全天事件
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: 描述
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: 使用獨立的開始和結束時區
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: 結束時區
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: 事件標題
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: 你想僅編輯當前事件還是整個週期事件？
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: 編輯週期類型事件
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: 編輯整個週期事件
+
+    # The event header text displayed in the agenda view.
+    eventHeader: 事件
+
+    # The month view title.
+    monthViewTitle: 月視圖
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: 天
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 週期
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: 次後
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: 每天
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: 每月
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: 從不
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: 每週
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: 每年
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: 幾號
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: 月
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 週期
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 重複於
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: 第一
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: 第四
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: 最後一
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: 第二
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: 第三
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: 重複
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: 天
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: 工作日
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: 周
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 週期
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 重複於
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: 年
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 週期
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 重複於
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: 顯示全天
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: 顯示工作時間
+
+    # The time header text displayed in the agenda view.
+    timeHeader: 時間
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: 今天
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

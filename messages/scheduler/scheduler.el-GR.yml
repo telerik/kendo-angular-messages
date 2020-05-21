@@ -1,0 +1,324 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: μέρα(ες)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: Μετά
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Τέλος:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Ποτέ
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: εμφάνιση(εις)
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: Τον
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Ημερήσια
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Μηνιαία
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Ποτέ
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Εβδομαδιαία
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Ετήσια
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: Ημέρα
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: μήνα(ες)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Επανάληψη τον:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: τέταρο
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: τελευταίο
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: δεύτερο
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: τρίτο
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Επανάληψη
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: ημέρα
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: καθημερινή
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: σαββατοκύριακο
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: εβδομάδα(ες)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Επανάληψη την:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: χρόνο(ια)
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: από
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Επανάληψη το:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Ατζέντα
+
+    # The all day text displayed in the day and week views.
+    allDay: όλη μέρα
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Άκυρο
+
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
+    # The text similar to 'Title' displayed in the scheduler event editor.
+    editorEventTitle: Title
+
+    # The text similar to 'Start' displayed in the scheduler event editor.
+    editorEventStart: Start
+
+    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    editorEventStartTimeZone: Start Time Zone
+
+    # The text similar to 'End' displayed in the scheduler event editor.
+    editorEventEnd: End
+
+    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    editorEventEndTimeZone: End Time Zone
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Ημερομηνία
+
+    # The day view title.
+    dayViewTitle: Τίτλος
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Είστε σίγουροι ότι θέλετε να διαγράψετε το γεγονός;
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Διαγραφή γεγονότος
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Θέλετε να διαγράψετε μόνο αυτό το γεγονός ή ολόκληρη τη σειρά;
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Διαγραφή της σειράς
+
+    # The delete icon title.
+    deleteTitle: Διαγραφή γεγονότος
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Διαγραφή
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Επεξεργασία τρέχουσας εμφάνισης
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: Ολοήμερο γεγονός
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Περιγραφή
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: Χρήση διαφορετικών αρχή-τέλος ζώνη ώρας
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: Τέλος ζώνη ώρας
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Τίτλος
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Θέλετε να επεξεργαστείτε μονο αυτό το γεγονός ή ολόκληρη της σειρά;
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Επεξεργασία επαναλαμβανόμενου αντικειμένου
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Επεξεργασία της σειράς
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Γεγονός
+
+    # The month view title.
+    monthViewTitle: Μήνας
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: μέρα(ες)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: εμφάνιση(εις)
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Ημερήσια
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Μηνιαία
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Ποτέ
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Εβδομαδιαία
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Ετήσια
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: Ημέρα
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: μήνα(ες)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Επανάληψη τον:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: πρώτο
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: τέταρο
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: τελευταίο
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: δεύτερο
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: τρίτο
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Επανάληψη
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: ημέρα
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: καθημερινή
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: εβδομάδα(ες)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Επανάληψη την:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: χρόνο(ια)
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Επανάληψη κάθε:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Επανάληψη το:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Δείξε ολόκληρη ημέρα
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Δείξε εργάσιμες ώρες
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Ώρα
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: Σήμερα
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

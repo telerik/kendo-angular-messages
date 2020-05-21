@@ -1,0 +1,152 @@
+kendo:
+  treelist:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: Vedä sarakeotsikko tähän ryhmitelläksesi sarakkeen perusteella
+
+    # The label visible in the Grid when there are no records
+    noRecords: Ei tietueita.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: Ensimmäinen sivu
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: Edellinen sivu
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: Seuraava sivu
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: Viimeinen sivu
+
+    # The label before the current page number in the Grid pager
+    pagerPage: Sivu
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: of
+
+    # The label after the total items count in the TreeList pager
+    pagerItemsTotal: tulosta
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: tulosta sivulla
+
+    # The label of the filter cell or icon
+    filter: Filter
+
+    # The text of the "equal" filter operator
+    filterEqOperator: On
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Ei ole
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: on nolla
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: ei ole nolla
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: on tyhjä
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: ei ole tyhjä
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Alkaa
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Sisältää
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Ei sisällä
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Loppuu
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: On tasan tai suurempi kuin
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: On suurempi kuin
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: On tasan tai pienempi kuin
+
+    # The text of the "less than" filter operator
+    filterLtOperator: On tasan tai pienempi kuin
+
+    # The text of the "Is true" filter option
+    filterIsTrue: on
+
+    # The text of the "Is false" filter option
+    filterIsFalse: ei ole
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Kaikki)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: On tasan tai myöhempi kuin
+
+    # The text of the after date filter operator
+    filterAfterOperator: On myöhempi kuin
+
+    # The text of the before date filter operator
+    filterBeforeOperator: On aikaisempi kuin
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: On tasan tai aikaisempi kuin
+
+    # The text of the "filter button"
+    filterFilterButton: Suodata
+
+    # The text of the "clear filter button"
+    filterClearButton: Tyhjennä
+
+    # The text of the "And" filter logic
+    filterAndLogic: Ja
+
+    # The text of the "Or" filter logic
+    filterOrLogic: Tai
+
+    # The loading text
+    loading: Loading
+
+    # The label of the sort icon
+    sort: Sort
+
+    # The title of the column menu icon
+    columnMenu: Column Menu
+
+    # The text shown in the column menu for the columns item
+    columns: Columns
+
+    # The text shown in the column menu for the lock item
+    lock: Lock
+
+    # The text shown in the column menu for the unlock item
+    unlock: Unlock
+
+    # The text shown in the column menu for the sort ascending item
+    sortAscending: Sort Ascending
+
+    # The text shown in the column menu for the sort descending item
+    sortDescending: Sort Descending
+
+    # The text shown in the column menu or column chooser for the columns apply button
+    columnsApply: Apply
+
+    # The text shown in the column menu or column chooser for the columns reset button
+    columnsReset: Reset
+
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
+

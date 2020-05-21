@@ -1,0 +1,37 @@
+kendo:
+  datetimepicker:
+    # The Date tab text in the datetimepicker popup header
+    dateTab: Datum
+
+    # The label for the Date tab in the datetimepicker popup header
+    dateTabLabel: Záložka pro nastavení datumu
+
+    # The Time tab text in the datetimepicker popup header
+    timeTab: Čas
+
+    # The label for the Time tab in the datetimepicker popup header
+    timeTabLabel: Záložka pro nastavení času
+
+    # The label for the toggle button in the datetimepicker component
+    toggle: Zobrazit/skrýt okno pro nastavení datumu a času
+
+    # The Accept button text in the datetimepicker component
+    accept: Nastavit
+
+    # The label for the Accept button in the datetimepicker component
+    acceptLabel: Nastavit
+
+    # The Cancel button text in the datetimepicker component
+    cancel: Zrušit
+
+    # The label for the Cancel button in the datetimepicker component
+    cancelLabel: Zrušit
+
+    # The Now button text in the timepicker component
+    now: NYNÍ
+
+    # The label for the Now button in the timepicker component
+    nowLabel: Nastavit aktuální datum a čas
+
+    # The label for the today button in the calendar header
+    today: DNES

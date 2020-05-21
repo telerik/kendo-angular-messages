@@ -1,0 +1,324 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: ден(ови)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Повтори на секој/и:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: По
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Крај:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Никогаш
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: случувања
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: На
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Дневно
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Месечно
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Никогаш
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Неделно
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Годишно
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: Ден
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: месец(и)
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Повтори на секој/и:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Повтори на:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: четврто/а
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: последно/а
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: второ/а
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: трето/а
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Повтори
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: ден
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: работен ден
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: ден од викенд
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: недела/и
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Повтори на секој/и:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Повтори на:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: година/и
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: од
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Повтори на секоја/и:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Повтори на:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Агенда
+
+    # The all day text displayed in the day and week views.
+    allDay: цел ден
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Откажи
+
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
+    # The text similar to 'Title' displayed in the scheduler event editor.
+    editorEventTitle: Title
+
+    # The text similar to 'Start' displayed in the scheduler event editor.
+    editorEventStart: Start
+
+    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    editorEventStartTimeZone: Start Time Zone
+
+    # The text similar to 'End' displayed in the scheduler event editor.
+    editorEventEnd: End
+
+    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    editorEventEndTimeZone: End Time Zone
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Датум
+
+    # The day view title.
+    dayViewTitle: Наслов
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Дали сте сигурни дека сакате да го избришете овој настан?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Избриши настан
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Дали сакате да го избришете само овој настан или целата серија?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Избриши ги сериите
+
+    # The delete icon title.
+    deleteTitle: Избриши настан
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Избриши
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Измени тековен настан
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: All day event
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Опис
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: Користи посебни почетни и крајни временски зони
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: Крајна временска зона
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Наслов
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Дали сакате да го измените само овој настан или целата серија?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Измени повторувачка ставка
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Измени ги сериите
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Настан
+
+    # The month view title.
+    monthViewTitle: Месец
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: ден(ови)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Повтори на секој/и:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: случувања
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Дневно
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Месечно
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Никогаш
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Неделно
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Годишно
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: Ден
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: месец(и)
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Повтори на секој/и:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Повтори на:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: прво/а
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: четврто/а
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: последно/а
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: второ/а
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: трето/а
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Повтори
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: ден
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: работен ден
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: недела/и
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Повтори на секој/и:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Повтори на:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: година/и
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Повтори на секоја/и:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Повтори на:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Прикажи цел ден
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Прикажи работни часови
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Време
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: Денес
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+

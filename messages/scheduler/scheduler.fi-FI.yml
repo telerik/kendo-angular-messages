@@ -1,0 +1,324 @@
+kendo:
+  recurrenceeditor:
+    # The text similar to 'day(s)' displayed in the recurrence editor.
+    dailyInterval: päivä
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    dailyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'After' displayed in the recurrence editor.
+    endAfter: Kun toistettu
+
+    # The text similar to 'End' displayed in the recurrence editor.
+    endLabel: 'Loppu:'
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    endNever: Ei koskaan
+
+    # The text similar to 'occurrence(s)' displayed in the recurrence editor.
+    endOccurrence: kertaa
+
+    # The text similar to 'On' displayed in the recurrence editor.
+    endOn: Tarkka pvm
+
+    # The text similar to 'Daily' displayed in the recurrence editor.
+    frequenciesDaily: Päivittäin
+
+    # The text similar to 'Monthly' displayed in the recurrence editor.
+    frequenciesMonthly: Joka kuukausi
+
+    # The text similar to 'Never' displayed in the recurrence editor.
+    frequenciesNever: Ei koskaan
+
+    # The text similar to 'Weekly' displayed in the recurrence editor.
+    frequenciesWeekly: Viikoittain
+
+    # The text similar to 'Yearly' displayed in the recurrence editor.
+    frequenciesYearly: Joka vuosi
+
+    # The text similar to 'Day' displayed in the recurrence editor.
+    monthlyDay: Päivä
+
+    # The text similar to 'month(s)' displayed in the recurrence editor.
+    monthlyInterval: kuukausi
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    monthlyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    monthlyRepeatOn: 'Toista tällöin:'
+
+    # The text similar to 'Fourth' displayed in the recurrence editor.
+    offsetPositionsFourth: neljäs
+
+    # The text similar to 'Last' displayed in the recurrence editor.
+    offsetPositionsLast: viimeinen
+
+    # The text similar to 'Second' displayed in the recurrence editor.
+    offsetPositionsSecond: toinen
+
+    # The text similar to 'Third' displayed in the recurrence editor.
+    offsetPositionsThird: kolmas
+
+    # The text similar to 'Repeat' displayed in the recurrence editor.
+    repeat: Toistuminen
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysDay: päivä
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekday: arkipäivä
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    weekdaysWeekendday: viikonloppu
+
+    # The text similar to 'week(s)' displayed in the recurrence editor.
+    weeklyInterval: viikko
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    weeklyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    weeklyRepeatOn: 'Toista tällöin:'
+
+    # The text similar to 'year(s)' displayed in the recurrence editor.
+    yearlyInterval: vuosi
+
+    # The text similar to 'of' displayed in the recurrence editor.
+    yearlyOf: 'kk:'
+
+    # The text similar to 'Repeat every' displayed in the recurrence editor.
+    yearlyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'Repeat on' displayed in the recurrence editor.
+    yearlyRepeatOn: 'Toista tällöin:'
+
+  scheduler:
+    # The agenda view title.
+    agendaViewTitle: Agenda
+
+    # The all day text displayed in the day and week views.
+    allDay: koko päivä
+
+    # The All events text displayed in the timeline views when there is no vertical grouping.
+    allEvents: All events
+
+    # The text of today's date in the header of the Calendar.
+    calendarToday: TODAY
+
+    # The text similar to 'Cancel' displayed in scheduler.
+    cancel: Peruuta
+
+    # The text similar to 'Save' displayed in scheduler.
+    save: Save
+
+    # The text similar to 'Title' displayed in the scheduler event editor.
+    editorEventTitle: Title
+
+    # The text similar to 'Start' displayed in the scheduler event editor.
+    editorEventStart: Start
+
+    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    editorEventStartTimeZone: Start Time Zone
+
+    # The text similar to 'End' displayed in the scheduler event editor.
+    editorEventEnd: End
+
+    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    editorEventEndTimeZone: End Time Zone
+
+    # The date header text displayed in the agenda view.
+    dateHeader: Päivämäärä
+
+    # The day view title.
+    dayViewTitle: Otsikko
+
+    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    deleteConfirmation: Haluatko varmasti poistaa tapahtuman?
+
+    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    deleteDialogTitle: Poista tapahtuma
+
+    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete current occurrence
+
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    deleteRecurringDialogTitle: Haluatko poistaa vain tämän tapahtuman, vai koko sarjan?
+
+    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    deleteSeries: Poista kaikki tapahtumat
+
+    # The delete icon title.
+    deleteTitle: Poista tapahtuma
+
+    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    destroy: Poista
+
+    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    editOccurrence: Muokkaa vain tätä tapahtumaa
+
+    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    editorEventAllDay: Koko päivän tapahtuma
+
+    # The text similar to 'Description' displayed in the scheduler event editor.
+    editorEventDescription: Kuvaus
+
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    editorEventSeparateTimeZones: Eri aikavyöhykkeet alkamiselle ja loppumiselle
+
+    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    editorEventTimeZone: Loppumisen aikavyöhyke
+
+    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    editorTitle: Otsikko
+
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    editRecurringConfirmation: Haluatko muokata vain tätä tapahtumaa, vai koko sarjaa?
+
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    editRecurringDialogTitle: Muokkaa toistuvaa tapahtumaa
+
+    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    editSeries: Muokkaa kaikkia tapahtumia
+
+    # The event header text displayed in the agenda view.
+    eventHeader: Tapahtuma
+
+    # The month view title.
+    monthViewTitle: Kuukausi
+
+    # The multi day view title.
+    multiDayViewTitle: Multi-Day
+
+    # The title of the navigation next button.
+    nextTitle: Next
+
+    # The title of the navigation previous button.
+    previousTitle: Previous
+
+    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyInterval: päivä
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndAfter: After
+
+    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndLabel: End
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndNever: Never
+
+    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOccurrence: kertaa
+
+    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    recurrenceEditorEndOn: On
+
+    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Päivittäin
+
+    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Joka kuukausi
+
+    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesNever: Ei koskaan
+
+    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Viikoittain
+
+    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Joka vuosi
+
+    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyDay: Päivä
+
+    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyInterval: kuukausi
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: 'Toista tällöin:'
+
+    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFirst: ensimmäinen
+
+    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsFourth: neljäs
+
+    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsLast: viimeinen
+
+    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsSecond: toinen
+
+    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    recurrenceEditorOffsetPositionsThird: kolmas
+
+    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    recurrenceEditorRepeat: Toistuminen
+
+    # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysDay: päivä
+
+    # The text similar to 'Weekday' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekday: arkipäivä
+
+    # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
+    recurrenceEditorWeekdaysWeekendday: Weekend Day
+
+    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyInterval: viikko
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: 'Toista tällöin:'
+
+    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyInterval: vuosi
+
+    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyOf: of
+
+    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: 'Toista joka:'
+
+    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: 'Toista tällöin:'
+
+    # The text of the show full day button displayed in the footer of the day, week and timeline views.
+    showFullDay: Näytä koko päivä
+
+    # The text of the show work day button displayed in the footer of the day, week and timeline views.
+    showWorkDay: Näytä virka-aika
+
+    # The time header text displayed in the agenda view.
+    timeHeader: Kellonaika
+
+    # The timeline month view title.
+    timelineMonthViewTitle: Timeline Month
+
+    # The timeline view title.
+    timelineViewTitle: Timeline
+
+    # The timeline week view title.
+    timelineWeekViewTitle: Timeline Week
+
+    # The today button text displayed in the navigation.
+    today: Tänään
+
+    # The week view title.
+    weekViewTitle: Week
+
+    # The work week view title.
+    workWeekViewTitle: Work Week
+
