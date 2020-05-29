@@ -305,13 +305,13 @@ kendo:
     timeHeader: Heure
 
     # The timeline month view title.
-    timelineMonthViewTitle: Mois
+    timelineMonthViewTitle: Timeline Mois
 
     # The timeline view title.
-    timelineViewTitle: Jour
+    timelineViewTitle: Timeline
 
     # The timeline week view title.
-    timelineWeekViewTitle: Semaine de travail
+    timelineWeekViewTitle: Timeline Semaine
 
     # The today button text displayed in the navigation.
     today: Aujourd'hui
