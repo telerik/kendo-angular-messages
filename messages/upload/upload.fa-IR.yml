@@ -1,0 +1,58 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: لغو
+
+    # The text for the Clear button
+    clearSelectedFiles: پاک کن
+
+    # The drop zone hint
+    dropFilesHere: فایل را برای بارگذاری اینجا رها کن
+
+    # The external drop zone hint
+    externalDropFilesHere: فایل را برای بارگذاری بکش و اینجا رها کن
+
+    # The status message for a batch of files
+    filesBatchStatus: فایل‌ها
+
+    # The status message for a batch of files after failed upload
+    filesBatchStatusFailed: بارگذاری فایل‌ها ناموفق بود.
+
+    # The status message for a batch of files after successful upload
+    filesBatchStatusUploaded: فایل‌ها با موفقیت باگذاری شد.
+
+    # The file status message after failed upload
+    fileStatusFailed: بارگذاری فایل‌ها ناموفق بود.
+
+    # The file status message after successful upload
+    fileStatusUploaded: فایل‌ها با موفقیت باگذاری شد.
+
+    # The header status message when the file upload is paused
+    headerStatusPaused: متوقف شد
+
+    # The header status message after file upload completion
+    headerStatusUploaded: انجام شد
+
+    # The header status message during file upload
+    headerStatusUploading: در حال بارگذاری...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: نوع فایل انتخابی نا معتبر است.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: حجم فایل بسیار زیاد است.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: حجم فایل بسیار کم است.
+
+    # The text for the Remove button
+    remove: حذف کن
+
+    # The text for the Retry button
+    retry: تلاش مجدد بکن
+
+    # The text for the Select button
+    select: فایل‌ها را انتخاب بکن...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: بارگذاری بکن

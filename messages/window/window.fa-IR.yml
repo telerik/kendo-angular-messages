@@ -1,0 +1,13 @@
+kendo:
+  window:
+    # The title of the close button
+    closeTitle: بستن
+
+    # The title of the restore button
+    restoreTitle: بازگرداندن
+
+    # The title of the maximize button
+    maximizeTitle: بیشینه ساختن
+
+    # The title of the minimize button
+    minimizeTitle: کمینه کردن
