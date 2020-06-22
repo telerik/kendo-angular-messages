@@ -1,0 +1,28 @@
+kendo:
+  autocomplete:
+    # The text displayed in the popup when there are no items
+    noDataText: هیچ داده‌ای یافت نشد
+
+    # The title of the clear button
+    clearTitle: پاک کن
+
+  combobox:
+    # The text displayed in the popup when there are no items
+    noDataText: هیچ داده‌ای یافت نشد
+
+    # The title of the clear button
+    clearTitle: پاک کن
+
+  dropdownlist:
+    # The text displayed in the popup when there are no items
+    noDataText: هیچ داده‌ای یافت نشد
+
+    # The title of the clear button
+    clearTitle: پاک کن
+
+  multiselect:
+    # The text displayed in the popup when there are no items
+    noDataText: هیچ داده‌ای یافت نشد
+
+    # The title of the clear button
+    clearTitle: پاک کن
