@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Faites glisser un en-tête de colonne et déposer ici pour grouper par cette colonne.
 
     # The label visible in the Grid when there are no records
-    noRecords: Aucun enregistrement disponible.
+    noRecords: Aucun élément disponible.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Aller à la première page
