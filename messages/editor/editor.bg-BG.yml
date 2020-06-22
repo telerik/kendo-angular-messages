@@ -1,0 +1,151 @@
+kendo:
+  editor:
+    # The title of the tool that aligns text in the center.
+    alignCenter: Центрирай текст
+
+    # The title of the tool that justifies text both left and right.
+    alignJustify: Подравни текст двустранно
+
+    # The title of the tool that aligns text on the left.
+    alignLeft: Подравни текст от ляво
+
+    # The title of the tool that aligns text on the right.
+    alignRight: Подравни текст от дясно
+
+    # The title of the tool that changes the text background color.
+    backColor: Фонов цвят
+
+    # The title of the tool that makes text bold.
+    bold: Удебели
+
+    # The title of the Clean Formatting tool.
+    cleanFormatting: Изчисти форматирането
+
+    # The title of the tool that creates hyperlinks.
+    createLink: Добави линк
+
+    # The label of the Apply button in all editor dialogs.
+    dialogApply: Приложи
+
+    # The label of the Cancel button in all editor dialogs.
+    dialogCancel: Откажи
+
+    # The label of the Insert button in all editor dialogs.
+    dialogInsert: Вмъкни
+
+    # The label of the Update button in all editor dialogs.
+    dialogUpdate: Актуализирай
+
+    # The caption for the file text in the insertFile dialog.
+    fileText: Текст
+
+    # The caption for the file Title in the insertFile dialog.
+    fileTitle: Заглавие
+
+    # The caption for the file URL in the insertFile dialog.
+    fileWebAddress: Уеб адрес
+
+    # The title of the tool that changes the text font.
+    fontFamily: Шрифт
+
+    # The title of the tool that changes the text size.
+    fontSize: Размер на шрифта
+
+    # The title of the tool that changes the text color.
+    foreColor: Цвят
+
+    # The title of the tool that lets users choose block formats.
+    format: Форматиране
+
+    # The caption for the image alternate text in the insertImage dialog.
+    imageAltText: Алтернативен текст
+
+    # The caption for the image height in the insertImage dialog.
+    imageHeight: Височина (px)
+
+    # The caption for the image URL in the insertImage dialog.
+    imageWebAddress: Уеб адрес
+
+    # The caption for the image width in the insertImage dialog.
+    imageWidth: Ширина (px)
+
+    # The title of the tool that indents the content.
+    indent: Отстъпи
+
+    # The title of the tool that inserts links to files.
+    insertFile: Добави файл
+
+    # The title of the tool that inserts images.
+    insertImage: Добави изображение
+
+    # The title of the tool that inserts an ordered list.
+    insertOrderedList: Вмъкни номериран списък
+
+    # The title of the tool that inserts an unordered list.
+    insertUnorderedList: Вмъкни списък с водачи
+
+    # The title of the tool that makes text italicized.
+    italic: Наклони (курсив)
+
+    # The caption for the checkbox for opening the link in a new window in the createLink dialog.
+    linkOpenInNewWindow: Отвори връзка в нов прозорец
+
+    # The caption for the link text in the createLink dialog.
+    linkText: Текст
+
+    # The caption for the link title in the createLink dialog.
+    linkTitle: Заглавие
+
+    # The caption for the URL in the createLink dialog.
+    linkWebAddress: Уеб адрес
+
+    # The title of the tool that outdents the content.
+    outdent: Намали отстъп
+
+    # The title of the tool that undos the last action.
+    redo: Отмени
+
+    # The title of the tool that strikes through text.
+    strikethrough: Зачертай
+
+    # The title of the tool that makes text subscript.
+    subscript: Долен индекс
+
+    # The title of the tool that makes text superscript.
+    superscript: Горен индекс
+
+    # The title of the tool that underlines text.
+    underline: Подчертай
+
+    # The title of the tool that removes hyperlinks.
+    unlink: Премахни връзка
+
+    # The title of the tool that undos the last action.
+    undo: Върни
+
+    # The title of the tool that shows the editor value as HTML.
+    viewSource: Покажи изходен код
+
+    # The title of the tool that inserts table.
+    insertTable: Вмъкни таблица
+
+    # The title of the tool that adds new column before currently selected column.
+    addColumnBefore: Вмъкни колона преди
+
+    # The title of the tool that adds new column after currently selected column.
+    addColumnAfter: Вмъкни колона след
+
+    # The title of the tool that adds new row before currently selected row.
+    addRowBefore: Вмъкни ред преди
+
+    # The title of the tool that adds new row after currently selected row.
+    addRowAfter: Вмъкни ред след
+
+    # The title of the tool that deletes a table column.
+    deleteColumn: Изтрий колона
+
+    # The title of the tool that deletes a table row.
+    deleteRow: Изтрий ред
+
+    # The title of the tool that deletes a table.
+    deleteTable: Изтрий таблица
