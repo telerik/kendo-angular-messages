@@ -1,0 +1,37 @@
+kendo:
+  datetimepicker:
+    # The Date tab text in the datetimepicker popup header
+    dateTab: تاریخ
+
+    # The label for the Date tab in the datetimepicker popup header
+    dateTabLabel: برگه تاریخ
+
+    # The Time tab text in the datetimepicker popup header
+    timeTab: زمان
+
+    # The label for the Time tab in the datetimepicker popup header
+    timeTabLabel: برگه زمان
+
+    # The label for the toggle button in the datetimepicker component
+    toggle: پنجره را تغییر وضعیت بده
+
+    # The Accept button text in the datetimepicker component
+    accept: تایید
+
+    # The label for the Accept button in the datetimepicker component
+    acceptLabel: تایید
+
+    # The Cancel button text in the datetimepicker component
+    cancel: رد
+
+    # The label for the Cancel button in the datetimepicker component
+    cancelLabel: رد
+
+    # The Now button text in the timepicker component
+    now: اکنون
+
+    # The label for the Now button in the timepicker component
+    nowLabel: اکنون را انتخاب کن
+
+    # The label for the today button in the calendar header
+    today: امروز

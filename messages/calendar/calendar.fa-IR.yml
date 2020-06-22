@@ -1,0 +1,4 @@
+kendo:
+  calendar:
+    # The label for the today button in the calendar header
+    today: امروز

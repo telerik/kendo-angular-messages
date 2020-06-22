@@ -1,152 +1,152 @@
 kendo:
-  grid:
+  treelist:
     # The label visible in the Grid group panel when it is empty
-    groupPanelEmpty: Faites glisser un en-tête de colonne et déposer ici pour grouper par cette colonne.
+    groupPanelEmpty: یک سر ستون را بکشید و آن را در اینجا رها کنید تا توسط آن ستون گروه بندی شود
 
     # The label visible in the Grid when there are no records
-    noRecords: Aucun élément disponible.
+    noRecords: هیچ رکوردی در دسترس نیست.
 
     # The label for the first page button in Grid pager
-    pagerFirstPage: Aller à la première page
+    pagerFirstPage: برو به اولین صفحه
 
     # The label for the previous page button in Grid pager
-    pagerPreviousPage: Aller à la page précédente
+    pagerPreviousPage: برو به صفحه قبلی
 
     # The label for the next page button in Grid pager
-    pagerNextPage: Aller à la page suivante
+    pagerNextPage: برو به صفحه بعدی
 
     # The label for the last page button in Grid pager
-    pagerLastPage: Aller à la dernière page
+    pagerLastPage: برو به آخرین صفحه
 
     # The label before the current page number in the Grid pager
-    pagerPage: Page
+    pagerPage: صفحه
 
     # The label before the total pages number in the Grid pager
-    pagerOf: de
+    pagerOf: از
 
     # The label after the total pages number in the Grid pager
-    pagerItems: éléments
+    pagerItems: موارد
 
     # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: éléments par page
+    pagerItemsPerPage: مورد در صفحه
 
     # The label of the filter cell or icon
-    filter: Filtrer
+    filter: فیلتر
 
     # The text of the "equal" filter operator
-    filterEqOperator: Est égal à
+    filterEqOperator: برابر باشد با
 
     # The text of the "not equal" filter operator
-    filterNotEqOperator: N’est pas égal à
+    filterNotEqOperator: برابر نباشد با
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Est nulle
+    filterIsNullOperator: نال باشد
 
     # The text of the "is not null" filter operator
-    filterIsNotNullOperator: N’est pas nulle
+    filterIsNotNullOperator: نال نباشد
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: Est vide
+    filterIsEmptyOperator: خالی باشد
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: N’est pas vide
+    filterIsNotEmptyOperator: خالی نباشد
 
     # The text of the "starts with" filter operator
-    filterStartsWithOperator: Commence par
+    filterStartsWithOperator: شروع شود با
 
     # The text of the "contains" filter operator
-    filterContainsOperator: Contient
+    filterContainsOperator: شامل شود
 
     # The text of the "does not contain" filter operator
-    filterNotContainsOperator: Ne contient pas
+    filterNotContainsOperator: شامل نشود
 
     # The text of the "ends with" filter operator
-    filterEndsWithOperator: Se termine par
+    filterEndsWithOperator: تمام شود با
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: Est supérieur ou égal à
+    filterGteOperator: بزرگتر از یا برابر با
 
     # The text of the "greater than" filter operator
-    filterGtOperator: Est supérieur à
+    filterGtOperator: بزرگتر از
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: Est inférieur ou égal à
+    filterLteOperator: کوچکتر  از یا برابر با
 
     # The text of the "less than" filter operator
-    filterLtOperator: Est inférieur
+    filterLtOperator: کوچکتر از
 
     # The text of the "Is true" filter option
-    filterIsTrue: est vrai
+    filterIsTrue: درست باشد
 
     # The text of the "Is false" filter option
-    filterIsFalse: est fausse
+    filterIsFalse: نادرست باشد
 
     # The text of the (All) boolean filter option
-    filterBooleanAll: (Tout)
+    filterBooleanAll: (همه)
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: Est postérieur ou égal à
+    filterAfterOrEqualOperator: بعد از یا برابر با
 
     # The text of the after date filter operator
-    filterAfterOperator: Est postérieur
+    filterAfterOperator: بعد از
 
     # The text of the before date filter operator
-    filterBeforeOperator: Est antérieur
+    filterBeforeOperator: قبل از
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: Est antérieur ou égal à
+    filterBeforeOrEqualOperator: قبل از یا برابر با
 
     # The text of the "filter button"
-    filterFilterButton: Filtrer
+    filterFilterButton: فیلتر
 
     # The text of the "clear filter button"
-    filterClearButton: Effacer filtre
+    filterClearButton: پاک کن
 
     # The text of the "And" filter logic
-    filterAndLogic: Et
+    filterAndLogic: و
 
     # The text of the "Or" filter logic
-    filterOrLogic: Ou
+    filterOrLogic: یا
 
     # The loading text
-    loading: Chargement
+    loading: لطفا صبر کنید
 
     # The label of the sort icon
-    sort: Tri
+    sort: مرتب‌سازی
 
     # The title of the column menu icon
-    columnMenu: Menu des colonnes
+    columnMenu: فهرست انتخاب ستون
 
     # The text shown in the column menu for the columns item
-    columns: Colonnes
+    columns: ستون‌ها
 
     # The text shown in the column menu for the lock item
-    lock: Bloquer
+    lock: قفل کن
 
     # The text shown in the column menu for the unlock item
-    unlock: Débloquer
+    unlock: قفل را باز کن
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Tri croissant
+    sortAscending: مرتب سازی صعودی
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Tri décroissant
+    sortDescending: مرتب سازی نزولی
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Appliquer
+    columnsApply: ثبت
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Réinitialiser
+    columnsReset: از اول
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: قابل مرتب‌سازی
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: صعودی مرتب شده
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: نزولی مرتب شده
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: مرتب نشده
 
