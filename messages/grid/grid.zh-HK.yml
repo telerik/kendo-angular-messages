@@ -108,6 +108,18 @@ kendo:
     # The text of the "Or" filter logic
     filterOrLogic: 或
 
+    # The title of the Toggle button of the Date filter.
+    filterDateToggle: Toggle calendar
+
+    # The text of the Today button of the Date filter.
+    filterDateToday: 今天
+
+    # The title of the Decrement button of the Numeric filter.
+    filterNumericDecrement: 減少
+
+    # The title of the Increment button of the Numeric filter.
+    filterNumericIncrement: 增加
+
     # The loading text
     loading: Loading
 
