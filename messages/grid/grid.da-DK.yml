@@ -30,6 +30,9 @@ kendo:
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: emner pr side
 
+    # The title attribute of the page number input element.
+    pagerInputTitle: Page Number
+
     # The label of the filter cell or icon
     filter: Filter
 
