@@ -1,0 +1,29 @@
+kendo:
+  pager:
+    # The label for the **First page** button.
+    firstPage: İlk sayfaya git
+
+    # The label for the **Previous page** button.
+    previousPage: Sayfaları İncele
+
+    # The label for the **Next page** button.
+    nextPage: Bir sonraki sayfaya git
+
+    # The label for the **Last page** button.
+    lastPage: Son sayfaya git
+
+    # The label displayed before the pager input.
+    page: Sayfa
+
+    # The label before the total-page number.
+    of: [object Object]
+
+    # The label after the total-page number.
+    items: Sayfa
+
+    # The label displayed after the page-size selector.
+    itemsPerPage: Sayfa başına ürün
+
+    # The title attribute of the page number input element.
+    inputTitle: Page Number
+

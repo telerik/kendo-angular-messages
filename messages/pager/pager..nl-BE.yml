@@ -1,0 +1,29 @@
+kendo:
+  pager:
+    # The label for the **First page** button.
+    firstPage: Ga naar eerste pagina
+
+    # The label for the **Previous page** button.
+    previousPage: Ga naar vorige pagina
+
+    # The label for the **Next page** button.
+    nextPage: Ga naar volgende pagina
+
+    # The label for the **Last page** button.
+    lastPage: Ga naar laatste pagina
+
+    # The label displayed before the pager input.
+    page: Pagina
+
+    # The label before the total-page number.
+    of: van
+
+    # The label after the total-page number.
+    items: items
+
+    # The label displayed after the page-size selector.
+    itemsPerPage: items per pagina
+
+    # The title attribute of the page number input element.
+    inputTitle: Page Number
+
