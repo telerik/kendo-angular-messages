@@ -31,7 +31,7 @@ kendo:
     pagerItemsPerPage: елементів на сторінці
 
     # The title attribute of the page number input element.
-    pagerInputTitle: Page Number
+    pagerPageNumberInputTitle: Page Number
 
     # The label of the filter cell or icon
     filter: Filter

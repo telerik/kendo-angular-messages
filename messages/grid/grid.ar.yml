@@ -31,7 +31,7 @@ kendo:
     pagerItemsPerPage: العناصر لكل صفحة
 
     # The title attribute of the page number input element.
-    pagerInputTitle: Page Number
+    pagerPageNumberInputTitle: Page Number
 
     # The label of the filter cell or icon
     filter: Filter
@@ -55,7 +55,7 @@ kendo:
     filterIsNotEmptyOperator: غير فارغ
 
     # The text of the "starts with" filter operator
-    filterStartsWithOperator: يبدأ ب 
+    filterStartsWithOperator: يبدأ ب
 
     # The text of the "contains" filter operator
     filterContainsOperator: يحتوى
