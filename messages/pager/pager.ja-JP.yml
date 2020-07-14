@@ -25,5 +25,5 @@ kendo:
     itemsPerPage: 項目 (1 ページあたり)
 
     # The title attribute of the page number input element.
-    inputTitle: Page Number
+    pageNumberInputTitle: Page Number
 

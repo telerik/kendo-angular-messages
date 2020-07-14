@@ -25,5 +25,5 @@ kendo:
     itemsPerPage: záznamov na stranu
 
     # The title attribute of the page number input element.
-    inputTitle: Page Number
+    pageNumberInputTitle: Page Number
 

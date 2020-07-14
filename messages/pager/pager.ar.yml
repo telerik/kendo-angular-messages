@@ -25,5 +25,5 @@ kendo:
     itemsPerPage: العناصر لكل صفحة
 
     # The title attribute of the page number input element.
-    inputTitle: Page Number
+    pageNumberInputTitle: Page Number
 
