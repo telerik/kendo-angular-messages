@@ -25,5 +25,5 @@ kendo:
     itemsPerPage: записи на страница
 
     # The title attribute of the page number input element.
-    pageNumberInputTitle: номер на страница
+    pageNumberInputTitle: Номер на страница
 
