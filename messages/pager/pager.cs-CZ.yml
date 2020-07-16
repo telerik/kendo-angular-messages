@@ -1,0 +1,29 @@
+kendo:
+  pager:
+    # The label for the **First page** button.
+    firstPage: Na první stránku
+
+    # The label for the **Previous page** button.
+    previousPage: Na předchozí stránku
+
+    # The label for the **Next page** button.
+    nextPage: Na další stránku
+
+    # The label for the **Last page** button.
+    lastPage: Na poslední stránku
+
+    # The label displayed before the pager input.
+    page: Strana
+
+    # The label before the total-page number.
+    of: z
+
+    # The label after the total-page number.
+    items: záznamů
+
+    # The label displayed after the page-size selector.
+    itemsPerPage: záznamů na stránku
+
+    # The title attribute of the page number input element.
+    pageNumberInputTitle: Page Number
+

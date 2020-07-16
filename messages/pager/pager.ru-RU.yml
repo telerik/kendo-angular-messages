@@ -1,0 +1,29 @@
+kendo:
+  pager:
+    # The label for the **First page** button.
+    firstPage: Перейти на первую страницу
+
+    # The label for the **Previous page** button.
+    previousPage: Перейти на предыдущую страницу
+
+    # The label for the **Next page** button.
+    nextPage: Перейти на следующую страницу
+
+    # The label for the **Last page** button.
+    lastPage: Перейти на последнюю страницу
+
+    # The label displayed before the pager input.
+    page: Страница
+
+    # The label before the total-page number.
+    of: из
+
+    # The label after the total-page number.
+    items: элементов
+
+    # The label displayed after the page-size selector.
+    itemsPerPage: элементов на странице
+
+    # The title attribute of the page number input element.
+    pageNumberInputTitle: Page Number
+
