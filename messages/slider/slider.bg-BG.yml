@@ -7,4 +7,4 @@ kendo:
     decrement: Намали стойността
 
     #The title of the drag handle of the Slider.
-    dragHandle: drag
+    dragHandle: Влачи
