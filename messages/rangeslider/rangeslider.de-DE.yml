@@ -1,8 +1,8 @@
 kendo:
   rangeslider:
     #The title of the end drag handle of the RangeSlider.
-    dragHandleEnd: ziehen
+    dragHandleEnd: Ziehen
 
     #The title of the start drag handle of the RangeSlider.
-    dragHandleStart: ziehen
+    dragHandleStart: Ziehen
 
