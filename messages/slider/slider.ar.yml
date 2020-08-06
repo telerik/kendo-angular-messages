@@ -7,7 +7,7 @@ kendo:
     decrement: تخفيض القيمة
 
     #The title of the drag handle of the Slider.
-    dragHandle: drag
+    dragHandle: Drag
 
 
 

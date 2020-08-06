@@ -1,0 +1,8 @@
+kendo:
+  rangeslider:
+    #The title of the end drag handle of the RangeSlider.
+    dragHandleEnd: Déplacer
+
+    #The title of the start drag handle of the RangeSlider.
+    dragHandleStart: Déplacer
+

@@ -7,5 +7,5 @@ kendo:
     decrement: 減少
 
     #The title of the drag handle of the Slider.
-    dragHandle: drag
+    dragHandle: Drag
 
