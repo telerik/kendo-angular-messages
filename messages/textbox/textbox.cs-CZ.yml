@@ -1,4 +1,4 @@
 kendo:
   textbox:
     # The title of the clear button
-    clearTitle: vymazat
+    clearTitle: Vymazat
