@@ -1,0 +1,4 @@
+kendo:
+  toolbar:
+    # The title for the more button
+    moreTitle: More tools
