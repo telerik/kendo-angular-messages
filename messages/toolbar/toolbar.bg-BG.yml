@@ -1,4 +1,4 @@
 kendo:
   toolbar:
-    # The title for the more button
+    # The title of the "more tools" button in a responsive ToolBar
     moreTitle: Още инструменти
