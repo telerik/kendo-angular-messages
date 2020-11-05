@@ -1,4 +1,4 @@
 kendo:
   toolbar:
     # The title of the "more tools" button in a responsive ToolBar
-    moreTitle: More tools
+    moreToolsTitle: More tools
