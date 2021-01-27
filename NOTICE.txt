@@ -1,6 +1,6 @@
-Progress Kendo UI for Angular 2020
+Progress Kendo UI for Angular 2021
 
-Copyright © 2016-2020 Progress Software Corporation and/or one of its
+Copyright © 2016-2021 Progress Software Corporation and/or one of its
 subsidiaries or affiliates. All rights reserved.
 
 Portions of the Product include certain open source and commercial third-party
@@ -23,7 +23,7 @@ the Product:
 
 (1)  The Apache Software License, Version 2.0:
 
-Progress Kendo UI for Angular 2020 incorporates tslib v1.9.3.  Such technology
+Progress Kendo UI for Angular 2021 incorporates tslib v1.9.3.  Such technology
 is subject to the following terms and conditions: Apache Software License Version 2.0.
 
                                  Apache License
@@ -248,7 +248,7 @@ is subject to the following terms and conditions: Apache Software License Versio
 
 (2) MIT-Style Licenses:
 
-(a) Progress Kendo UI for Angular 2020 incorporates HammerJS v2.0.8.  Such
+(a) Progress Kendo UI for Angular 2021 incorporates HammerJS v2.0.8.  Such
 technology is subject to the following terms and conditions:
 
    The MIT License (MIT)
@@ -273,7 +273,7 @@ technology is subject to the following terms and conditions:
    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
    SOFTWARE.
 
-(b) Progress Kendo UI for Angular 2020 incorporates prosemirror-commands v1.0.7,
+(b) Progress Kendo UI for Angular 2021 incorporates prosemirror-commands v1.0.7,
 prosemirror-dropcursor v1.0.1, proseirror-gapcursor v1.0.2, prosemirror-history
 v1.0.2, prosemirror-inputrules v1.0.1, prosemirror-keymap v1.0.1,
 prosemirror-model v1.6.1, prosemirror-schema-list v1.0.1, prosemirror-state
@@ -301,7 +301,7 @@ conditions:
    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
    THE SOFTWARE.
 
-(c) Progress Kendo UI for Angular 2020 incorporates jszip v3.1.5.  Such
+(c) Progress Kendo UI for Angular 2021 incorporates jszip v3.1.5.  Such
 technology is subject to the following terms and conditions:
 
    The MIT License
@@ -326,7 +326,7 @@ technology is subject to the following terms and conditions:
    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
    THE SOFTWARE.
 
-(d) Progress Kendo UI for Angular 2020 incorporates Unicode CLDR Database v33.
+(d) Progress Kendo UI for Angular 2021 incorporates Unicode CLDR Database v33.
 Such technology is subject to the following terms and conditions:
 
    UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
@@ -384,4 +384,4 @@ the release notes or other documentation that accompanies updates received in
 connection with support of the Product.
 
 
-Updated 2/3/2020
+Updated 01/27/2021
