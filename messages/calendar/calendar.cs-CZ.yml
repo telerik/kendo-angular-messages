@@ -2,3 +2,9 @@ kendo:
   calendar:
     # The label for the today button in the calendar header
     today: Dnes
+
+    # The title of the previous button in the Classic calendar
+    prevButtonTitle: Navigate to previous view
+
+    # The title of the next button in the Classic calendar
+    nextButtonTitle: Navigate to next view

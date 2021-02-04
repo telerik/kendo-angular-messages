@@ -35,3 +35,9 @@ kendo:
 
     # The label for the today button in the calendar header
     today: OGGI
+
+    # The title of the previous button in the Classic calendar
+    prevButtonTitle: Vai al precedente
+
+    # The title of the next button in the Classic calendar
+    nextButtonTitle: Vai al prossimo
