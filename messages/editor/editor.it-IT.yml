@@ -1,148 +1,148 @@
 kendo:
   editor:
     # The title of the tool that aligns text in the center.
-    alignCenter: Center text
+    alignCenter: Centra testo
 
     # The title of the tool that justifies text both left and right.
-    alignJustify: Justify
+    alignJustify: Giustifica testo
 
     # The title of the tool that aligns text on the left.
-    alignLeft: Align text left
+    alignLeft: Allinea a sinistra
 
     # The title of the tool that aligns text on the right.
-    alignRight: Align text right
+    alignRight: Allinea a destra
 
     # The title of the tool that changes the text background color.
-    backColor: Background color
+    backColor: Colore di sfondo
 
     # The title of the tool that makes text bold.
-    bold: Bold
+    bold: Grassetto
 
     # The title of the Clean Formatting tool.
-    cleanFormatting: Clean formatting
+    cleanFormatting: Annulla formattazione
 
     # The title of the tool that creates hyperlinks.
-    createLink: Insert link
+    createLink: Inserisci link
 
     # The label of the **Apply** button in all editor dialogs.
-    dialogApply: Apply
+    dialogApply: Applica
 
     # The label of the **Cancel** button in all editor dialogs.
-    dialogCancel: Cancel
+    dialogCancel: Cancella
 
     # The label of the **Insert** button in all editor dialogs.
-    dialogInsert: Insert
+    dialogInsert: Inserisci
 
     # The label of the **Update** button in all editor dialogs.
-    dialogUpdate: Update
+    dialogUpdate: Aggiorna
 
     # The caption for the file text in the insertFile dialog.
-    fileText: Text
+    fileText: Testo
 
     # The caption for the file Title in the insertFile dialog.
-    fileTitle: Title
+    fileTitle: Titolo
 
     # The caption for the file URL in the insertFile dialog.
-    fileWebAddress: Web address
+    fileWebAddress: Indirizzo web
 
     # The title of the tool that changes the text font.
-    fontFamily: Select font family
+    fontFamily: Seleziona carattere
 
     # The title of the tool that changes the text size.
-    fontSize: Select font size
+    fontSize: Seleziona dimensione carattere
 
     # The title of the tool that changes the text color.
-    foreColor: Color
+    foreColor: Colore
 
     # The title of the tool that lets users choose block formats.
-    format: Format
+    format: Formato
 
     # The caption for the image alternate text in the insertImage dialog.
-    imageAltText: Alternate text
+    imageAltText: Testo alternativo
 
     # The caption for the image height in the insertImage dialog.
-    imageHeight: Height (px)
+    imageHeight: Altezza (px)
 
     # The caption for the image URL in the insertImage dialog.
-    imageWebAddress: Web address
+    imageWebAddress: Indirizzo Web
 
     # The caption for the image width in the insertImage dialog.
-    imageWidth: Width (px)
+    imageWidth: Larghezza (px)
 
     # The title of the tool that indents the content.
-    indent: Indent
+    indent: Indenta
 
     # The title of the tool that inserts links to files.
-    insertFile: Insert file
+    insertFile: Inserisci file
 
     # The title of the tool that inserts images.
-    insertImage: Insert image
+    insertImage: Inserisci immagine
 
     # The title of the tool that inserts an ordered list.
-    insertOrderedList: Insert ordered list
+    insertOrderedList: Inserisci lista ordinata
 
     # The title of the tool that inserts an unordered list.
-    insertUnorderedList: Insert unordered list
+    insertUnorderedList: Inserisci lista non ordinata
 
     # The title of the tool that makes text italicized.
-    italic: Italic
+    italic: Italico
 
     # The caption for the checkbox for opening the link in a new window in the createLink dialog.
-    linkOpenInNewWindow: Open link in new window
+    linkOpenInNewWindow: Apri link in nuova finestra
 
     # The caption for the link text in the createLink dialog.
-    linkText: Text
+    linkText: Testo
 
     # The caption for the link title in the createLink dialog.
-    linkTitle: Title
+    linkTitle: Titolo
 
     # The caption for the URL in the createLink dialog.
-    linkWebAddress: Web address
+    linkWebAddress: Indirizzo web
 
     # The title of the tool that outdents the content.
-    outdent: Outdent
+    outdent: Elimina rientro
 
     # The title of the tool that undos the last action.
-    redo: Redo
+    redo: Ripristina
 
     # The title of the tool that strikes through text.
-    strikethrough: Strikethrough
+    strikethrough: Barrato
 
     # The title of the tool that makes text subscript.
-    subscript: Subscript
+    subscript: Pedice
 
     # The title of the tool that makes text superscript.
-    superscript: Superscript
+    superscript: Apice
 
     # The title of the tool that underlines text.
-    underline: Underline
+    underline: Sottolinea
 
     # The title of the tool that removes hyperlinks.
-    unlink: Remove Link
+    unlink: Rimuovi Link
 
     # The title of the tool that undos the last action.
-    undo: Undo
+    undo: Ripristina
 
     # The title of the tool that shows the editor value as HTML.
-    viewSource: View source
+    viewSource: Sorgente
 
     # The title of the tool that inserts table.
-    insertTable: Insert Table
+    insertTable: Inserisci Tabella
 
     # The title of the tool that adds new column before currently selected column.
-    addColumnBefore: Add column before
+    addColumnBefore: Aggiungi colonna prima
 
     # The title of the tool that adds new column after currently selected column.
-    addColumnAfter: Add column after
+    addColumnAfter: Aggiungi colonna dopo
 
     # The title of the tool that adds new row before currently selected row.
-    addRowBefore: Add row before
+    addRowBefore: Aggiungi riga prima
 
     # The title of the tool that adds new row after currently selected row.
-    addRowAfter: Add row after
+    addRowAfter: Aggiungi riga dopo
 
     # The title of the tool that deletes a table column.
-    deleteColumn: Delete column
+    deleteColumn: Cancella colonna
 
     # The title of the tool that deletes a table row.
     deleteRow: Delete row

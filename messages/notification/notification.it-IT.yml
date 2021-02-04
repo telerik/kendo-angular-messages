@@ -1,4 +1,4 @@
 kendo:
   notification:
     # The title for the close button in a closable notification
-    closeTitle: Close
+    closeTitle: Chiudi

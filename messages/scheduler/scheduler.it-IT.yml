@@ -110,22 +110,22 @@ kendo:
     cancel: Annulla
 
     # The text similar to 'Save' displayed in scheduler.
-    save: Save
+    save: Salva
 
     # The text similar to 'Title' displayed in the scheduler event editor.
-    editorEventTitle: Title
+    editorEventTitle: Titolo
 
     # The text similar to 'Start' displayed in the scheduler event editor.
-    editorEventStart: Start
+    editorEventStart: Inizio
 
     # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
-    editorEventStartTimeZone: Start Time Zone
+    editorEventStartTimeZone: Fuso Orario di Inizio
 
     # The text similar to 'End' displayed in the scheduler event editor.
-    editorEventEnd: End
+    editorEventEnd: Fine
 
     # The text similar to 'End Time Zone' displayed in the scheduler event editor.
-    editorEventEndTimeZone: End Time Zone
+    editorEventEndTimeZone: Fuso Orario di Fine
 
     # The date header text displayed in the agenda view.
     dateHeader: Data
@@ -140,10 +140,10 @@ kendo:
     deleteDialogTitle: Rimuovi evento
 
     # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    deleteOccurrence: Rimuovi elemento corrente
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
-    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+    deleteRecurringConfirmation: Vuoi rimuovere solo questo evento o la serie completa?
 
     # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
     deleteRecurringDialogTitle: Vuoi rimuovere solo questo evento o la serie completa?
@@ -191,13 +191,13 @@ kendo:
     monthViewTitle: Mese
 
     # The multi day view title.
-    multiDayViewTitle: Multi-Day
+    multiDayViewTitle: Multi-Giorno
 
     # The title of the navigation next button.
-    nextTitle: Next
+    nextTitle: Prossimo
 
     # The title of the navigation previous button.
-    previousTitle: Previous
+    previousTitle: Precedente
 
     # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorDailyInterval: giorno(i)
@@ -206,19 +206,19 @@ kendo:
     recurrenceEditorDailyRepeatEvery: 'Ripeti ogni:'
 
     # The text similar to 'After' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndAfter: After
+    recurrenceEditorEndAfter: Dopo
 
     # The text similar to 'End' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndLabel: End
+    recurrenceEditorEndLabel: Fine
 
     # The text similar to 'Never' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndNever: Never
+    recurrenceEditorEndNever: Mai
 
     # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorEndOccurrence: Occorrenza(e)
 
     # The text similar to 'On' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndOn: On
+    recurrenceEditorEndOn: In
 
     # The text similar to 'Daily' displayed in the scheduler recurrence editor.
     recurrenceEditorFrequenciesDaily: Ogni giorno
@@ -272,7 +272,7 @@ kendo:
     recurrenceEditorWeekdaysWeekday: giorno della settimana
 
     # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
-    recurrenceEditorWeekdaysWeekendday: Weekend Day
+    recurrenceEditorWeekdaysWeekendday: Giorno del weekend
 
     # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorWeeklyInterval: settimana(e)
@@ -287,7 +287,7 @@ kendo:
     recurrenceEditorYearlyInterval: anno(i)
 
     # The text similar to 'of' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyOf: of
+    recurrenceEditorYearlyOf: di
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
     recurrenceEditorYearlyRepeatEvery: 'Ripeti ogni:'
@@ -305,20 +305,20 @@ kendo:
     timeHeader: Tempo
 
     # The timeline month view title.
-    timelineMonthViewTitle: Timeline Month
+    timelineMonthViewTitle: Timeline Mensile
 
     # The timeline view title.
     timelineViewTitle: Timeline
 
     # The timeline week view title.
-    timelineWeekViewTitle: Timeline Week
+    timelineWeekViewTitle: Timeline Settimanale
 
     # The today button text displayed in the navigation.
     today: Oggi
 
     # The week view title.
-    weekViewTitle: Week
+    weekViewTitle: Settimana
 
     # The work week view title.
-    workWeekViewTitle: Work Week
+    workWeekViewTitle: Settimana Lavorativa
 

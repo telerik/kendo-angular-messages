@@ -4,10 +4,10 @@ kendo:
     today: Oggi
 
     # The label for the toggle button in the datepicker component
-    toggle: Toggle calendar
+    toggle: Mostra calendario
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Vai al precedente
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Vai al prossimo
