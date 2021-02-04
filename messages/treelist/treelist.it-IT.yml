@@ -4,7 +4,7 @@ kendo:
     groupPanelEmpty: Trascina l'header di una colonna e rilascialo qui per raggruppare secondo tale colonna
 
     # The label visible in the Grid when there are no records
-    noRecords: Nessun record disponibile.
+    noRecords: Nessun elemento disponibile.
 
     # The label for the first page button in Grid pager
     pagerFirstPage: Vai alla prima pagina
@@ -43,16 +43,16 @@ kendo:
     filterNotEqOperator: Non è uguale a
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: È nullo
+    filterIsNullOperator: è zero
 
     # The text of the "is not null" filter operator
     filterIsNotNullOperator: Non è nullo
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: È vuoto
+    filterIsEmptyOperator: è vuoto
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: Non è vuoto
+    filterIsNotEmptyOperator: non è vuoto
 
     # The text of the "starts with" filter operator
     filterStartsWithOperator: Inizia con
@@ -112,44 +112,44 @@ kendo:
     filterOrLogic: O
 
     # The loading text
-    loading: Loading
+    loading: Caricamento
 
     # The label of the sort icon
-    sort: Sort
+    sort: Ordina
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Menu Colonna
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Colonne
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Blocca
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Sblocca
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Ordina Ascendente
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Ordina Discendente
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Applica
 
     # The text shown in the column menu or column chooser for the columns reset button
     columnsReset: Reset
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Ordinabile
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Ordinato ascendente
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Ordinato discendente
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Non ordinato
 
