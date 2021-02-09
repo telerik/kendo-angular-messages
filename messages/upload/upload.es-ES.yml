@@ -4,7 +4,7 @@ kendo:
     cancel: Cancelar
 
     # The text for the Clear button
-    clearSelectedFiles: Clear
+    clearSelectedFiles: Borrar
 
     # The drop zone hint
     dropFilesHere: Arrastre los archivos aquí para subirlos
@@ -16,13 +16,13 @@ kendo:
     headerStatusUploading: Subiendo...
 
     # The text for the invalid allowed extensions restriction message
-    invalidFileExtension: File type not allowed.
+    invalidFileExtension: Tipo de fichero no permitido.
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize: File size too large.
+    invalidMaxFileSize: Tamaño fichero demasiado grande.
 
     # The text for the invalid min file size restriction message
-    invalidMinFileSize: File size too small.
+    invalidMinFileSize: Tamaño fichero demasiado pequeño.
 
     # The text for the Remove button
     remove: Quitar
@@ -37,22 +37,22 @@ kendo:
     uploadSelectedFiles: Subir archivos
 
     # The external drop zone hint
-    externalDropFilesHere: Drag and drop files here to upload
+    externalDropFilesHere: Arrastra aqui los ficheros a subir
 
     # The status message for a batch of files
-    filesBatchStatus: files
+    filesBatchStatus: ficheros
 
     # The status message for a batch of files after failed upload
-    filesBatchStatusFailed: files failed to upload.
+    filesBatchStatusFailed: fallo al subir ficheros.
 
     # The status message for a batch of files after successful upload
-    filesBatchStatusUploaded: files successfully uploaded.
+    filesBatchStatusUploaded: ficheros subidos correctamente.
 
     # The file status message after failed upload
-    fileStatusFailed: File failed to upload.
+    fileStatusFailed: Fallo al subir fichero.
 
     # The file status message after successful upload
-    fileStatusUploaded: File successfully uploaded.
+    fileStatusUploaded: Fichero subido correctamente.
 
     # The header status message when the file upload is paused
-    headerStatusPaused: Paused
+    headerStatusPaused: Pausado

@@ -31,10 +31,10 @@ kendo:
     pagerItemsPerPage: ítems por página
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Número de Página
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtrar
 
     # The text of the "equal" filter operator
     filterEqOperator: Es igual a
@@ -112,7 +112,7 @@ kendo:
     filterOrLogic: O
 
     # The title of the Toggle button of the Date filter.
-    filterDateToggle: Toggle calendar
+    filterDateToggle: Mostrar calendario
 
     # The text of the Today button of the Date filter.
     filterDateToday: Hoy
@@ -124,44 +124,44 @@ kendo:
     filterNumericIncrement: Incrementar valor
 
     # The loading text
-    loading: Loading
+    loading: Cargando
 
     # The label of the sort icon
-    sort: Sort
+    sort: Ordenar
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Menú Columna
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Columnas
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Bloquear
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Desbloquear
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Orden ascendente
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Orden descendente
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Aplicar
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Defecto
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Ordenable
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Ordenado ascendentemente
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Ordenado descendentemente
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: No ordenado
 
