@@ -7,5 +7,5 @@ kendo:
     decrement: Wert verringern
 
     #The title of the drag handle of the Slider.
-    dragHandle: Drag
+    dragHandle: Ziehen
 

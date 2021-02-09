@@ -1,24 +1,24 @@
 kendo:
   autocomplete:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Leeren
 
   combobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Leeren
 
   dropdownlist:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Leeren
 
   dropdowntree:
     # The text displayed in the popup when there are no items
@@ -36,7 +36,7 @@ kendo:
 
   multiselect:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Leeren
