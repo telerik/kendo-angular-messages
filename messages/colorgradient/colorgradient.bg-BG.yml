@@ -1,7 +1,7 @@
 kendo:
   colorgradient:
-    # The placeholder for the Hex color value
-    valueInputPlaceholder: Цвят
+    # The placeholder for the HEX color value
+    hexInputPlaceholder: Цвят
 
     # The placeholder for the red color value
     redInputPlaceholder: R
