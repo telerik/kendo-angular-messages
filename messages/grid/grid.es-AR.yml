@@ -30,6 +30,9 @@ kendo:
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: ítems por página
 
+    # The title attribute of the page number input element.
+    pagerPageNumberInputTitle: Page Number
+
     # The label of the filter cell or icon
     filter: Filter
 
@@ -107,6 +110,18 @@ kendo:
 
     # The text of the "Or" filter logic
     filterOrLogic: O
+
+    # The title of the Toggle button of the Date filter.
+    filterDateToggle: Toggle calendar
+
+    # The text of the Today button of the Date filter.
+    filterDateToday: Hoy
+
+    # The title of the Decrement button of the Numeric filter.
+    filterNumericDecrement: Disminuir valor
+
+    # The title of the Increment button of the Numeric filter.
+    filterNumericIncrement: Incrementar valor
 
     # The loading text
     loading: Loading

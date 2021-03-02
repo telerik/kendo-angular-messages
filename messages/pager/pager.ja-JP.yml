@@ -1,0 +1,29 @@
+kendo:
+  pager:
+    # The label for the **First page** button.
+    firstPage: 最初のページに移動
+
+    # The label for the **Previous page** button.
+    previousPage: 前のページに移動
+
+    # The label for the **Next page** button.
+    nextPage: 次のページに移動
+
+    # The label for the **Last page** button.
+    lastPage: 最後のページに移動
+
+    # The label displayed before the pager input.
+    page: ページ
+
+    # The label before the total-page number.
+    of: の
+
+    # The label after the total-page number.
+    items: 項目
+
+    # The label displayed after the page-size selector.
+    itemsPerPage: 項目 (1 ページあたり)
+
+    # The title attribute of the page number input element.
+    pageNumberInputTitle: Page Number
+

@@ -1,0 +1,151 @@
+kendo:
+  editor:
+    # The title of the tool that aligns text in the center.
+    alignCenter: Centra testo
+
+    # The title of the tool that justifies text both left and right.
+    alignJustify: Giustifica testo
+
+    # The title of the tool that aligns text on the left.
+    alignLeft: Allinea a sinistra
+
+    # The title of the tool that aligns text on the right.
+    alignRight: Allinea a destra
+
+    # The title of the tool that changes the text background color.
+    backColor: Colore di sfondo
+
+    # The title of the tool that makes text bold.
+    bold: Grassetto
+
+    # The title of the Clean Formatting tool.
+    cleanFormatting: Annulla formattazione
+
+    # The title of the tool that creates hyperlinks.
+    createLink: Inserisci link
+
+    # The label of the **Apply** button in all editor dialogs.
+    dialogApply: Applica
+
+    # The label of the **Cancel** button in all editor dialogs.
+    dialogCancel: Cancella
+
+    # The label of the **Insert** button in all editor dialogs.
+    dialogInsert: Inserisci
+
+    # The label of the **Update** button in all editor dialogs.
+    dialogUpdate: Aggiorna
+
+    # The caption for the file text in the insertFile dialog.
+    fileText: Testo
+
+    # The caption for the file Title in the insertFile dialog.
+    fileTitle: Titolo
+
+    # The caption for the file URL in the insertFile dialog.
+    fileWebAddress: Indirizzo web
+
+    # The title of the tool that changes the text font.
+    fontFamily: Seleziona carattere
+
+    # The title of the tool that changes the text size.
+    fontSize: Seleziona dimensione carattere
+
+    # The title of the tool that changes the text color.
+    foreColor: Colore
+
+    # The title of the tool that lets users choose block formats.
+    format: Formato
+
+    # The caption for the image alternate text in the insertImage dialog.
+    imageAltText: Testo alternativo
+
+    # The caption for the image height in the insertImage dialog.
+    imageHeight: Altezza (px)
+
+    # The caption for the image URL in the insertImage dialog.
+    imageWebAddress: Indirizzo Web
+
+    # The caption for the image width in the insertImage dialog.
+    imageWidth: Larghezza (px)
+
+    # The title of the tool that indents the content.
+    indent: Indenta
+
+    # The title of the tool that inserts links to files.
+    insertFile: Inserisci file
+
+    # The title of the tool that inserts images.
+    insertImage: Inserisci immagine
+
+    # The title of the tool that inserts an ordered list.
+    insertOrderedList: Inserisci lista ordinata
+
+    # The title of the tool that inserts an unordered list.
+    insertUnorderedList: Inserisci lista non ordinata
+
+    # The title of the tool that makes text italicized.
+    italic: Italico
+
+    # The caption for the checkbox for opening the link in a new window in the createLink dialog.
+    linkOpenInNewWindow: Apri link in nuova finestra
+
+    # The caption for the link text in the createLink dialog.
+    linkText: Testo
+
+    # The caption for the link title in the createLink dialog.
+    linkTitle: Titolo
+
+    # The caption for the URL in the createLink dialog.
+    linkWebAddress: Indirizzo web
+
+    # The title of the tool that outdents the content.
+    outdent: Elimina rientro
+
+    # The title of the tool that undos the last action.
+    redo: Ripristina
+
+    # The title of the tool that strikes through text.
+    strikethrough: Barrato
+
+    # The title of the tool that makes text subscript.
+    subscript: Pedice
+
+    # The title of the tool that makes text superscript.
+    superscript: Apice
+
+    # The title of the tool that underlines text.
+    underline: Sottolinea
+
+    # The title of the tool that removes hyperlinks.
+    unlink: Rimuovi Link
+
+    # The title of the tool that undos the last action.
+    undo: Ripristina
+
+    # The title of the tool that shows the editor value as HTML.
+    viewSource: Sorgente
+
+    # The title of the tool that inserts table.
+    insertTable: Inserisci Tabella
+
+    # The title of the tool that adds new column before currently selected column.
+    addColumnBefore: Aggiungi colonna prima
+
+    # The title of the tool that adds new column after currently selected column.
+    addColumnAfter: Aggiungi colonna dopo
+
+    # The title of the tool that adds new row before currently selected row.
+    addRowBefore: Aggiungi riga prima
+
+    # The title of the tool that adds new row after currently selected row.
+    addRowAfter: Aggiungi riga dopo
+
+    # The title of the tool that deletes a table column.
+    deleteColumn: Cancella colonna
+
+    # The title of the tool that deletes a table row.
+    deleteRow: Delete row
+
+    # The title of the tool that deletes a table.
+    deleteTable: Delete table

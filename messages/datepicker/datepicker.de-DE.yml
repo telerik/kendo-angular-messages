@@ -5,3 +5,9 @@ kendo:
 
     # The label for the toggle button in the datepicker component
     toggle: Kalender umschalten
+
+    # The title of the previous button in the Classic calendar
+    prevButtonTitle: Auf vorherige Seite navigieren
+
+    # The title of the next button in the Classic calendar
+    nextButtonTitle: Auf nächste Seite navigieren

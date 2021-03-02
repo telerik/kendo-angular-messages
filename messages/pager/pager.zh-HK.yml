@@ -1,0 +1,29 @@
+kendo:
+  pager:
+    # The label for the **First page** button.
+    firstPage: 首頁
+
+    # The label for the **Previous page** button.
+    previousPage: 上一頁
+
+    # The label for the **Next page** button.
+    nextPage: 下一頁
+
+    # The label for the **Last page** button.
+    lastPage: 末頁
+
+    # The label displayed before the pager input.
+    page: 頁
+
+    # The label before the total-page number.
+    of: 共
+
+    # The label after the total-page number.
+    items: 每頁
+
+    # The label displayed after the page-size selector.
+    itemsPerPage: 每頁
+
+    # The title attribute of the page number input element.
+    pageNumberInputTitle: Page Number
+

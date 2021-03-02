@@ -1,0 +1,167 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: یک سر ستون را بکشید و آن را در اینجا رها کنید تا توسط آن ستون گروه بندی شود
+
+    # The label visible in the Grid when there are no records
+    noRecords: هیچ رکوردی در دسترس نیست.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: برو به اولین صفحه
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: برو به صفحه قبلی
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: برو به صفحه بعدی
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: برو به آخرین صفحه
+
+    # The label before the current page number in the Grid pager
+    pagerPage: صفحه
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: از
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: موارد
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: مورد در صفحه
+
+    # The title attribute of the page number input element.
+    pagerPageNumberInputTitle: Page Number
+
+    # The label of the filter cell or icon
+    filter: فیلتر
+
+    # The text of the "equal" filter operator
+    filterEqOperator: برابر باشد با
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: برابر نباشد با
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: نال باشد
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: نال نباشد
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: خالی باشد
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: خالی نباشد
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: شروع شود با
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: شامل شود
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: شامل نشود
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: تمام شود با
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: بزرگتر از یا برابر با
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: بزرگتر از
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: کوچکتر  از یا برابر با
+
+    # The text of the "less than" filter operator
+    filterLtOperator: کوچکتر از
+
+    # The text of the "Is true" filter option
+    filterIsTrue: درست باشد
+
+    # The text of the "Is false" filter option
+    filterIsFalse: نادرست باشد
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (همه)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: بعد از یا برابر با
+
+    # The text of the after date filter operator
+    filterAfterOperator: بعد از
+
+    # The text of the before date filter operator
+    filterBeforeOperator: قبل از
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: قبل از یا برابر با
+
+    # The text of the "filter button"
+    filterFilterButton: فیلتر
+
+    # The text of the "clear filter button"
+    filterClearButton: پاک کن
+
+    # The text of the "And" filter logic
+    filterAndLogic: و
+
+    # The text of the "Or" filter logic
+    filterOrLogic: یا
+
+    # The title of the Toggle button of the Date filter.
+    filterDateToggle: تقویم را تغییر وضعیت بده
+
+    # The text of the Today button of the Date filter.
+    filterDateToday: امروز
+
+    # The title of the Decrement button of the Numeric filter.
+    filterNumericDecrement: مقدار را کاهش بده
+
+    # The title of the Increment button of the Numeric filter.
+    filterNumericIncrement: مقدار را افزایش بده
+
+    # The loading text
+    loading: لطفا صبر کنید
+
+    # The label of the sort icon
+    sort: مرتب‌سازی
+
+    # The title of the column menu icon
+    columnMenu: فهرست انتخاب ستون
+
+    # The text shown in the column menu for the columns item
+    columns: ستون‌ها
+
+    # The text shown in the column menu for the lock item
+    lock: قفل کن
+
+    # The text shown in the column menu for the unlock item
+    unlock: قفل را باز کن
+
+    # The text shown in the column menu for the sort ascending item
+    sortAscending: مرتب سازی صعودی
+
+    # The text shown in the column menu for the sort descending item
+    sortDescending: مرتب سازی نزولی
+
+    # The text shown in the column menu or column chooser for the columns apply button
+    columnsApply: ثبت
+
+    # The text shown in the column menu or column chooser for the columns reset button
+    columnsReset: از اول
+
+    # The label of the sort icon
+    sortable: قابل مرتب‌سازی
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: صعودی مرتب شده
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: نزولی مرتب شده
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: مرتب نشده
+

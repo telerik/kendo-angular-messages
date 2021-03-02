@@ -1,11 +1,11 @@
 kendo:
   slider:
     # The title of the **Increase** button of the Slider.
-    increment: למעלה
+    increment: Aumenta
 
     # The title of the **Decrease** button of the Slider.
-    decrement: למטה
+    decrement: Decrementa
 
     #The title of the drag handle of the Slider.
-    dragHandle: drag
+    dragHandle: Trascina
 

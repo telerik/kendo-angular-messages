@@ -5,3 +5,9 @@ kendo:
 
     # The label for the toggle button in the datepicker component
     toggle: Kalender ein-/ausblenden
+
+    # The title of the previous button in the Classic calendar
+    prevButtonTitle: Navigate to previous view
+
+    # The title of the next button in the Classic calendar
+    nextButtonTitle: Navigate to next view

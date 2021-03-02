@@ -1,0 +1,16 @@
+kendo:
+  colorgradient:
+    # The placeholder for the HEX color value
+    hexInputPlaceholder: Color
+
+    # The placeholder for the red color value
+    redInputPlaceholder: R
+
+    # The placeholder for the green color value
+    greenInputPlaceholder: G
+
+    # The placeholder for the blue color value
+    blueInputPlaceholder: B
+
+    # The placeholder for the alpha value
+    alphaInputPlaceholder: A

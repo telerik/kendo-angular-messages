@@ -1,0 +1,29 @@
+kendo:
+  pager:
+    # The label for the **First page** button.
+    firstPage: Gå till första sidan
+
+    # The label for the **Previous page** button.
+    previousPage: Gå till föregående sida
+
+    # The label for the **Next page** button.
+    nextPage: Gå till nästa sida
+
+    # The label for the **Last page** button.
+    lastPage: Gå till sista sidan
+
+    # The label displayed before the pager input.
+    page: Sida
+
+    # The label before the total-page number.
+    of: av
+
+    # The label after the total-page number.
+    items: poster
+
+    # The label displayed after the page-size selector.
+    itemsPerPage: poster per sida
+
+    # The title attribute of the page number input element.
+    pageNumberInputTitle: Page Number
+

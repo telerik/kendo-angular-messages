@@ -30,6 +30,9 @@ kendo:
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: العناصر لكل صفحة
 
+    # The title attribute of the page number input element.
+    pagerPageNumberInputTitle: Page Number
+
     # The label of the filter cell or icon
     filter: Filter
 
@@ -52,7 +55,7 @@ kendo:
     filterIsNotEmptyOperator: غير فارغ
 
     # The text of the "starts with" filter operator
-    filterStartsWithOperator: يبدأ ب 
+    filterStartsWithOperator: يبدأ ب
 
     # The text of the "contains" filter operator
     filterContainsOperator: يحتوى
@@ -107,6 +110,18 @@ kendo:
 
     # The text of the "Or" filter logic
     filterOrLogic: Or
+
+    # The title of the Toggle button of the Date filter.
+    filterDateToggle: تغيير التقويم
+
+    # The text of the Today button of the Date filter.
+    filterDateToday: اليوم
+
+    # The title of the Decrement button of the Numeric filter.
+    filterNumericDecrement: تخفيض القيمة
+
+    # The title of the Increment button of the Numeric filter.
+    filterNumericIncrement: زيادة القيمة
 
     # The loading text
     loading: Loading
