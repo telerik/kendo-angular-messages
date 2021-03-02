@@ -25,14 +25,14 @@ kendo:
     noDataText: No data found
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Rimuove
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nessun dato trovato
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Rimuove
 
   multiselect:
     # The text displayed in the popup when there are no items

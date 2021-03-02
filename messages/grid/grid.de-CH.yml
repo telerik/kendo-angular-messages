@@ -67,10 +67,10 @@ kendo:
     filterEndsWithOperator: endet mit
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: ist größer als oder gleich
+    filterGteOperator: ist grösser als oder gleich
 
     # The text of the "greater than" filter operator
-    filterGtOperator: ist größer als
+    filterGtOperator: ist grösser als
 
     # The text of the "less than or equal" filter operator
     filterLteOperator: ist kleiner oder gleich als

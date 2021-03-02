@@ -1,10 +1,10 @@
 kendo:
   upload:
     # The text for the Cancel button
-    cancel: Beenden
+    cancel: Abbrechen
 
     # The text for the Clear button
-    clearSelectedFiles: Entfernen
+    clearSelectedFiles: Löschen
 
     # The drop zone hint
     dropFilesHere: Dateien hierhin ziehen zum Hochladen
@@ -25,13 +25,13 @@ kendo:
     invalidMinFileSize: Dateigrösse zu klein.
 
     # The text for the Remove button
-    remove: Löschen
+    remove: Entfernen
 
     # The text for the Retry button
     retry: Wiederholen
 
     # The text for the Select button
-    select: Wählen Sie...
+    select: Dateien auswählen...
 
     # The text for the Upload files button
     uploadSelectedFiles: Dateien hochladen

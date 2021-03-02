@@ -7,7 +7,7 @@ kendo:
     clearSelectedFiles: Supprimer
 
     # The drop zone hint
-    dropFilesHere: déposer les fichiers à télécharger ici
+    dropFilesHere: Déposer les fichiers à télécharger ici
 
     # The header status message after file upload completion
     headerStatusUploaded: Complété
@@ -31,7 +31,7 @@ kendo:
     retry: Réessayer
 
     # The text for the Select button
-    select: Sélectionner...
+    select: Sélectionner les fichiers...
 
     # The text for the Upload files button
     uploadSelectedFiles: Télécharger des fichiers
