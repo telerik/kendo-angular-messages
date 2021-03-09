@@ -1,6 +1,6 @@
-Progress Kendo UI for Angular 2020
+Progress Kendo UI for Angular 2021
 
-Copyright © 2016-2020 Progress Software Corporation and/or one of its
+Copyright © 2016-2021 Progress Software Corporation and/or one of its
 subsidiaries or affiliates. All rights reserved.
 
 Portions of the Product include certain open source and commercial third-party
@@ -23,7 +23,7 @@ the Product:
 
 (1)  The Apache Software License, Version 2.0:
 
-Progress Kendo UI for Angular 2020 incorporates tslib v1.9.3.  Such technology
+Progress Kendo UI for Angular 2021 incorporates tslib v1.9.3.  Such technology
 is subject to the following terms and conditions: Apache Software License Version 2.0.
 
                                  Apache License
@@ -246,9 +246,71 @@ is subject to the following terms and conditions: Apache Software License Versio
    and limitations under the License.
    -------------------------------------------------------------------------
 
-(2) MIT-Style Licenses:
+(2) BSD-Style Licenses:
 
-(a) Progress Kendo UI for Angular 2020 incorporates HammerJS v2.0.8.  Such
+(a) Progress Kendo UI for Angular 2021 incorporates xlf-translate v2.0.4. Such
+technology is subject to the following terms and conditions:
+
+    BSD 3-Clause License
+
+    Copyright (c) 2017, Tsvetomir Tsonev
+    All rights reserved.
+
+    Redistribution and use in source and binary forms, with or without
+    modification, are permitted provided that the following conditions are met:
+
+    * Redistributions of source code must retain the above copyright notice, this
+      list of conditions and the following disclaimer.
+
+    * Redistributions in binary form must reproduce the above copyright notice,
+      this list of conditions and the following disclaimer in the documentation
+      and/or other materials provided with the distribution.
+
+    * Neither the name of the copyright holder nor the names of its
+      contributors may be used to endorse or promote products derived from
+      this software without specific prior written permission.
+
+    THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+    AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+    IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+    DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE
+    FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL
+    DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR
+    SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER
+    CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY,
+    OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+    OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+(3) The ISC License:
+
+(a) Progress Kendo UI for Angular 2021 incorporates glob v7.1.3.  Such technology
+is subject to the following terms and conditions:
+
+    The ISC License
+
+    Copyright (c) Isaac Z. Schlueter and Contributors
+
+    Permission to use, copy, modify, and/or distribute this software for any
+    purpose with or without fee is hereby granted, provided that the above
+    copyright notice and this permission notice appear in all copies.
+
+    THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES
+    WITH REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF
+    MERCHANTABILITY AND FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR
+    ANY SPECIAL, DIRECT, INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES
+    WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN
+    ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR
+    IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS SOFTWARE.
+
+    ## Glob Logo
+
+    Glob's logo created by Tanya Brassie <http://tanyabrassie.com/>, licensed
+    under a Creative Commons Attribution-ShareAlike 4.0 International License
+    https://creativecommons.org/licenses/by-sa/4.0/
+
+(4) MIT-Style Licenses:
+
+(a) Progress Kendo UI for Angular 2021 incorporates HammerJS v2.0.8.  Such
 technology is subject to the following terms and conditions:
 
    The MIT License (MIT)
@@ -273,13 +335,12 @@ technology is subject to the following terms and conditions:
    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
    SOFTWARE.
 
-(b) Progress Kendo UI for Angular 2020 incorporates prosemirror-commands v1.0.7,
-prosemirror-dropcursor v1.0.1, proseirror-gapcursor v1.0.2, prosemirror-history
-v1.0.2, prosemirror-inputrules v1.0.1, prosemirror-keymap v1.0.1,
-prosemirror-model v1.6.1, prosemirror-schema-list v1.0.1, prosemirror-state
-v1.2.2, prosemirror-tables v0.7.10, prosemirror-transform v1.1.3, and
-prosemirror-view v1.5.2.  Such technology is subject to the following terms and
-conditions:
+(b) Progress Kendo UI for Angular 2021 incorporates prosemirror-commands v1*,
+prosemirror-cursor v1*, prosemirror-gapcursor v1*, prosemirror-history v1*,
+prosemirror-inputrules v1*, prosemirror-keymap v1*, prosemirror-model v1*,
+prosemirror-schema-list v1*, prosemirror-state v1*, prosemirror-tables v0.7*,
+prosemirror-transform v1*, and prosemirror-view v1*. Such technologies are
+subject to the following terms and conditions:
 
    Copyright (C) 2015-2017 by Marijn Haverbeke <marijnh@gmail.com> and others
 
@@ -301,32 +362,194 @@ conditions:
    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
    THE SOFTWARE.
 
-(c) Progress Kendo UI for Angular 2020 incorporates jszip v3.1.5.  Such
+(c) Progress Kendo UI for Angular 2021 incorporates cheerio v0.2.2. Such
 technology is subject to the following terms and conditions:
 
-   The MIT License
+    MIT License
 
-   Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger, António Afonso
+    Copyright (c) 2016 Matt Mueller
 
-   Permission is hereby granted, free of charge, to any person obtaining a copy
-   of this software and associated documentation files (the "Software"), to deal
-   in the Software without restriction, including without limitation the rights
-   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-   copies of the Software, and to permit persons to whom the Software is
-   furnished to do so, subject to the following conditions:
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
 
-   The above copyright notice and this permission notice shall be included in
-   all copies or substantial portions of the Software.
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
 
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-   THE SOFTWARE.
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
 
-(d) Progress Kendo UI for Angular 2020 incorporates Unicode CLDR Database v33.
+(d) Progress Kendo UI for Angular 2021 incorporates @types/prosemirror-commands v1*,
+@types/prosemirror-dropcursor v1*, @types/prosemirror-gapcursor v1*,
+@types/prosemirror-history v1*, @types/prosemirror-inputrules v1*,
+@types/prosemirror-keymap v1*, @types/prosemirror-model v1*,
+@types/prosemirror-schema-list v1*, @types/prosemirror-state v1*,
+@types/prosemirror-tables v0.9*,  @types/prosemirror-transform v1*, and
+@types/prosemirror-view v1*. Such technologies are subject to the following terms
+and conditions:
+
+    This project is licensed under the MIT license.
+    Copyrights are respective of each contributor listed at the beginning of each
+    definition file.
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
+
+(e) Progress Kendo UI for Angular 2021 incorporates pako-esm v1.0.0. Such
+technology is subject to the following terms and conditions:
+
+  Copyright © 2020 Progress Software Corporation and/or one of its subsidiaries
+  or affiliates. All rights reserved. (as modified)
+
+  Copyright (C) 2014-2017 by Vitaly Puzrin and Andrei Tuputcyn
+
+  Permission is hereby granted, free of charge, to any person obtaining a copy
+  of this software and associated documentation files (the "Software"), to deal
+  in the Software without restriction, including without limitation the rights
+  to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+  copies of the Software, and to permit persons to whom the Software is
+  furnished to do so, subject to the following conditions:
+
+  The above copyright notice and this permission notice shall be included in
+  all copies or substantial portions of the Software.
+
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+  FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+  AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+  LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+  OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+  THE SOFTWARE.
+
+(f) Progress Kendo UI for Angular 2021 incorporates jszip-esm v1.0.0. Such
+technology is subject to the following terms and conditions:
+
+    Copyright © 2020 Progress Software Corporation and/or one of its subsidiaries
+    or affiliates. All rights reserved. (as modified)
+
+    Copyright (c) 2009-2016 Stuart Knightley, David Duponchel, Franz Buchinger,
+    António Afonso
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.
+
+(g) Progress Kendo UI for Angular 2021 incorporates data.task v3.1.2. Such
+technology is subject to the following terms and conditions:
+
+    The MIT License
+
+    Copyright (c) 2013-2015 Quildreen Motta
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.
+
+(h) Progress Kendo UI for Angular 2021 incorporates ramda v0.23. Such technology
+is subject to the following terms and conditions:
+
+    The MIT License (MIT)
+
+    Copyright (c) 2013-2020 Scott Sauyet and Michael Hurley
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.
+
+(i) Progress Kendo UI for Angular 2021 incorporates js-yaml v3.14.0. Such
+technology is subject to the following terms and conditions:
+
+    (The MIT License)
+
+    Copyright (C) 2011-2015 by Vitaly Puzrin
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in
+    all copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
+    THE SOFTWARE.
+
+
+(5) UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE:
+
+Progress Kendo UI for Angular 2021 incorporates Unicode CLDR Database v37.
 Such technology is subject to the following terms and conditions:
 
    UNICODE, INC. LICENSE AGREEMENT - DATA FILES AND SOFTWARE
@@ -344,7 +567,7 @@ Such technology is subject to the following terms and conditions:
 
    COPYRIGHT AND PERMISSION NOTICE
 
-   Copyright © 1991-2019 Unicode, Inc. All rights reserved.
+   Copyright © 1991-2021 Unicode, Inc. All rights reserved.
    Distributed under the Terms of Use in https://www.unicode.org/copyright.html.
 
    Permission is hereby granted, free of charge, to any person obtaining
@@ -377,11 +600,15 @@ Such technology is subject to the following terms and conditions:
    written authorization of the copyright holder.
 
 2. Special Notices Regarding Commercially Licensed Third-Party Components
-incorporated in the Product: NONE
+incorporated in the Product:
+
+(a) Progress Kendo UI for Angular 2021 incorporates Kendo UI Licensing CLI v1.1
+from Progress Software Corporation. For third-party component information, see
+the product’s NOTICE.txt file.
 
 NOTICE FROM PROGRESS SOFTWARE CORPORATION: Additional notices may be included in
 the release notes or other documentation that accompanies updates received in
 connection with support of the Product.
 
 
-Updated 2/3/2020
+Updated 3/2/2021
