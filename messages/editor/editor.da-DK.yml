@@ -1,151 +1,151 @@
 kendo:
   editor:
     # The title of the tool that aligns text in the center.
-    alignCenter: Center text
+    alignCenter: Centrer
 
     # The title of the tool that justifies text both left and right.
-    alignJustify: Justify
+    alignJustify: Juster
 
     # The title of the tool that aligns text on the left.
-    alignLeft: Align text left
+    alignLeft: Venstrejuster
 
     # The title of the tool that aligns text on the right.
-    alignRight: Align text right
+    alignRight: Højrejuster
 
     # The title of the tool that changes the text background color.
-    backColor: Background color
+    backColor: Baggrundsfarve
 
     # The title of the tool that makes text bold.
-    bold: Bold
+    bold: Fed
 
     # The title of the Clean Formatting tool.
-    cleanFormatting: Clean formatting
+    cleanFormatting: Ryd al formatering
 
     # The title of the tool that creates hyperlinks.
-    createLink: Insert link
+    createLink: Tilføj et link
 
     # The label of the **Apply** button in all editor dialogs.
-    dialogApply: Apply
+    dialogApply: Anvend
 
     # The label of the **Cancel** button in all editor dialogs.
-    dialogCancel: Cancel
+    dialogCancel: Annuller
 
     # The label of the **Insert** button in all editor dialogs.
-    dialogInsert: Insert
+    dialogInsert: Indsæt
 
     # The label of the **Update** button in all editor dialogs.
-    dialogUpdate: Update
+    dialogUpdate: Opdater
 
     # The caption for the file text in the insertFile dialog.
-    fileText: Text
+    fileText: Tekst
 
     # The caption for the file Title in the insertFile dialog.
-    fileTitle: Title
+    fileTitle: Titel
 
     # The caption for the file URL in the insertFile dialog.
-    fileWebAddress: Web address
+    fileWebAddress: Web adresse
 
     # The title of the tool that changes the text font.
-    fontFamily: Select font family
+    fontFamily: Skrifttype
 
     # The title of the tool that changes the text size.
-    fontSize: Select font size
+    fontSize: Skriftstørrelse
 
     # The title of the tool that changes the text color.
-    foreColor: Color
+    foreColor: Farve
 
     # The title of the tool that lets users choose block formats.
-    format: Format
+    format: Formater
 
     # The caption for the image alternate text in the insertImage dialog.
-    imageAltText: Alternate text
+    imageAltText: Alternativ tekst
 
     # The caption for the image height in the insertImage dialog.
-    imageHeight: Height (px)
+    imageHeight: Højde (px)
 
     # The caption for the image URL in the insertImage dialog.
-    imageWebAddress: Web address
+    imageWebAddress: Web adresse
 
     # The caption for the image width in the insertImage dialog.
-    imageWidth: Width (px)
+    imageWidth: Bredde (px)
 
     # The title of the tool that indents the content.
-    indent: Indent
+    indent: Indryk
 
     # The title of the tool that inserts links to files.
-    insertFile: Insert file
+    insertFile: Indsæt fil
 
     # The title of the tool that inserts images.
-    insertImage: Insert image
+    insertImage: Indsæt billede
 
     # The title of the tool that inserts an ordered list.
-    insertOrderedList: Insert ordered list
+    insertOrderedList: Ordnet punktopstilling
 
     # The title of the tool that inserts an unordered list.
-    insertUnorderedList: Insert unordered list
+    insertUnorderedList: Punktopstilling
 
     # The title of the tool that makes text italicized.
-    italic: Italic
+    italic: Kursiv
 
     # The caption for the checkbox for opening the link in a new window in the createLink dialog.
-    linkOpenInNewWindow: Open link in new window
+    linkOpenInNewWindow: Åbn link i nyt vindue
 
     # The caption for the link text in the createLink dialog.
-    linkText: Text
+    linkText: Tekst
 
     # The caption for the link title in the createLink dialog.
-    linkTitle: Title
+    linkTitle: Titel
 
     # The caption for the URL in the createLink dialog.
-    linkWebAddress: Web address
+    linkWebAddress: Web adresse
 
     # The title of the tool that outdents the content.
-    outdent: Outdent
+    outdent: Formindsk indrykning
 
     # The title of the tool that undos the last action.
-    redo: Redo
+    redo: Annuller fortryd
 
     # The title of the tool that strikes through text.
-    strikethrough: Strikethrough
+    strikethrough: Gennemstreget
 
     # The title of the tool that makes text subscript.
-    subscript: Subscript
+    subscript: Sænket skrift
 
     # The title of the tool that makes text superscript.
-    superscript: Superscript
+    superscript: Hævet skrift
 
     # The title of the tool that underlines text.
-    underline: Underline
+    underline: Understregning
 
     # The title of the tool that removes hyperlinks.
-    unlink: Remove Link
+    unlink: Fjern link
 
     # The title of the tool that undos the last action.
-    undo: Undo
+    undo: Fortryd
 
     # The title of the tool that shows the editor value as HTML.
-    viewSource: View source
+    viewSource: Vis kildetekst
 
     # The title of the tool that inserts table.
-    insertTable: Insert Table
+    insertTable: Indsæt tabel
 
     # The title of the tool that adds new column before currently selected column.
-    addColumnBefore: Add column before
+    addColumnBefore: Indsæt kolonne før
 
     # The title of the tool that adds new column after currently selected column.
-    addColumnAfter: Add column after
+    addColumnAfter: Indsæt kolonne efter
 
     # The title of the tool that adds new row before currently selected row.
-    addRowBefore: Add row before
+    addRowBefore: Indsæt række før
 
     # The title of the tool that adds new row after currently selected row.
-    addRowAfter: Add row after
+    addRowAfter: Indsæt række efter
 
     # The title of the tool that deletes a table column.
-    deleteColumn: Delete column
+    deleteColumn: Slet kolonne
 
     # The title of the tool that deletes a table row.
-    deleteRow: Delete row
+    deleteRow: Slet række
 
     # The title of the tool that deletes a table.
-    deleteTable: Delete table
+    deleteTable: Slet tabel
