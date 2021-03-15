@@ -1,40 +1,40 @@
 kendo:
   datetimepicker:
     # The Date tab text in the datetimepicker popup header
-    dateTab: Date
+    dateTab: Dato
 
     # The label for the Date tab in the datetimepicker popup header
-    dateTabLabel: Date tab
+    dateTabLabel: Dato fane
 
     # The Time tab text in the datetimepicker popup header
-    timeTab: Time
+    timeTab: Tid
 
     # The label for the Time tab in the datetimepicker popup header
-    timeTabLabel: Time tab
+    timeTabLabel: Tid fane
 
     # The label for the toggle button in the datetimepicker component
     toggle: Toggle popup
 
     # The Accept button text in the datetimepicker component
-    accept: Set
+    accept: Sæt
 
     # The label for the Accept button in the datetimepicker component
-    acceptLabel: Set
+    acceptLabel: Sæt
 
     # The Cancel button text in the datetimepicker component
-    cancel: Cancel
+    cancel: Annuller
 
     # The label for the Cancel button in the datetimepicker component
-    cancelLabel: Cancel
+    cancelLabel: Annuller
 
     # The Now button text in the timepicker component
-    now: NOW
+    now: NU
 
     # The label for the Now button in the timepicker component
-    nowLabel: Select now
+    nowLabel: Vælg nu
 
     # The label for the today button in the calendar header
-    today: TODAY
+    today: I DAG
 
     # The title of the previous button in the Classic calendar
     prevButtonTitle: Navigate to previous view
