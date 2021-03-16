@@ -1,38 +1,38 @@
 kendo:
   autocomplete:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Ingen data fundet
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Ryd
 
   combobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Ingen data fundet
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Ryd
 
   dropdownlist:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Ingen data fundet
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Ryd
 
   dropdowntree:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Ingen data fundet
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Ryd
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Ingen data fundet
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Ryd
 
   multiselect:
     # The text displayed in the popup when there are no items
