@@ -21,8 +21,8 @@
   },
   "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
   "devDependencies": {
-    "@progress/kendo-common-tasks": "^7.3.3",
-    "@telerik/semantic-prerelease": "^1.0.0",
+    "@progress/kendo-common-tasks": "^7.4.3",
+    "@telerik/semantic-prerelease": "^1.3.6",
     "cz-conventional-changelog": "1.2.0",
     "ghooks": "^2.0.0",
     "gulp": "^4.0.2",
