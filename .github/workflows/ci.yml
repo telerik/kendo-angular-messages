@@ -10,7 +10,7 @@ on:
 
 jobs:
   build:
-    runs-on: kendo
+    runs-on: ubuntu-latest
 
     steps:
       - name: Cancel previous runs
@@ -22,30 +22,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Install modules
-        run: npm install --no-audit
-
-      - name: Activate Kendo UI License
-        run: npx kendo-ui-license activate
-        env:
-          KENDO_UI_LICENSE: ${{ secrets.KENDO_UI_LICENSE }}
+        run: npm install --no-audit --ignore-scripts
 
       - name: Lint
         run: npm run lint
-
-      - name: Check API docs
-        run: npm run api-check
-
-      - name: Build package
-        run: npm run build-package
-
-      - name: Run unit tests
-        run: npm run test:ci
-
-      - name: Run E2E tests
-        run: npm run e2e:ci
-
-      - name: Run E2E tests (visual)
-        run: npm run e2e_visual:ci --if-present
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-
