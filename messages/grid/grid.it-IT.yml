@@ -141,6 +141,15 @@ kendo:
     # The text shown in the column menu for the unlock item
     unlock: Sblocca
 
+    # The text shown in the column menu for the stick item
+    stick: Stick
+
+    # The text shown in the column menu for the unstick item
+    unstick: Unstick
+
+    # The text shown in the column menu for the set column position item
+    setColumnPosition: Set Column Position
+
     # The text shown in the column menu for the sort ascending item
     sortAscending: Ordina Ascendente
 
