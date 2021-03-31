@@ -34,7 +34,7 @@ kendo:
     pagerPageNumberInputTitle: Номер на страница
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Филтриране
 
     # The text of the "equal" filter operator
     filterEqOperator: Е равно на
@@ -87,7 +87,6 @@ kendo:
     # The text of the (All) boolean filter option
     filterBooleanAll: (Всички)
 
-
     # The text of the after or equal date filter operator
     filterAfterOrEqualOperator: Е след или равно на
 
@@ -113,7 +112,7 @@ kendo:
     filterOrLogic: или
 
     # The title of the Toggle button of the Date filter.
-    filterDateToggle: Toggle calendar
+    filterDateToggle: Отвори/затвори календара
 
     # The text of the Today button of the Date filter.
     filterDateToday: Днес
@@ -125,44 +124,53 @@ kendo:
     filterNumericIncrement: Увеличи стойността
 
     # The loading text
-    loading: Loading
+    loading: Зареждане
 
     # The label of the sort icon
-    sort: Sort
+    sort: Сортирай
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Настройки на колоната
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Колони
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Заключи колоната
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Отключи колоната
+
+    # The text shown in the column menu for the stick item
+    stick: Залепи колоната
+
+    # The text shown in the column menu for the unstick item
+    unstick: Отлепи колоната
+
+    # The text shown in the column menu for the set column position item
+    setColumnPosition: Задай позиция на колоната
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Сортирай възходящо
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Сортирай низходящо
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Приложи промените
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Отмени промените
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Сортируемо
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Сортирано възходящо
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Сортирано низходящо
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Несортирано
 
