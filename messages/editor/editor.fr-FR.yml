@@ -1,151 +1,151 @@
 kendo:
   editor:
     # The title of the tool that aligns text in the center.
-    alignCenter: Center text
+    alignCenter: Aligner le texte au centre
 
     # The title of the tool that justifies text both left and right.
-    alignJustify: Justify
+    alignJustify: Justifier
 
     # The title of the tool that aligns text on the left.
-    alignLeft: Align text left
+    alignLeft: Aligner le texte à gauche
 
     # The title of the tool that aligns text on the right.
-    alignRight: Align text right
+    alignRight: Aligner le texte à droite
 
     # The title of the tool that changes the text background color.
-    backColor: Background color
+    backColor: Couleur de l'arrière plan
 
     # The title of the tool that makes text bold.
-    bold: Bold
+    bold: Gras
 
     # The title of the Clean Formatting tool.
-    cleanFormatting: Clean formatting
+    cleanFormatting: Nettoyer la mise en forme
 
     # The title of the tool that creates hyperlinks.
-    createLink: Insert link
+    createLink: Inserer un lien
 
     # The label of the **Apply** button in all editor dialogs.
-    dialogApply: Apply
+    dialogApply: Appliquer
 
     # The label of the **Cancel** button in all editor dialogs.
-    dialogCancel: Cancel
+    dialogCancel: Annuler
 
     # The label of the **Insert** button in all editor dialogs.
-    dialogInsert: Insert
+    dialogInsert: Insérer
 
     # The label of the **Update** button in all editor dialogs.
-    dialogUpdate: Update
+    dialogUpdate: Mettre à jour
 
     # The caption for the file text in the insertFile dialog.
-    fileText: Text
+    fileText: Texte
 
     # The caption for the file Title in the insertFile dialog.
-    fileTitle: Title
+    fileTitle: Titre
 
     # The caption for the file URL in the insertFile dialog.
-    fileWebAddress: Web address
+    fileWebAddress: Adresse web
 
     # The title of the tool that changes the text font.
-    fontFamily: Select font family
+    fontFamily: Sélectionner la police
 
     # The title of the tool that changes the text size.
-    fontSize: Select font size
+    fontSize: Sélectionner la taille de la police
 
     # The title of the tool that changes the text color.
-    foreColor: Color
+    foreColor: Couleur
 
     # The title of the tool that lets users choose block formats.
     format: Format
 
     # The caption for the image alternate text in the insertImage dialog.
-    imageAltText: Alternate text
+    imageAltText: Texte alternatif
 
     # The caption for the image height in the insertImage dialog.
-    imageHeight: Height (px)
+    imageHeight: Hauteur (px)
 
     # The caption for the image URL in the insertImage dialog.
-    imageWebAddress: Web address
+    imageWebAddress: Adresse web
 
     # The caption for the image width in the insertImage dialog.
-    imageWidth: Width (px)
+    imageWidth: Largeur (px)
 
     # The title of the tool that indents the content.
-    indent: Indent
+    indent: Augmenter le retrait
 
     # The title of the tool that inserts links to files.
-    insertFile: Insert file
+    insertFile: Inserer un fichier
 
     # The title of the tool that inserts images.
-    insertImage: Insert image
+    insertImage: Insérer une image
 
     # The title of the tool that inserts an ordered list.
-    insertOrderedList: Insert ordered list
+    insertOrderedList: Insérer une liste ordonnée
 
     # The title of the tool that inserts an unordered list.
-    insertUnorderedList: Insert unordered list
+    insertUnorderedList: Insérer une liste non ordonnée
 
     # The title of the tool that makes text italicized.
-    italic: Italic
+    italic: Italique
 
     # The caption for the checkbox for opening the link in a new window in the createLink dialog.
-    linkOpenInNewWindow: Open link in new window
+    linkOpenInNewWindow: Ouvrir le lien dans une nouvelle fenêtre
 
     # The caption for the link text in the createLink dialog.
-    linkText: Text
+    linkText: Texte
 
     # The caption for the link title in the createLink dialog.
-    linkTitle: Title
+    linkTitle: Titre
 
     # The caption for the URL in the createLink dialog.
-    linkWebAddress: Web address
+    linkWebAddress: Adresse web
 
     # The title of the tool that outdents the content.
-    outdent: Outdent
+    outdent: Diminuer le retrait
 
     # The title of the tool that undos the last action.
-    redo: Redo
+    redo: Rétablir
 
     # The title of the tool that strikes through text.
-    strikethrough: Strikethrough
+    strikethrough: Barré
 
     # The title of the tool that makes text subscript.
-    subscript: Subscript
+    subscript: Indice
 
     # The title of the tool that makes text superscript.
-    superscript: Superscript
+    superscript: Exposant
 
     # The title of the tool that underlines text.
-    underline: Underline
+    underline: Souligner
 
     # The title of the tool that removes hyperlinks.
-    unlink: Remove Link
+    unlink: Supprimer le lien
 
     # The title of the tool that undos the last action.
-    undo: Undo
+    undo: Annuler
 
     # The title of the tool that shows the editor value as HTML.
-    viewSource: View source
+    viewSource: Afficher la source
 
     # The title of the tool that inserts table.
-    insertTable: Insert Table
+    insertTable: Insérer un tableau
 
     # The title of the tool that adds new column before currently selected column.
-    addColumnBefore: Add column before
+    addColumnBefore: Ajouter une colonne avant
 
     # The title of the tool that adds new column after currently selected column.
-    addColumnAfter: Add column after
+    addColumnAfter: Ajouter une colonne après
 
     # The title of the tool that adds new row before currently selected row.
-    addRowBefore: Add row before
+    addRowBefore: Ajouter une ligne avant
 
     # The title of the tool that adds new row after currently selected row.
-    addRowAfter: Add row after
+    addRowAfter: Ajouter une ligne après
 
     # The title of the tool that deletes a table column.
-    deleteColumn: Delete column
+    deleteColumn: Supprimer la colonne
 
     # The title of the tool that deletes a table row.
-    deleteRow: Delete row
+    deleteRow: Supprimer la ligne
 
     # The title of the tool that deletes a table.
-    deleteTable: Delete table
+    deleteTable: Supprimer le tableau

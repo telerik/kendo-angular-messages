@@ -4,7 +4,7 @@
   "description": "Localization messages - Kendo UI for Angular",
   "main": "index.js",
   "scripts": {
-    "lint": "gulp lint && yamllint messages/**/*.yml",
+    "lint": "gulp lint",
     "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post"
   },
   "bin": {
@@ -28,8 +28,7 @@
     "gulp": "^4.0.2",
     "gulp-yaml-validate": "^1.0.2",
     "semantic-release": "^6.3.6",
-    "validate-commit-msg": "2.11.1",
-    "yaml-lint": "^1.2.3"
+    "validate-commit-msg": "2.11.1"
   },
   "dependencies": {
     "cheerio": "^0.22.0",
