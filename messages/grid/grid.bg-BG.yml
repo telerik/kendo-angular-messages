@@ -172,17 +172,16 @@ kendo:
     sortedDefault: Несортирано
 
     # The label of the filter row and menu inputs
-    filterInputLabel: '{columnName} филтър'
+    filterInputLabel: 'Филтър за {columnName}'
 
     # The title of the filter menu icon
-    filterMenuTitle: '{columnName} филтър меню'
+    filterMenuTitle: 'Меню за филтриране на {columnName}'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} филтър оператори'
+    filterMenuOperatorsDropDownLabel: 'Оператори за филтриране на {columnName}'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: '{columnName} филтър логика'
+    filterMenuLogicDropDownLabel: 'Логика за филтриране на {columnName}'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} меню за настройки на колоната'
-
+    columnMenu: 'Меню за настройки на колоната {columnName}'
