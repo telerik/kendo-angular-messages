@@ -129,9 +129,6 @@ kendo:
     # The label of the sort icon
     sort: Сортирай
 
-    # The title of the column menu icon
-    columnMenu: Настройки на колоната
-
     # The text shown in the column menu for the columns item
     columns: Колони
 
@@ -174,3 +171,17 @@ kendo:
     # The status announcement when a column is no longer sorted
     sortedDefault: Несортирано
 
+    # The label of the filter row and menu inputs
+    filterInputLabel: 'Филтър за {columnName}'
+
+    # The title of the filter menu icon
+    filterMenuTitle: 'Меню за филтриране на {columnName}'
+
+    # The label of the filter menu operators dropdown
+    filterMenuOperatorsDropDownLabel: 'Оператори за филтриране на {columnName}'
+
+    # The label of the filter menu logic dropdown
+    filterMenuLogicDropDownLabel: 'Логика за филтриране на {columnName}'
+
+    # The title of the column menu icon
+    columnMenu: 'Меню за настройки на колоната {columnName}'
