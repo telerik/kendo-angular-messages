@@ -1,5 +1,14 @@
 kendo:
   colorgradient:
+    # The title for the gradient color drag handle chooser
+    colorGradientHandle: Choose color
+
+    # The title for the hue slider handle
+    hueSliderHandle: Set hue
+
+    # The title for the opacity slider handle
+    opacitySliderHandle: Set opacity
+
     # The placeholder for the HEX color value
     hexInputPlaceholder: Color
 
