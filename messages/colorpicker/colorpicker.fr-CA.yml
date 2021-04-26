@@ -1,0 +1,25 @@
+kendo:
+  colorpicker:
+    # The title for the gradient color drag handle chooser
+    colorGradientHandle: Color gradient handle
+
+    # The title for the hue slider handle
+    hueSliderHandle: Hue
+
+    # The title for the opacity slider handle
+    opacitySliderHandle: Opacity
+
+    # The placeholder for the HEX color value
+    hexInputPlaceholder: Color
+
+    # The placeholder for the red color value
+    redInputPlaceholder: R
+
+    # The placeholder for the green color value
+    greenInputPlaceholder: G
+
+    # The placeholder for the blue color value
+    blueInputPlaceholder: B
+
+    # The placeholder for the alpha value
+    alphaInputPlaceholder: A
