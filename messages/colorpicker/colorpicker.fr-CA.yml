@@ -1,13 +1,13 @@
 kendo:
   colorpicker:
     # The title for the gradient color drag handle chooser
-    colorGradientHandle: Color gradient handle
+    colorGradientHandle: Choose color
 
     # The title for the hue slider handle
-    hueSliderHandle: Hue
+    hueSliderHandle: Set hue
 
     # The title for the opacity slider handle
-    opacitySliderHandle: Opacity
+    opacitySliderHandle: Set opacity
 
     # The placeholder for the HEX color value
     hexInputPlaceholder: Color
