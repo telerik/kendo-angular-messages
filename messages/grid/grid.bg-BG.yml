@@ -185,3 +185,9 @@ kendo:
 
     # The title of the column menu icon
     columnMenu: 'Меню за настройки на колоната {columnName}'
+
+    # The labels of the checkbox column checkboxes
+    selectionCheckboxLabel: Чекбокс за селекция на реда
+
+    # The label of the checkbox column select all checkbox
+    selectAllCheckboxLabel: Чекбокс избери всички

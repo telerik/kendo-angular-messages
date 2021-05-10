@@ -87,7 +87,6 @@ kendo:
     # The text of the (All) boolean filter option
     filterBooleanAll: (Všechno)
 
-
     # The text of the after or equal date filter operator
     filterAfterOrEqualOperator: Začíná od
 
@@ -187,3 +186,8 @@ kendo:
     # The title of the column menu icon
     columnMenu: '{columnName} Column Menu'
 
+    # The labels of the checkbox column checkboxes
+    selectionCheckboxLabel: Row Selection Checkbox
+
+    # The label of the checkbox column select all checkbox
+    selectAllCheckboxLabel: Select All Checkbox
