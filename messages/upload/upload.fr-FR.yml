@@ -56,3 +56,60 @@ kendo:
 
     # The header status message when the file upload is paused
     headerStatusPaused: Paused
+fileselect:
+    # The text for the Cancel button
+    cancel: Annuler
+
+    # The text for the Clear button
+    clearSelectedFiles: Supprimer
+
+    # The drop zone hint
+    dropFilesHere: déposer les fichiers à télécharger ici
+
+    # The header status message after file upload completion
+    headerStatusUploaded: Complété
+
+    # The header status message during file upload
+    headerStatusUploading: Téléchargement...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: Type de fichier non autorisé.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: Le fichier est trop volumineux.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: Le fichier est trop petit.
+
+    # The text for the Remove button
+    remove: Retirer
+
+    # The text for the Retry button
+    retry: Réessayer
+
+    # The text for the Select button
+    select: Sélectionner...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: Télécharger des fichiers
+
+    # The external drop zone hint
+    externalDropFilesHere: Drag and drop files here to upload
+
+    # The status message for a batch of files
+    filesBatchStatus: files
+
+    # The status message for a batch of files after failed upload
+    filesBatchStatusFailed: files failed to upload.
+
+    # The status message for a batch of files after successful upload
+    filesBatchStatusUploaded: files successfully uploaded.
+
+    # The file status message after failed upload
+    fileStatusFailed: File failed to upload.
+
+    # The file status message after successful upload
+    fileStatusUploaded: File successfully uploaded.
+
+    # The header status message when the file upload is paused
+    headerStatusPaused: Paused
