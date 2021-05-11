@@ -84,6 +84,9 @@ kendo:
     # The text of the "Is false" filter option
     filterIsFalse: No
 
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (Todas)
+
     # The text of the after or equal date filter operator
     filterAfterOrEqualOperator: Es posterior o igual a
 
@@ -182,3 +185,9 @@ kendo:
 
     # The title of the column menu icon
     columnMenu: '{columnName} Column Menu'
+
+    # The labels of the checkbox column checkboxes
+    selectionCheckboxLabel: Select Row
+
+    # The label of the checkbox column select all checkbox
+    selectAllCheckboxLabel: Select All Rows
