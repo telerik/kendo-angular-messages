@@ -1,25 +1,34 @@
 kendo:
   colorpicker:
+    # The aria-label applied to the ColorGradient component when the value is empty
+    colorGradientNoColor: Colorgradient no color chosen
+
+    # The aria-label applied to the ColorPalette component when the value is empty
+    colorPaletteNoColor: Colorpalette no color chosen
+
     # The title for the gradient color drag handle chooser
-    colorGradientHandle: Избери цвят
+    colorGradientHandle: Choose color
+
+    # The title for the clear button
+    clearButton: Clear value
 
     # The title for the hue slider handle
-    hueSliderHandle: Добави оттенък
+    hueSliderHandle: Set hue
 
     # The title for the opacity slider handle
-    opacitySliderHandle: Добави непрозрачност
+    opacitySliderHandle: Set opacity
 
-    # The placeholder for the HEX color value
-    hexInputPlaceholder: Цвят
+    # The placeholder for the HEX color input
+    hexInputPlaceholder: HEX Color
 
-    # The placeholder for the red color value
+    # The placeholder for the red color input
     redInputPlaceholder: R
 
-    # The placeholder for the green color value
+    # The placeholder for the green color input
     greenInputPlaceholder: G
 
-    # The placeholder for the blue color value
+    # The placeholder for the blue color input
     blueInputPlaceholder: B
 
-    # The placeholder for the alpha value
+    # The placeholder for the alpha input
     alphaInputPlaceholder: A
