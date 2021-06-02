@@ -19,13 +19,13 @@ kendo:
     hexInputPlaceholder: HEX Color
 
     # The placeholder for the red color input
-    redInputPlaceholder: R
+    redInputPlaceholder: Red
 
     # The placeholder for the green color input
-    greenInputPlaceholder: G
+    greenInputPlaceholder: Green
 
     # The placeholder for the blue color input
-    blueInputPlaceholder: B
+    blueInputPlaceholder: Blue
 
     # The placeholder for the alpha input
-    alphaInputPlaceholder: A
+    alphaInputPlaceholder: Alpha
