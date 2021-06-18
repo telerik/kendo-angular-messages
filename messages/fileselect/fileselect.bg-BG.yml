@@ -1,0 +1,19 @@
+kendo:
+  fileselect:
+    # The drop zone hint
+    dropFilesHere: Преместете с мишката файлове тук, за да ги качите
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: Този тип файл не е разрешен.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: Размерът на файла е твърде голям.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: Размерът на файла е твърде малък.
+
+    # The text for the Remove button
+    remove: Премахни
+
+    # The text for the Select button
+    select: Избери...
