@@ -6,7 +6,8 @@
   "scripts": {
     "lint": "gulp lint",
     "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post",
-    "seed-messages": "sh ./tools/seed-messages.sh"
+    "seed-messages": "sh ./tools/seed-messages.sh",
+    "append-message": "sh ./tools/append-message.sh"
   },
   "bin": {
     "kendo-translate": "./bin/kendo-translate.js"
