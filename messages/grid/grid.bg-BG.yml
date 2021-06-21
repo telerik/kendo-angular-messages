@@ -193,4 +193,4 @@ kendo:
     selectAllCheckboxLabel: Селектирай всички редове
 
     # The label of the Grid pager
-    pagerLabel: 'Пейджър страница {currentPage} от {totalPages}'
+    pagerLabel: 'Навигация, страница {currentPage} от {totalPages}'
