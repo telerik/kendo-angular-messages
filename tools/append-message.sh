@@ -1,7 +1,6 @@
 #!/usr/bin/env sh
 
 COMPONENT=$1
-REFERENCE="messages/grid"
 
 if [ ! $# -eq 1 ]; then
   echo "
