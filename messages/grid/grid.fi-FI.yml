@@ -192,3 +192,5 @@ kendo:
     # The label of the checkbox column select all checkbox
     selectAllCheckboxLabel: Select All Rows
 
+    # The label of the Grid pager
+    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
