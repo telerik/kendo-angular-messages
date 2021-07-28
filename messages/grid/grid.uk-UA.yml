@@ -194,3 +194,6 @@ kendo:
 
     # The label of the Grid pager
     pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+
+    # The label of the Grid
+    gridLabel: Data table
