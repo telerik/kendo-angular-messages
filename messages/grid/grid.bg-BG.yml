@@ -195,5 +195,5 @@ kendo:
     # The label of the Grid pager
     pagerLabel: 'Навигация, страница {currentPage} от {totalPages}'
 
-    # The label of the Grid
+    # The Grid aria-label
     gridLabel: Таблица с данни
