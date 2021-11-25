@@ -126,9 +126,6 @@ kendo:
     # The loading text
     loading: Laddar
 
-    # The label of the sort icon
-    sort: Sortera
-
     # The text shown in the column menu for the columns item
     columns: Kolumner
 
@@ -197,3 +194,15 @@ kendo:
 
     # The Grid aria-label
     gridLabel: Data table
+
+    # The text of the title and aria-label attributes applied to the collapse icon of group rows.
+    groupCollapse: Collapse Group
+
+    # The text of the title and aria-label attributes applied to the expand icon of group rows.
+    groupExpand: Expand Group
+
+    # The title of the collapse icon of detail rows.
+    detailCollapse: Collapse Details
+
+    # The title of the expand icon of detail rows.
+    detailExpand: Expand Details
