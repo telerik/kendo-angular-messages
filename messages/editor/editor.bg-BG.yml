@@ -149,3 +149,9 @@ kendo:
 
     # The title of the tool that deletes a table.
     deleteTable: Изтрий таблица
+
+    # The title of the tool that selects the editor's content.
+    selectAll: Избери всичко
+
+    # The title of the tool that prints the editor's content.
+    print: Отпечатай
