@@ -16,7 +16,7 @@ kendo:
     taskEditingDependenciesRemoveButtonText: Remove
 
     # The title of the "Name" Grid column in the dependencies tabs of the editing dialog TabStrip
-    taskEditingDependenciesGridNameColumnTitle: Name
+    taskEditingDependenciesGridNameColumnTitle: Task Title
 
     # The title of the "Type" Grid column in the dependencies tabs of the editing dialog TabStrip
     taskEditingDependenciesGridTypeColumnTitle: Type

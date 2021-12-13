@@ -15,8 +15,8 @@ kendo:
     # The text of the "Remove" button in the dependencies tabs of the editing dialog TabStrip
     taskEditingDependenciesRemoveButtonText: Премахни
 
-    # The title of the "Name" Grid column in the dependencies tabs of the editing dialog TabStrip
-    taskEditingDependenciesGridNameColumnTitle: Задача
+    # The title of the "Task Title" Grid column in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesGridNameColumnTitle: Заглавие на задачата
 
     # The title of the "Type" Grid column in the dependencies tabs of the editing dialog TabStrip
     taskEditingDependenciesGridTypeColumnTitle: Тип
