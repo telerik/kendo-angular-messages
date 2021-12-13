@@ -79,10 +79,10 @@ kendo:
     filterLtOperator: Е по-малко от
 
     # The text of the "Is true" filter option
-    filterIsTrue: е вярно
+    filterIsTrue: Вярно
 
     # The text of the "Is false" filter option
-    filterIsFalse: не е вярно
+    filterIsFalse: Невярно
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (Всички)
