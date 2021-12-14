@@ -1,37 +1,91 @@
 kendo:
-  treelist:
-    # The label visible in the Grid group panel when it is empty
-    groupPanelEmpty: Дръпни колона и я пусни тук, за да групираш
+  gantt:
+    # The title of the "General" tab of the editing dialog TabStrip
+    taskEditingGeneralTabTitle: Основни данни
 
-    # The label visible in the Grid when there are no records
+    # The title of the "Predecessors" dependencies tab of the editing dialog TabStrip
+    taskEditingPredecessorsTabTitle: Предшестващи задачи
+
+    # The title of the "Successors" dependencies tab of the editing dialog TabStrip
+    taskEditingSuccessorsTabTitle: Последващи задачи
+
+    # The text of the "Add" button in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesAddButtonText: Добави
+
+    # The text of the "Remove" button in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesRemoveButtonText: Премахни
+
+    # The title of the "Task Title" Grid column in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesGridNameColumnTitle: Заглавие на задачата
+
+    # The title of the "Type" Grid column in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesGridTypeColumnTitle: Тип
+
+    # The text of the task editing dialog "Delete" button
+    deleteButtonText: Изтрий
+
+    # The label for the task delete button
+    taskDeleteLabel: Изтрий
+
+    # The title of the task editing dialog
+    taskEditingDialogTitle: Редактиране на задача
+
+    # The title of the task editing dialog close button
+    taskEditingDialogCloseTitle: Затвори
+
+    # The title of the confirmation dialog close button
+    confirmationDialogCloseTitle: Затвори
+
+    # The title of the delete task confirmation dialog
+    confirmationDialogTitle: Изтрий задача
+
+    # The text of the DropDownButton in the AddTask component
+    addTaskText: Добави задача
+
+    # The text of the "Add Child" option in the AddTask component
+    addChildText: Добави дете
+
+    # The text of the "Add Above" option in the AddTask component
+    addAboveText: Добави отгоре
+
+    # The text of the "Add Below" option in the AddTask component
+    addBelowText: Добави отдолу
+
+    # The text of the task editing dialog "Cancel" button
+    cancelButtonText: Откажи
+
+    # The text of the task editing dialog "Save" button
+    saveButtonText: Запази
+
+    # The label of the "title" field input in editing mode
+    titleFieldInputLabel: Заглавие
+
+    # The label of the "start" field input in editing mode
+    startFieldInputLabel: Начало
+
+    # The label of the "end" field input in editing mode
+    endFieldInputLabel: Край
+
+    # The label of the "completionRatio" field input in editing mode
+    completionRatioFieldInputLabel: Завършеност
+
+    # The content of the delete task confirmation dialog
+    confirmationDialogContent: Наистина ли искате да изтриете задачата?
+
+    # The text of the day view in the ViewSelector component
+    dayViewText: Ден
+
+    # The text of the week view in the ViewSelector component
+    weekViewText: Седмица
+
+    # The text of the month view in the ViewSelector component
+    monthViewText: Месец
+
+    # The text of the year view in the ViewSelector component
+    yearViewText: Година
+
+    # The label visible in the Gantt TreeList pane when there are no records
     noRecords: Няма налични записи.
-
-    # The label for the first page button in Grid pager
-    pagerFirstPage: Към първата страница
-
-    # The label for the previous page button in Grid pager
-    pagerPreviousPage: Към предишната страница
-
-    # The label for the next page button in Grid pager
-    pagerNextPage: Към следващата страница
-
-    # The label for the last page button in Grid pager
-    pagerLastPage: Към последната страница
-
-    # The label before the current page number in the Grid pager
-    pagerPage: Страница
-
-    # The label before the total pages number in the Grid pager
-    pagerOf: от
-
-    # The label after the total items count in the TreeList pager
-    pagerItemsTotal: записа
-
-    # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: записи на страница
-
-    # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Номер на страница
 
     # The label of the filter cell or icon
     filter: Филтър
@@ -114,9 +168,6 @@ kendo:
     # The loading text
     loading: Зареждане
 
-    # The label of the sort icon
-    sort: Сортирай
-
     # The title of the column menu icon
     columnMenu: Меню за настройки на колоната
 
@@ -152,4 +203,3 @@ kendo:
 
     # The status announcement when a column is no longer sorted
     sortedDefault: Несортирано
-

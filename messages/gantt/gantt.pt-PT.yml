@@ -1,0 +1,205 @@
+kendo:
+  gantt:
+    # The title of the "General" tab of the editing dialog TabStrip
+    taskEditingGeneralTabTitle: General
+
+    # The title of the "Predecessors" dependencies tab of the editing dialog TabStrip
+    taskEditingPredecessorsTabTitle: Predecessors
+
+    # The title of the "Successors" dependencies tab of the editing dialog TabStrip
+    taskEditingSuccessorsTabTitle: Successors
+
+    # The text of the "Add" button in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesAddButtonText: Add
+
+    # The text of the "Remove" button in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesRemoveButtonText: Remove
+
+    # The title of the "Name" Grid column in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesGridNameColumnTitle: Task Title
+
+    # The title of the "Type" Grid column in the dependencies tabs of the editing dialog TabStrip
+    taskEditingDependenciesGridTypeColumnTitle: Type
+
+    # The text of the task editing dialog "Delete" button
+    deleteButtonText: Delete
+
+    # The label for the task delete button
+    taskDeleteLabel: Delete
+
+    # The title of the task editing dialog
+    taskEditingDialogTitle: Editing Task
+
+    # The title of the task editing dialog close button
+    taskEditingDialogCloseTitle: Close
+
+    # The title of the confirmation dialog close button
+    confirmationDialogCloseTitle: Close
+
+    # The title of the delete task confirmation dialog
+    confirmationDialogTitle: Delete Task
+
+    # The text of the DropDownButton in the AddTask component
+    addTaskText: Add Task
+
+    # The text of the "Add Child" option in the AddTask component
+    addChildText: Add Child
+
+    # The text of the "Add Above" option in the AddTask component
+    addAboveText: Add Above
+
+    # The text of the "Add Below" option in the AddTask component
+    addBelowText: Add Below
+
+    # The text of the task editing dialog "Cancel" button
+    cancelButtonText: Cancel
+
+    # The text of the task editing dialog "Save" button
+    saveButtonText: Save
+
+    # The label of the "title" field input in editing mode
+    titleFieldInputLabel: Title
+
+    # The label of the "start" field input in editing mode
+    startFieldInputLabel: Start
+
+    # The label of the "end" field input in editing mode
+    endFieldInputLabel: End
+
+    # The label of the "completionRatio" field input in editing mode
+    completionRatioFieldInputLabel: Progress
+
+    # The content of the delete task confirmation dialog
+    confirmationDialogContent: Are you sure you want to delete this task?
+
+    # The text of the day view in the ViewSelector component
+    dayViewText: Day
+
+    # The text of the week view in the ViewSelector component
+    weekViewText: Week
+
+    # The text of the month view in the ViewSelector component
+    monthViewText: Month
+
+    # The text of the year view in the ViewSelector component
+    yearViewText: Year
+
+    # The label visible in the Grid when there are no records
+    noRecords: No records available.
+
+    # The label of the filter cell or icon
+    filter: Filter
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Is equal to
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Is not equal to
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: Is null
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: Is not null
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: Is empty
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: Is not empty
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Starts with
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Contains
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Does not contain
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Ends with
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: Is greater than or equal to
+
+    # The text of the "greater than" filter operator
+    filterGtOperator: Is greater than
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: Is less than or equal to
+
+    # The text of the "less than" filter operator
+    filterLtOperator: Is less than
+
+    # The text of the "Is true" filter option
+    filterIsTrue: is true
+
+    # The text of the "Is false" filter option
+    filterIsFalse: is false
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (All)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: Is after or equal to
+
+    # The text of the after date filter operator
+    filterAfterOperator: Is after
+
+    # The text of the before date filter operator
+    filterBeforeOperator: Is before
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: Is before or equal to
+
+    # The text of the "filter button"
+    filterFilterButton: Filter
+
+    # The text of the "clear filter button"
+    filterClearButton: Clear
+
+    # The text of the "And" filter logic
+    filterAndLogic: And
+
+    # The text of the "Or" filter logic
+    filterOrLogic: Or
+
+    # The loading text
+    loading: Loading
+
+    # The title of the column menu icon
+    columnMenu: Column Menu
+
+    # The text shown in the column menu for the columns item
+    columns: Columns
+
+    # The text shown in the column menu for the lock item
+    lock: Lock
+
+    # The text shown in the column menu for the unlock item
+    unlock: Unlock
+
+    # The text shown in the column menu for the sort ascending item
+    sortAscending: Sort Ascending
+
+    # The text shown in the column menu for the sort descending item
+    sortDescending: Sort Descending
+
+    # The text shown in the column menu or column chooser for the columns apply button
+    columnsApply: Apply
+
+    # The text shown in the column menu or column chooser for the columns reset button
+    columnsReset: Reset
+
+    # The label of the sort icon
+    sortable: Sortable
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: Sorted ascending
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: Sorted descending
+
+    # The status announcement when a column is no longer sorted
+    sortedDefault: Not sorted
