@@ -1,157 +1,157 @@
 kendo:
   editor:
     # The title of the tool that aligns text in the center.
-    alignCenter: Center text
+    alignCenter: Centrera
 
     # The title of the tool that justifies text both left and right.
-    alignJustify: Justify
+    alignJustify: Marginaljustera
 
     # The title of the tool that aligns text on the left.
-    alignLeft: Align text left
+    alignLeft: Vänsterjustera
 
     # The title of the tool that aligns text on the right.
-    alignRight: Align text right
+    alignRight: Högerjustera
 
     # The title of the tool that changes the text background color.
-    backColor: Background color
+    backColor: Bakgrundsfärg
 
     # The title of the tool that makes text bold.
-    bold: Bold
+    bold: Fet
 
     # The title of the Clean Formatting tool.
-    cleanFormatting: Clean formatting
+    cleanFormatting: Radera formattering
 
     # The title of the tool that creates hyperlinks.
-    createLink: Insert link
+    createLink: Infoga länk
 
     # The label of the **Apply** button in all editor dialogs.
-    dialogApply: Apply
+    dialogApply: Tillämpa
 
     # The label of the **Cancel** button in all editor dialogs.
-    dialogCancel: Cancel
+    dialogCancel: Avbryt
 
     # The label of the **Insert** button in all editor dialogs.
-    dialogInsert: Insert
+    dialogInsert: Infoga
 
     # The label of the **Update** button in all editor dialogs.
-    dialogUpdate: Update
+    dialogUpdate: Uppdatera
 
     # The caption for the file text in the insertFile dialog.
     fileText: Text
 
     # The caption for the file Title in the insertFile dialog.
-    fileTitle: Title
+    fileTitle: Titel
 
     # The caption for the file URL in the insertFile dialog.
-    fileWebAddress: Web address
+    fileWebAddress: Webbadress
 
     # The title of the tool that changes the text font.
-    fontFamily: Select font family
+    fontFamily: Välj teckensnitt
 
     # The title of the tool that changes the text size.
-    fontSize: Select font size
+    fontSize: Välj teckenstorlek
 
     # The title of the tool that changes the text color.
-    foreColor: Color
+    foreColor: Färg
 
     # The title of the tool that lets users choose block formats.
     format: Format
 
     # The caption for the image alternate text in the insertImage dialog.
-    imageAltText: Alternate text
+    imageAltText: Alternativ text
 
     # The caption for the image height in the insertImage dialog.
-    imageHeight: Height (px)
+    imageHeight: Höjd (px)
 
     # The caption for the image URL in the insertImage dialog.
-    imageWebAddress: Web address
+    imageWebAddress: Webbadress
 
     # The caption for the image width in the insertImage dialog.
-    imageWidth: Width (px)
+    imageWidth: Bredd (px)
 
     # The title of the tool that indents the content.
-    indent: Indent
+    indent: Öka indrag
 
     # The title of the tool that inserts links to files.
-    insertFile: Insert file
+    insertFile: Infoga fil
 
     # The title of the tool that inserts images.
-    insertImage: Insert image
+    insertImage: Infoga bild
 
     # The title of the tool that inserts an ordered list.
-    insertOrderedList: Insert ordered list
+    insertOrderedList: Infoga ordnad lista
 
     # The title of the tool that inserts an unordered list.
-    insertUnorderedList: Insert unordered list
+    insertUnorderedList: Infoga oordnad lista
 
     # The title of the tool that makes text italicized.
-    italic: Italic
+    italic: Kursiv
 
     # The caption for the checkbox for opening the link in a new window in the createLink dialog.
-    linkOpenInNewWindow: Open link in new window
+    linkOpenInNewWindow: Öppna länk i nytt fönster
 
     # The caption for the link text in the createLink dialog.
     linkText: Text
 
     # The caption for the link title in the createLink dialog.
-    linkTitle: Title
+    linkTitle: Titel
 
     # The caption for the URL in the createLink dialog.
-    linkWebAddress: Web address
+    linkWebAddress: Webbadress
 
     # The title of the tool that outdents the content.
-    outdent: Outdent
+    outdent: Minska indrag
 
     # The title of the tool that undos the last action.
-    redo: Redo
+    redo: Gör om
 
     # The title of the tool that strikes through text.
-    strikethrough: Strikethrough
+    strikethrough: Genomstruken
 
     # The title of the tool that makes text subscript.
-    subscript: Subscript
+    subscript: Nedsänkt
 
     # The title of the tool that makes text superscript.
-    superscript: Superscript
+    superscript: Upphöjd
 
     # The title of the tool that underlines text.
-    underline: Underline
+    underline: Understruken
 
     # The title of the tool that removes hyperlinks.
-    unlink: Remove Link
+    unlink: Ta bort länk
 
     # The title of the tool that undos the last action.
-    undo: Undo
+    undo: Ångra
 
     # The title of the tool that shows the editor value as HTML.
-    viewSource: View source
+    viewSource: Visa källa
 
     # The title of the tool that inserts table.
-    insertTable: Insert Table
+    insertTable: Infoga tabell
 
     # The title of the tool that adds new column before currently selected column.
-    addColumnBefore: Add column before
+    addColumnBefore: Infoga kolumn före
 
     # The title of the tool that adds new column after currently selected column.
-    addColumnAfter: Add column after
+    addColumnAfter: Infoga kolumn efter
 
     # The title of the tool that adds new row before currently selected row.
-    addRowBefore: Add row before
+    addRowBefore: Infoga rad före
 
     # The title of the tool that adds new row after currently selected row.
-    addRowAfter: Add row after
+    addRowAfter: Infoga rad efter
 
     # The title of the tool that deletes a table column.
-    deleteColumn: Delete column
+    deleteColumn: Ta bort kolumn
 
     # The title of the tool that deletes a table row.
-    deleteRow: Delete row
+    deleteRow: Ta bort rad
 
     # The title of the tool that deletes a table.
-    deleteTable: Delete table
+    deleteTable: Ta bort tabell
 
     # The title of the tool that selects the editor's content.
-    selectAll: Select All
+    selectAll: Välj alla
 
     # The title of the tool that prints the editor's content.
-    print: Print
+    print: Skriv ut
