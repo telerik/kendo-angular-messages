@@ -31,7 +31,7 @@ kendo:
     pagerItemsPerPage: poster per sida
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Sidnummer
 
     # The label of the filter cell or icon
     filter: Filter
@@ -112,7 +112,7 @@ kendo:
     filterOrLogic: Eller
 
     # The title of the Toggle button of the Date filter.
-    filterDateToggle: Toggle calendar
+    filterDateToggle: Växla kalender
 
     # The text of the Today button of the Date filter.
     filterDateToday: Idag
@@ -136,13 +136,13 @@ kendo:
     unlock: Lås upp
 
     # The text shown in the column menu for the stick item
-    stick: Stick
+    stick: Fäst
 
     # The text shown in the column menu for the unstick item
-    unstick: Unstick
+    unstick: Frigör
 
     # The text shown in the column menu for the set column position item
-    setColumnPosition: Set Column Position
+    setColumnPosition: Ange kolumnposition
 
     # The text shown in the column menu for the sort ascending item
     sortAscending: Sortera Stigande
@@ -157,16 +157,16 @@ kendo:
     columnsReset: Återställ
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Sorterbar
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Sortera stigande
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Sortera fallande
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Ej sorterad
 
     # The label of the filter row and menu inputs
     filterInputLabel: '{columnName} Filter'
@@ -175,34 +175,34 @@ kendo:
     filterMenuTitle: '{columnName} Filter Menu'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operatorer'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
+    filterMenuLogicDropDownLabel: '{columnName} Filter Logik'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Column Menu'
+    columnMenu: '{columnName} Kolumn Menu'
 
     # The labels of the checkbox column checkboxes
-    selectionCheckboxLabel: Select Row
+    selectionCheckboxLabel: Välj rad
 
     # The label of the checkbox column select all checkbox
-    selectAllCheckboxLabel: Select All Rows
+    selectAllCheckboxLabel: Välj alla rader
 
     # The label of the Grid pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Sidnavigering, sida {currentPage} av {totalPages}'
 
     # The Grid aria-label
-    gridLabel: Data table
+    gridLabel: Data tabell
 
     # The text of the title and aria-label attributes applied to the collapse icon of group rows.
-    groupCollapse: Collapse Group
+    groupCollapse: Minimera Grupp
 
     # The text of the title and aria-label attributes applied to the expand icon of group rows.
-    groupExpand: Expand Group
+    groupExpand: Expandera Grupp
 
     # The title of the collapse icon of detail rows.
-    detailCollapse: Collapse Details
+    detailCollapse: Minimera Detaljer
 
     # The title of the expand icon of detail rows.
-    detailExpand: Expand Details
+    detailExpand: Expandera Detaljer
