@@ -1,0 +1,76 @@
+kendo:
+  filter:
+    # The text of the Filter Group `Add Expression` button.
+    addExpression: Add Expression
+    # The text of the Filter Group `Add Group` button.
+    addGroup: Add Group
+    # The text of the `Remove` button.
+    remove: Remove
+    # The text of the Today button of the Filter Expression date editor.
+    editorDateTodayText: Today
+    # The title of the Toggle button of the Filter Expression date editor.
+    editorDateToggleText: Toggle calendar
+    # The title of the Decrement button of the Filter Expression numeric editor.
+    editorNumericDecrement: Decrement
+    # The title of the Increment button of the Filter Expression numeric editor.
+    editorNumericIncrement: Increment
+    # The text of the `After` date Filter Expression operator.
+    filterAfterOperator: Is After
+    # The text of the `AfterOrEqualTo` date Filter Expression operator.
+    filterAfterOrEqualOperator: Is after or equal to
+    # The text of the `And` Filter Group logic.
+    filterAndLogic: And
+    # The text of the `Before` date Filter Expression operator.
+    filterBeforeOperator: Is before
+    # The text of the `BeforeOrEqualTo` date Filter Expression operator.
+    filterBeforeOrEqualOperator: Is before or equal to
+    # The text of the `(All)` boolean Filter Expression option.
+    filterBooleanAll: (All)
+    # The text of the `Contains` Filter Expression operator.
+    filterContainsOperator: Contains
+    # The text of the `EndsWith` string Filter Expression operator.
+    filterEndsWithOperator: Ends with
+    # The text of the `Equal` Filter Expression operator.
+    filterEqOperator: Is equal to
+    # The text of the Filter Expression `filters` drop down title.
+    filterExpressionFilters: Filters
+    # The text of the Filter Expression `operators` drop down title.
+    filterExpressionOperators: Operators
+    # The text of the `Greater` numeric Filter Expression operator.
+    filterGtOperator: Is greater than
+    # The text of the `GreaterOrEqualTo` numeric Filter Expression operator.
+    filterGteOperator: Is greater than or equal to
+    # The text of the `IsEmpty` Filter Expression operator.
+    filterIsEmptyOperator: Is empty
+    # The text of the `IsFalse` boolean Filter Expression option.
+    filterIsFalse: Is False
+    # The text of the `IsTrue` boolean Filter Expression option.
+    filterIsTrue: Is True
+    # The text of the `IsNotEmpty` Filter Expression operator.
+    filterIsNotEmptyOperator: Is not empty
+    # The text of the `IsNotNull` Filter Expression operator.
+    filterIsNotNullOperator: Is not null
+    # The text of the `IsNull` Filter Expression operator.
+    filterIsNullOperator: Is null
+    # The text of the `Less` numeric Filter Expression operator.
+    filterLtOperator: Is less than
+    # The text of the `LessOrEqualTo` numeric Filter Expression operator.
+    filterLteOperator: Is less than or equal to
+    # The text of the `DoesNotContain` Filter Expression operator.
+    filterNotContainsOperator: Does not contain
+    # The text of the `NotEqual` Filter Expression operator.
+    filterNotEqOperator: Is not equal to
+    # The text of the `Or` Filter Group logic.
+    filterOrLogic: Or
+    # The text of the `StartsWith` Filter Expression operator.
+    filterStartsWithOperator: Starts with
+    # The text of the filter field aria label.
+    filterFieldAriaLabel: field
+    # The text of the filter operator aria label.
+    filterOperatorAriaLabel: operator
+    # The text of the filter value aria label.
+    filterValueAriaLabel: value
+    # The text of the filter row aria label.
+    filterAriaLabel: filter
+    # The text of the filter group aria label.
+    filterToolbarAriaLabel: filter settings
