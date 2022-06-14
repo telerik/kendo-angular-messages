@@ -321,3 +321,5 @@ kendo:
 
     # The work week view title.
     workWeekViewTitle: Pracovní týden
+    # The text of the select element for choosing a view
+    selectView: Select View
