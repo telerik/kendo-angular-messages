@@ -322,5 +322,5 @@ kendo:
     # The work week view title.
     workWeekViewTitle: Work Week
 
-    # The text of the select element for choosing a view
+    # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
     selectView: Избери изглед
