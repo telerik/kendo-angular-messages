@@ -1,10 +1,10 @@
 kendo:
   timepicker:
     # The text of the Accept button in the popup footer of the TimeList.
-    accept: Set
+    accept: Imposta
 
     # The label of the Accept button in the popup footer of the TimeList.
-    acceptLabel: Set
+    acceptLabel: Imposta
 
     # The text of the Cancel button in the popup footer of the TimeList.
     cancel: Annulla
@@ -19,4 +19,4 @@ kendo:
     nowLabel: Adesso
 
     # The label for the toggle button in the timepicker component
-    toggle: Selezionare il time list
+    toggle: Imposta l'orario

@@ -1,31 +1,31 @@
 kendo:
   colorgradient:
     # The aria-label applied to the ColorGradient component when the value is empty
-    colorGradientNoColor: Colorgradient no color chosen
+    colorGradientNoColor: Colorgradient nessun colore selezionato
 
     # The title for the gradient color drag handle chooser
-    colorGradientHandle: Choose color
+    colorGradientHandle: Scegli un colore
 
     # The title for the clear button
-    clearButton: Clear value
+    clearButton: Cancella il valore
 
     # The title for the hue slider handle
-    hueSliderHandle: Set hue
+    hueSliderHandle: Imposta la hue
 
     # The title for the opacity slider handle
-    opacitySliderHandle: Set opacity
+    opacitySliderHandle: Imposta l'opacità
 
     # The placeholder for the HEX color input
-    hexInputPlaceholder: HEX Color
+    hexInputPlaceholder: Colore HEX
 
     # The placeholder for the red color input
-    redInputPlaceholder: Red
+    redInputPlaceholder: Rosso
 
     # The placeholder for the green color input
-    greenInputPlaceholder: Green
+    greenInputPlaceholder: Verde
 
     # The placeholder for the blue color input
-    blueInputPlaceholder: Blue
+    blueInputPlaceholder: Blu
 
     # The placeholder for the alpha input
     alphaInputPlaceholder: Alpha

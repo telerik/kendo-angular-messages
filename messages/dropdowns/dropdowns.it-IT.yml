@@ -28,20 +28,20 @@ kendo:
 
   dropdowntree:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nessun dato trovato
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: cancella
 
     # The text set as aria-label on the select button"
     selectButtonText: Seleziona
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nessun dato trovato
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: cancella
 
   multiselect:
     # The text displayed in the popup when there are no items

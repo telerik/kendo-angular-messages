@@ -169,40 +169,40 @@ kendo:
     sortedDefault: Non ordinato
 
     # The label of the filter row and menu inputs
-    filterInputLabel: '{columnName} Filter'
+    filterInputLabel: 'Filtro {columnName}'
 
     # The title of the filter menu icon
-    filterMenuTitle: '{columnName} Filter Menu'
+    filterMenuTitle: 'Menù filtro {columnName}'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+    filterMenuOperatorsDropDownLabel: 'Operatori filtro {columnName}'
 
     # The label of the filter menu logic dropdown
     filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Column Menu'
+    columnMenu: 'Menù colonna {columnName}'
 
     # The labels of the checkbox column checkboxes
-    selectionCheckboxLabel: Select Row
+    selectionCheckboxLabel: Seleziona la riga
 
     # The label of the checkbox column select all checkbox
-    selectAllCheckboxLabel: Select All Rows
+    selectAllCheckboxLabel: Seleziona tutte le righe
 
     # The label of the Grid pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Page navigation, pagina {currentPage} di {totalPages}'
 
     # The Grid aria-label
-    gridLabel: Data table
+    gridLabel: Tabella dati
 
     # The text of the title and aria-label attributes applied to the collapse icon of group rows.
-    groupCollapse: Collapse Group
+    groupCollapse: Riduci il gruppo
 
     # The text of the title and aria-label attributes applied to the expand icon of group rows.
-    groupExpand: Expand Group
+    groupExpand: Espandi il gruppo
 
     # The title of the collapse icon of detail rows.
-    detailCollapse: Collapse Details
+    detailCollapse: Riduci i dettagli
 
     # The title of the expand icon of detail rows.
-    detailExpand: Expand Details
+    detailExpand: Espandi i dettagli
