@@ -2,6 +2,8 @@ kendo:
   filter:
     # The text of the Filter Group `Add Expression` button.
     addExpression: Add Expression
+    # The text of the Add Filter button
+    addFilter: Add Filter
     # The text of the Filter Group `Add Group` button.
     addGroup: Add Group
     # The text of the `Remove` button.
