@@ -4,7 +4,17 @@ kendo:
     today: Oggi
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Vai alla vista precedente
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Vai alla vista successiva
+  
+  multiviewcalendar:
+    # The label for the today button in the calendar header
+    today: Oggi
+
+    # The label for the previous button in the Multiview calendar
+    prevButtonTitle: Vai alla vista precedente
+
+    # The label for the next button in the Multiview calendar
+    nextButtonTitle: Vai alla vista successiva
