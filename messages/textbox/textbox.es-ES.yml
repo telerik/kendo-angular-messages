@@ -2,3 +2,6 @@ kendo:
   textbox:
     # The title of the clear button
     clearTitle: Borrar
+
+    # The title for the **Clear** button in the TextBox.
+    clear: Clear
