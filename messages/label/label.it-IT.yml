@@ -1,0 +1,8 @@
+kendo:
+  label:
+    # The text for the optional segment of a Label component
+    optional: Facoltativo
+  
+  floatinglabel:
+    # The text for the optional segment of a FloatingLabel component
+    optional: Facoltativo
