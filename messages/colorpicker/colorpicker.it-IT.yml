@@ -1,34 +1,64 @@
 kendo:
   colorpicker:
     # The aria-label applied to the ColorGradient component when the value is empty
-    colorGradientNoColor: Colorgradient no color chosen
+    colorGradientNoColor: Colorgradient nessun colore scelto
 
     # The aria-label applied to the ColorPalette component when the value is empty
-    colorPaletteNoColor: Colorpalette no color chosen
+    colorPaletteNoColor: Colorpalette nessun colore scelto
+
+    # The aria-label applied to the ColorPicker component when the value is empty
+    colorPickerNoColor: Colorpicker nessun colore scelto
+
+    # The aria-label applied to the FlatColorPicker component when the value is empty
+    flatColorPickerNoColor: Flatcolorpicker nessun colore scelto
 
     # The title for the gradient color drag handle chooser
-    colorGradientHandle: Choose color
+    colorGradientHandle: Scegli un colore
 
     # The title for the clear button
-    clearButton: Clear value
+    clearButton: Cancella il valore
 
     # The title for the hue slider handle
-    hueSliderHandle: Set hue
+    hueSliderHandle: Imposta la hue
 
     # The title for the opacity slider handle
-    opacitySliderHandle: Set opacity
+    opacitySliderHandle: Imposta l'opacità
+
+    # The contrast ratio message for the contrast tool
+    contrastRatio: Rapporto di contrasto
 
     # The placeholder for the HEX color input
-    hexInputPlaceholder: HEX Color
+    hexInputPlaceholder: Colore HEX
 
     # The placeholder for the red color input
-    redInputPlaceholder: Red
+    redInputPlaceholder: Rosso
 
     # The placeholder for the green color input
-    greenInputPlaceholder: Green
+    greenInputPlaceholder: Verde
 
     # The placeholder for the blue color input
-    blueInputPlaceholder: Blue
+    blueInputPlaceholder: Blu
 
     # The placeholder for the alpha input
     alphaInputPlaceholder: Alpha
+
+    # The message for the selected color pane
+    revertSelection: Ripristina la selezione
+
+    # The message for the color preview pane
+    previewColor: Anteprima del colore
+
+    # The message for the gradient view button
+    gradientView: Vista gradiente
+
+    # The message for the palette view button
+    paletteView: Vista palette
+
+    # The message for the input format toggle button
+    formatButton: Cambia formato del colore
+
+    # The message for the Apply action button
+    applyButton: Applica
+
+    # The message for the Cancel action button
+    cancelButton: Annulla
