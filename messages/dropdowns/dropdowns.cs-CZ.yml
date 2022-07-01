@@ -13,6 +13,9 @@ kendo:
     # The title of the clear button
     clearTitle: vymazat
 
+    # The text set as aria-label on the select button"
+    selectButtonText: Select
+
   dropdownlist:
     # The text displayed in the popup when there are no items
     noDataText: Nenalezena žádná data
@@ -20,12 +23,18 @@ kendo:
     # The title of the clear button
     clearTitle: vymazat
 
+    # The text set as aria-label on the select button"
+    selectButtonText: Select
+
   dropdowntree:
     # The text displayed in the popup when there are no items
     noDataText: Nenalezena žádná data
 
     # The title of the clear button
     clearTitle: vymazat
+
+    # The text set as aria-label on the select button"
+    selectButtonText: Select
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
