@@ -145,13 +145,13 @@ kendo:
     deleteColumn: Cancella colonna
 
     # The title of the tool that deletes a table row.
-    deleteRow: Delete row
+    deleteRow: Cancella riga
 
     # The title of the tool that deletes a table.
-    deleteTable: Delete table
+    deleteTable: Cancella tabella
 
     # The title of the tool that selects the editor's content.
-    selectAll: Select All
+    selectAll: Seleziona tutto
 
     # The title of the tool that prints the editor's content.
-    print: Print
+    print: Stampa

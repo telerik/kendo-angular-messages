@@ -1,4 +1,4 @@
 kendo:
   colorpalette:
     # The aria-label applied to the ColorPalette component when the value is empty
-    colorPaletteNoColor: Colorpalette no color chosen
+    colorPaletteNoColor: Colorpalette nessun colore scelto

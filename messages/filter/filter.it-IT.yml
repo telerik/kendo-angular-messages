@@ -21,7 +21,7 @@ kendo:
     # The text of the `AfterOrEqualTo` date Filter Expression operator.
     filterAfterOrEqualOperator: È dopo o uguale a
     # The text of the `And` Filter Group logic.
-    filterAndLogic: And
+    filterAndLogic: E
     # The text of the `Before` date Filter Expression operator.
     filterBeforeOperator: È prima
     # The text of the `BeforeOrEqualTo` date Filter Expression operator.
@@ -31,7 +31,7 @@ kendo:
     # The text of the `Contains` Filter Expression operator.
     filterContainsOperator: Contiene
     # The text of the `EndsWith` string Filter Expression operator.
-    filterEndsWithOperator: Termina con
+    filterEndsWithOperator: Finisce con
     # The text of the `Equal` Filter Expression operator.
     filterEqOperator: È uguale a
     # The text of the Filter Expression `filters` drop down title.
@@ -39,31 +39,31 @@ kendo:
     # The text of the Filter Expression `operators` drop down title.
     filterExpressionOperators: Operatori
     # The text of the `Greater` numeric Filter Expression operator.
-    filterGtOperator: È maggiore di
+    filterGtOperator: È più grande di
     # The text of the `GreaterOrEqualTo` numeric Filter Expression operator.
-    filterGteOperator: È maggiore o uguale a
+    filterGteOperator: È più grande o uguale a
     # The text of the `IsEmpty` Filter Expression operator.
     filterIsEmptyOperator: È vuoto
     # The text of the `IsFalse` boolean Filter Expression option.
-    filterIsFalse: È False
+    filterIsFalse: È vero
     # The text of the `IsTrue` boolean Filter Expression option.
-    filterIsTrue: È True
+    filterIsTrue: È falso
     # The text of the `IsNotEmpty` Filter Expression operator.
     filterIsNotEmptyOperator: Non è vuoto
     # The text of the `IsNotNull` Filter Expression operator.
-    filterIsNotNullOperator: Non è null
+    filterIsNotNullOperator: Non è nullo
     # The text of the `IsNull` Filter Expression operator.
-    filterIsNullOperator: È null
+    filterIsNullOperator: È nullo
     # The text of the `Less` numeric Filter Expression operator.
-    filterLtOperator: È minore di
+    filterLtOperator: È più piccolo di
     # The text of the `LessOrEqualTo` numeric Filter Expression operator.
-    filterLteOperator: È minore o uguale a
+    filterLteOperator: È più piccolo o uguale a
     # The text of the `DoesNotContain` Filter Expression operator.
     filterNotContainsOperator: Non contiene
     # The text of the `NotEqual` Filter Expression operator.
     filterNotEqOperator: Non è uguale a
     # The text of the `Or` Filter Group logic.
-    filterOrLogic: Or
+    filterOrLogic: O
     # The text of the `StartsWith` Filter Expression operator.
     filterStartsWithOperator: Inizia con
     # The text of the filter field aria label.
