@@ -8,10 +8,10 @@ kendo:
 
     # The title of the next button in the Classic calendar
     nextButtonTitle: Navigate to next view
-  
+
   multiviewcalendar:
     # The label for the today button in the calendar header
-    today: Today
+    today: Bugün
 
     # The label for the previous button in the Multiview calendar
     prevButtonTitle: Navigate to previous view

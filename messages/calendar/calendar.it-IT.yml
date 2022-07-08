@@ -8,7 +8,7 @@ kendo:
 
     # The title of the next button in the Classic calendar
     nextButtonTitle: Vai alla vista successiva
-  
+
   multiviewcalendar:
     # The label for the today button in the calendar header
     today: Oggi
