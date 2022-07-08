@@ -1,58 +1,58 @@
 kendo:
   editor:
     # The title of the tool that aligns text in the center.
-    alignCenter: Center text
+    alignCenter: Centreren
 
     # The title of the tool that justifies text both left and right.
     alignJustify: Justify
 
     # The title of the tool that aligns text on the left.
-    alignLeft: Align text left
+    alignLeft: Links uitlijnen
 
     # The title of the tool that aligns text on the right.
-    alignRight: Align text right
+    alignRight: Rechts uitlijnen
 
     # The title of the tool that changes the text background color.
-    backColor: Background color
+    backColor: Tekstmarkering kleur
 
     # The title of the tool that makes text bold.
-    bold: Bold
+    bold: Vet
 
     # The title of the Clean Formatting tool.
-    cleanFormatting: Clean formatting
+    cleanFormatting: Alle opmaak wissen
 
     # The title of the tool that creates hyperlinks.
-    createLink: Insert link
+    createLink: Koppeling
 
     # The label of the **Apply** button in all editor dialogs.
-    dialogApply: Apply
+    dialogApply: Toepassen
 
     # The label of the **Cancel** button in all editor dialogs.
-    dialogCancel: Cancel
+    dialogCancel: Afbreken
 
     # The label of the **Insert** button in all editor dialogs.
-    dialogInsert: Insert
+    dialogInsert: Toevoegen
 
     # The label of the **Update** button in all editor dialogs.
     dialogUpdate: Update
 
     # The caption for the file text in the insertFile dialog.
-    fileText: Text
+    fileText: Tekst
 
     # The caption for the file Title in the insertFile dialog.
-    fileTitle: Title
+    fileTitle: Titel
 
     # The caption for the file URL in the insertFile dialog.
     fileWebAddress: Web address
 
     # The title of the tool that changes the text font.
-    fontFamily: Select font family
+    fontFamily: Lettertype
 
     # The title of the tool that changes the text size.
-    fontSize: Select font size
+    fontSize: Tekengrootte
 
     # The title of the tool that changes the text color.
-    foreColor: Color
+    foreColor: Kleur
 
     # The title of the tool that lets users choose block formats.
     format: Format
@@ -70,43 +70,43 @@ kendo:
     imageWidth: Width (px)
 
     # The title of the tool that indents the content.
-    indent: Indent
+    indent: Inspringing vergroten
 
     # The title of the tool that inserts links to files.
-    insertFile: Insert file
+    insertFile: Bestand toevoegen
 
     # The title of the tool that inserts images.
-    insertImage: Insert image
+    insertImage: Foto toevoegen
 
     # The title of the tool that inserts an ordered list.
-    insertOrderedList: Insert ordered list
+    insertOrderedList: Nummering
 
     # The title of the tool that inserts an unordered list.
-    insertUnorderedList: Insert unordered list
+    insertUnorderedList: Opsommingstekens
 
     # The title of the tool that makes text italicized.
-    italic: Italic
+    italic: Cursief
 
     # The caption for the checkbox for opening the link in a new window in the createLink dialog.
-    linkOpenInNewWindow: Open link in new window
+    linkOpenInNewWindow: Link openen in nieuw venster
 
     # The caption for the link text in the createLink dialog.
-    linkText: Text
+    linkText: Tekst
 
     # The caption for the link title in the createLink dialog.
-    linkTitle: Title
+    linkTitle: Titel
 
     # The caption for the URL in the createLink dialog.
     linkWebAddress: Web address
 
     # The title of the tool that outdents the content.
-    outdent: Outdent
+    outdent: Inspringing verkleinen
 
     # The title of the tool that undos the last action.
-    redo: Redo
+    redo: Opnieuw typen
 
     # The title of the tool that strikes through text.
-    strikethrough: Strikethrough
+    strikethrough: Doorhalen
 
     # The title of the tool that makes text subscript.
     subscript: Subscript
@@ -115,43 +115,42 @@ kendo:
     superscript: Superscript
 
     # The title of the tool that underlines text.
-    underline: Underline
+    underline: Onderstrepen
 
     # The title of the tool that removes hyperlinks.
-    unlink: Remove Link
+    unlink: Ontkoppelen
 
     # The title of the tool that undos the last action.
-    undo: Undo
+    undo: Ongedaan maken
 
     # The title of the tool that shows the editor value as HTML.
     viewSource: View source
 
     # The title of the tool that inserts table.
-    insertTable: Insert Table
+    insertTable: Tabel invoegen
 
     # The title of the tool that adds new column before currently selected column.
-    addColumnBefore: Add column before
+    addColumnBefore: Invoegen links
 
     # The title of the tool that adds new column after currently selected column.
-    addColumnAfter: Add column after
+    addColumnAfter: Invoegen rechts
 
     # The title of the tool that adds new row before currently selected row.
-    addRowBefore: Add row before
+    addRowBefore: Invoegen bovenaan
 
     # The title of the tool that adds new row after currently selected row.
-    addRowAfter: Add row after
+    addRowAfter: Invoegen onderaan
 
     # The title of the tool that deletes a table column.
-    deleteColumn: Delete column
+    deleteColumn: Kolom verwijderen
 
     # The title of the tool that deletes a table row.
-    deleteRow: Delete row
+    deleteRow: Rij verwijderen
 
     # The title of the tool that deletes a table.
-    deleteTable: Delete table
-
+    deleteTable: Tabel verwijderen
     # The title of the tool that selects the editor's content.
-    selectAll: Select All
+    selectAll: Alle tekst selecteren
 
     # The title of the tool that prints the editor's content.
     print: Print
