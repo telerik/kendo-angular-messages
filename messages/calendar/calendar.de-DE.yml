@@ -4,7 +4,18 @@ kendo:
     today: Heute
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Vorheriger Zeitraum
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Nächster Zeitraum
+
+  multiviewcalendar:
+    # The label for the today button in the calendar header
+    today: Heute
+
+    # The label for the previous button in the Multiview calendar
+    prevButtonTitle: Vorheriger Zeitraum
+
+    # The label for the next button in the Multiview calendar
+    nextButtonTitle: Nächster Zeitraum
+

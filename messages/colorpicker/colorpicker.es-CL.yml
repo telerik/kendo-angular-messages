@@ -6,6 +6,12 @@ kendo:
     # The aria-label applied to the ColorPalette component when the value is empty
     colorPaletteNoColor: Colorpalette no color chosen
 
+    # The aria-label applied to the ColorPicker component when the value is empty
+    colorPickerNoColor: Colorpicker no color chosen
+
+    # The aria-label applied to the FlatColorPicker component when the value is empty
+    flatColorPickerNoColor: Flatcolorpicker no color chosen
+
     # The title for the gradient color drag handle chooser
     colorGradientHandle: Choose color
 
@@ -17,6 +23,9 @@ kendo:
 
     # The title for the opacity slider handle
     opacitySliderHandle: Set opacity
+
+    # The contrast ratio message for the contrast tool
+    contrastRatio: Contrast ratio
 
     # The placeholder for the HEX color input
     hexInputPlaceholder: HEX Color
@@ -32,3 +41,24 @@ kendo:
 
     # The placeholder for the alpha input
     alphaInputPlaceholder: Alpha
+
+    # The message for the selected color pane
+    revertSelection: Revert selection
+
+    # The message for the color preview pane
+    previewColor: Color preview
+
+    # The message for the gradient view button
+    gradientView: Gradient view
+
+    # The message for the palette view button
+    paletteView: Palette view
+
+    # The message for the input format toggle button
+    formatButton: Change color format
+
+    # The message for the Apply action button
+    applyButton: Apply
+
+    # The message for the Cancel action button
+    cancelButton: Cancel
