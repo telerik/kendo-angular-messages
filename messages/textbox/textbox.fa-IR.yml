@@ -1,7 +1,4 @@
 kendo:
   textbox:
-    # The title of the clear button
-    clearTitle: پاک کن
-
     # The title for the **Clear** button in the TextBox.
-    clear: Clear
+    clear: پاک کن
