@@ -77,3 +77,7 @@ kendo:
 
     # The loading text
     loading: Loading
+    
+    # The text content of the PivotGrid configurator values section title element.
+    configuratorValuesText: Values
+    
