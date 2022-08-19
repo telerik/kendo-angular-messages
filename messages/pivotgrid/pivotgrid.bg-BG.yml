@@ -81,3 +81,11 @@ kendo:
     # The text content of the PivotGrid configurator values section title element.
     configuratorValuesText: Стойности
     
+    # The text content of the PivotGrid configurator empty rows container.
+    configuratorEmptyRowsText: Изберете някои полета, за да започнете настройката
+
+    # The text content of the PivotGrid configurator empty columns container.
+    configuratorEmptyColumnsText: Изберете някои полета, за да започнете настройката
+
+    # The text content of the PivotGrid configurator empty measures container.
+    configuratorEmptyMeasuresText: Изберете някои полета, за да започнете настройката

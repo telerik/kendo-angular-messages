@@ -80,4 +80,14 @@ kendo:
     
     # The text content of the PivotGrid configurator values section title element.
     configuratorValuesText: Values
+
+    # The text content of the PivotGrid configurator empty rows container.
+    configuratorEmptyRowsText: Select some fields to begin setup
+
+    # The text content of the PivotGrid configurator empty columns container.
+    configuratorEmptyColumnsText: Select some fields to begin setup
+
+    # The text content of the PivotGrid configurator empty measures container.
+    configuratorEmptyMeasuresText: Select some fields to begin setup
+
     
