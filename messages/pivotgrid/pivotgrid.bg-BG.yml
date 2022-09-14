@@ -1,0 +1,91 @@
+kendo:
+  pivotgrid:
+    # The value of the aria-label attribute placed on the focusable empty cell element
+    emptyCellLabel: Празна пивотгрид клетка
+
+    # The text content of the filter item in the column and row fields menu
+    fieldMenuFilterItemLabel: Филтрирай
+
+    # The label of the filter input
+    filterInputLabel: 'Филтър за {fields}'
+
+    # The label of the filter operators DropDownList
+    filterOperatorsDropDownLabel: 'Оператори за филтриране на {fields}'
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Е равно на
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Не е равно на
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: Е null
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: Не е null
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: Е празно
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: Не е празно
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Започва с
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Съдържа
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Не съдържа
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Завършва на
+
+    # The text of the "filter button"
+    filterFilterButton: Филтрирай
+
+    # The text of the "clear filter button"
+    filterClearButton: Премахни филтър
+
+    # The text content of the sort ascending item in the column and row fields menu
+    fieldMenuSortAscendingItemLabel: Сортирай възходящо
+
+    # The text content of the sort descending item in the column and row fields menu
+    fieldMenuSortDescendingItemLabel: Сортирай низходящо
+
+    # The text content of the button that opens and closes the PivotGrid configurator
+    configuratorButtonText: Промени настройките
+
+    # The text content of the PivotGrid configurator title element
+    configuratorHeaderText: Настройки
+
+    # The text content of the PivotGrid configurator fields section title element
+    configuratorFieldsText: Полета
+
+    # TThe text content of the PivotGrid configurator columns section title element
+    configuratorColumnsText: Колони
+
+    # The text content of the PivotGrid configurator rows section title element
+    configuratorRowsText: Редове
+
+    # The text content of the PivotGrid configurator configurator Cancel button
+    configuratorCancelButtonText: Отмени промените
+
+    # The text content of the PivotGrid configurator configurator Apply button
+    configuratorApplyButtonText: Приложи промените
+
+    # The loading text
+    loading: Зареждане
+    
+    # The text content of the PivotGrid configurator values section title element.
+    configuratorValuesText: Стойности
+    
+    # The text content of the PivotGrid configurator empty rows container.
+    configuratorEmptyRowsText: Изберете някои полета, за да започнете настройката
+
+    # The text content of the PivotGrid configurator empty columns container.
+    configuratorEmptyColumnsText: Изберете някои полета, за да започнете настройката
+
+    # The text content of the PivotGrid configurator empty measures container.
+    configuratorEmptyMeasuresText: Изберете някои полета, за да започнете настройката

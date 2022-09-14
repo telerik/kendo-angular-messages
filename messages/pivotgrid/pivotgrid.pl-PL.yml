@@ -1,0 +1,93 @@
+kendo:
+  pivotgrid:
+    # The value of the aria-label attribute placed on the focusable empty cell element
+    emptyCellLabel: PivotGrid Empty Cell
+
+    # The text content of the filter item in the column and row fields menu
+    fieldMenuFilterItemLabel: Filter
+
+    # The label of the filter input
+    filterInputLabel: '{fields} Filter'
+
+    # The label of the filter operators DropDownList
+    filterOperatorsDropDownLabel: '{fields} Filter Operators'
+
+    # The text of the "equal" filter operator
+    filterEqOperator: Is equal to
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: Is not equal to
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: Is null
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: Is not null
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: Is empty
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: Is not empty
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: Starts with
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: Contains
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: Does not contain
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: Ends with
+
+    # The text of the "filter button"
+    filterFilterButton: Filter
+
+    # The text of the "clear filter button"
+    filterClearButton: Clear
+
+    # The text content of the sort ascending item in the column and row fields menu
+    fieldMenuSortAscendingItemLabel: Sort ascending
+
+    # The text content of the sort descending item in the column and row fields menu
+    fieldMenuSortDescendingItemLabel: Sort descending
+
+    # The text content of the button that opens and closes the PivotGrid configurator
+    configuratorButtonText: Change Settings
+
+    # The text content of the PivotGrid configurator title element
+    configuratorHeaderText: Settings
+
+    # The text content of the PivotGrid configurator fields section title element
+    configuratorFieldsText: Fields
+
+    # TThe text content of the PivotGrid configurator columns section title element
+    configuratorColumnsText: Columns
+
+    # The text content of the PivotGrid configurator rows section title element
+    configuratorRowsText: Rows
+
+    # The text content of the PivotGrid configurator configurator Cancel button
+    configuratorCancelButtonText: Cancel
+
+    # The text content of the PivotGrid configurator configurator Apply button
+    configuratorApplyButtonText: Apply
+
+    # The loading text
+    loading: Loading
+    
+    # The text content of the PivotGrid configurator values section title element.
+    configuratorValuesText: Values
+
+    # The text content of the PivotGrid configurator empty rows container.
+    configuratorEmptyRowsText: Select some fields to begin setup
+
+    # The text content of the PivotGrid configurator empty columns container.
+    configuratorEmptyColumnsText: Select some fields to begin setup
+
+    # The text content of the PivotGrid configurator empty measures container.
+    configuratorEmptyMeasuresText: Select some fields to begin setup
+
+    
