@@ -1,0 +1,10 @@
+kendo:
+  signature:
+    # The message for the Clear button.
+    clear: Clear
+
+    # The message for the Maximize button.
+    maximize: Maximize
+
+    # The message for the Minimize button.
+    minimize: Minimize
