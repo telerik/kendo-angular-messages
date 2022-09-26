@@ -155,3 +155,9 @@ kendo:
 
     # The title of the tool that prints the editor's content.
     print: Отпечатай
+
+    # The title of the tool that merges the currently selected cells.
+    mergeCells: Слей клетки
+
+    # The title of the tool that splits the currently selected cell.
+    splitCell: Раздели клетка
