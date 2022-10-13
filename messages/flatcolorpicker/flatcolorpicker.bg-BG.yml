@@ -1,46 +1,58 @@
 kendo:
   flatcolorpicker:
     # The aria-label applied to the FlatColorPicker component when the value is empty.
-    flatColorPickerNoColor: Flatcolorpicker no color chosen
+    flatColorPickerNoColor: Инструмент за избор на цвят не е избран цвят
 
     # The aria-label applied to the ColorGradient component when the value is empty.
-    colorGradientNoColor: Colorgradient no color chosen
+    colorGradientNoColor: Цветен градиент не е избран цвят
 
     # The aria-label applied to the ColorPalette component when the value is empty.
-    colorPaletteNoColor: Colorpalette no color chosen
+    colorPaletteNoColor: Палитра не е избран цвят
 
     # The title for the gradient color drag handle chooser.
-    colorGradientHandle: Choose color
+    colorGradientHandle: Избери цвят
 
     # The title for the clear button.
-    clearButton: Clear value
+    clearButton: Изчисти
 
     # The title for the hue slider handle.
-    hueSliderHandle: Set hue
+    hueSliderHandle: Оттенък
 
     # The title for the opacity slider handle.
-    opacitySliderHandle: Set opacity
+    opacitySliderHandle: Прозрачност
 
     # The contrast ratio message for the contrast tool.
-    contrastRatio: Contrast ratio
+    contrastRatio: Контраст
 
     # The message for the color preview pane.
-    previewColor: Color preview
+    previewColor: Преглед на цвят
 
     # The message for the selected color pane.
-    revertSelection: Revert selection
+    revertSelection: Отмяна на селекцията
 
     # The message for the gradient view button.
-    gradientView: Gradient view
+    gradientView: Градиент
 
     # The message for the palette view button.
-    paletteView: Palette view
+    paletteView: Палитра
 
     # The message for the input format toggle button.
-    formatButton: Change color format
+    formatButton: Промени цветовия формат
 
     # The message for the Apply action button.
-    applyButton: Apply
+    applyButton: Приложи
 
     # The message for the Cancel action button.
-    cancelButton: Cancel
+    cancelButton: Отмени
+
+    # The label of the NumericTextBox representing the red color channel.
+    redChannelLabel: Червен
+
+    # The label of the NumericTextBox representing the green color channel.
+    greenChannelLabel: Зелен
+
+    # The label of the NumericTextBox representing the blue color channel.
+    blueChannelLabel: Син
+
+    # The label of the NumericTextBox representing the alpha color channel.
+    alphaChannelLabel: Алфа

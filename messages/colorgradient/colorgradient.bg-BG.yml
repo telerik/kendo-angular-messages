@@ -10,10 +10,10 @@ kendo:
     clearButton: Изчисти
 
     # The title for the hue slider handle
-    hueSliderHandle: Добави оттенък
+    hueSliderHandle: Оттенък
 
     # The title for the opacity slider handle
-    opacitySliderHandle: Добави непрозрачност
+    opacitySliderHandle: Прозрачност
 
     # The placeholder for the HEX color input
     hexInputPlaceholder: Цвят
@@ -29,3 +29,15 @@ kendo:
 
     # The placeholder for the alpha input
     alphaInputPlaceholder: Алфа
+
+    # The label of the NumericTextBox representing the red color channel.
+    redChannelLabel: Червен
+
+    # The label of the NumericTextBox representing the green color channel.
+    greenChannelLabel: Зелен
+
+    # The label of the NumericTextBox representing the blue color channel.
+    blueChannelLabel: Син
+
+    # The label of the NumericTextBox representing the alpha color channel.
+    alphaChannelLabel: Алфа

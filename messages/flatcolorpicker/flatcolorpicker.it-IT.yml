@@ -44,3 +44,15 @@ kendo:
 
     # The message for the Cancel action button.
     cancelButton: Annulla
+
+    # The label of the NumericTextBox representing the red color channel.
+    redChannelLabel: Red channel
+
+    # The label of the NumericTextBox representing the green color channel.
+    greenChannelLabel: Green channel
+
+    # The label of the NumericTextBox representing the blue color channel.
+    blueChannelLabel: Blue channel
+
+    # The label of the NumericTextBox representing the alpha color channel.
+    alphaChannelLabel: Alpha channel
