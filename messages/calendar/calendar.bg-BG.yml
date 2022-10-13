@@ -9,6 +9,9 @@ kendo:
     # The title of the next button in the Classic calendar
     nextButtonTitle: напред
 
+    # The title of the parent view button in the calendar header
+    parentViewButtonTitle: Преминаване към следващия диапазон от дати
+
   multiviewcalendar:
     # The label for the today button in the calendar header
     today: Днес
@@ -18,3 +21,6 @@ kendo:
 
     # The label for the next button in the Multiview calendar
     nextButtonTitle: напред
+
+    # The title of the parent view button in the Multiview calendar header
+    parentViewButtonTitle: Преминаване към следващия диапазон от дати
