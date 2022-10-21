@@ -8,3 +8,6 @@ kendo:
 
     # The message for the Minimize button.
     minimize: Minimize
+
+    # The value of the aria-label attribute of the Signature canvas element.
+    canvasLabel: Signature canvas
