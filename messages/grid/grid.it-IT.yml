@@ -206,3 +206,10 @@ kendo:
 
     # The title of the expand icon of detail rows.
     detailExpand: Espandi i dettagli
+    
+    # The text shown in the column menu for the autosize this column item
+    autosizeThisColumn: Autosize This Column
+        
+    # The text shown in the column menu for the autosize all columns item
+    autosizeAllColumns: Autosize All Columns
+    
