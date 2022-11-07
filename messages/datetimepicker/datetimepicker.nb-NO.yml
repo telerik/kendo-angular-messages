@@ -16,22 +16,22 @@ kendo:
     toggle: Toggle popup
 
     # The Accept button text in the datetimepicker component
-    accept: Set
+    accept: Sett
 
     # The label for the Accept button in the datetimepicker component
-    acceptLabel: Set
+    acceptLabel: Sett
 
     # The Cancel button text in the datetimepicker component
-    cancel: Cancel
+    cancel: Avbryt
 
     # The label for the Cancel button in the datetimepicker component
-    cancelLabel: Cancel
+    cancelLabel: Avbryt
 
     # The Now button text in the timepicker component
-    now: NOW
+    now:  Nå
 
     # The label for the Now button in the timepicker component
-    nowLabel: Select now
+    nowLabel: Nå
 
     # The label for the today button in the calendar header
     today: TODAY
