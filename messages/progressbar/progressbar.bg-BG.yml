@@ -1,0 +1,14 @@
+kendo:
+  progressbar:
+    #The title for the ProgressBar component.
+    progressBarLabel: Прогрес лента
+
+  chunkprogressbar:
+    #The title for the ChunkProgressBar component.
+    progressBarLabel: Лента за прогрес на парче
+
+  circularprogressbar:
+    #The title for the Circular ProgressBar component.
+    progressBarLabel: Кръгла лента за прогрес
+
+
