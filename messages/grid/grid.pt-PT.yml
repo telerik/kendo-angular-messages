@@ -34,7 +34,7 @@ kendo:
     pagerPageNumberInputTitle: Page Number
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtrar
 
     # The text of the "equal" filter operator
     filterEqOperator: É igual a
@@ -127,7 +127,7 @@ kendo:
     loading: Loading
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Colunas
 
     # The text shown in the column menu for the lock item
     lock: Lock
@@ -145,10 +145,10 @@ kendo:
     setColumnPosition: Set Column Position
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Ordenar em ordem crescente
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Ordenar em ordem decrescente
 
     # The text shown in the column menu or column chooser for the columns apply button
     columnsApply: Apply
