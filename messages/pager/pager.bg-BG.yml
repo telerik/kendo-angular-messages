@@ -29,3 +29,6 @@ kendo:
 
     # The text of the title and aria-label attributes applied to the page chooser.
     selectPage: Избор на страница
+
+    # The text of the aria-label attribute applied to the numeric input element.
+    inputLabel: Въведи номер на страница
