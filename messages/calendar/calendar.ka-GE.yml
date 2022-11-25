@@ -1,0 +1,26 @@
+kendo:
+  calendar:
+    # The label for the today button in the calendar header
+    today: დღეს
+
+    # The title of the previous button in the Classic calendar
+    prevButtonTitle: Navigate to previous view
+
+    # The title of the next button in the Classic calendar
+    nextButtonTitle: Navigate to next view
+
+    # The title of the parent view button in the calendar header
+    parentViewButtonTitle: Navigate to parent view
+
+  multiviewcalendar:
+    # The label for the today button in the calendar header
+    today: დღეს
+
+    # The label for the previous button in the Multiview calendar
+    prevButtonTitle: Navigate to previous view
+
+    # The label for the next button in the Multiview calendar
+    nextButtonTitle: Navigate to next view
+
+    # The title of the parent view button in the Multiview calendar header
+    parentViewButtonTitle: Navigate to parent view

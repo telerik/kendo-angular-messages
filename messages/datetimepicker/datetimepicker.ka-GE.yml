@@ -1,0 +1,43 @@
+kendo:
+  datetimepicker:
+    # The Date tab text in the datetimepicker popup header
+    dateTab: თარიღი
+
+    # The label for the Date tab in the datetimepicker popup header
+    dateTabLabel: თარიღი
+
+    # The Time tab text in the datetimepicker popup header
+    timeTab: დრო
+
+    # The label for the Time tab in the datetimepicker popup header
+    timeTabLabel: დრო
+
+    # The label for the toggle button in the datetimepicker component
+    toggle: გახსნა/დახურვა
+
+    # The Accept button text in the datetimepicker component
+    accept: მიღება
+
+    # The label for the Accept button in the datetimepicker component
+    acceptLabel: არჩევა
+
+    # The Cancel button text in the datetimepicker component
+    cancel: გაუქმება
+
+    # The label for the Cancel button in the datetimepicker component
+    cancelLabel: გაუქმება
+
+    # The Now button text in the timepicker component
+    now: ახლა
+
+    # The label for the Now button in the timepicker component
+    nowLabel: ახლა
+
+    # The label for the today button in the calendar header
+    today: დღეს
+
+    # The title of the previous button in the Classic calendar
+    prevButtonTitle: უკან
+
+    # The title of the next button in the Classic calendar
+    nextButtonTitle: წინ
