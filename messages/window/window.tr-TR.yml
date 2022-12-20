@@ -1,13 +1,13 @@
 kendo:
   window:
     # The title of the close button
-    closeTitle: Close
+    closeTitle: Kapat
 
     # The title of the restore button
-    restoreTitle: Restore
+    restoreTitle: Sıfırla
 
     # The title of the maximize button
-    maximizeTitle: Maximize
+    maximizeTitle: Büyüt
 
     # The title of the minimize button
-    minimizeTitle: Minimize
+    minimizeTitle: Küçült
