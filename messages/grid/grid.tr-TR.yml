@@ -25,7 +25,7 @@ kendo:
     pagerOf: arası
 
     # The label after the total pages number in the Grid pager
-    pagerItems:
+    pagerItems: kayıt
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: Sayfa boyutu
