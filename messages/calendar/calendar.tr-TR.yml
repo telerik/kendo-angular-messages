@@ -4,17 +4,17 @@ kendo:
     today: Bugün
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Önceki görünüme geç
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Sonraki görünüme geç
 
   multiviewcalendar:
     # The label for the today button in the calendar header
     today: Bugün
 
     # The label for the previous button in the Multiview calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Önceki görünüme geç
 
     # The label for the next button in the Multiview calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Sonraki görünüme geç
