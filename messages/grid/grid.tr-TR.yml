@@ -13,7 +13,7 @@ kendo:
     pagerPreviousPage: Sayfaları İncele
 
     # The label for the next page button in Grid pager
-    pagerNextPage: Bir sonraki sayfaya git
+    pagerNextPage: Sonraki sayfaya git
 
     # The label for the last page button in Grid pager
     pagerLastPage: Son sayfaya git
@@ -22,13 +22,13 @@ kendo:
     pagerPage: Sayfa
 
     # The label before the total pages number in the Grid pager
-    pagerOf: {0}
+    pagerOf: arası
 
     # The label after the total pages number in the Grid pager
-    pagerItems: Sayfa
+    pagerItems:
 
     # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: Sayfa başına ürün
+    pagerItemsPerPage: Sayfa boyutu
 
     # The title attribute of the page number input element.
     pagerPageNumberInputTitle: Sayfa Numarası
@@ -43,40 +43,40 @@ kendo:
     filterNotEqOperator: Eşit değildir
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Boştur
+    filterIsNullOperator: Boş
 
     # The text of the "is not null" filter operator
     filterIsNotNullOperator: Boş değil
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: boş
+    filterIsEmptyOperator: Boş
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: boş değil
+    filterIsNotEmptyOperator: Boş değil
 
     # The text of the "starts with" filter operator
     filterStartsWithOperator: İle başlar
 
     # The text of the "contains" filter operator
-    filterContainsOperator: İçeriyor
+    filterContainsOperator: İçerir
 
     # The text of the "does not contain" filter operator
-    filterNotContainsOperator: İçermiyor
+    filterNotContainsOperator: İçermez
 
     # The text of the "ends with" filter operator
     filterEndsWithOperator: İle biter
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: Daha büyük veya eşittir
+    filterGteOperator: Büyük eşittir
 
     # The text of the "greater than" filter operator
     filterGtOperator: Büyüktür
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: Daha küçük veya eşit
+    filterLteOperator: Küçük eşitir
 
     # The text of the "less than" filter operator
-    filterLtOperator: Daha küçük veya eşit
+    filterLtOperator: Küçüktür
 
     # The text of the "Is true" filter option
     filterIsTrue: Doğru
@@ -85,7 +85,7 @@ kendo:
     filterIsFalse: Yanlış
 
     # The text of the (All) boolean filter option
-    filterBooleanAll: (Herşey)
+    filterBooleanAll: (Hepsi)
 
     # The text of the after or equal date filter operator
     filterAfterOrEqualOperator: Sonra ya da eşit
@@ -109,7 +109,7 @@ kendo:
     filterAndLogic: Ve
 
     # The text of the "Or" filter logic
-    filterOrLogic: ya da
+    filterOrLogic: veya
 
     # The title of the Toggle button of the Date filter.
     filterDateToggle: Takvimi değiştir
