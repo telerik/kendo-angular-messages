@@ -213,3 +213,5 @@ kendo:
     # The text shown in the column menu for the autosize all columns item
     autosizeAllColumns: Оразмери всички колони
     
+    # The aria-label and title of the page select element in Grid pager
+    selectPage: Избери страница
