@@ -31,7 +31,7 @@ kendo:
     pagerItemsPerPage: záznamov na stranu
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Číslo strany
 
     # The label of the filter cell or icon
     filter: Filter
@@ -76,13 +76,13 @@ kendo:
     filterLteOperator: Je menšie alebo sa rovná
 
     # The text of the "less than" filter operator
-    filterLtOperator: Je menšie alebo sa rovná
+    filterLtOperator: Je menšie ako
 
     # The text of the "Is true" filter option
-    filterIsTrue: je pravda
+    filterIsTrue: Je pravda
 
     # The text of the "Is false" filter option
-    filterIsFalse: nie je pravda
+    filterIsFalse: Nie je pravda
 
     # The text of the (All) boolean filter option
     filterBooleanAll: (Všetko)
@@ -112,46 +112,46 @@ kendo:
     filterOrLogic: Alebo
 
     # The loading text
-    loading: Loading
+    loading: Načítavam
 
     # The label of the sort icon
     sort: Sort
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Menu stĺpca
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Stĺpce
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Zamknúť
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Odomknúť
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Usporiadať vzostupne
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Usporiadať zostupne
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Aplikovať
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Resetovať
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Usporiadateľné
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Usporiadané vzostupne
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Usporiadané zostupne
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Neusporiadané
 
     # The aria-label and title of the page select element in TreeList pager
-    selectPage: Select page
+    selectPage: Vybrať stranu

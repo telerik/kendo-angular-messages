@@ -4,23 +4,23 @@ kendo:
     today: Dnes
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Prejsť na predchádzajúce zobrazenie
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Prejsť na nasledujúce zobrazenie
 
     # The title of the parent view button in the calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Prejsť na vyššie zobrazenie
 
   multiviewcalendar:
     # The label for the today button in the calendar header
     today: Dnes
 
     # The label for the previous button in the Multiview calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Prejsť na predchádzajúce zobrazenie
 
     # The label for the next button in the Multiview calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Prejsť na nasledujúce zobrazenie
 
     # The title of the parent view button in the Multiview calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Prejsť na vyššie zobrazenie
