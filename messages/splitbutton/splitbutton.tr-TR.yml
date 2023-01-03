@@ -1,4 +1,4 @@
 kendo:
   splitbutton:
     # The text for the SplitButton aria-label
-    splitButtonLabel: '{buttonText} splitbutton'
+    splitButtonLabel: '{buttonText}'

@@ -1,51 +1,51 @@
 kendo:
   autocomplete:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Veri bulunamadı
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Temizle
 
   combobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Veri bulunamadı
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Temizle
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Seç
 
   dropdownlist:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Veri bulunamadı
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Temizle
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Seç
 
   dropdowntree:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Veri bulunamadı
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Temizle
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Seç
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Veri bulunamadı
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Temizle
 
   multiselect:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Veri bulunamadı
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Temizle
