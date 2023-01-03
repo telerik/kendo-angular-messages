@@ -1,16 +1,16 @@
 kendo:
   timepicker:
     # The text of the Accept button in the popup footer of the TimeList.
-    accept: Set
+    accept: Seç
 
     # The label of the Accept button in the popup footer of the TimeList.
-    acceptLabel: Set
+    acceptLabel: Seç
 
     # The text of the Cancel button in the popup footer of the TimeList.
-    cancel: İptal Et
+    cancel: İptal
 
     # The label of the Cancel button in the popup footer of the TimeList.
-    cancelLabel: İptal Et
+    cancelLabel: İptal
 
     # The text of the Now button in the popup header of the TimeList.
     now: şimdi
@@ -19,19 +19,19 @@ kendo:
     nowLabel: şimdi
 
     # The label for the toggle button in the timepicker component
-    toggle: Geçiş zamanı listesi
+    toggle: Değiştir
 
     # The label for the hour part in the timepicker component
-    hour: Hour
+    hour: Saat
 
     # The label for the minute part in the timepicker component
-    minute: Minute
+    minute: Dakika
 
     # The label for the second part in the timepicker component
-    second: Second
+    second: Saniye
 
     # The label for the millisecond part in the timepicker component
-    millisecond: Millisecond
+    millisecond: Milisaniye
 
     # The label for the dayperiod part in the timepicker component
-    dayperiod: Dayperiod
+    dayperiod: günlük periyot

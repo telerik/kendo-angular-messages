@@ -13,7 +13,7 @@ kendo:
     pagerPreviousPage: Sayfaları İncele
 
     # The label for the next page button in Grid pager
-    pagerNextPage: Bir sonraki sayfaya git
+    pagerNextPage: Sonraki sayfaya git
 
     # The label for the last page button in Grid pager
     pagerLastPage: Son sayfaya git
@@ -22,19 +22,19 @@ kendo:
     pagerPage: Sayfa
 
     # The label before the total pages number in the Grid pager
-    pagerOf: {0}
+    pagerOf: arası
 
     # The label after the total pages number in the Grid pager
-    pagerItems: Sayfa
+    pagerItems: kayıt
 
     # The label for the page size chooser in the Grid pager
-    pagerItemsPerPage: Sayfa başına ürün
+    pagerItemsPerPage: Sayfa boyutu
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Sayfa Numarası
 
     # The label of the filter cell or icon
-    filter: Filter
+    filter: Filtre
 
     # The text of the "equal" filter operator
     filterEqOperator: Eşittir
@@ -43,40 +43,40 @@ kendo:
     filterNotEqOperator: Eşit değildir
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: Boştur
+    filterIsNullOperator: Boş
 
     # The text of the "is not null" filter operator
     filterIsNotNullOperator: Boş değil
 
     # The text of the "is empty" filter operator
-    filterIsEmptyOperator: boş
+    filterIsEmptyOperator: Boş
 
     # The text of the "is not empty" filter operator
-    filterIsNotEmptyOperator: boş değil
+    filterIsNotEmptyOperator: Boş değil
 
     # The text of the "starts with" filter operator
     filterStartsWithOperator: İle başlar
 
     # The text of the "contains" filter operator
-    filterContainsOperator: İçeriyor
+    filterContainsOperator: İçerir
 
     # The text of the "does not contain" filter operator
-    filterNotContainsOperator: İçermiyor
+    filterNotContainsOperator: İçermez
 
     # The text of the "ends with" filter operator
     filterEndsWithOperator: İle biter
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: Daha büyük veya eşittir
+    filterGteOperator: Büyük eşittir
 
     # The text of the "greater than" filter operator
     filterGtOperator: Büyüktür
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: Daha küçük veya eşit
+    filterLteOperator: Küçük eşitir
 
     # The text of the "less than" filter operator
-    filterLtOperator: Daha küçük veya eşit
+    filterLtOperator: Küçüktür
 
     # The text of the "Is true" filter option
     filterIsTrue: Doğru
@@ -85,7 +85,7 @@ kendo:
     filterIsFalse: Yanlış
 
     # The text of the (All) boolean filter option
-    filterBooleanAll: (Herşey)
+    filterBooleanAll: (Hepsi)
 
     # The text of the after or equal date filter operator
     filterAfterOrEqualOperator: Sonra ya da eşit
@@ -109,107 +109,106 @@ kendo:
     filterAndLogic: Ve
 
     # The text of the "Or" filter logic
-    filterOrLogic: ya da
+    filterOrLogic: veya
 
     # The title of the Toggle button of the Date filter.
-    filterDateToggle: Toggle calendar
+    filterDateToggle: Takvimi değiştir
 
     # The text of the Today button of the Date filter.
     filterDateToday: Bugün
 
     # The title of the Decrement button of the Numeric filter.
-    filterNumericDecrement: Znížiť hodnotu
+    filterNumericDecrement: Azalt
 
     # The title of the Increment button of the Numeric filter.
-    filterNumericIncrement: Zvýšiť hodnotu
+    filterNumericIncrement: Artır
 
     # The loading text
-    loading: Loading
+    loading: Yükleniyor
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Sutunlar
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Kilitle
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Kilidi aç
 
     # The text shown in the column menu for the stick item
-    stick: Stick
+    stick: Sabitle
 
     # The text shown in the column menu for the unstick item
-    unstick: Unstick
+    unstick: Serbest Bırak
 
     # The text shown in the column menu for the set column position item
-    setColumnPosition: Set Column Position
+    setColumnPosition: Sutun konumunu ayarla
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Küçükten büyüğe sırala
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Büyükten küçüğe sırala
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Uygula
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Sıfırla
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Sıralanabilir
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Küçükten büyüğe sıralı
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Büyükten küçüğe sıralı
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Sırasız
 
     # The label of the filter row and menu inputs
-    filterInputLabel: '{columnName} Filter'
+    filterInputLabel: '{columnName} Filtresi'
 
     # The title of the filter menu icon
-    filterMenuTitle: '{columnName} Filter Menu'
+    filterMenuTitle: '{columnName} Filtre Menüsü'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+    filterMenuOperatorsDropDownLabel: '{columnName} Filtre Operatörleri'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
+    filterMenuLogicDropDownLabel: '{columnName} Filtre işlemi'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Column Menu'
+    columnMenu: '{columnName} menüsü'
 
     # The labels of the checkbox column checkboxes
-    selectionCheckboxLabel: Select Row
+    selectionCheckboxLabel: Satır seç
 
     # The label of the checkbox column select all checkbox
-    selectAllCheckboxLabel: Select All Rows
+    selectAllCheckboxLabel: Tüm satırları seç
 
     # The label of the Grid pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: '{currentPage} / {totalPages} sayfa'
 
     # The Grid aria-label
-    gridLabel: Data table
+    gridLabel: Veri tablosu
 
     # The text of the title and aria-label attributes applied to the collapse icon of group rows.
-    groupCollapse: Collapse Group
+    groupCollapse: Grubu daralt
 
     # The text of the title and aria-label attributes applied to the expand icon of group rows.
-    groupExpand: Expand Group
+    groupExpand: Grubu genişlet
 
     # The title of the collapse icon of detail rows.
-    detailCollapse: Collapse Details
+    detailCollapse: Detayı daralt
 
     # The title of the expand icon of detail rows.
-    detailExpand: Expand Details
-    
+    detailExpand: Detayı genişlet
+
     # The text shown in the column menu for the autosize this column item
-    autosizeThisColumn: Autosize This Column
-        
+    autosizeThisColumn: Sutun genişliğini otomatik ayarla
+
     # The text shown in the column menu for the autosize all columns item
-    autosizeAllColumns: Autosize All Columns
-    
+    autosizeAllColumns: Tüm sutunların genişliğini otomatik ayarla
