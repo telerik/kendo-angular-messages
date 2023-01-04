@@ -151,5 +151,7 @@ kendo:
     sortedDescending: Sorted descending
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Not sorte
 
+    # The aria-label and title of the page select element in TreeList pager
+    selectPage: Select page
