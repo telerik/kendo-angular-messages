@@ -153,3 +153,5 @@ kendo:
     # The status announcement when a column is no longer sorted
     sortedDefault: Несортирано
 
+    # The aria-label and title of the page select element in TreeList pager
+    selectPage: Select page
