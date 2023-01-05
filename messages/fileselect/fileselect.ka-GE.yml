@@ -1,0 +1,19 @@
+kendo:
+  fileselect:
+    # The drop zone hint
+    dropFilesHere: ჩააგდე ფაილი
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: ფაილის ტიპი არავალიდურია.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: ფაილის ზომა დიდია.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: ფაილის ზომა პატარაა.
+
+    # The text for the Remove button
+    remove: წაშლა
+
+    # The text for the Select button
+    select: აირჩიე ფაილი...

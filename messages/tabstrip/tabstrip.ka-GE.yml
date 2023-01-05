@@ -1,0 +1,7 @@
+kendo:
+  tabstrip:
+    # The title for the previous tab button when the Tabstrip is scrollable.
+    previousTabButton: წინა
+
+    # The title for the next tab button when the Tabstrip is scrollable.
+    nextTabButton: შემდეგი

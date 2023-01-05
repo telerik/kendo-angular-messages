@@ -1,0 +1,163 @@
+kendo:
+  editor:
+    # The title of the tool that aligns text in the center.
+    alignCenter: Center text
+
+    # The title of the tool that justifies text both left and right.
+    alignJustify: Justify
+
+    # The title of the tool that aligns text on the left.
+    alignLeft: Align text left
+
+    # The title of the tool that aligns text on the right.
+    alignRight: Align text right
+
+    # The title of the tool that changes the text background color.
+    backColor: Background color
+
+    # The title of the tool that makes text bold.
+    bold: Bold
+
+    # The title of the Clean Formatting tool.
+    cleanFormatting: Clean formatting
+
+    # The title of the tool that creates hyperlinks.
+    createLink: Insert link
+
+    # The label of the **Apply** button in all editor dialogs.
+    dialogApply: Apply
+
+    # The label of the **Cancel** button in all editor dialogs.
+    dialogCancel: Cancel
+
+    # The label of the **Insert** button in all editor dialogs.
+    dialogInsert: Insert
+
+    # The label of the **Update** button in all editor dialogs.
+    dialogUpdate: Update
+
+    # The caption for the file text in the insertFile dialog.
+    fileText: Text
+
+    # The caption for the file Title in the insertFile dialog.
+    fileTitle: Title
+
+    # The caption for the file URL in the insertFile dialog.
+    fileWebAddress: Web address
+
+    # The title of the tool that changes the text font.
+    fontFamily: Select font family
+
+    # The title of the tool that changes the text size.
+    fontSize: Select font size
+
+    # The title of the tool that changes the text color.
+    foreColor: Color
+
+    # The title of the tool that lets users choose block formats.
+    format: Format
+
+    # The caption for the image alternate text in the insertImage dialog.
+    imageAltText: Alternate text
+
+    # The caption for the image height in the insertImage dialog.
+    imageHeight: Height (px)
+
+    # The caption for the image URL in the insertImage dialog.
+    imageWebAddress: Web address
+
+    # The caption for the image width in the insertImage dialog.
+    imageWidth: Width (px)
+
+    # The title of the tool that indents the content.
+    indent: Indent
+
+    # The title of the tool that inserts links to files.
+    insertFile: Insert file
+
+    # The title of the tool that inserts images.
+    insertImage: Insert image
+
+    # The title of the tool that inserts an ordered list.
+    insertOrderedList: Insert ordered list
+
+    # The title of the tool that inserts an unordered list.
+    insertUnorderedList: Insert unordered list
+
+    # The title of the tool that makes text italicized.
+    italic: Italic
+
+    # The caption for the checkbox for opening the link in a new window in the createLink dialog.
+    linkOpenInNewWindow: Open link in new window
+
+    # The caption for the link text in the createLink dialog.
+    linkText: Text
+
+    # The caption for the link title in the createLink dialog.
+    linkTitle: Title
+
+    # The caption for the URL in the createLink dialog.
+    linkWebAddress: Web address
+
+    # The title of the tool that outdents the content.
+    outdent: Outdent
+
+    # The title of the tool that undos the last action.
+    redo: Redo
+
+    # The title of the tool that strikes through text.
+    strikethrough: Strikethrough
+
+    # The title of the tool that makes text subscript.
+    subscript: Subscript
+
+    # The title of the tool that makes text superscript.
+    superscript: Superscript
+
+    # The title of the tool that underlines text.
+    underline: Underline
+
+    # The title of the tool that removes hyperlinks.
+    unlink: Remove Link
+
+    # The title of the tool that undos the last action.
+    undo: Undo
+
+    # The title of the tool that shows the editor value as HTML.
+    viewSource: View source
+
+    # The title of the tool that inserts table.
+    insertTable: Insert Table
+
+    # The title of the tool that adds new column before currently selected column.
+    addColumnBefore: Add column before
+
+    # The title of the tool that adds new column after currently selected column.
+    addColumnAfter: Add column after
+
+    # The title of the tool that adds new row before currently selected row.
+    addRowBefore: Add row before
+
+    # The title of the tool that adds new row after currently selected row.
+    addRowAfter: Add row after
+
+    # The title of the tool that deletes a table column.
+    deleteColumn: Delete column
+
+    # The title of the tool that deletes a table row.
+    deleteRow: Delete row
+
+    # The title of the tool that deletes a table.
+    deleteTable: Delete table
+
+    # The title of the tool that selects the editor's content.
+    selectAll: Select All
+
+    # The title of the tool that prints the editor's content.
+    print: Print
+
+    # The title of the tool that merges the currently selected cells.
+    mergeCells: Merge cells
+
+    # The title of the tool that splits the currently selected cell.
+    splitCell: Split cell

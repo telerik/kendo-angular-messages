@@ -1,0 +1,13 @@
+kendo:
+  datepicker:
+    # The label for the today button in the calendar header
+    today: დღეს
+
+    # The label for the toggle button in the datepicker component
+    toggle: შეცვლა
+
+    # The title of the previous button in the Classic calendar
+    prevButtonTitle: წინ
+
+    # The title of the next button in the Classic calendar
+    nextButtonTitle: უკან

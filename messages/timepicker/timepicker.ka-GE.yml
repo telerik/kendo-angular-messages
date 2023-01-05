@@ -1,0 +1,37 @@
+kendo:
+  timepicker:
+    # The text of the Accept button in the popup footer of the TimeList.
+    accept: მიღება
+
+    # The label of the Accept button in the popup footer of the TimeList.
+    acceptLabel: მიღება
+
+    # The text of the Cancel button in the popup footer of the TimeList.
+    cancel: გაუქმება
+
+    # The label of the Cancel button in the popup footer of the TimeList.
+    cancelLabel: გაუქმება
+
+    # The text of the Now button in the popup header of the TimeList.
+    now: ახლა
+
+    # The label of the Now button in the popup header of the TimeList.
+    nowLabel: ახლა
+
+    # The label for the toggle button in the timepicker component
+    toggle: გადართვა
+
+    # The label for the hour part in the timepicker component
+    hour: საათი
+
+    # The label for the minute part in the timepicker component
+    minute: წუთი
+
+    # The label for the second part in the timepicker component
+    second: წამი
+
+    # The label for the millisecond part in the timepicker component
+    millisecond: მილიწამი
+
+    # The label for the dayperiod part in the timepicker component
+    dayperiod: პერიოდი
