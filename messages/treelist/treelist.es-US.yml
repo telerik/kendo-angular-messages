@@ -84,7 +84,6 @@ kendo:
     # The text of the "Is false" filter option
     filterIsFalse: No
 
-
     # The text of the after or equal date filter operator
     filterAfterOrEqualOperator: Es posterior o igual a
 
@@ -151,3 +150,5 @@ kendo:
     # The status announcement when a column is no longer sorted
     sortedDefault: Not sorted
 
+    # The aria-label and title of the page select element in TreeList pager
+    selectPage: Select page
