@@ -1,0 +1,58 @@
+kendo:
+  upload:
+    # The text for the Cancel button
+    cancel: გაუქმება
+
+    # The text for the Clear button
+    clearSelectedFiles: გასუფთავება
+
+    # The drop zone hint
+    dropFilesHere: ჩააგდე ფაილები ასატვირთად
+
+    # The external drop zone hint
+    externalDropFilesHere: ჩააგდე ფაილები ასატვირთად
+
+    # The status message for a batch of files
+    filesBatchStatus: ფაილები
+
+    # The status message for a batch of files after failed upload
+    filesBatchStatusFailed: ვერ აიტვირთა.
+
+    # The status message for a batch of files after successful upload
+    filesBatchStatusUploaded: წარმატებით აიტვირთა.
+
+    # The file status message after failed upload
+    fileStatusFailed: ფაილი ვერ აიტვირთა.
+
+    # The file status message after successful upload
+    fileStatusUploaded: ფაილი წარმატებით აიტვირთა.
+
+    # The header status message when the file upload is paused
+    headerStatusPaused: პაუზა
+
+    # The header status message after file upload completion
+    headerStatusUploaded: დასრულებულია
+
+    # The header status message during file upload
+    headerStatusUploading: იტვირთება...
+
+    # The text for the invalid allowed extensions restriction message
+    invalidFileExtension: ფაილის ტიპი არაა ვალიდური.
+
+    # The text for the invalid max file size restriction message
+    invalidMaxFileSize: ფაილის ზომა დიდია.
+
+    # The text for the invalid min file size restriction message
+    invalidMinFileSize: ფაილის ზომა პატარაა.
+
+    # The text for the Remove button
+    remove: მოშორება
+
+    # The text for the Retry button
+    retry: ხელახლა
+
+    # The text for the Select button
+    select: აირჩიე ფაილი...
+
+    # The text for the Upload files button
+    uploadSelectedFiles: ატვირთე

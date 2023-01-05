@@ -1,0 +1,51 @@
+kendo:
+  autocomplete:
+    # The text displayed in the popup when there are no items
+    noDataText: სია ცარიელია
+
+    # The title of the clear button
+    clearTitle: გასუფთავება
+
+  combobox:
+    # The text displayed in the popup when there are no items
+    noDataText: სია ცარიელია
+
+    # The title of the clear button
+    clearTitle: გასუფთავება
+
+    # The text set as aria-label on the select button"
+    selectButtonText: არჩევა
+
+  dropdownlist:
+    # The text displayed in the popup when there are no items
+    noDataText: სია ცარიელია
+
+    # The title of the clear button
+    clearTitle: გასუფთავება
+
+    # The text set as aria-label on the select button"
+    selectButtonText: არჩევა
+
+  dropdowntree:
+    # The text displayed in the popup when there are no items
+    noDataText: ცხრილი ცარიელია
+
+    # The title of the clear button
+    clearTitle: გასუფთავება
+
+    # The text set as aria-label on the select button"
+    selectButtonText: არჩევა
+
+  multicolumncombobox:
+    # The text displayed in the popup when there are no items
+    noDataText: სია ცარიელია
+
+    # The title of the clear button
+    clearTitle: გასუფთავება
+
+  multiselect:
+    # The text displayed in the popup when there are no items
+    noDataText: სია ცარიელია
+
+    # The title of the clear button
+    clearTitle: გასუფთავება

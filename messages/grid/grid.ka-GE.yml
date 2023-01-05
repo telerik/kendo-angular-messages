@@ -1,0 +1,213 @@
+kendo:
+  grid:
+    # The label visible in the Grid group panel when it is empty
+    groupPanelEmpty: ჩააგდე მონიშნული სათაურით დასაჯგუფებლად
+
+    # The label visible in the Grid when there are no records
+    noRecords: ცხრილი ცარიელია.
+
+    # The label for the first page button in Grid pager
+    pagerFirstPage: პირველი გვერდი
+
+    # The label for the previous page button in Grid pager
+    pagerPreviousPage: წინა გვერდი
+
+    # The label for the next page button in Grid pager
+    pagerNextPage: შემდეგი გვერდი
+
+    # The label for the last page button in Grid pager
+    pagerLastPage: ბოლო გვერდი
+
+    # The label before the current page number in the Grid pager
+    pagerPage: გვერდი
+
+    # The label before the total pages number in the Grid pager
+    pagerOf: 
+
+    # The label after the total pages number in the Grid pager
+    pagerItems: ჩანაწერი
+
+    # The label for the page size chooser in the Grid pager
+    pagerItemsPerPage: ჩანაწერი გვერდზე
+
+    # The title attribute of the page number input element
+    pagerPageNumberInputTitle: გვერდი
+
+    # The label of the filter cell or icon
+    filter: ფილტრი
+
+    # The text of the "equal" filter operator
+    filterEqOperator: ტოლია
+
+    # The text of the "not equal" filter operator
+    filterNotEqOperator: არაა ტოლი
+
+    # The text of the "is null" filter operator
+    filterIsNullOperator: ცარიელია
+
+    # The text of the "is not null" filter operator
+    filterIsNotNullOperator: არაა ცარიელი
+
+    # The text of the "is empty" filter operator
+    filterIsEmptyOperator: ცარიელია
+
+    # The text of the "is not empty" filter operator
+    filterIsNotEmptyOperator: არაა ცარიელი
+
+    # The text of the "starts with" filter operator
+    filterStartsWithOperator: იწყება
+
+    # The text of the "contains" filter operator
+    filterContainsOperator: შეიცავს
+
+    # The text of the "does not contain" filter operator
+    filterNotContainsOperator: არ შეიცავს
+
+    # The text of the "ends with" filter operator
+    filterEndsWithOperator: ბოლოვდება
+
+    # The text of the "greater than or equal" filter operator
+    filterGteOperator: მეტია ან ტოლი
+    # The text of the "greater than" filter operator
+    filterGtOperator: მეტია
+
+    # The text of the "less than or equal" filter operator
+    filterLteOperator: მცირეა ან ტოლი
+
+    # The text of the "less than" filter operator
+    filterLtOperator: მცირეა
+
+    # The text of the "Is true" filter option
+    filterIsTrue: სწორია
+
+    # The text of the "Is false" filter option
+    filterIsFalse: არაა სწორი
+
+    # The text of the (All) boolean filter option
+    filterBooleanAll: (ყველა)
+
+    # The text of the after or equal date filter operator
+    filterAfterOrEqualOperator: აღემატება ან ტოლია
+
+    # The text of the after date filter operator
+    filterAfterOperator: აღემატება
+
+    # The text of the before date filter operator
+    filterBeforeOperator: მცირეა
+
+    # The text of the before or equal date filter operator
+    filterBeforeOrEqualOperator: არ აღემატება
+
+    # The text of the "filter button"
+    filterFilterButton: ფილტრი
+
+    # The text of the "clear filter button"
+    filterClearButton: გასუფთავება
+
+    # The text of the "And" filter logic
+    filterAndLogic: და
+
+    # The text of the "Or" filter logic
+    filterOrLogic: ან
+
+    # The title of the Toggle button of the Date filter.
+    filterDateToggle: კალენდარი
+
+    # The text of the Today button of the Date filter.
+    filterDateToday: დღეს
+
+    # The title of the Decrement button of the Numeric filter.
+    filterNumericDecrement: შემცირება
+
+    # The title of the Increment button of the Numeric filter.
+    filterNumericIncrement: გაზრდა
+
+    # The loading text
+    loading: იტვირთება
+
+    # The text shown in the column menu for the columns item
+    columns: სვეტები
+
+    # The text shown in the column menu for the lock item
+    lock: ჩაკეტვა
+
+    # The text shown in the column menu for the unlock item
+    unlock: გახსნა
+
+    # The text shown in the column menu for the stick item
+    stick: მიკვრა
+
+    # The text shown in the column menu for the unstick item
+    unstick: ახსნა
+
+    # The text shown in the column menu for the set column position item
+    setColumnPosition: სვეტის პოზიცია
+
+    # The text shown in the column menu for the sort ascending item
+    sortAscending: დალაგება ზრდადობით
+
+    # The text shown in the column menu for the sort descending item
+    sortDescending: დალაგება კლებადობით
+
+    # The text shown in the column menu or column chooser for the columns apply button
+    columnsApply: მიღება
+
+    # The text shown in the column menu or column chooser for the columns reset button
+    columnsReset: გაუქმება
+
+    # The label of the sort icon
+    sortable: სორტირებადი
+
+    # The status announcement when a column is sorted ascending
+    sortedAscending: ზრდადობით
+
+    # The status announcement when a column is sorted descending
+    sortedDescending: კლებადობით
+    # The status announcement when a column is no longer sorted
+    sortedDefault: არასორტირებული
+
+    # The label of the filter row and menu inputs
+    filterInputLabel: '{columnName} ფილტრი'
+
+    # The title of the filter menu icon
+    filterMenuTitle: '{columnName} ფილტრი'
+
+    # The label of the filter menu operators dropdown
+    filterMenuOperatorsDropDownLabel: '{columnName} ფილტრი'
+
+    # The label of the filter menu logic dropdown
+    filterMenuLogicDropDownLabel: '{columnName} ფილტრი'
+
+    # The title of the column menu icon
+    columnMenu: '{columnName} მენიუ'
+
+    # The labels of the checkbox column checkboxes
+    selectionCheckboxLabel: მონიშნე სტრიქონი
+
+    # The label of the checkbox column select all checkbox
+    selectAllCheckboxLabel: მონიშნე ყველა
+
+    # The label of the Grid pager
+    pagerLabel: 'გვერდი {currentPage} - {totalPages}-დან'
+
+    # The Grid aria-label
+    gridLabel: ცხრილი
+
+    # The text of the title and aria-label attributes applied to the collapse icon of group rows.
+    groupCollapse: აკეცვა
+
+    # The text of the title and aria-label attributes applied to the expand icon of group rows.
+    groupExpand: გაშლა
+
+    # The title of the collapse icon of detail rows.
+    detailCollapse: აკეცვა
+
+    # The title of the expand icon of detail rows.
+    detailExpand: გაშლა
+    
+    # The text shown in the column menu for the autosize this column item
+    autosizeThisColumn: Autosize This Column
+        
+    # The text shown in the column menu for the autosize all columns item
+    autosizeAllColumns: Autosize All Columns
+    

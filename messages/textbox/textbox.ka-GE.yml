@@ -1,0 +1,4 @@
+kendo:
+  textbox:
+    # The title for the **Clear** button in the TextBox.
+    clear: გასუფთავება
