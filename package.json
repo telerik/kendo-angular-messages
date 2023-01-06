@@ -17,7 +17,7 @@
     "kendo-translate": "./bin/kendo-translate.js"
   },
   "scripts": {
-    "lint": "gulp lint",
+    "lint": "npx yaml-lint ./messages/**/*.yml",
     "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post",
     "seed-messages": "sh ./tools/seed-messages.sh",
     "append-message": "sh ./tools/append-message.sh",
@@ -28,10 +28,9 @@
     "@commitlint/config-conventional": "^17.4.0",
     "@progress/kendo-common-tasks": "^7.4.3",
     "@telerik/semantic-prerelease": "^1.3.6",
-    "gulp": "^4.0.2",
-    "gulp-yaml-validate": "^1.0.2",
     "husky": "^8.0.0",
-    "semantic-release": "^6.3.6"
+    "semantic-release": "^6.3.6",
+    "yaml-lint": "^1.7.0"
   },
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
