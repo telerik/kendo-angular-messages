@@ -1,36 +1,37 @@
 {
   "name": "@progress/kendo-angular-messages",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0-PLACEHOLDER",
   "description": "Localization messages - Kendo UI for Angular",
-  "main": "index.js",
-  "scripts": {
-    "lint": "gulp lint",
-    "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post",
-    "seed-messages": "sh ./tools/seed-messages.sh",
-    "append-message": "sh ./tools/append-message.sh"
-  },
-  "bin": {
-    "kendo-translate": "./bin/kendo-translate.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/telerik/kendo-angular-messages.git"
-  },
   "author": "Progress",
   "license": "SEE LICENSE IN LICENSE.md",
   "bugs": {
     "url": "https://github.com/telerik/kendo-angular-messages/issues"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telerik/kendo-angular-messages.git"
+  },
   "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
+  "main": "index.js",
+  "bin": {
+    "kendo-translate": "./bin/kendo-translate.js"
+  },
+  "scripts": {
+    "lint": "gulp lint",
+    "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post",
+    "seed-messages": "sh ./tools/seed-messages.sh",
+    "append-message": "sh ./tools/append-message.sh",
+    "prepare": "husky install"
+  },
   "devDependencies": {
+    "@commitlint/cli": "^17.4.0",
+    "@commitlint/config-conventional": "^17.4.0",
     "@progress/kendo-common-tasks": "^7.4.3",
     "@telerik/semantic-prerelease": "^1.3.6",
-    "cz-conventional-changelog": "1.2.0",
-    "ghooks": "^2.0.0",
     "gulp": "^4.0.2",
     "gulp-yaml-validate": "^1.0.2",
-    "semantic-release": "^6.3.6",
-    "validate-commit-msg": "2.11.1"
+    "husky": "^8.0.0",
+    "semantic-release": "^6.3.6"
   },
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
@@ -39,30 +40,6 @@
     "js-yaml": "^4.1.0",
     "ramda": "^0.28.0",
     "xlf-translate": "^2.0.5"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    },
-    "ghooks": {
-      "pre-commit": "npm run lint",
-      "commit-msg": "validate-commit-msg"
-    },
-    "validate-commit-msg": {
-      "types": [
-        "feat",
-        "fix",
-        "docs",
-        "style",
-        "refactor",
-        "perf",
-        "test",
-        "chore",
-        "revert"
-      ],
-      "warnOnFail": false,
-      "maxSubjectLength": 100
-    }
   },
   "release": {
     "debug": false,
