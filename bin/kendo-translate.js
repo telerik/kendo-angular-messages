@@ -69,11 +69,6 @@ const parseYaml = data => new Task((reject, resolve) => {
     }
 });
 
-// verifyFile :: [FilePath] -> Task Error [FilePath]
-const verifyFile = files => new Task((reject, resolve) => {
-    files.length ? resolve(files) : reject(new Error(`Unable to locate '${args.file}' file`));
-});
-
 // parseXml :: FileContent -> Task XML
 const parseXml = data => new Task((reject, resolve) => {
     const doc = cheerio.load(data, { xmlMode: true, decodeEntities: false })
@@ -124,8 +119,8 @@ const translations = R.pipe(
 
 // mergeTranslations :: FilePath -> YML -> XML
 const mergeTranslations = path => translations => R.pipe(
-    processFiles(parseXmlFile, verifyFile),
-    R.chain(xmlFiles => safeTranslate(R.head(xmlFiles), translations))
+    parseXmlFile,
+    R.chain(xmlFile => safeTranslate(xmlFile, translations))
 )(path);
 
 const main = () => {
