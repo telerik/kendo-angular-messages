@@ -18,8 +18,5 @@ jobs:
           fetch-depth: 0 # Fetch all branches
           token: ${{ secrets.GH_TOKEN }}
 
-      - name: Install modules
-        run: npm install @telerik/semantic-prerelease@1 --no-save
-
       - name: Fast-forward master to develop
-        run: npx release-master
+        run: ./tools/release-master

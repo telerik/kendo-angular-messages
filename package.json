@@ -4,13 +4,6 @@
   "description": "Localization messages - Kendo UI for Angular",
   "author": "Progress",
   "license": "SEE LICENSE IN LICENSE.md",
-  "bugs": {
-    "url": "https://github.com/telerik/kendo-angular-messages/issues"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/telerik/kendo-angular-messages.git"
-  },
   "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
   "main": "index.js",
   "bin": {
@@ -18,19 +11,9 @@
   },
   "scripts": {
     "lint": "npx yaml-lint ./messages/**/*.yml",
-    "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post",
     "seed-messages": "sh ./tools/seed-messages.sh",
     "append-message": "sh ./tools/append-message.sh",
     "prepare": "husky install"
-  },
-  "devDependencies": {
-    "@commitlint/cli": "^17.4.0",
-    "@commitlint/config-conventional": "^17.4.0",
-    "@progress/kendo-common-tasks": "^7.4.3",
-    "@telerik/semantic-prerelease": "^1.3.6",
-    "husky": "^8.0.0",
-    "semantic-release": "^6.3.6",
-    "yaml-lint": "^1.7.0"
   },
   "dependencies": {
     "cheerio": "1.0.0-rc.12",
@@ -40,19 +23,32 @@
     "ramda": "^0.28.0",
     "xlf-translate": "^2.0.5"
   },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.0",
+    "@commitlint/config-conventional": "^17.4.0",
+    "husky": "^8.0.0",
+    "semantic-release": "^19.0.5",
+    "yaml-lint": "^1.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/telerik/kendo-angular-messages/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telerik/kendo-angular-messages.git"
+  },
   "release": {
-    "debug": false,
-    "branchTags": {
-      "develop": "dev"
-    },
-    "fallbackTags": {
-      "dev": "latest"
-    },
-    "analyzeCommits": "@telerik/semantic-prerelease/analyzeCommits",
-    "generateNotes": "@telerik/semantic-prerelease/generateNotes",
-    "getLastRelease": "@telerik/semantic-prerelease/getLastRelease",
-    "verifyConditions": "@telerik/semantic-prerelease/verifyConditions",
-    "verifyRelease": "@telerik/semantic-prerelease/verifyRelease"
+    "branches": [
+      {
+        "name": "master",
+        "channel": "latest"
+      },
+      {
+        "name": "develop",
+        "prerelease": true,
+        "channel": "dev"
+      }
+    ]
   },
   "files": [
     "bin",
