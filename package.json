@@ -33,11 +33,11 @@
     "validate-commit-msg": "2.11.1"
   },
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "data.task": "^3.1.1",
-    "glob": "^7.1.1",
-    "js-yaml": "^3.7.0",
-    "ramda": "^0.23.0",
+    "cheerio": "1.0.0-rc.12",
+    "data.task": "^3.1.2",
+    "glob": "^8.0.3",
+    "js-yaml": "^4.1.0",
+    "ramda": "^0.28.0",
     "xlf-translate": "^2.0.5"
   },
   "config": {
