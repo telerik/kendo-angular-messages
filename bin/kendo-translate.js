@@ -13,39 +13,38 @@ const R = require('ramda');
 const args = (() => {
     const argparse = require('argparse');
     const parser = new argparse.ArgumentParser({
-        version: '0.1.0',
-        addHelp: true,
+        add_help: true,
         description: 'Populates Kendo UI for Angular messages in i18n message files'
     });
 
-    parser.addArgument('file', {
+    parser.add_argument('file', {
         help: 'XLIFF file to process, e.g. "src/i18n/messages.en.xlf"',
     });
 
-    parser.addArgument([ '-l', '--locale' ], {
+    parser.add_argument('-l', '--locale', {
         help: 'the locale ID, for example "en-US"',
         required: true
     });
 
-    parser.addArgument([ '-f', '--force' ], {
+    parser.add_argument('-f', '--force', {
         help: 'overwrites existing translations',
-        defaultValue: false,
-        action: 'storeTrue'
+        default: false,
+        action: 'store_true'
     });
 
-    parser.addArgument([ '-e', '--encoding' ], {
+    parser.add_argument('-e', '--encoding', {
         help: 'Specifies the message files encoding. Default is "utf-8".',
-        defaultValue: 'utf-8'
+        default: 'utf-8'
     });
 
-    return parser.parseArgs();
+    return parser.parse_args();
 })();
 
 const msgRoot = path.resolve(__dirname, '../messages');
 
 const langFiles = `/**/*.${args.locale}.yml`;
 
-const extendAll = R.reduce(R.mergeWith(R.merge), {});
+const extendAll = R.reduce(R.mergeWith(R.mergeRight), {});
 
 const complete = (reject, resolve) => (error, result) => {
     error ? reject(error) : resolve(result);
@@ -64,7 +63,7 @@ const readFile = filename => new Task((reject, resolve) => {
 // parseYaml :: FileContent -> Task YML
 const parseYaml = data => new Task((reject, resolve) => {
     try {
-        resolve(yaml.safeLoad(data));
+        resolve(yaml.load(data));
     } catch (e) {
         reject(e);
     }
