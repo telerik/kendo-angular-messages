@@ -1,0 +1,2040 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2">
+  <file source-language="es" datatype="plaintext" original="ng2.template">
+    <body>
+      <trans-unit id="7493428362965307555" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;&gt;
+        &lt;/ng-container&gt;
+        &lt;button
+            k"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-buttons/fesm2020/progress-kendo-angular-buttons.mjs</context>
+          <context context-type="linenumber">2498,2499</context>
+        </context-group>
+        <note priority="1" from="description">The text for the SplitButton aria-label</note>
+        <note priority="1" from="meaning">kendo.splitbutton.splitButtonLabel</note>
+      </trans-unit>
+      <trans-unit id="7780927771207785084" datatype="html">
+        <source>Today</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">3920,3918</context>
+        </context-group>
+        <note priority="1" from="description">The label for the today button in the calendar header</note>
+        <note priority="1" from="meaning">kendo.multiviewcalendar.today</note>
+      </trans-unit>
+      <trans-unit id="9101635325676663492" datatype="html">
+        <source>Navigate to previous view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">3921</context>
+        </context-group>
+        <note priority="1" from="description">The label for the previous button in the Multiview calendar</note>
+        <note priority="1" from="meaning">kendo.multiviewcalendar.prevButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="3994336778698343633" datatype="html">
+        <source>Navigate to next view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">3924</context>
+        </context-group>
+        <note priority="1" from="description">The label for the next button in the Multiview calendar</note>
+        <note priority="1" from="meaning">kendo.multiviewcalendar.nextButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="9114323678133837130" datatype="html">
+        <source>Navigate to parent view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">3927</context>
+        </context-group>
+        <note priority="1" from="description">The title of the parent view button in the Multiview calendar header</note>
+        <note priority="1" from="meaning">kendo.multiviewcalendar.parentViewButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="4715594042078324085" datatype="html">
+        <source>Today</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">6475,6473</context>
+        </context-group>
+        <note priority="1" from="description">The label for the today button in the calendar header</note>
+        <note priority="1" from="meaning">kendo.calendar.today</note>
+      </trans-unit>
+      <trans-unit id="9114031309296786030" datatype="html">
+        <source>Navigate to previous view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">6476</context>
+        </context-group>
+        <note priority="1" from="description">The title of the previous button in the Classic calendar</note>
+        <note priority="1" from="meaning">kendo.calendar.prevButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="7248948899360601102" datatype="html">
+        <source>Navigate to next view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">6479</context>
+        </context-group>
+        <note priority="1" from="description">The title of the next button in the Classic calendar</note>
+        <note priority="1" from="meaning">kendo.calendar.nextButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="2531723485997659576" datatype="html">
+        <source>Navigate to parent view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">6482</context>
+        </context-group>
+        <note priority="1" from="description">The title of the parent view button in the calendar header</note>
+        <note priority="1" from="meaning">kendo.calendar.parentViewButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="589112377451589685" datatype="html">
+        <source>Increase value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">8290</context>
+        </context-group>
+        <note priority="1" from="description">The label for the **Increment** button in the DateInput</note>
+        <note priority="1" from="meaning">kendo.dateinput.increment</note>
+      </trans-unit>
+      <trans-unit id="6980524091606682769" datatype="html">
+        <source>Decrease value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">8293</context>
+        </context-group>
+        <note priority="1" from="description">The label for the **Decrement** button in the DateInput</note>
+        <note priority="1" from="meaning">kendo.dateinput.decrement</note>
+      </trans-unit>
+      <trans-unit id="5799873230514803381" datatype="html">
+        <source>Today</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">9511,9509</context>
+        </context-group>
+        <note priority="1" from="description">The label for the today button in the calendar header</note>
+        <note priority="1" from="meaning">kendo.datepicker.today</note>
+      </trans-unit>
+      <trans-unit id="4817467473728423164" datatype="html">
+        <source>Toggle calendar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">9512</context>
+        </context-group>
+        <note priority="1" from="description">The title of the toggle button in the datepicker component</note>
+        <note priority="1" from="meaning">kendo.datepicker.toggle</note>
+      </trans-unit>
+      <trans-unit id="1741914107549506055" datatype="html">
+        <source>Navigate to previous view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">9515</context>
+        </context-group>
+        <note priority="1" from="description">The title of the previous button in the Classic calendar</note>
+        <note priority="1" from="meaning">kendo.datepicker.prevButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="3363484587807059211" datatype="html">
+        <source>Navigate to next view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">9518</context>
+        </context-group>
+        <note priority="1" from="description">The title of the next button in the Classic calendar</note>
+        <note priority="1" from="meaning">kendo.datepicker.nextButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="5362895271044573681" datatype="html">
+        <source>Set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">11316,11314</context>
+        </context-group>
+        <note priority="1" from="description">The Accept button text in the timeselector component</note>
+        <note priority="1" from="meaning">kendo.timeselector.accept</note>
+      </trans-unit>
+      <trans-unit id="3417396278000787211" datatype="html">
+        <source>Set time</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">11317</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Accept button in the timeselector component</note>
+        <note priority="1" from="meaning">kendo.timeselector.acceptLabel</note>
+      </trans-unit>
+      <trans-unit id="1890188482755567622" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">11322,11320</context>
+        </context-group>
+        <note priority="1" from="description">The Cancel button text in the timeselector component</note>
+        <note priority="1" from="meaning">kendo.timeselector.cancel</note>
+      </trans-unit>
+      <trans-unit id="5738120209397145846" datatype="html">
+        <source>Cancel changes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">11323</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Cancel button in the timeselector component</note>
+        <note priority="1" from="meaning">kendo.timeselector.cancelLabel</note>
+      </trans-unit>
+      <trans-unit id="1926162752852226109" datatype="html">
+        <source>Now</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">11328,11326</context>
+        </context-group>
+        <note priority="1" from="description">The Now button text in the timeselector component</note>
+        <note priority="1" from="meaning">kendo.timeselector.now</note>
+      </trans-unit>
+      <trans-unit id="7789175884909488647" datatype="html">
+        <source>Select now</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">11329</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Now button in the timeselector component</note>
+        <note priority="1" from="meaning">kendo.timeselector.nowLabel</note>
+      </trans-unit>
+      <trans-unit id="7519663530416240229" datatype="html">
+        <source>Set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12432,12430</context>
+        </context-group>
+        <note priority="1" from="description">The Accept button text in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.accept</note>
+      </trans-unit>
+      <trans-unit id="4355879331538595758" datatype="html">
+        <source>Set time</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12433</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Accept button in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.acceptLabel</note>
+      </trans-unit>
+      <trans-unit id="1086687567255473060" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12438,12436</context>
+        </context-group>
+        <note priority="1" from="description">The Cancel button text in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.cancel</note>
+      </trans-unit>
+      <trans-unit id="83621966901491941" datatype="html">
+        <source>Cancel changes</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12439</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Cancel button in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.cancelLabel</note>
+      </trans-unit>
+      <trans-unit id="5912507758515138116" datatype="html">
+        <source>Now</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12444,12442</context>
+        </context-group>
+        <note priority="1" from="description">The Now button text in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.now</note>
+      </trans-unit>
+      <trans-unit id="371982627910576599" datatype="html">
+        <source>Select now</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12445</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Now button in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.nowLabel</note>
+      </trans-unit>
+      <trans-unit id="6938407659294495526" datatype="html">
+        <source>Toggle time list</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12448</context>
+        </context-group>
+        <note priority="1" from="description">The label for the toggle button in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.toggle</note>
+      </trans-unit>
+      <trans-unit id="2875854054328496561" datatype="html">
+        <source>Hour</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12453,12451</context>
+        </context-group>
+        <note priority="1" from="description">The label for the hour part in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.hour</note>
+      </trans-unit>
+      <trans-unit id="8548546417085048545" datatype="html">
+        <source>Minute</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12456,12454</context>
+        </context-group>
+        <note priority="1" from="description">The label for the minute part in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.minute</note>
+      </trans-unit>
+      <trans-unit id="7712109889530580842" datatype="html">
+        <source>Second</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12459,12457</context>
+        </context-group>
+        <note priority="1" from="description">The label for the second part in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.second</note>
+      </trans-unit>
+      <trans-unit id="895001032953500689" datatype="html">
+        <source>Millisecond</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12460</context>
+        </context-group>
+        <note priority="1" from="description">The label for the millisecond part in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.millisecond</note>
+      </trans-unit>
+      <trans-unit id="4953464700845047201" datatype="html">
+        <source>Dayperiod</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">12463</context>
+        </context-group>
+        <note priority="1" from="description">The label for the dayperiod part in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.timepicker.dayperiod</note>
+      </trans-unit>
+      <trans-unit id="3360129034450596425" datatype="html">
+        <source>Date</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13822,13820</context>
+        </context-group>
+        <note priority="1" from="description">The Date tab text in the datetimepicker popup header</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.dateTab</note>
+      </trans-unit>
+      <trans-unit id="1810540079817643910" datatype="html">
+        <source>Date tab</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13823</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Date tab in the datetimepicker popup header</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.dateTabLabel</note>
+      </trans-unit>
+      <trans-unit id="3807284594201983607" datatype="html">
+        <source>Time</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13828,13826</context>
+        </context-group>
+        <note priority="1" from="description">The Time tab text in the datetimepicker popup header</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.timeTab</note>
+      </trans-unit>
+      <trans-unit id="2577682127494513393" datatype="html">
+        <source>Time tab</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13829</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Time tab in the datetimepicker popup header</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.timeTabLabel</note>
+      </trans-unit>
+      <trans-unit id="3159207801887264026" datatype="html">
+        <source>Toggle popup</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13832</context>
+        </context-group>
+        <note priority="1" from="description">The title of the toggle button in the datetimepicker component</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.toggle</note>
+      </trans-unit>
+      <trans-unit id="3915774704336012538" datatype="html">
+        <source>Set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13837,13835</context>
+        </context-group>
+        <note priority="1" from="description">The Accept button text in the datetimepicker component</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.accept</note>
+      </trans-unit>
+      <trans-unit id="4770689705864890748" datatype="html">
+        <source>Set</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13840,13838</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Accept button in the datetimepicker component</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.acceptLabel</note>
+      </trans-unit>
+      <trans-unit id="5100781969600382158" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13843,13841</context>
+        </context-group>
+        <note priority="1" from="description">The Cancel button text in the datetimepicker component</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.cancel</note>
+      </trans-unit>
+      <trans-unit id="3535986227615756275" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13846,13844</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Cancel button in the datetimepicker component</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.cancelLabel</note>
+      </trans-unit>
+      <trans-unit id="5497093725885127701" datatype="html">
+        <source>NOW</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13849,13847</context>
+        </context-group>
+        <note priority="1" from="description">The Now button text in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.now</note>
+      </trans-unit>
+      <trans-unit id="5046379108717037514" datatype="html">
+        <source>Select now</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13850</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Now button in the timepicker component</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.nowLabel</note>
+      </trans-unit>
+      <trans-unit id="2570147067439993260" datatype="html">
+        <source>Today</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13855,13853</context>
+        </context-group>
+        <note priority="1" from="description">The label for the today button in the calendar header</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.today</note>
+      </trans-unit>
+      <trans-unit id="6176055232586065404" datatype="html">
+        <source>Navigate to previous view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13856</context>
+        </context-group>
+        <note priority="1" from="description">The title of the previous button in the Classic calendar</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.prevButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="6424339255333594510" datatype="html">
+        <source>Navigate to next view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dateinputs/fesm2020/progress-kendo-angular-dateinputs.mjs</context>
+          <context context-type="linenumber">13859</context>
+        </context-group>
+        <note priority="1" from="description">The title of the next button in the Classic calendar</note>
+        <note priority="1" from="meaning">kendo.datetimepicker.nextButtonTitle</note>
+      </trans-unit>
+      <trans-unit id="7499923323865444383" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/fesm2020/progress-kendo-angular-dialog.mjs</context>
+          <context context-type="linenumber">510,509</context>
+        </context-group>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/fesm2020/progress-kendo-angular-dialog.mjs</context>
+          <context context-type="linenumber">1044,1043</context>
+        </context-group>
+        <note priority="1" from="description">The title of the close button</note>
+        <note priority="1" from="meaning">kendo.dialog.closeTitle</note>
+      </trans-unit>
+      <trans-unit id="2849207436137160812" datatype="html">
+        <source>Close</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/fesm2020/progress-kendo-angular-dialog.mjs</context>
+          <context context-type="linenumber">2982,2980</context>
+        </context-group>
+        <note priority="1" from="description">The title of the close button</note>
+        <note priority="1" from="meaning">kendo.window.closeTitle</note>
+      </trans-unit>
+      <trans-unit id="3443120027481340803" datatype="html">
+        <source>Restore</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/fesm2020/progress-kendo-angular-dialog.mjs</context>
+          <context context-type="linenumber">2984,2983</context>
+        </context-group>
+        <note priority="1" from="description">The title of the restore button</note>
+        <note priority="1" from="meaning">kendo.window.restoreTitle</note>
+      </trans-unit>
+      <trans-unit id="7793415109119115257" datatype="html">
+        <source>Maximize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/fesm2020/progress-kendo-angular-dialog.mjs</context>
+          <context context-type="linenumber">2986</context>
+        </context-group>
+        <note priority="1" from="description">The title of the maximize button</note>
+        <note priority="1" from="meaning">kendo.window.maximizeTitle</note>
+      </trans-unit>
+      <trans-unit id="7581084655285341827" datatype="html">
+        <source>Minimize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dialog/fesm2020/progress-kendo-angular-dialog.mjs</context>
+          <context context-type="linenumber">2989</context>
+        </context-group>
+        <note priority="1" from="description">The title of the minimize button</note>
+        <note priority="1" from="meaning">kendo.window.minimizeTitle</note>
+      </trans-unit>
+      <trans-unit id="2690656529626907484" datatype="html">
+        <source>NO DATA FOUND</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">3347</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
+        <note priority="1" from="meaning">kendo.autocomplete.noDataText</note>
+      </trans-unit>
+      <trans-unit id="4821453594854847070" datatype="html">
+        <source>clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">3351,3350</context>
+        </context-group>
+        <note priority="1" from="description">The title of the clear button</note>
+        <note priority="1" from="meaning">kendo.autocomplete.clearTitle</note>
+      </trans-unit>
+      <trans-unit id="7708502966028483300" datatype="html">
+        <source>NO DATA FOUND</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">4975</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
+        <note priority="1" from="meaning">kendo.combobox.noDataText</note>
+      </trans-unit>
+      <trans-unit id="2025597431468961462" datatype="html">
+        <source>clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">4980,4978</context>
+        </context-group>
+        <note priority="1" from="description">The title of the clear button</note>
+        <note priority="1" from="meaning">kendo.combobox.clearTitle</note>
+      </trans-unit>
+      <trans-unit id="2552188253943233918" datatype="html">
+        <source>Select</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">4982,4981</context>
+        </context-group>
+        <note priority="1" from="description">The text set as aria-label on the select button</note>
+        <note priority="1" from="meaning">kendo.combobox.selectButtonText</note>
+      </trans-unit>
+      <trans-unit id="8289552890585138350" datatype="html">
+        <source>NO DATA FOUND</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">6614</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
+        <note priority="1" from="meaning">kendo.dropdownlist.noDataText</note>
+      </trans-unit>
+      <trans-unit id="502653685822533375" datatype="html">
+        <source>Select</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">6618,6617</context>
+        </context-group>
+        <note priority="1" from="description">The text set as aria-label on the select button</note>
+        <note priority="1" from="meaning">kendo.dropdownlist.selectButtonText</note>
+      </trans-unit>
+      <trans-unit id="1450213984397806503" datatype="html">
+        <source>NO DATA FOUND</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">8899</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
+        <note priority="1" from="meaning">kendo.multiselect.noDataText</note>
+      </trans-unit>
+      <trans-unit id="4609022959269604009" datatype="html">
+        <source>clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">8903,8902</context>
+        </context-group>
+        <note priority="1" from="description">The title of the clear button</note>
+        <note priority="1" from="meaning">kendo.multiselect.clearTitle</note>
+      </trans-unit>
+      <trans-unit id="3227251500690942605" datatype="html">
+        <source>NO DATA FOUND</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">9623</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
+        <note priority="1" from="meaning">kendo.multicolumncombobox.noDataText</note>
+      </trans-unit>
+      <trans-unit id="326603149056291198" datatype="html">
+        <source>clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">9628,9626</context>
+        </context-group>
+        <note priority="1" from="description">The title of the clear button</note>
+        <note priority="1" from="meaning">kendo.multicolumncombobox.clearTitle</note>
+      </trans-unit>
+      <trans-unit id="6944052344165215322" datatype="html">
+        <source>Select</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">9630,9629</context>
+        </context-group>
+        <note priority="1" from="description">The title of the select button</note>
+        <note priority="1" from="meaning">kendo.multicolumncombobox.selectButtonText</note>
+      </trans-unit>
+      <trans-unit id="8377764809518564323" datatype="html">
+        <source>NO DATA FOUND</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">11120</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
+        <note priority="1" from="meaning">kendo.dropdowntree.noDataText</note>
+      </trans-unit>
+      <trans-unit id="5091538317194981642" datatype="html">
+        <source>clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">11125,11123</context>
+        </context-group>
+        <note priority="1" from="description">The title of the clear button</note>
+        <note priority="1" from="meaning">kendo.dropdowntree.clearTitle</note>
+      </trans-unit>
+      <trans-unit id="7607456189720144875" datatype="html">
+        <source>Select</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">11127,11126</context>
+        </context-group>
+        <note priority="1" from="description">The text set as aria-label on the select button</note>
+        <note priority="1" from="meaning">kendo.dropdowntree.selectButtonText</note>
+      </trans-unit>
+      <trans-unit id="5589893825114548617" datatype="html">
+        <source>NO DATA FOUND</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">13312</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed in the popup when there are no items</note>
+        <note priority="1" from="meaning">kendo.multiselecttree.noDataText</note>
+      </trans-unit>
+      <trans-unit id="7268188619735862842" datatype="html">
+        <source>clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">13317,13315</context>
+        </context-group>
+        <note priority="1" from="description">The title of the clear button</note>
+        <note priority="1" from="meaning">kendo.multiselecttree.clearTitle</note>
+      </trans-unit>
+      <trans-unit id="4511060501589211517" datatype="html">
+        <source>Check all</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-dropdowns/fesm2020/progress-kendo-angular-dropdowns.mjs</context>
+          <context context-type="linenumber">13318</context>
+        </context-group>
+        <note priority="1" from="description">The text displayed for the check-all checkbox</note>
+        <note priority="1" from="meaning">kendo.multiselecttree.checkAllText</note>
+      </trans-unit>
+      <trans-unit id="1430663748859427158" datatype="html">
+        <source>Drag a column header and drop it here to group by that column</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20820</context>
+        </context-group>
+        <note priority="1" from="description">The label visible in the Grid group panel when it is empty</note>
+        <note priority="1" from="meaning">kendo.grid.groupPanelEmpty</note>
+      </trans-unit>
+      <trans-unit id="1243399825085142134" datatype="html">
+        <source>No records available.</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20823</context>
+        </context-group>
+        <note priority="1" from="description">The label visible in the Grid when there are no records</note>
+        <note priority="1" from="meaning">kendo.grid.noRecords</note>
+      </trans-unit>
+      <trans-unit id="8009801217904632250" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20826,20828</context>
+        </context-group>
+        <note priority="1" from="description">The label for the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerLabel</note>
+      </trans-unit>
+      <trans-unit id="5647145449685906398" datatype="html">
+        <source>Go to the first page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20829</context>
+        </context-group>
+        <note priority="1" from="description">The label for the first page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerFirstPage</note>
+      </trans-unit>
+      <trans-unit id="6745088753482690847" datatype="html">
+        <source>Go to the previous page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20832</context>
+        </context-group>
+        <note priority="1" from="description">The label for the previous page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerPreviousPage</note>
+      </trans-unit>
+      <trans-unit id="5510985262435270859" datatype="html">
+        <source>Go to the next page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20835</context>
+        </context-group>
+        <note priority="1" from="description">The label for the next page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerNextPage</note>
+      </trans-unit>
+      <trans-unit id="4539768510520419313" datatype="html">
+        <source>Go to the last page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20838</context>
+        </context-group>
+        <note priority="1" from="description">The label for the last page button in Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerLastPage</note>
+      </trans-unit>
+      <trans-unit id="5228228287003939680" datatype="html">
+        <source>Page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20843,20841</context>
+        </context-group>
+        <note priority="1" from="description">The label before the current page number in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerPage</note>
+      </trans-unit>
+      <trans-unit id="7004642096327889102" datatype="html">
+        <source>of</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20846,20844</context>
+        </context-group>
+        <note priority="1" from="description">The label before the total pages number in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerOf</note>
+      </trans-unit>
+      <trans-unit id="700193548223931835" datatype="html">
+        <source>items</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20849,20847</context>
+        </context-group>
+        <note priority="1" from="description">The label after the total pages number in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerItems</note>
+      </trans-unit>
+      <trans-unit id="2090461908134774363" datatype="html">
+        <source>Page Number</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20850</context>
+        </context-group>
+        <note priority="1" from="description">The label for the pager input in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerPageNumberInputTitle</note>
+      </trans-unit>
+      <trans-unit id="8838594644885628398" datatype="html">
+        <source>items per page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20853</context>
+        </context-group>
+        <note priority="1" from="description">The label for the page size chooser in the Grid pager</note>
+        <note priority="1" from="meaning">kendo.grid.pagerItemsPerPage</note>
+      </trans-unit>
+      <trans-unit id="7977992299945497789" datatype="html">
+        <source>Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20858,20856</context>
+        </context-group>
+        <note priority="1" from="description">The label of the filter cell or icon</note>
+        <note priority="1" from="meaning">kendo.grid.filter</note>
+      </trans-unit>
+      <trans-unit id="8107424894769231672" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;
+
+            i18n-filterMenuTitle=&quot;kendo.grid.filterMenu"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20859,20861</context>
+        </context-group>
+        <note priority="1" from="description">The label of the filter row and menu inputs</note>
+        <note priority="1" from="meaning">kendo.grid.filterInputLabel</note>
+      </trans-unit>
+      <trans-unit id="1810468421302428464" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;
+
+            i18n-filterMenuOperatorsDro"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20862,20864</context>
+        </context-group>
+        <note priority="1" from="description">The title of the filter menu icon</note>
+        <note priority="1" from="meaning">kendo.grid.filterMenuTitle</note>
+      </trans-unit>
+      <trans-unit id="4517333145483748843" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;
+
+            i18n-filterMenuLogicDropDownLabel=&quot;kendo.grid.filterM"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20865,20867</context>
+        </context-group>
+        <note priority="1" from="description">The label of the filter menu operators dropdown</note>
+        <note priority="1" from="meaning">kendo.grid.filterMenuOperatorsDropDownLabel</note>
+      </trans-unit>
+      <trans-unit id="937712246666554577" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;
+
+            i18n-filterEqOperator=&quot;kendo.grid.filterEqOperato"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20868,20870</context>
+        </context-group>
+        <note priority="1" from="description">The label of the filter menu logic dropdown</note>
+        <note priority="1" from="meaning">kendo.grid.filterMenuLogicDropDownLabel</note>
+      </trans-unit>
+      <trans-unit id="4328959145426393682" datatype="html">
+        <source>Is equal to</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20871</context>
+        </context-group>
+        <note priority="1" from="description">The text of the equal filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterEqOperator</note>
+      </trans-unit>
+      <trans-unit id="8497658332767349737" datatype="html">
+        <source>Is not equal to</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20874</context>
+        </context-group>
+        <note priority="1" from="description">The text of the not equal filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterNotEqOperator</note>
+      </trans-unit>
+      <trans-unit id="1298299704757177797" datatype="html">
+        <source>Is null</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20878,20877</context>
+        </context-group>
+        <note priority="1" from="description">The text of the is null filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterIsNullOperator</note>
+      </trans-unit>
+      <trans-unit id="8362279767336741540" datatype="html">
+        <source>Is not null</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20880</context>
+        </context-group>
+        <note priority="1" from="description">The text of the is not null filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterIsNotNullOperator</note>
+      </trans-unit>
+      <trans-unit id="4762263229995523226" datatype="html">
+        <source>Is empty</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20883</context>
+        </context-group>
+        <note priority="1" from="description">The text of the is empty filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterIsEmptyOperator</note>
+      </trans-unit>
+      <trans-unit id="8245213618709258015" datatype="html">
+        <source>Is not empty</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20886</context>
+        </context-group>
+        <note priority="1" from="description">The text of the is not empty filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterIsNotEmptyOperator</note>
+      </trans-unit>
+      <trans-unit id="6087783423599420507" datatype="html">
+        <source>Starts with</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20889</context>
+        </context-group>
+        <note priority="1" from="description">The text of the starts with filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterStartsWithOperator</note>
+      </trans-unit>
+      <trans-unit id="3831180413287131758" datatype="html">
+        <source>Contains</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20892</context>
+        </context-group>
+        <note priority="1" from="description">The text of the contains filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterContainsOperator</note>
+      </trans-unit>
+      <trans-unit id="7331253838216904826" datatype="html">
+        <source>Does not contain</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20895</context>
+        </context-group>
+        <note priority="1" from="description">The text of the does not contain filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterNotContainsOperator</note>
+      </trans-unit>
+      <trans-unit id="3662435311670509156" datatype="html">
+        <source>Ends with</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20898</context>
+        </context-group>
+        <note priority="1" from="description">The text of the ends with filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterEndsWithOperator</note>
+      </trans-unit>
+      <trans-unit id="4542824413455511831" datatype="html">
+        <source>Is greater than or equal to</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20901</context>
+        </context-group>
+        <note priority="1" from="description">The text of the greater than or equal filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterGteOperator</note>
+      </trans-unit>
+      <trans-unit id="1527483349261806183" datatype="html">
+        <source>Is greater than</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20904</context>
+        </context-group>
+        <note priority="1" from="description">The text of the greater than filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterGtOperator</note>
+      </trans-unit>
+      <trans-unit id="4840714404733417604" datatype="html">
+        <source>Is less than or equal to</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20907</context>
+        </context-group>
+        <note priority="1" from="description">The text of the less than or equal filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterLteOperator</note>
+      </trans-unit>
+      <trans-unit id="498627126459578706" datatype="html">
+        <source>Is less than</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20910</context>
+        </context-group>
+        <note priority="1" from="description">The text of the less than filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterLtOperator</note>
+      </trans-unit>
+      <trans-unit id="2361673238316312251" datatype="html">
+        <source>Is True</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20914,20913</context>
+        </context-group>
+        <note priority="1" from="description">The text of the IsTrue boolean filter option</note>
+        <note priority="1" from="meaning">kendo.grid.filterIsTrue</note>
+      </trans-unit>
+      <trans-unit id="7759366406135608407" datatype="html">
+        <source>Is False</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20916</context>
+        </context-group>
+        <note priority="1" from="description">The text of the IsFalse boolean filter option</note>
+        <note priority="1" from="meaning">kendo.grid.filterIsFalse</note>
+      </trans-unit>
+      <trans-unit id="9215343856736761875" datatype="html">
+        <source>(All)</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20921,20919</context>
+        </context-group>
+        <note priority="1" from="description">The text of the (All) boolean filter option</note>
+        <note priority="1" from="meaning">kendo.grid.filterBooleanAll</note>
+      </trans-unit>
+      <trans-unit id="1964413288176201979" datatype="html">
+        <source>Is after or equal to</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20922</context>
+        </context-group>
+        <note priority="1" from="description">The text of the after or equal date filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterAfterOrEqualOperator</note>
+      </trans-unit>
+      <trans-unit id="3078502182807244703" datatype="html">
+        <source>Is after</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20925</context>
+        </context-group>
+        <note priority="1" from="description">The text of the after date filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterAfterOperator</note>
+      </trans-unit>
+      <trans-unit id="3348865631071358219" datatype="html">
+        <source>Is before</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20928</context>
+        </context-group>
+        <note priority="1" from="description">The text of the before date filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterBeforeOperator</note>
+      </trans-unit>
+      <trans-unit id="6582064037090631388" datatype="html">
+        <source>Is before or equal to</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20931</context>
+        </context-group>
+        <note priority="1" from="description">The text of the before or equal date filter operator</note>
+        <note priority="1" from="meaning">kendo.grid.filterBeforeOrEqualOperator</note>
+      </trans-unit>
+      <trans-unit id="5185263258022896121" datatype="html">
+        <source>Filter</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20936,20934</context>
+        </context-group>
+        <note priority="1" from="description">The text of the filter button</note>
+        <note priority="1" from="meaning">kendo.grid.filterFilterButton</note>
+      </trans-unit>
+      <trans-unit id="3031209415830321799" datatype="html">
+        <source>Clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20939,20937</context>
+        </context-group>
+        <note priority="1" from="description">The text of the clear filter button</note>
+        <note priority="1" from="meaning">kendo.grid.filterClearButton</note>
+      </trans-unit>
+      <trans-unit id="512662285155477884" datatype="html">
+        <source>And</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20942,20940</context>
+        </context-group>
+        <note priority="1" from="description">The text of the And filter logic</note>
+        <note priority="1" from="meaning">kendo.grid.filterAndLogic</note>
+      </trans-unit>
+      <trans-unit id="1964926727342405367" datatype="html">
+        <source>Or</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20945,20943</context>
+        </context-group>
+        <note priority="1" from="description">The text of the Or filter logic</note>
+        <note priority="1" from="meaning">kendo.grid.filterOrLogic</note>
+      </trans-unit>
+      <trans-unit id="5425510787229531767" datatype="html">
+        <source>Loading</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20947,20946</context>
+        </context-group>
+        <note priority="1" from="description">The loading text</note>
+        <note priority="1" from="meaning">kendo.grid.loading</note>
+      </trans-unit>
+      <trans-unit id="1756559638952980203" datatype="html">
+        <source>Data table</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20949</context>
+        </context-group>
+        <note priority="1" from="description">The Grid aria-label</note>
+        <note priority="1" from="meaning">kendo.grid.gridLabel</note>
+      </trans-unit>
+      <trans-unit id="1629221826958146590" datatype="html">
+        <source><x id="INTERPOLATION" equiv-text="&quot;
+
+            i18n-columns=&quot;kendo.gr"/></source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20952,20954</context>
+        </context-group>
+        <note priority="1" from="description">The title of the column menu icon</note>
+        <note priority="1" from="meaning">kendo.grid.columnMenu</note>
+      </trans-unit>
+      <trans-unit id="5332162737795508854" datatype="html">
+        <source>Columns</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20956,20955</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the columns item</note>
+        <note priority="1" from="meaning">kendo.grid.columns</note>
+      </trans-unit>
+      <trans-unit id="5849203148124173556" datatype="html">
+        <source>Lock</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20960,20958</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the lock item</note>
+        <note priority="1" from="meaning">kendo.grid.lock</note>
+      </trans-unit>
+      <trans-unit id="6968586378603932789" datatype="html">
+        <source>Unlock</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20963,20961</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the unlock item</note>
+        <note priority="1" from="meaning">kendo.grid.unlock</note>
+      </trans-unit>
+      <trans-unit id="4152513791950180353" datatype="html">
+        <source>Set Column Position</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20964</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the set column position item</note>
+        <note priority="1" from="meaning">kendo.grid.setColumnPosition</note>
+      </trans-unit>
+      <trans-unit id="2051035907018784050" datatype="html">
+        <source>Stick</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20969,20967</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the stick item</note>
+        <note priority="1" from="meaning">kendo.grid.stick</note>
+      </trans-unit>
+      <trans-unit id="7237321134369658080" datatype="html">
+        <source>Unstick</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20971,20970</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the unstick item</note>
+        <note priority="1" from="meaning">kendo.grid.unstick</note>
+      </trans-unit>
+      <trans-unit id="3824304972336788145" datatype="html">
+        <source>Sortable</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20973</context>
+        </context-group>
+        <note priority="1" from="description">The label of the sort icon</note>
+        <note priority="1" from="meaning">kendo.grid.sortable</note>
+      </trans-unit>
+      <trans-unit id="6297762560864270240" datatype="html">
+        <source>Sort Ascending</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20976</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the sort ascending item</note>
+        <note priority="1" from="meaning">kendo.grid.sortAscending</note>
+      </trans-unit>
+      <trans-unit id="5605073536641230977" datatype="html">
+        <source>Sort Descending</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20979</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the sort descending item</note>
+        <note priority="1" from="meaning">kendo.grid.sortDescending</note>
+      </trans-unit>
+      <trans-unit id="8641813735899249887" datatype="html">
+        <source>Autosize All Columns</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20982</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the autosize all columns item</note>
+        <note priority="1" from="meaning">kendo.grid.autosizeAllColumns</note>
+      </trans-unit>
+      <trans-unit id="7097419570171226109" datatype="html">
+        <source>Autosize This Column</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20985</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu for the autosize this column item</note>
+        <note priority="1" from="meaning">kendo.grid.autosizeThisColumn</note>
+      </trans-unit>
+      <trans-unit id="6275944032047713540" datatype="html">
+        <source>Sorted Ascending</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20988</context>
+        </context-group>
+        <note priority="1" from="description">The status announcement when a column is sorted ascending</note>
+        <note priority="1" from="meaning">kendo.grid.sortedAscending</note>
+      </trans-unit>
+      <trans-unit id="8155280769473236383" datatype="html">
+        <source>Sorted Descending</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20991</context>
+        </context-group>
+        <note priority="1" from="description">The status announcement when a column is sorted descending</note>
+        <note priority="1" from="meaning">kendo.grid.sortedDescending</note>
+      </trans-unit>
+      <trans-unit id="5229177293891232538" datatype="html">
+        <source>Not Sorted</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20994</context>
+        </context-group>
+        <note priority="1" from="description">The status announcement when a column is no longer sorted</note>
+        <note priority="1" from="meaning">kendo.grid.sortedDefault</note>
+      </trans-unit>
+      <trans-unit id="34213208292862969" datatype="html">
+        <source>Apply</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">20999,20997</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu or column chooser for the columns apply button</note>
+        <note priority="1" from="meaning">kendo.grid.columnsApply</note>
+      </trans-unit>
+      <trans-unit id="4465838259914958827" datatype="html">
+        <source>Reset</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21002,21000</context>
+        </context-group>
+        <note priority="1" from="description">The text shown in the column menu or column chooser for the columns reset button</note>
+        <note priority="1" from="meaning">kendo.grid.columnsReset</note>
+      </trans-unit>
+      <trans-unit id="6952757249912226136" datatype="html">
+        <source>Expand Details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21003</context>
+        </context-group>
+        <note priority="1" from="description">The title of the expand icon of detail rows.</note>
+        <note priority="1" from="meaning">kendo.grid.detailExpand</note>
+      </trans-unit>
+      <trans-unit id="6065477639036399169" datatype="html">
+        <source>Collapse Details</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21006</context>
+        </context-group>
+        <note priority="1" from="description">The title of the collapse icon of detail rows.</note>
+        <note priority="1" from="meaning">kendo.grid.detailCollapse</note>
+      </trans-unit>
+      <trans-unit id="1656723147090613075" datatype="html">
+        <source>TODAY</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21011,21009</context>
+        </context-group>
+        <note priority="1" from="description">The text of the Today button of the Date filter.</note>
+        <note priority="1" from="meaning">kendo.grid.filterDateToday</note>
+      </trans-unit>
+      <trans-unit id="15438307630389352" datatype="html">
+        <source>Toggle Calendar</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21012</context>
+        </context-group>
+        <note priority="1" from="description">The title of the Toggle button of the Date filter.</note>
+        <note priority="1" from="meaning">kendo.grid.filterDateToggle</note>
+      </trans-unit>
+      <trans-unit id="534533728304192410" datatype="html">
+        <source>Decrement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21015</context>
+        </context-group>
+        <note priority="1" from="description">The title of the Decrement button of the Numeric filter.</note>
+        <note priority="1" from="meaning">kendo.grid.filterNumericDecrement</note>
+      </trans-unit>
+      <trans-unit id="5462143714591662391" datatype="html">
+        <source>Increment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21018</context>
+        </context-group>
+        <note priority="1" from="description">The title of the Increment button of the Numeric filter.</note>
+        <note priority="1" from="meaning">kendo.grid.filterNumericIncrement</note>
+      </trans-unit>
+      <trans-unit id="8181603152758207780" datatype="html">
+        <source>Select Row</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21021</context>
+        </context-group>
+        <note priority="1" from="description">The labels of the checkbox column checkboxes.</note>
+        <note priority="1" from="meaning">kendo.grid.selectionCheckboxLabel</note>
+      </trans-unit>
+      <trans-unit id="6136285170059274319" datatype="html">
+        <source>Select All Rows</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21024</context>
+        </context-group>
+        <note priority="1" from="description">The label of the checkbox column select all checkbox.</note>
+        <note priority="1" from="meaning">kendo.grid.selectAllCheckboxLabel</note>
+      </trans-unit>
+      <trans-unit id="7772550046681609079" datatype="html">
+        <source>Collapse Group</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21027</context>
+        </context-group>
+        <note priority="1" from="description">The text of the title and aria-label attributes applied to the collapse icon of group rows.</note>
+        <note priority="1" from="meaning">kendo.grid.groupCollapse</note>
+      </trans-unit>
+      <trans-unit id="1232300275422220104" datatype="html">
+        <source>Expand Group</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21030</context>
+        </context-group>
+        <note priority="1" from="description">The text of the title and aria-label attributes applied to the expand icon of group rows.</note>
+        <note priority="1" from="meaning">kendo.grid.groupExpand</note>
+      </trans-unit>
+      <trans-unit id="5939232818993851320" datatype="html">
+        <source>Select page</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-grid/fesm2020/progress-kendo-angular-grid.mjs</context>
+          <context context-type="linenumber">21033</context>
+        </context-group>
+        <note priority="1" from="description">The text of the title and aria-label attributes applied to the page chooser in the Grid Pager</note>
+        <note priority="1" from="meaning">kendo.grid.selectPage</note>
+      </trans-unit>
+      <trans-unit id="8302125540024939132" datatype="html">
+        <source>increment</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">1368</context>
+        </context-group>
+        <note priority="1" from="description">The title of the **Increase** button of the Slider.</note>
+        <note priority="1" from="meaning">kendo.slider.increment</note>
+      </trans-unit>
+      <trans-unit id="652458644240352212" datatype="html">
+        <source>decrement</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">1370</context>
+        </context-group>
+        <note priority="1" from="description">The title of the **Decrease** button of the Slider.</note>
+        <note priority="1" from="meaning">kendo.slider.decrement</note>
+      </trans-unit>
+      <trans-unit id="9117416417579607469" datatype="html">
+        <source>Drag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">1373,1372</context>
+        </context-group>
+        <note priority="1" from="description">The title of the drag handle of the Slider.</note>
+        <note priority="1" from="meaning">kendo.slider.dragHandle</note>
+      </trans-unit>
+      <trans-unit id="1512034289801794423" datatype="html">
+        <source>Drag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">2075,2074</context>
+        </context-group>
+        <note priority="1" from="description">The title of the **Start** drag handle of the Slider.</note>
+        <note priority="1" from="meaning">kendo.rangeslider.dragHandleStart</note>
+      </trans-unit>
+      <trans-unit id="6915505327582510906" datatype="html">
+        <source>Drag</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">2077,2076</context>
+        </context-group>
+        <note priority="1" from="description">The title of the **End** drag handle of the Slider.</note>
+        <note priority="1" from="meaning">kendo.rangeslider.dragHandleEnd</note>
+      </trans-unit>
+      <trans-unit id="818154782831456441" datatype="html">
+        <source>ON</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">2693,2692</context>
+        </context-group>
+        <note priority="1" from="description">The **On** label of the Switch.</note>
+        <note priority="1" from="meaning">kendo.switch.on</note>
+      </trans-unit>
+      <trans-unit id="759820891948194060" datatype="html">
+        <source>OFF</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">2695,2694</context>
+        </context-group>
+        <note priority="1" from="description">The **Off** label of the Switch.</note>
+        <note priority="1" from="meaning">kendo.switch.off</note>
+      </trans-unit>
+      <trans-unit id="4467784268438010275" datatype="html">
+        <source>Increase value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">4243</context>
+        </context-group>
+        <note priority="1" from="description">The title for the **Increment** button in the NumericTextBox</note>
+        <note priority="1" from="meaning">kendo.numerictextbox.increment</note>
+      </trans-unit>
+      <trans-unit id="3960022057994897997" datatype="html">
+        <source>Decrease value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">4245</context>
+        </context-group>
+        <note priority="1" from="description">The title for the **Decrement** button in the NumericTextBox</note>
+        <note priority="1" from="meaning">kendo.numerictextbox.decrement</note>
+      </trans-unit>
+      <trans-unit id="2651889799249671820" datatype="html">
+        <source>Clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">6712,6711</context>
+        </context-group>
+        <note priority="1" from="description">The title for the **Clear** button in the TextBox.</note>
+        <note priority="1" from="meaning">kendo.textbox.clear</note>
+      </trans-unit>
+      <trans-unit id="3796155240301823948" datatype="html">
+        <source>Colorgradient no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9714</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the ColorGradient component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.colorGradientNoColor</note>
+      </trans-unit>
+      <trans-unit id="8537406358423916512" datatype="html">
+        <source>Choose color</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9716</context>
+        </context-group>
+        <note priority="1" from="description">The title for the gradient color drag handle chooser.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.colorGradientHandle</note>
+      </trans-unit>
+      <trans-unit id="7605097752673642325" datatype="html">
+        <source>Clear value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9718</context>
+        </context-group>
+        <note priority="1" from="description">The title for the clear button.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.clearButton</note>
+      </trans-unit>
+      <trans-unit id="8568799441668530127" datatype="html">
+        <source>Set hue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9721,9720</context>
+        </context-group>
+        <note priority="1" from="description">The title for the hue slider handle.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.hueSliderHandle</note>
+      </trans-unit>
+      <trans-unit id="2665102430468067218" datatype="html">
+        <source>Set opacity</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9722</context>
+        </context-group>
+        <note priority="1" from="description">The title for the opacity slider handle.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.opacitySliderHandle</note>
+      </trans-unit>
+      <trans-unit id="200461871469242251" datatype="html">
+        <source>Pass</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9725,9724</context>
+        </context-group>
+        <note priority="1" from="description">The pass message for the contrast tool.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.passContrast</note>
+      </trans-unit>
+      <trans-unit id="2780397365913372676" datatype="html">
+        <source>Fail</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9727,9726</context>
+        </context-group>
+        <note priority="1" from="description">The fail message for the contrast tool.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.failContrast</note>
+      </trans-unit>
+      <trans-unit id="713630549826115578" datatype="html">
+        <source>Contrast ratio</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9728</context>
+        </context-group>
+        <note priority="1" from="description">The contrast ratio message for the contrast tool.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.contrastRatio</note>
+      </trans-unit>
+      <trans-unit id="4435805267169453054" datatype="html">
+        <source>Change color format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9730</context>
+        </context-group>
+        <note priority="1" from="description">The message for the input format toggle button.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.formatButton</note>
+      </trans-unit>
+      <trans-unit id="2335095180949457422" datatype="html">
+        <source>Red channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9732</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the red color channel.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.redChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="1923431025719152796" datatype="html">
+        <source>Green channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9734</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the green color channel.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.greenChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="2860285261094806140" datatype="html">
+        <source>Blue channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9736</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the blue color channel.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.blueChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="3430704895668212956" datatype="html">
+        <source>Alpha channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9738</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the alpha color channel.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.alphaChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="3969503446505782379" datatype="html">
+        <source>R</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9741,9740</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the red color channel.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.redChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="2455816279759851897" datatype="html">
+        <source>G</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9743,9742</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the green color input.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.greenInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="4804918347365883934" datatype="html">
+        <source>B</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9745,9744</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the blue color input.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.blueInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="8831046967411824735" datatype="html">
+        <source>HEX</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">9747,9746</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the HEX color input.</note>
+        <note priority="1" from="meaning">kendo.colorgradient.hexInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="4885193165402402447" datatype="html">
+        <source>Colorpalette no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">10589</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the ColorPalette component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.colorpalette.colorPaletteNoColor</note>
+      </trans-unit>
+      <trans-unit id="5587373573749332242" datatype="html">
+        <source>Flatcolorpicker no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11461</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the FlatColorPicker component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.flatColorPickerNoColor</note>
+      </trans-unit>
+      <trans-unit id="6087544506182000157" datatype="html">
+        <source>Colorgradient no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11463</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the ColorGradient component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.colorGradientNoColor</note>
+      </trans-unit>
+      <trans-unit id="5441368432797392985" datatype="html">
+        <source>Colorpalette no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11465</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the ColorPalette component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.colorPaletteNoColor</note>
+      </trans-unit>
+      <trans-unit id="908566823276809035" datatype="html">
+        <source>Choose color</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11467</context>
+        </context-group>
+        <note priority="1" from="description">The title for the gradient color drag handle chooser.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.colorGradientHandle</note>
+      </trans-unit>
+      <trans-unit id="657623164139733574" datatype="html">
+        <source>Clear value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11469</context>
+        </context-group>
+        <note priority="1" from="description">The title for the clear button.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.clearButton</note>
+      </trans-unit>
+      <trans-unit id="2871570350756645741" datatype="html">
+        <source>Set hue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11472,11471</context>
+        </context-group>
+        <note priority="1" from="description">The title for the hue slider handle.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.hueSliderHandle</note>
+      </trans-unit>
+      <trans-unit id="2815381853083847348" datatype="html">
+        <source>Set opacity</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11473</context>
+        </context-group>
+        <note priority="1" from="description">The title for the opacity slider handle.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.opacitySliderHandle</note>
+      </trans-unit>
+      <trans-unit id="4111165279880035613" datatype="html">
+        <source>Contrast ratio</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11475</context>
+        </context-group>
+        <note priority="1" from="description">The contrast ratio message for the contrast tool.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.contrastRatio</note>
+      </trans-unit>
+      <trans-unit id="7520629536331583555" datatype="html">
+        <source>Color preview</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11477</context>
+        </context-group>
+        <note priority="1" from="description">The message for the color preview pane.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.previewColor</note>
+      </trans-unit>
+      <trans-unit id="5917429966250498596" datatype="html">
+        <source>Revert selection</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11479</context>
+        </context-group>
+        <note priority="1" from="description">The message for the selected color pane.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.revertSelection</note>
+      </trans-unit>
+      <trans-unit id="2063234049296472476" datatype="html">
+        <source>Gradient view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11481</context>
+        </context-group>
+        <note priority="1" from="description">The message for the gradient view button.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.gradientView</note>
+      </trans-unit>
+      <trans-unit id="2108885670379641868" datatype="html">
+        <source>Palette view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11483</context>
+        </context-group>
+        <note priority="1" from="description">The message for the palette view button.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.paletteView</note>
+      </trans-unit>
+      <trans-unit id="4457740703438950411" datatype="html">
+        <source>Change color format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11485</context>
+        </context-group>
+        <note priority="1" from="description">The message for the input format toggle button.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.formatButton</note>
+      </trans-unit>
+      <trans-unit id="5677376399033528514" datatype="html">
+        <source>Apply</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11488,11487</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Apply action button.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.applyButton</note>
+      </trans-unit>
+      <trans-unit id="8448158590311818541" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11490,11489</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Cancel action button.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.cancelButton</note>
+      </trans-unit>
+      <trans-unit id="4388000905807370689" datatype="html">
+        <source>Red channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11491</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the red color channel.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.redChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="568855408824889714" datatype="html">
+        <source>Green channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11493</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the green color channel.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.greenChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="2559118073245907714" datatype="html">
+        <source>Blue channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11495</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the blue color channel.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.blueChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="3340789360496881661" datatype="html">
+        <source>Alpha channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11497</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the alpha color channel.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.alphaChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="6022409171363695646" datatype="html">
+        <source>R</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11500,11499</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the red color channel.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.redChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="7275121688976072750" datatype="html">
+        <source>G</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11502,11501</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the green color input.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.greenInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="2464885045046684342" datatype="html">
+        <source>B</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11504,11503</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the blue color input.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.blueInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="6054945224444572942" datatype="html">
+        <source>HEX</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">11506,11505</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the HEX color input.</note>
+        <note priority="1" from="meaning">kendo.flatcolorpicker.hexInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="1340294849455907833" datatype="html">
+        <source>Colorpicker no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12457</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the ColorPicker component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.colorPickerNoColor</note>
+      </trans-unit>
+      <trans-unit id="8623881855258235902" datatype="html">
+        <source>Flatcolorpicker no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12459</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the FlatColorPicker component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.flatColorPickerNoColor</note>
+      </trans-unit>
+      <trans-unit id="6221387158064831532" datatype="html">
+        <source>Colorgradient no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12461</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the ColorGradient component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.colorGradientNoColor</note>
+      </trans-unit>
+      <trans-unit id="5352972813211368132" datatype="html">
+        <source>Colorpalette no color chosen</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12463</context>
+        </context-group>
+        <note priority="1" from="description">The aria-label applied to the ColorPalette component when the value is empty.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.colorPaletteNoColor</note>
+      </trans-unit>
+      <trans-unit id="8067778471922495440" datatype="html">
+        <source>Choose color</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12465</context>
+        </context-group>
+        <note priority="1" from="description">The title for the gradient color drag handle chooser.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.colorGradientHandle</note>
+      </trans-unit>
+      <trans-unit id="935472034136733879" datatype="html">
+        <source>Clear value</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12467</context>
+        </context-group>
+        <note priority="1" from="description">The title for the clear button.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.clearButton</note>
+      </trans-unit>
+      <trans-unit id="1739045502529621844" datatype="html">
+        <source>Set hue</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12470,12469</context>
+        </context-group>
+        <note priority="1" from="description">The title for the hue slider handle.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.hueSliderHandle</note>
+      </trans-unit>
+      <trans-unit id="1818720388700598438" datatype="html">
+        <source>Set opacity</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12471</context>
+        </context-group>
+        <note priority="1" from="description">The title for the opacity slider handle.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.opacitySliderHandle</note>
+      </trans-unit>
+      <trans-unit id="8969373292032928669" datatype="html">
+        <source>Contrast ratio</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12473</context>
+        </context-group>
+        <note priority="1" from="description">The contrast ratio message for the contrast tool.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.contrastRatio</note>
+      </trans-unit>
+      <trans-unit id="8406287813424834207" datatype="html">
+        <source>Color preview</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12475</context>
+        </context-group>
+        <note priority="1" from="description">The message for the color preview pane.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.previewColor</note>
+      </trans-unit>
+      <trans-unit id="1125923622405755722" datatype="html">
+        <source>Revert selection</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12477</context>
+        </context-group>
+        <note priority="1" from="description">The message for the selected color pane.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.revertSelection</note>
+      </trans-unit>
+      <trans-unit id="1444507009750003894" datatype="html">
+        <source>Gradient view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12479</context>
+        </context-group>
+        <note priority="1" from="description">The message for the gradient view button.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.gradientView</note>
+      </trans-unit>
+      <trans-unit id="8652010593499539657" datatype="html">
+        <source>Palette view</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12481</context>
+        </context-group>
+        <note priority="1" from="description">The message for the palette view button.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.paletteView</note>
+      </trans-unit>
+      <trans-unit id="881261150447277777" datatype="html">
+        <source>Change color format</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12483</context>
+        </context-group>
+        <note priority="1" from="description">The message for the input format toggle button.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.formatButton</note>
+      </trans-unit>
+      <trans-unit id="4840607412933012087" datatype="html">
+        <source>Apply</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12486,12485</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Apply action button.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.applyButton</note>
+      </trans-unit>
+      <trans-unit id="7096794076383355871" datatype="html">
+        <source>Cancel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12488,12487</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Cancel action button.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.cancelButton</note>
+      </trans-unit>
+      <trans-unit id="3980954618621065187" datatype="html">
+        <source>Red channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12489</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the red color channel.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.redChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="7760301477930231435" datatype="html">
+        <source>Green channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12491</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the green color channel.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.greenChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="8223605027893111023" datatype="html">
+        <source>Blue channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12493</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the blue color channel.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.blueChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="8311254497317920173" datatype="html">
+        <source>Alpha channel</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12495</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the alpha color channel.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.alphaChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="5615362884177390144" datatype="html">
+        <source>R</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12498,12497</context>
+        </context-group>
+        <note priority="1" from="description">The label of the NumericTextBox representing the red color channel.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.redChannelLabel</note>
+      </trans-unit>
+      <trans-unit id="5124608207680385382" datatype="html">
+        <source>G</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12500,12499</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the green color input.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.greenInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="7918547358935768492" datatype="html">
+        <source>B</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12502,12501</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the blue color input.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.blueInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="7346632131473573750" datatype="html">
+        <source>HEX</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">12504,12503</context>
+        </context-group>
+        <note priority="1" from="description">The placeholder for the HEX color input.</note>
+        <note priority="1" from="meaning">kendo.colorpicker.hexInputPlaceholder</note>
+      </trans-unit>
+      <trans-unit id="4211677918992175565" datatype="html">
+        <source>Clear</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">14235,14234</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Clear button.</note>
+        <note priority="1" from="meaning">kendo.signature.clear</note>
+      </trans-unit>
+      <trans-unit id="8532284205033184367" datatype="html">
+        <source>Maximize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">14236</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Maximize button.</note>
+        <note priority="1" from="meaning">kendo.signature.maximize</note>
+      </trans-unit>
+      <trans-unit id="449608192462153812" datatype="html">
+        <source>Minimize</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">14238</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Minimize button.</note>
+        <note priority="1" from="meaning">kendo.signature.minimize</note>
+      </trans-unit>
+      <trans-unit id="7489429973258726970" datatype="html">
+        <source>Signature canvas</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-inputs/fesm2020/progress-kendo-angular-inputs.mjs</context>
+          <context context-type="linenumber">14240</context>
+        </context-group>
+        <note priority="1" from="description">The message for the Canvas element aria-label.</note>
+        <note priority="1" from="meaning">kendo.signature.canvasLabel</note>
+      </trans-unit>
+      <trans-unit id="356911862062553631" datatype="html">
+        <source>Optional</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-label/fesm2020/progress-kendo-angular-label.mjs</context>
+          <context context-type="linenumber">560</context>
+        </context-group>
+        <note priority="1" from="description">The text for the optional segment of a FloatingLabel component</note>
+        <note priority="1" from="meaning">kendo.floatinglabel.optional</note>
+      </trans-unit>
+      <trans-unit id="3476218486854814180" datatype="html">
+        <source>Optional</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">node_modules/@progress/kendo-angular-label/fesm2020/progress-kendo-angular-label.mjs</context>
+          <context context-type="linenumber">757</context>
+        </context-group>
+        <note priority="1" from="description">The text for the optional segment of a Label component</note>
+        <note priority="1" from="meaning">kendo.label.optional</note>
+      </trans-unit>
+      <trans-unit id="3554523714241672658" datatype="html">
+        <source>Hello, World!</source>
+        <context-group purpose="location">
+          <context context-type="sourcefile">src/app/app.component.html</context>
+          <context context-type="linenumber">1</context>
+        </context-group>
+        <note priority="1" from="description">An introduction header for this sample</note>
+        <note priority="1" from="meaning">User welcome</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

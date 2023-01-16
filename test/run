@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+set -o errexit
+
+cp ./test/messages.xlf ./test/messages.es-ES.xlf
+RESULT=$(./bin/kendo-translate.js -l es-ES ./test/messages.es-ES.xlf)
+echo "$RESULT"
+echo
+
+if [[ $RESULT != *"206 targets translated."* ]]; then
+    # Fail on error
+    exit 1
+else
+    echo OK
+fi
