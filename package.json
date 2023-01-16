@@ -1,82 +1,55 @@
 {
   "name": "@progress/kendo-angular-messages",
-  "version": "0.0.0-semantically-released",
+  "version": "0.0.0-PLACEHOLDER",
   "description": "Localization messages - Kendo UI for Angular",
+  "author": "Progress",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
   "main": "index.js",
-  "scripts": {
-    "lint": "gulp lint",
-    "semantic-release": "semantic-release pre && semantic-prerelease publish && semantic-release post",
-    "seed-messages": "sh ./tools/seed-messages.sh",
-    "append-message": "sh ./tools/append-message.sh"
-  },
   "bin": {
     "kendo-translate": "./bin/kendo-translate.js"
+  },
+  "scripts": {
+    "lint": "npx yaml-lint ./messages/**/*.yml",
+    "test": "bash ./test/run",
+    "seed-messages": "bash ./tools/seed-messages.sh",
+    "append-message": "bash ./tools/append-message.sh",
+    "prepare": "husky install"
+  },
+  "dependencies": {
+    "cheerio": "1.0.0-rc.12",
+    "data.task": "^3.1.2",
+    "glob": "^8.0.3",
+    "js-yaml": "^4.1.0",
+    "ramda": "^0.28.0",
+    "xlf-translate": "^2.0.5"
+  },
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.0",
+    "@commitlint/config-conventional": "^17.4.0",
+    "husky": "^8.0.0",
+    "semantic-release": "^19.0.5",
+    "yaml-lint": "^1.7.0"
+  },
+  "bugs": {
+    "url": "https://github.com/telerik/kendo-angular-messages/issues"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/telerik/kendo-angular-messages.git"
   },
-  "author": "Progress",
-  "license": "SEE LICENSE IN LICENSE.md",
-  "bugs": {
-    "url": "https://github.com/telerik/kendo-angular-messages/issues"
-  },
-  "homepage": "https://github.com/telerik/kendo-angular-messages#readme",
-  "devDependencies": {
-    "@progress/kendo-common-tasks": "^7.4.3",
-    "@telerik/semantic-prerelease": "^1.3.6",
-    "cz-conventional-changelog": "1.2.0",
-    "ghooks": "^2.0.0",
-    "gulp": "^4.0.2",
-    "gulp-yaml-validate": "^1.0.2",
-    "semantic-release": "^6.3.6",
-    "validate-commit-msg": "2.11.1"
-  },
-  "dependencies": {
-    "cheerio": "^0.22.0",
-    "data.task": "^3.1.1",
-    "glob": "^7.1.1",
-    "js-yaml": "^3.7.0",
-    "ramda": "^0.23.0",
-    "xlf-translate": "^2.0.5"
-  },
-  "config": {
-    "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog"
-    },
-    "ghooks": {
-      "pre-commit": "npm run lint",
-      "commit-msg": "validate-commit-msg"
-    },
-    "validate-commit-msg": {
-      "types": [
-        "feat",
-        "fix",
-        "docs",
-        "style",
-        "refactor",
-        "perf",
-        "test",
-        "chore",
-        "revert"
-      ],
-      "warnOnFail": false,
-      "maxSubjectLength": 100
-    }
-  },
   "release": {
-    "debug": false,
-    "branchTags": {
-      "develop": "dev"
-    },
-    "fallbackTags": {
-      "dev": "latest"
-    },
-    "analyzeCommits": "@telerik/semantic-prerelease/analyzeCommits",
-    "generateNotes": "@telerik/semantic-prerelease/generateNotes",
-    "getLastRelease": "@telerik/semantic-prerelease/getLastRelease",
-    "verifyConditions": "@telerik/semantic-prerelease/verifyConditions",
-    "verifyRelease": "@telerik/semantic-prerelease/verifyRelease"
+    "branches": [
+      {
+        "name": "master",
+        "channel": "latest"
+      },
+      {
+        "name": "develop",
+        "prerelease": true,
+        "channel": "dev"
+      }
+    ]
   },
   "files": [
     "bin",
