@@ -1,163 +1,163 @@
 kendo:
   editor:
     # The title of the tool that aligns text in the center.
-    alignCenter: Center text
+    alignCenter: Centrovať text
 
     # The title of the tool that justifies text both left and right.
-    alignJustify: Justify
+    alignJustify: Zarovnať rovnako
 
     # The title of the tool that aligns text on the left.
-    alignLeft: Align text left
+    alignLeft: Zarovnať naľavo
 
     # The title of the tool that aligns text on the right.
-    alignRight: Align text right
+    alignRight: Zarovnať napravo
 
     # The title of the tool that changes the text background color.
-    backColor: Background color
+    backColor: Farba pozadia
 
     # The title of the tool that makes text bold.
-    bold: Bold
+    bold: Tučné
 
     # The title of the Clean Formatting tool.
-    cleanFormatting: Clean formatting
+    cleanFormatting: Vyčistiť formátovanie
 
     # The title of the tool that creates hyperlinks.
-    createLink: Insert link
+    createLink: Vložiť odkaz
 
     # The label of the **Apply** button in all editor dialogs.
-    dialogApply: Apply
+    dialogApply: Aplikovať
 
     # The label of the **Cancel** button in all editor dialogs.
-    dialogCancel: Cancel
+    dialogCancel: Zrušiť
 
     # The label of the **Insert** button in all editor dialogs.
-    dialogInsert: Insert
+    dialogInsert: Vložiť
 
     # The label of the **Update** button in all editor dialogs.
-    dialogUpdate: Update
+    dialogUpdate: Aktualizovať
 
     # The caption for the file text in the insertFile dialog.
     fileText: Text
 
     # The caption for the file Title in the insertFile dialog.
-    fileTitle: Title
+    fileTitle: Názov
 
     # The caption for the file URL in the insertFile dialog.
-    fileWebAddress: Web address
+    fileWebAddress: Webová adresa
 
     # The title of the tool that changes the text font.
-    fontFamily: Select font family
+    fontFamily: Vybrať rodinu písma
 
     # The title of the tool that changes the text size.
-    fontSize: Select font size
+    fontSize: Vybrať veľkosť písma
 
     # The title of the tool that changes the text color.
-    foreColor: Color
+    foreColor: Farba
 
     # The title of the tool that lets users choose block formats.
-    format: Format
+    format: Formát
 
     # The caption for the image alternate text in the insertImage dialog.
-    imageAltText: Alternate text
+    imageAltText: Alternatívny text
 
     # The caption for the image height in the insertImage dialog.
-    imageHeight: Height (px)
+    imageHeight: Výška (px)
 
     # The caption for the image URL in the insertImage dialog.
-    imageWebAddress: Web address
+    imageWebAddress: Webová adresa
 
     # The caption for the image width in the insertImage dialog.
-    imageWidth: Width (px)
+    imageWidth: Šírka (px)
 
     # The title of the tool that indents the content.
-    indent: Indent
+    indent: Odsadiť
 
     # The title of the tool that inserts links to files.
-    insertFile: Insert file
+    insertFile: Vložiť súbor
 
     # The title of the tool that inserts images.
-    insertImage: Insert image
+    insertImage: Vložiť obrázok
 
     # The title of the tool that inserts an ordered list.
-    insertOrderedList: Insert ordered list
+    insertOrderedList: Vložiť usporiadaný zoznam
 
     # The title of the tool that inserts an unordered list.
-    insertUnorderedList: Insert unordered list
+    insertUnorderedList: Vložiť neusporiadaný zoznam
 
     # The title of the tool that makes text italicized.
-    italic: Italic
+    italic: Kurzíva
 
     # The caption for the checkbox for opening the link in a new window in the createLink dialog.
-    linkOpenInNewWindow: Open link in new window
+    linkOpenInNewWindow: Otvoriť odkaz v novom okne
 
     # The caption for the link text in the createLink dialog.
     linkText: Text
 
     # The caption for the link title in the createLink dialog.
-    linkTitle: Title
+    linkTitle: Názov
 
     # The caption for the URL in the createLink dialog.
-    linkWebAddress: Web address
+    linkWebAddress: Webová adresa
 
     # The title of the tool that outdents the content.
-    outdent: Outdent
+    outdent: Predsadiť
 
     # The title of the tool that undos the last action.
-    redo: Redo
+    redo: Urobiť znova
 
     # The title of the tool that strikes through text.
-    strikethrough: Strikethrough
+    strikethrough: Prečiarknúť
 
     # The title of the tool that makes text subscript.
-    subscript: Subscript
+    subscript: Dolný index
 
     # The title of the tool that makes text superscript.
-    superscript: Superscript
+    superscript: Horný index
 
     # The title of the tool that underlines text.
-    underline: Underline
+    underline: Podčiarknúť
 
     # The title of the tool that removes hyperlinks.
-    unlink: Remove Link
+    unlink: Odstrániť odkaz
 
     # The title of the tool that undos the last action.
-    undo: Undo
+    undo: Vrátiť späť
 
     # The title of the tool that shows the editor value as HTML.
-    viewSource: View source
+    viewSource: Zobraziť zdroj
 
     # The title of the tool that inserts table.
-    insertTable: Insert Table
+    insertTable: Vložiť tabuľku
 
     # The title of the tool that adds new column before currently selected column.
-    addColumnBefore: Add column before
+    addColumnBefore: Pridať stĺpec pred
 
     # The title of the tool that adds new column after currently selected column.
-    addColumnAfter: Add column after
+    addColumnAfter: Pridať stĺpec po
 
     # The title of the tool that adds new row before currently selected row.
-    addRowBefore: Add row before
+    addRowBefore: Pridať riadok pred
 
     # The title of the tool that adds new row after currently selected row.
-    addRowAfter: Add row after
+    addRowAfter: Pridať riadok po
 
     # The title of the tool that deletes a table column.
-    deleteColumn: Delete column
+    deleteColumn: Odstrániť stĺpec
 
     # The title of the tool that deletes a table row.
-    deleteRow: Delete row
+    deleteRow: Odstrániť riadok
 
     # The title of the tool that deletes a table.
-    deleteTable: Delete table
+    deleteTable: Odstrániť tabuľku
 
     # The title of the tool that selects the editor's content.
-    selectAll: Select All
+    selectAll: Vybrať všetky
 
     # The title of the tool that prints the editor's content.
-    print: Print
+    print: Vytlačiť
 
     # The title of the tool that merges the currently selected cells.
-    mergeCells: Merge cells
+    mergeCells: Spojiť bunky
 
     # The title of the tool that splits the currently selected cell.
-    splitCell: Split cell
+    splitCell: Rozdeliť bunku

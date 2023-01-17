@@ -1,16 +1,16 @@
 kendo:
   timepicker:
     # The text of the Accept button in the popup footer of the TimeList.
-    accept: Sada
+    accept: Potvrdiť
 
     # The label of the Accept button in the popup footer of the TimeList.
-    acceptLabel: Sada
+    acceptLabel: Potvrdiť
 
     # The text of the Cancel button in the popup footer of the TimeList.
-    cancel: Storno
+    cancel: Zrušiť
 
     # The label of the Cancel button in the popup footer of the TimeList.
-    cancelLabel: Storno
+    cancelLabel: Zrušiť
 
     # The text of the Now button in the popup header of the TimeList.
     now: Teraz
@@ -22,16 +22,16 @@ kendo:
     toggle: Prepínanie časového zoznamu
 
     # The label for the hour part in the timepicker component
-    hour: Hour
+    hour: Hodina
 
     # The label for the minute part in the timepicker component
-    minute: Minute
+    minute: Minúta
 
     # The label for the second part in the timepicker component
-    second: Second
+    second: Sekunda
 
     # The label for the millisecond part in the timepicker component
-    millisecond: Millisecond
+    millisecond: Miliekunda
 
     # The label for the dayperiod part in the timepicker component
     dayperiod: Dayperiod

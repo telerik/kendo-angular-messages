@@ -19,7 +19,7 @@ kendo:
     endOccurrence: opakovaní(-iach)
 
     # The text similar to 'On' displayed in the recurrence editor.
-    endOn: On
+    endOn: Na
 
     # The text similar to 'Daily' displayed in the recurrence editor.
     frequenciesDaily: Denne
@@ -104,28 +104,28 @@ kendo:
     allEvents: All events
 
     # The text of today's date in the header of the Calendar.
-    calendarToday: TODAY
+    calendarToday: Dnes
 
     # The text similar to 'Cancel' displayed in scheduler.
-    cancel: Storno
+    cancel: Zrušiť
 
     # The text similar to 'Save' displayed in scheduler.
-    save: Save
+    save: Uložiť
 
     # The text similar to 'Title' displayed in the scheduler event editor.
-    editorEventTitle: Title
+    editorEventTitle: Názov
 
     # The text similar to 'Start' displayed in the scheduler event editor.
-    editorEventStart: Start
+    editorEventStart: Začiatok
 
     # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
-    editorEventStartTimeZone: Start Time Zone
+    editorEventStartTimeZone: Časová zóna začiatku
 
     # The text similar to 'End' displayed in the scheduler event editor.
-    editorEventEnd: End
+    editorEventEnd: Koniec
 
     # The text similar to 'End Time Zone' displayed in the scheduler event editor.
-    editorEventEndTimeZone: End Time Zone
+    editorEventEndTimeZone: Časová zóna konca
 
     # The date header text displayed in the agenda view.
     dateHeader: Dátum
@@ -140,10 +140,10 @@ kendo:
     deleteDialogTitle: Odstránenie udalosti
 
     # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    deleteOccurrence: Odstrániť aktuálny výskyt
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
-    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+    deleteRecurringConfirmation: Chcete odstrániť len túto udalosť alebo celú sériu udalostí?
 
     # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
     deleteRecurringDialogTitle: Chcete odstrániť len túto udalosť alebo aj všetky jej opakovania?
@@ -194,10 +194,10 @@ kendo:
     multiDayViewTitle: Multi-Day
 
     # The title of the navigation next button.
-    nextTitle: Next
+    nextTitle: Nasledujúci
 
     # The title of the navigation previous button.
-    previousTitle: Previous
+    previousTitle: Predchádzajúci
 
     # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorDailyInterval: deň(dní)
@@ -206,19 +206,20 @@ kendo:
     recurrenceEditorDailyRepeatEvery: 'Opakovať každý:'
 
     # The text similar to 'After' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndAfter: After
+    recurrenceEditorEndAfter: Po
 
     # The text similar to 'End' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndLabel: End
+    recurrenceEditorEndLabel: Ukončiť
 
     # The text similar to 'Never' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndNever: Never
+    recurrenceEditorEndNever: Nikdy
 
     # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorEndOccurrence: opakovaní(-iach)
 
     # The text similar to 'On' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndOn: On
+    # Not used in reality.This is the best fitting word I've found that makes sense.
+    recurrenceEditorEndOn: Presne
 
     # The text similar to 'Daily' displayed in the scheduler recurrence editor.
     recurrenceEditorFrequenciesDaily: Denne
@@ -272,7 +273,7 @@ kendo:
     recurrenceEditorWeekdaysWeekday: pracovný deň
 
     # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
-    recurrenceEditorWeekdaysWeekendday: Weekend Day
+    recurrenceEditorWeekdaysWeekendday: víkendový deň
 
     # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorWeeklyInterval: týždeň(týždňov)
@@ -287,7 +288,7 @@ kendo:
     recurrenceEditorYearlyInterval: rok(rokov)
 
     # The text similar to 'of' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyOf: of
+    recurrenceEditorYearlyOf: v
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
     recurrenceEditorYearlyRepeatEvery: 'Opakovať každý:'
@@ -305,22 +306,22 @@ kendo:
     timeHeader: Čas
 
     # The timeline month view title.
-    timelineMonthViewTitle: Timeline Month
+    timelineMonthViewTitle: Časová os mesačne
 
     # The timeline view title.
-    timelineViewTitle: Timeline
+    timelineViewTitle: Časová os
 
     # The timeline week view title.
-    timelineWeekViewTitle: Timeline Week
+    timelineWeekViewTitle: Časová os týždenne
 
     # The today button text displayed in the navigation.
     today: Dnes
 
     # The week view title.
-    weekViewTitle: Week
+    weekViewTitle: Týždeň
 
     # The work week view title.
-    workWeekViewTitle: Work Week
+    workWeekViewTitle: Pracovný týždeň
 
     # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
-    selectView: Select View
+    selectView: Vybrať zobrazenie

@@ -1,13 +1,13 @@
 kendo:
   upload:
     # The text for the Cancel button
-    cancel: Storno
+    cancel: Zrušiť
 
     # The text for the Clear button
-    clearSelectedFiles: Clear
+    clearSelectedFiles: Vyčistiť
 
     # The drop zone hint
-    dropFilesHere: potiahnite sem súbory, ktoré chcete odoslať
+    dropFilesHere: Tu pustite súbory, ktoré chcete odoslať
 
     # The header status message after file upload completion
     headerStatusUploaded: Hotovo
@@ -16,13 +16,13 @@ kendo:
     headerStatusUploading: Odosielanie...
 
     # The text for the invalid allowed extensions restriction message
-    invalidFileExtension: File type not allowed.
+    invalidFileExtension: Typ súboru nie je povolený.
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize: File size too large.
+    invalidMaxFileSize: Veľkosť súboru je príliš veľká.
 
     # The text for the invalid min file size restriction message
-    invalidMinFileSize: File size too small.
+    invalidMinFileSize: Veľkosť súboru je príliš malá.
 
     # The text for the Remove button
     remove: Odstrániť
@@ -37,22 +37,22 @@ kendo:
     uploadSelectedFiles: Odoslať súbory
 
     # The external drop zone hint
-    externalDropFilesHere: Drag and drop files here to upload
+    externalDropFilesHere: Sem potiahnite súbory, ktoré chcete odoslať
 
     # The status message for a batch of files
-    filesBatchStatus: files
+    filesBatchStatus: súbory
 
     # The status message for a batch of files after failed upload
-    filesBatchStatusFailed: files failed to upload.
+    filesBatchStatusFailed: Súbory sa nepodarilo odoslať.
 
     # The status message for a batch of files after successful upload
-    filesBatchStatusUploaded: files successfully uploaded.
+    filesBatchStatusUploaded: Súbory boli úspešne odoslané.
 
     # The file status message after failed upload
-    fileStatusFailed: File failed to upload.
+    fileStatusFailed: Súbor sa nepodarilo odoslať.
 
     # The file status message after successful upload
-    fileStatusUploaded: File successfully uploaded.
+    fileStatusUploaded: Súbor bol úspešne odoslaný.
 
     # The header status message when the file upload is paused
-    headerStatusPaused: Paused
+    headerStatusPaused: Pozastavené

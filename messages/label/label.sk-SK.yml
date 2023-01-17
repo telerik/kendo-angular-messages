@@ -1,8 +1,8 @@
 kendo:
   label:
     # The text for the optional segment of a Label component
-    optional: Optional
-  
+    optional: Voliteľné
+
   floatinglabel:
     # The text for the optional segment of a FloatingLabel component
-    optional: Optional
+    optional: Voliteľné

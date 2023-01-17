@@ -1,51 +1,51 @@
 kendo:
   autocomplete:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nenašli sa žiadne údaje
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Vyčistiť
 
   combobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nenašli sa žiadne údaje
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Vyčistiť
 
     # The text set as aria-label on the select button"
     selectButtonText: Select
 
   dropdownlist:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nenašli sa žiadne údaje
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Vyčistiť
 
     # The text set as aria-label on the select button"
     selectButtonText: Select
 
   dropdowntree:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nenašli sa žiadne údaje
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Vyčistiť
 
     # The text set as aria-label on the select button"
     selectButtonText: Select
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nenašli sa žiadne údaje
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Vyčistiť
 
   multiselect:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Nenašli sa žiadne údaje
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Vyčistiť
