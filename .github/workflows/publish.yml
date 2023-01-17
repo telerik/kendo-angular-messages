@@ -19,4 +19,8 @@ jobs:
           token: ${{ secrets.GH_TOKEN }}
 
       - name: Fast-forward master to develop
-        run: ./tools/release-master
+        run:  |
+          # TODO: Remove after first sync with master
+          git checkout origin/develop -- ./tools/release-master
+          ./tools/release-master
+
