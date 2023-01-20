@@ -34,7 +34,7 @@ kendo:
     nowLabel: Jetzt
 
     # The label for the today button in the calendar header
-    today: HEUTE
+    today: Heute
 
     # The title of the previous button in the Classic calendar
     prevButtonTitle: Navigate to previous view
