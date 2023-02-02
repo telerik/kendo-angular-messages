@@ -43,7 +43,7 @@ kendo:
     filterNotEqOperator: Non è uguale a
 
     # The text of the "is null" filter operator
-    filterIsNullOperator: è zero
+    filterIsNullOperator: È nullo
 
     # The text of the "is not null" filter operator
     filterIsNotNullOperator: Non è nullo

@@ -157,7 +157,7 @@ kendo:
     print: Stampa
 
     # The title of the tool that merges the currently selected cells.
-    mergeCells: Merge cells
+    mergeCells: Unisci le celle
 
     # The title of the tool that splits the currently selected cell.
-    splitCell: Split cell
+    splitCell: Dividi le celle
