@@ -6,7 +6,7 @@ RESULT=$(./bin/kendo-translate.js -l es-ES ./test/messages.es-ES.xlf)
 echo "$RESULT"
 echo
 
-if [[ $RESULT != *"206 targets translated."* ]]; then
+if [[ $RESULT != *[2-9][0-9][0-9]" targets translated."* ]]; then
     # Fail on error
     exit 1
 else

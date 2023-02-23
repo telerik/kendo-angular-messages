@@ -6,6 +6,9 @@ kendo:
     # The title of the clear button
     clearTitle: cancella
 
+    # The text of the popup label
+    popupLabel: Options list
+
   combobox:
     # The text displayed in the popup when there are no items
     noDataText: Nessun dato trovato
@@ -14,7 +17,10 @@ kendo:
     clearTitle: cancella
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Seleziona
+
+    # The text of the popup label
+    popupLabel: Options list
 
   dropdownlist:
     # The text displayed in the popup when there are no items
@@ -24,7 +30,13 @@ kendo:
     clearTitle: cancella
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Seleziona
+
+    # The text of the popup label
+    popupLabel: Options list
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Filter
 
   dropdowntree:
     # The text displayed in the popup when there are no items
@@ -34,7 +46,29 @@ kendo:
     clearTitle: Rimuove
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Seleziona
+
+    # The text of the popup label
+    popupLabel: Options list
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Filter
+
+  multiselecttree:
+    # The text displayed in the popup when there are no items
+    noDataText: No data found
+
+    # The title of the clear button
+    clearTitle: Rimuove
+
+    # The text set as aria-label on the select button"
+    selectButtonText: Seleziona
+
+    # The text of the popup label
+    popupLabel: Options list
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Filter
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
@@ -43,9 +77,15 @@ kendo:
     # The title of the clear button
     clearTitle: Rimuove
 
+    # The text of the popup label
+    popupLabel: Options list
+
   multiselect:
     # The text displayed in the popup when there are no items
     noDataText: Nessun dato trovato
 
     # The title of the clear button
     clearTitle: cancella
+
+    # The text of the popup label
+    popupLabel: Options list
