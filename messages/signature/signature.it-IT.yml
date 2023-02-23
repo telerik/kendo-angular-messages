@@ -1,13 +1,13 @@
 kendo:
   signature:
     # The message for the Clear button.
-    clear: Clear
+    clear: Cancella
 
     # The message for the Maximize button.
-    maximize: Maximize
+    maximize: Massimizza
 
     # The message for the Minimize button.
-    minimize: Minimize
+    minimize: Minimizza
 
     # The value of the aria-label attribute of the Signature canvas element.
-    canvasLabel: Signature canvas
+    canvasLabel: Canvas firma

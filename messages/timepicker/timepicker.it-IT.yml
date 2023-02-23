@@ -22,16 +22,16 @@ kendo:
     toggle: Imposta l'orario
 
     # The label for the hour part in the timepicker component
-    hour: Hour
+    hour: Ora
 
     # The label for the minute part in the timepicker component
-    minute: Minute
+    minute: Minuto
 
     # The label for the second part in the timepicker component
-    second: Second
+    second: Secondo
 
     # The label for the millisecond part in the timepicker component
-    millisecond: Millisecond
+    millisecond: Millisecondo
 
     # The label for the dayperiod part in the timepicker component
-    dayperiod: Dayperiod
+    dayperiod: Parte del giorno

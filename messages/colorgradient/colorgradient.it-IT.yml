@@ -31,13 +31,13 @@ kendo:
     alphaInputPlaceholder: Alpha
 
     # The label of the NumericTextBox representing the red color channel.
-    redChannelLabel: Red channel
+    redChannelLabel: Canale rosso
 
     # The label of the NumericTextBox representing the green color channel.
-    greenChannelLabel: Green channel
+    greenChannelLabel: Canale verde
 
     # The label of the NumericTextBox representing the blue color channel.
-    blueChannelLabel: Blue channel
+    blueChannelLabel: Canale blu
 
     # The label of the NumericTextBox representing the alpha color channel.
-    alphaChannelLabel: Alpha channel
+    alphaChannelLabel: Canale alpha

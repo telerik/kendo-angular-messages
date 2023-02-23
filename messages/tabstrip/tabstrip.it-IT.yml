@@ -1,7 +1,7 @@
 kendo:
   tabstrip:
     # The title for the previous tab button when the Tabstrip is scrollable.
-    previousTabButton: Previous Tab
+    previousTabButton: Scheda precedente
 
     # The title for the next tab button when the Tabstrip is scrollable.
-    nextTabButton: Next Tab
+    nextTabButton: Scheda successiva
