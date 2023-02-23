@@ -6,6 +6,9 @@ kendo:
     # The title of the clear button
     clearTitle: изчисти
 
+    # The text of the popup label
+    popupLabel: Списък с опции
+
   combobox:
     # The text displayed in the popup when there are no items
     noDataText: Няма данни
@@ -14,7 +17,10 @@ kendo:
     clearTitle: изчисти
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Избери
+
+    # The text of the popup label
+    popupLabel: Списък с опции
 
   dropdownlist:
     # The text displayed in the popup when there are no items
@@ -24,7 +30,13 @@ kendo:
     clearTitle: изчисти
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Избери
+
+    # The text of the popup label
+    popupLabel: Списък с опции
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Филтър
 
   dropdowntree:
     # The text displayed in the popup when there are no items
@@ -34,7 +46,29 @@ kendo:
     clearTitle: изчисти
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Избери
+
+    # The text of the popup label
+    popupLabel: Списък с опции
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Филтър
+
+  multiselecttree:
+    # The text displayed in the popup when there are no items
+    noDataText: Няма данни
+
+    # The title of the clear button
+    clearTitle: изчисти
+
+    # The text set as aria-label on the select button"
+    selectButtonText: Избери
+
+    # The text of the popup label
+    popupLabel: Списък с опции
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Филтър
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
@@ -43,9 +77,15 @@ kendo:
     # The title of the clear button
     clearTitle: изчисти
 
+    # The text of the popup label
+    popupLabel: Списък с опции
+
   multiselect:
     # The text displayed in the popup when there are no items
     noDataText: Няма данни
 
     # The title of the clear button
     clearTitle: изчисти
+
+    # The text of the popup label
+    popupLabel: Списък с опции

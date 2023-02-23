@@ -6,6 +6,9 @@ kendo:
     # The title of the clear button
     clearTitle: Temizle
 
+    # The text of the popup label
+    popupLabel: Options list
+
   combobox:
     # The text displayed in the popup when there are no items
     noDataText: Veri bulunamadı
@@ -15,6 +18,9 @@ kendo:
 
     # The text set as aria-label on the select button"
     selectButtonText: Seç
+
+    # The text of the popup label
+    popupLabel: Options list
 
   dropdownlist:
     # The text displayed in the popup when there are no items
@@ -26,6 +32,12 @@ kendo:
     # The text set as aria-label on the select button"
     selectButtonText: Seç
 
+    # The text of the popup label
+    popupLabel: Options list
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Filter
+
   dropdowntree:
     # The text displayed in the popup when there are no items
     noDataText: Veri bulunamadı
@@ -36,6 +48,28 @@ kendo:
     # The text set as aria-label on the select button"
     selectButtonText: Seç
 
+    # The text of the popup label
+    popupLabel: Options list
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Filter
+
+  multiselecttree:
+    # The text displayed in the popup when there are no items
+    noDataText: Veri bulunamadı
+
+    # The title of the clear button
+    clearTitle: Temizle
+
+    # The text set as aria-label on the select button"
+    selectButtonText: Seç
+
+    # The text of the popup label
+    popupLabel: Options list
+
+    # The text of the popup filter input aria label
+    filterInputLabel: Filter
+
   multicolumncombobox:
     # The text displayed in the popup when there are no items
     noDataText: Veri bulunamadı
@@ -43,9 +77,15 @@ kendo:
     # The title of the clear button
     clearTitle: Temizle
 
+    # The text of the popup label
+    popupLabel: Options list
+
   multiselect:
     # The text displayed in the popup when there are no items
     noDataText: Veri bulunamadı
 
     # The title of the clear button
     clearTitle: Temizle
+
+    # The text of the popup label
+    popupLabel: Options list
