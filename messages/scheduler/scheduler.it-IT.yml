@@ -46,7 +46,7 @@ kendo:
     monthlyRepeatEvery: 'Ripeti ogni:'
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    monthlyRepeatOn: 'Repeti quando::'
+    monthlyRepeatOn: 'Repeti quando:'
 
     # The text similar to 'Fourth' displayed in the recurrence editor.
     offsetPositionsFourth: quarto
@@ -323,4 +323,4 @@ kendo:
     workWeekViewTitle: Settimana Lavorativa
 
     # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
-    selectView: Select View
+    selectView: Seleziona vista

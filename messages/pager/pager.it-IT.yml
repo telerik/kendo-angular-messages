@@ -28,7 +28,7 @@ kendo:
     pageNumberInputTitle: Numero Pagina
 
     # The text of the title and aria-label attributes applied to the page chooser.
-    selectPage: Select page
+    selectPage: Seleziona pagina
 
     # The text of the aria-label attribute applied to the numeric input element.
-    inputLabel: Type a page number
+    inputLabel: Digita un numero di pagina
