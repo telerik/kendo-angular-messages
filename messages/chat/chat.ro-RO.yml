@@ -1,0 +1,13 @@
+kendo:
+  chat:
+    # The placholder text of the message text input
+    messagePlaceholder: Type a message...
+
+    # The text for the Send button
+    send: Send...
+
+    # The label text for the Message list
+    messageListLabel: Message list
+
+    # The label text for the Message input box
+    messageBoxInputLabel: Message
