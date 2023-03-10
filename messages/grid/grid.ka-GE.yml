@@ -211,3 +211,11 @@ kendo:
     # The text shown in the column menu for the autosize all columns item
     autosizeAllColumns: Autosize All Columns
     
+    # The label for the Grid top toolbar
+    topToolbarLabel: Top toolbar
+
+    # The label for the Grid bottom toolbar
+    bottomToolbarLabel: Bottom toolbar
+
+    # The label for the Grid group panel toolbar
+    groupPanelLabel: Group panel
