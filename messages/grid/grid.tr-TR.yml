@@ -215,3 +215,12 @@ kendo:
 
     # The aria-label and title of the page select element in Grid pager
     selectPage: Sayfa Seç
+
+    # The label for the Grid top toolbar
+    topToolbarLabel: Top toolbar
+
+    # The label for the Grid bottom toolbar
+    bottomToolbarLabel: Bottom toolbar
+
+    # The label for the Grid group panel toolbar
+    groupPanelLabel: Group panel

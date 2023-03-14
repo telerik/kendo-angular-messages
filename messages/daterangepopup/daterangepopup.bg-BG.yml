@@ -1,0 +1,13 @@
+kendo:
+  daterangepopup:
+    # The Accept button text in the daterangepopup component
+    accept: Потвърди
+
+    # The label for the Accept button in the daterangepopup component
+    acceptLabel: Потвърди
+
+    # The Cancel button text in the daterangepopup component
+    cancel: Откажи
+
+    # The label for the Cancel button in the daterangepopup component
+    cancelLabel: Откажи
