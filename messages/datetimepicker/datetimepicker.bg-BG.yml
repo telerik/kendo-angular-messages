@@ -41,3 +41,18 @@ kendo:
 
     # The title of the next button in the Classic calendar
     nextButtonTitle: напред
+
+    # The label for the hour part in the timepicker component
+    hour: Час
+
+    # The label for the minute part in the timepicker component
+    minute: Минута
+
+    # The label for the second part in the timepicker component
+    second: Секунда
+
+    # The label for the millisecond part in the timepicker component
+    millisecond: Милисекунда
+
+    # The label for the dayperiod part in the timepicker component
+    dayperiod: Период на деня
