@@ -41,3 +41,18 @@ kendo:
 
     # The title of the next button in the Classic calendar
     nextButtonTitle: Navigate to next view
+
+    # The label for the hour part in the timepicker component
+    hour: Hour
+
+    # The label for the minute part in the timepicker component
+    minute: Minute
+
+    # The label for the second part in the timepicker component
+    second: Second
+
+    # The label for the millisecond part in the timepicker component
+    millisecond: Millisecond
+
+    # The label for the dayperiod part in the timepicker component
+    dayperiod: Dayperiod
