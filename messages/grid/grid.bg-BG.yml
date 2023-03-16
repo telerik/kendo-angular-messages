@@ -215,3 +215,12 @@ kendo:
     
     # The aria-label and title of the page select element in Grid pager
     selectPage: Избери страница
+
+    # The label for the Grid top toolbar
+    topToolbarLabel: Лента с инструменти
+
+    # The label for the Grid bottom toolbar
+    bottomToolbarLabel: Лента с инструменти
+
+    # The label for the Grid group panel toolbar
+    groupPanelLabel: Колонтитул на групиране
