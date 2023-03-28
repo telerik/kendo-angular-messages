@@ -1,0 +1,22 @@
+kendo:
+  listbox:
+    # The text of the `Move Up` button title.
+    moveUp: Move Up
+  
+    # The text of the `Move Down` button title.
+    moveDown: Move Down
+
+    # The text of the `Transfer To` button title.
+    transferTo: Transfer To
+  
+    # The text of the `Transfer From` button title.
+    transferFrom: Transfer From
+
+    # The text of the `Transfer All To` button title.
+    transferAllTo: Transfer All To
+  
+    # The text of the `Transfer All From` button title.
+    transferAllFrom: Transfer All From
+
+    # The text of the `Remove` button title.
+    remove: Remove

@@ -1,0 +1,22 @@
+kendo:
+  listbox:
+    # The text of the `Move Up` button title.
+    moveUp: Премести нагоре
+  
+    # The text of the `Move Down` button title.
+    moveDown: Премести надолу
+
+    # The text of the `Transfer To` button title.
+    transferTo: Пренеси към
+  
+    # The text of the `Transfer From` button title.
+    transferFrom: Пренеси от
+
+    # The text of the `Transfer All To` button title.
+    transferAllTo: Пренеси всички към
+  
+    # The text of the `Transfer All From` button title.
+    transferAllFrom: Пренеси всички от
+
+    # The text of the `Remove` button title.
+    remove: Изтрий
