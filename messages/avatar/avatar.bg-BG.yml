@@ -1,0 +1,5 @@
+kendo:
+  avatar:
+    # The alt attribute text of the image in the avatar
+    avatarAlt: Аватар
+  
