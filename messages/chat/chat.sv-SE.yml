@@ -11,3 +11,12 @@ kendo:
 
     # The label text for the Message input box
     messageBoxInputLabel: Message
+
+    # The text for the left arrow of the message attachments
+    messageAttachmentLeftArrow: Previous Item
+
+    # The text for the right arrow of the message attachments
+    messageAttachmentRightArrow: Next Item
+
+    # The alt attribute text for the avatar
+    messageAvatarAlt: Avatar
