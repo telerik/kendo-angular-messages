@@ -1,0 +1,4 @@
+kendo:
+  scrollview:
+    # The label for the buttons inside the ScrollView Pager
+    pagerButtonLabel: 'Предмет {itemIndex}'
