@@ -153,3 +153,6 @@ kendo:
     # The status announcement when a column is no longer sorted
     sortedDefault: არა სორტირებული
 
+
+    # The label for the TreeList drag row handle.
+    dragRowHandleLabel: Drag row

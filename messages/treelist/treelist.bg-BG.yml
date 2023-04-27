@@ -154,4 +154,7 @@ kendo:
     sortedDefault: Несортирано
 
     # The aria-label and title of the page select element in TreeList pager
-    selectPage: Select page
+    selectPage: Избери страница
+
+    # The label for the TreeList drag row handle.
+    dragRowHandleLabel: Влачене на ред
