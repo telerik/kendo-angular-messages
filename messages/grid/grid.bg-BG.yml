@@ -227,3 +227,24 @@ kendo:
 
     # The label for the Grid drag row handle.
     dragRowHandleLabel: Влачене на ред
+
+    # The label for the 'sum' of the aggregates.
+    aggregateSum: Сума
+    
+    # The label for the 'average' of the aggregates.
+    aggregateAverage: Средно аритметично
+
+    # The label for the 'min' of the aggregates.
+    aggregateMin: Минимум
+
+    # The label for the 'max' of the aggregates.
+    aggregateMax: Максимум
+
+    # The label for the 'count' of the aggregates.
+    aggregateCount: Бройка
+
+    # The label for the 'earliest' of the aggregates.
+    aggregateEarliest: Най-рано
+
+    # The label for the 'latest' of the aggregates.
+    aggregateLatest: Най-късно

@@ -222,3 +222,24 @@ kendo:
 
     # The label for the Grid drag row handle.
     dragRowHandleLabel: Drag row
+
+    # The label for the 'sum' of the aggregates.
+    aggregateSum: Sum
+    
+    # The label for the 'average' of the aggregates.
+    aggregateAverage: Average
+
+    # The label for the 'min' of the aggregates.
+    aggregateMin: Min
+
+    # The label for the 'max' of the aggregates.
+    aggregateMax: Max
+
+    # The label for the 'count' of the aggregates.
+    aggregateCount: Count
+
+    # The label for the 'earliest' of the aggregates.
+    aggregateEarliest: Earliest
+
+    # The label for the 'latest' of the aggregates.
+    aggregateLatest: Latest
