@@ -16,7 +16,7 @@ jobs:
 
     permissions:
         id-token: write # Required by Akeyless
-        contents: read
+        contents: write
         packages: read
 
     steps:
