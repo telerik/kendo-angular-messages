@@ -71,3 +71,6 @@ kendo:
 
     # The text for the zoom level chooser Fit to width option.
     fitToWidth: Вмести в наличната ширина
+
+    # The text of the Zoom tool input placeholder.
+    zoomInputPlaceholder: Избери ниво на приближаване

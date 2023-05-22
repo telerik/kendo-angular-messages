@@ -71,3 +71,6 @@ kendo:
     
     # The title of the Search tool match case button.
     searchMatchCaseTitle: Match case
+
+    # The text of the Zoom tool input placeholder.
+    zoomInputPlaceholder: Choose zoom level
