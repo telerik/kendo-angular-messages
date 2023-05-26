@@ -156,6 +156,9 @@ kendo:
     # The aria-label and title of the page select element in TreeList pager
     selectPage: Select page
 
+    # The label for the TreeList drag row handle.
+    dragRowHandleLabel: Drag row
+
     # The label for the TreeList pager
     pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
 
