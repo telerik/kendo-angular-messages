@@ -152,3 +152,12 @@ kendo:
 
     # The aria-label and title of the page select element in TreeList pager
     selectPage: Select page
+
+    # The label for the TreeList pager
+    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+
+    # The label for the TreeList top toolbar
+    topToolbarLabel: Top toolbar
+
+    # The label for the TreeList bottom toolbar
+    bottomToolbarLabel: Bottom toolbar
