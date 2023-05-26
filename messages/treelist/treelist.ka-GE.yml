@@ -153,3 +153,12 @@ kendo:
     # The status announcement when a column is no longer sorted
     sortedDefault: არა სორტირებული
 
+
+    # The label for the TreeList pager
+    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+
+    # The label for the TreeList top toolbar
+    topToolbarLabel: Top toolbar
+
+    # The label for the TreeList bottom toolbar
+    bottomToolbarLabel: Bottom toolbar
