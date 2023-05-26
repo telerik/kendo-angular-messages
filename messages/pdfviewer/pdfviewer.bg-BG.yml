@@ -1,0 +1,76 @@
+kendo:
+  pdfviewer:
+    # The label for the first page button in the Pager.
+    pagerFirstPage: Към първата страница
+
+    # The label for the previous page button in the Pager.
+    pagerPreviousPage: Към предишната страница
+
+    # The label for the next page button in the Pager.
+    pagerNextPage: Към следващата страница
+
+    # The label for the last page button in the Pager.
+    pagerLastPage: Към последната страница
+
+    # The text before the current page number in the Pager.
+    pagerPage: Страница
+
+    # The text before the total pages number in the Pager.
+    pagerOf: от
+
+    # The title of the pager input element.
+    pagerInputTitle: Номер на страница
+
+    # The text of the aria-label attribute applied to the pager input element.
+    pagerInputLabel: Въведи номер на страница
+
+    # The ZoomIn tool title and label.
+    zoomInTitle: Приближи
+
+    # The ZoomOut tool title and label.
+    zoomOutTitle: Отдалечи
+
+    # The Selection tool title and label.
+    selectionTitle: Активирай селекция
+
+    # The Panning tool title and label.
+    panningTitle: Активирай местене
+
+    # The Search tool title and label.
+    searchTitle: Търсене
+
+    # The text for the search input placeholder.
+    searchInputPlaceholder: Търсене
+
+    # The text before the total number of matches in the Search tool.
+    searchMatchesOf: от
+
+    # The title of the Search tool match case button.
+    searchMatchCaseTitle: Търси по малки/главни букви
+
+    # The title of the Search tool previous match button.
+    searchPreviousMatchTitle: Предишно съвпадение
+
+    # The title of the Search tool next match button.
+    searchNextMatchTitle: Следващо съвпадение
+
+    # The title of the Search tool close button.
+    searchCloseTitle: Затвори
+
+    # The Open tool title and label.
+    openTitle: Отвори
+
+    # The Download tool title and label.
+    downloadTitle: Download
+
+    # The Print tool title and label.
+    printTitle: Разпечатай
+
+    # The text for the zoom level chooser Fit to page option.
+    fitToPage: Вмести в страница
+
+    # The text for the zoom level chooser Fit to width option.
+    fitToWidth: Вмести в наличната ширина
+
+    # The text of the Zoom tool input placeholder.
+    zoomInputPlaceholder: Избери ниво на приближаване
