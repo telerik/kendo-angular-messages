@@ -158,3 +158,12 @@ kendo:
 
     # The label for the TreeList drag row handle.
     dragRowHandleLabel: Drag row
+    
+    # The label for the TreeList pager
+    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+
+    # The label for the TreeList top toolbar
+    topToolbarLabel: Top toolbar
+
+    # The label for the TreeList bottom toolbar
+    bottomToolbarLabel: Bottom toolbar

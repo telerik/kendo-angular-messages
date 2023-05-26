@@ -1,0 +1,76 @@
+kendo:
+  pdfviewer:
+    # The label for the first page button in the Pager.
+    pagerFirstPage: Go to the first page
+
+    # The label for the previous page button in the Pager.
+    pagerPreviousPage: Go to the previous page
+
+    # The label for the next page button in the Pager.
+    pagerNextPage: Go to the next page
+
+    # The label for the last page button in the Pager.
+    pagerLastPage: Go to the last page
+
+    # The text before the current page number in the Pager.
+    pagerPage: Page
+
+    # The text before the total pages number in the Pager.
+    pagerOf: of
+
+    # The title of the pager input element.
+    pagerInputTitle: Page Number
+
+    # The text of the aria-label attribute applied to the pager input element.
+    pagerInputLabel: Type a page number
+
+    # The ZoomIn tool title and label.
+    zoomInTitle: Zoom in
+
+    # The ZoomOut tool title and label.
+    zoomOutTitle: Zoom out
+
+    # The Selection tool title and label.
+    selectionTitle: Enable selection
+
+    # The Panning tool title and label.
+    panningTitle: Enable panning
+
+    # The Search tool title and label.
+    searchTitle: Search
+
+    # The text for the search input placeholder.
+    searchInputPlaceholder: Search
+
+    # The text before the total number of matches in the Search tool.
+    searchMatchesOf: of
+
+    # The title of the Search tool previous match button.
+    searchPreviousMatchTitle: Previous match
+
+    # The title of the Search tool next match button.
+    searchNextMatchTitle: Next match
+
+    # The title of the Search tool close button.
+    searchCloseTitle: Close
+
+    # The Open tool title and label.
+    openTitle: Open
+
+    # The Download tool title and label.
+    downloadTitle: Download
+
+    # The Print tool title and label.
+    printTitle: Print
+
+    # The text for the zoom level chooser Fit to page option.
+    fitToPage: Fit to page
+
+    # The text for the zoom level chooser Fit to width option.
+    fitToWidth: Fit to width
+    
+    # The title of the Search tool match case button.
+    searchMatchCaseTitle: Match case
+
+    # The text of the Zoom tool input placeholder.
+    zoomInputPlaceholder: Choose zoom level
