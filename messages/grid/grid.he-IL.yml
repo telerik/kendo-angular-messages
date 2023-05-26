@@ -224,3 +224,6 @@ kendo:
 
     # The label for the Grid group panel toolbar
     groupPanelLabel: Group panel
+
+    # The label for the Grid drag row handle.
+    dragRowHandleLabel: Drag row
