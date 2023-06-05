@@ -227,3 +227,15 @@ kendo:
 
     # The label for the Grid drag row handle.
     dragRowHandleLabel: Влачене на ред
+
+    # The label for the select row checkbox.
+    selectRowCheckboxLabel: Избери ред
+
+    # The label for the select all rows checkbox.
+    selectAllRowsCheckboxLabel: Избери всички редове
+
+    # The label for the filter cell operators dropdown.
+    filterCellOperatorLabel: 'Филтър оператори за {columnName}'
+
+    # The label for the boolean filter cell dropdown.
+    booleanFilterCellLabel: 'Булев филтър за {columnName}'
