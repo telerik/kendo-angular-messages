@@ -167,3 +167,15 @@ kendo:
 
     # The label for the TreeList bottom toolbar
     bottomToolbarLabel: Bottom toolbar
+
+    # The label for the select row checkbox.
+    selectRowCheckboxLabel: Select row
+
+    # The label for the select all rows checkbox.
+    selectAllRowsCheckboxLabel: Select all rows
+
+    # The label for the filter cell operators dropdown.
+    filterCellOperatorLabel: 'Filter cell operators for {columnName}'
+
+    # The label for the boolean filter cell dropdown.
+    booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
