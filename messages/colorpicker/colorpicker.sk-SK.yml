@@ -74,3 +74,9 @@ kendo:
 
     # The label of the NumericTextBox representing the alpha color channel.
     alphaChannelLabel: Alfa kanál
+
+    # The fail message for the contrast tool.
+    failContrast: Fail
+
+    # The pass message for the contrast tool.
+    passContrast: Pass
