@@ -6,3 +6,6 @@ kendo:
 
     # The title for the next tab button when the Tabstrip is scrollable.
     nextTabButton: Next Tab
+
+    # The title for the **Close** button in the TabStrip tab.
+    closeTitle: Close
