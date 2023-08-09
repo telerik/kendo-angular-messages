@@ -56,3 +56,6 @@ kendo:
 
     # The label for the dayperiod part in the timepicker component
     dayperiod: Период на деня
+
+    # The title of the parent view button in the calendar header
+    parentViewButtonTitle: Преминаване към следващия диапазон от дати
