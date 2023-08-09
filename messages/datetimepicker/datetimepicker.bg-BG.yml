@@ -28,7 +28,7 @@ kendo:
     cancelLabel: Cancel
 
     # The Now button text in the timepicker component
-    now: NOW
+    now: СЕГА
 
     # The label for the Now button in the timepicker component
     nowLabel: Select now
