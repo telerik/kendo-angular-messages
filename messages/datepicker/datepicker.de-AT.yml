@@ -11,3 +11,6 @@ kendo:
 
     # The title of the next button in the Classic calendar
     nextButtonTitle: Auf nächste Seite navigieren
+
+    # The title of the parent view button in the calendar header
+    parentViewButtonTitle: Navigate to parent view

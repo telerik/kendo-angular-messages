@@ -56,3 +56,6 @@ kendo:
 
     # The label for the dayperiod part in the timepicker component
     dayperiod: Dayperiod
+
+    # The title of the parent view button in the calendar header
+    parentViewButtonTitle: Navigate to parent view
