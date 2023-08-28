@@ -239,3 +239,12 @@ kendo:
 
     # The label for the boolean filter cell dropdown.
     booleanFilterCellLabel: 'Булев филтър за {columnName}'
+
+    # The title for the column menu Filter tab.
+    columnMenuFilterTabTitle: Филтър
+
+    # The title for the column menu General tab.
+    columnMenuGeneralTabTitle: Общи
+    
+    # The title for the column menu Columns tab.
+    columnMenuColumnsTabTitle: Колони
