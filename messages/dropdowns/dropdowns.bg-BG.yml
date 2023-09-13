@@ -89,3 +89,9 @@ kendo:
 
     # The text of the popup label
     popupLabel: Списък с опции
+
+    # The text of the Apply button in the action sheet
+    applyButton: Apply
+
+    # The text of the Cancel button in the action sheet
+    cancelButton: Cancel
