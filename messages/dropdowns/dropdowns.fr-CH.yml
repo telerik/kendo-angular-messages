@@ -70,6 +70,15 @@ kendo:
     # The text of the popup filter input aria label
     filterInputLabel: Filter
 
+    # The text of the Apply button in the action sheet
+    applyButton: Apply
+
+    # The text of the Cancel button in the action sheet
+    cancelButton: Cancel
+
+    # The text displayed for the check-all checkbox
+    checkAllText: Check all
+
   multicolumncombobox:
     # The text displayed in the popup when there are no items
     noDataText: Aucun enregistrement trouvé
