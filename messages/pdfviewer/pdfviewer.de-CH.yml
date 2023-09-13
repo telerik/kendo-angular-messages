@@ -1,34 +1,34 @@
 kendo:
   pdfviewer:
     # The label for the first page button in the Pager.
-    pagerFirstPage: Go to the first page
+    pagerFirstPage: Zur ersten Seite
 
     # The label for the previous page button in the Pager.
-    pagerPreviousPage: Go to the previous page
+    pagerPreviousPage: Zur vorherigen Seite
 
     # The label for the next page button in the Pager.
-    pagerNextPage: Go to the next page
+    pagerNextPage: Zur nächsten Seite
 
     # The label for the last page button in the Pager.
-    pagerLastPage: Go to the last page
+    pagerLastPage: Zur letzten Seite
 
     # The text before the current page number in the Pager.
-    pagerPage: Page
+    pagerPage: Seite
 
     # The text before the total pages number in the Pager.
-    pagerOf: of
+    pagerOf: von
 
     # The title of the pager input element.
-    pagerInputTitle: Page Number
+    pagerInputTitle: Seitennummer
 
     # The text of the aria-label attribute applied to the pager input element.
-    pagerInputLabel: Type a page number
+    pagerInputLabel: Seitennummer eingeben
 
     # The ZoomIn tool title and label.
-    zoomInTitle: Zoom in
+    zoomInTitle: Ansicht vergrößern
 
     # The ZoomOut tool title and label.
-    zoomOutTitle: Zoom out
+    zoomOutTitle: Ansicht verkleinern
 
     # The Selection tool title and label.
     selectionTitle: Enable selection
@@ -37,31 +37,31 @@ kendo:
     panningTitle: Enable panning
 
     # The Search tool title and label.
-    searchTitle: Search
+    searchTitle: Suchen
 
     # The text for the search input placeholder.
-    searchInputPlaceholder: Search
+    searchInputPlaceholder: Suchen
 
     # The text before the total number of matches in the Search tool.
-    searchMatchesOf: of
+    searchMatchesOf: von
 
     # The title of the Search tool previous match button.
-    searchPreviousMatchTitle: Previous match
+    searchPreviousMatchTitle: Vorherige Übereinstimmung
 
     # The title of the Search tool next match button.
-    searchNextMatchTitle: Next match
+    searchNextMatchTitle: Nächste Übereinstimmung
 
     # The title of the Search tool close button.
-    searchCloseTitle: Close
+    searchCloseTitle: Schließen
 
     # The Open tool title and label.
-    openTitle: Open
+    openTitle: Öffnen
 
     # The Download tool title and label.
-    downloadTitle: Download
+    downloadTitle: Herunterladen
 
     # The Print tool title and label.
-    printTitle: Print
+    printTitle: Drucken
 
     # The text for the zoom level chooser Fit to page option.
     fitToPage: Fit to page

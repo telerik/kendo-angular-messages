@@ -7,7 +7,7 @@ kendo:
     clearTitle: Leeren
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
   combobox:
     # The text displayed in the popup when there are no items
@@ -17,10 +17,10 @@ kendo:
     clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
   dropdownlist:
     # The text displayed in the popup when there are no items
@@ -30,10 +30,10 @@ kendo:
     clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
     # The text of the popup filter input aria label
     filterInputLabel: Filter
@@ -46,10 +46,10 @@ kendo:
     clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
     # The text of the popup filter input aria label
     filterInputLabel: Filter
@@ -62,23 +62,23 @@ kendo:
     clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
     # The text of the popup filter input aria label
     filterInputLabel: Filter
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Leeren
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
   multiselect:
     # The text displayed in the popup when there are no items
@@ -88,4 +88,4 @@ kendo:
     clearTitle: Leeren
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste

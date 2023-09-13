@@ -1,58 +1,58 @@
 kendo:
   flatcolorpicker:
     # The aria-label applied to the FlatColorPicker component when the value is empty.
-    flatColorPickerNoColor: Flatcolorpicker no color chosen
+    flatColorPickerNoColor: Farbauswahl keine Farbe ausgewählt
 
     # The aria-label applied to the ColorGradient component when the value is empty.
-    colorGradientNoColor: Colorgradient no color chosen
+    colorGradientNoColor: Farbverlauf keine Farbe ausgewählt
 
     # The aria-label applied to the ColorPalette component when the value is empty.
-    colorPaletteNoColor: Colorpalette no color chosen
+    colorPaletteNoColor: Farben Palette keine Farbe ausgewählt
 
     # The title for the gradient color drag handle chooser.
-    colorGradientHandle: Choose color
+    colorGradientHandle: Farbe auswählen
 
     # The title for the clear button.
-    clearButton: Clear value
+    clearButton: Wert leeren
 
     # The title for the hue slider handle.
-    hueSliderHandle: Set hue
+    hueSliderHandle: Farbton setzen
 
     # The title for the opacity slider handle.
-    opacitySliderHandle: Set opacity
+    opacitySliderHandle: Deckkraft setzen
 
     # The contrast ratio message for the contrast tool.
-    contrastRatio: Contrast ratio
+    contrastRatio: Kontrastverhältnis
 
     # The message for the color preview pane.
-    previewColor: Color preview
+    previewColor: Farbvorschau
 
     # The message for the selected color pane.
-    revertSelection: Revert selection
+    revertSelection: Auswahl zurücksetzen
 
     # The message for the gradient view button.
-    gradientView: Gradient view
+    gradientView: Farbverlauf Ansicht
 
     # The message for the palette view button.
-    paletteView: Palette view
+    paletteView: Paletten Ansicht
 
     # The message for the input format toggle button.
-    formatButton: Change color format
+    formatButton: Farbformat ändern
 
     # The message for the Apply action button.
-    applyButton: Apply
+    applyButton: Anwenden
 
     # The message for the Cancel action button.
-    cancelButton: Cancel
+    cancelButton: Abbrechen
 
     # The label of the NumericTextBox representing the red color channel.
-    redChannelLabel: Red channel
+    redChannelLabel: Roter Kanal
 
     # The label of the NumericTextBox representing the green color channel.
-    greenChannelLabel: Green channel
+    greenChannelLabel: Grüner Kanal
 
     # The label of the NumericTextBox representing the blue color channel.
-    blueChannelLabel: Blue channel
+    blueChannelLabel: Blauer Kanal
 
     # The label of the NumericTextBox representing the alpha color channel.
-    alphaChannelLabel: Alpha channel
+    alphaChannelLabel: Alpha Kanal

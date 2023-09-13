@@ -19,16 +19,16 @@ kendo:
     of: von
 
     # The label after the total-page number.
-    items: Elemente
+    items: Elementen
 
     # The label displayed after the page-size selector.
     itemsPerPage: Elemente pro Seite
 
     # The title attribute of the page number input element.
-    pageNumberInputTitle: Page Number
+    pageNumberInputTitle: Seitennummer
 
     # The text of the title and aria-label attributes applied to the page chooser.
-    selectPage: Select page
+    selectPage: Seite auswählen
 
     # The text of the aria-label attribute applied to the numeric input element.
-    inputLabel: Type a page number
+    inputLabel: Seitennummer eingeben

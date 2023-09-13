@@ -13,7 +13,7 @@ kendo:
     invalidMinFileSize: Datei ist zu klein.
 
     # The text for the Remove button
-    remove: Löschen
+    remove: Entfernen
 
     # The text for the Select button
     select: Datei(en) auswählen...

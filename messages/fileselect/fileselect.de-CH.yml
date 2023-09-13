@@ -1,19 +1,19 @@
 kendo:
   fileselect:
     # The drop zone hint
-    dropFilesHere: Drop files here to upload
+    dropFilesHere: Dateien zum Hochladen hierhin ziehen
 
     # The text for the invalid allowed extensions restriction message
-    invalidFileExtension: File type not allowed.
+    invalidFileExtension: Dateityp nicht erlaubt.
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize: File size too large.
+    invalidMaxFileSize: Datei ist zu groß.
 
     # The text for the invalid min file size restriction message
-    invalidMinFileSize: File size too small.
+    invalidMinFileSize: Datei ist zu klein.
 
     # The text for the Remove button
-    remove: Remove
+    remove: Entfernen
 
     # The text for the Select button
-    select: Select files...
+    select: Datei(en) auswählen...

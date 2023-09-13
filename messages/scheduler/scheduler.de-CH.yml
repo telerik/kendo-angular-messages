@@ -104,28 +104,28 @@ kendo:
     allEvents: All events
 
     # The text of today's date in the header of the Calendar.
-    calendarToday: TODAY
+    calendarToday: HEUTE
 
     # The text similar to 'Cancel' displayed in scheduler.
     cancel: Abbrechen
 
     # The text similar to 'Save' displayed in scheduler.
-    save: Save
+    save: Speichern
 
     # The text similar to 'Title' displayed in the scheduler event editor.
-    editorEventTitle: Title
+    editorEventTitle: Titel
 
     # The text similar to 'Start' displayed in the scheduler event editor.
-    editorEventStart: Start
+    editorEventStart: Beginn
 
     # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
-    editorEventStartTimeZone: Start Time Zone
+    editorEventStartTimeZone: Zeitzone Beginn
 
     # The text similar to 'End' displayed in the scheduler event editor.
-    editorEventEnd: End
+    editorEventEnd: Ende
 
     # The text similar to 'End Time Zone' displayed in the scheduler event editor.
-    editorEventEndTimeZone: End Time Zone
+    editorEventEndTimeZone: Zeitzone Ende
 
     # The date header text displayed in the agenda view.
     dateHeader: Datum
@@ -140,10 +140,10 @@ kendo:
     deleteDialogTitle: Termin löschen
 
     # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    deleteOccurrence: Aktuelles Ereignis löschen
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
-    deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
+    deleteRecurringConfirmation: Möchten Sie nur dieses Ereignis oder alle Ereignisse löschen?
 
     # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
     deleteRecurringDialogTitle: Möchten Sie nur diesen Termin oder alle Wiederholungen löschen?
@@ -167,7 +167,7 @@ kendo:
     editorEventDescription: Beschreibung
 
     # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
-    editorEventSeparateTimeZones: Unterschiedliche Start- und Endzeitzonen benutzen
+    editorEventSeparateTimeZones: Unterschiedliche Beginn- und Endzeitzonen benutzen
 
     # The text similar to 'Time Zone' displayed in the scheduler event editor.
     editorEventTimeZone: Zeitzone Ende
@@ -191,13 +191,13 @@ kendo:
     monthViewTitle: Monat
 
     # The multi day view title.
-    multiDayViewTitle: Multi-Day
+    multiDayViewTitle: Mehrtägig
 
     # The title of the navigation next button.
-    nextTitle: Next
+    nextTitle: Nächste
 
     # The title of the navigation previous button.
-    previousTitle: Previous
+    previousTitle: Vorherige
 
     # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorDailyInterval: Tag(e)
@@ -206,13 +206,13 @@ kendo:
     recurrenceEditorDailyRepeatEvery: 'Wiederholen an jedem:'
 
     # The text similar to 'After' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndAfter: After
+    recurrenceEditorEndAfter: Danach
 
     # The text similar to 'End' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndLabel: End
+    recurrenceEditorEndLabel: Ende
 
     # The text similar to 'Never' displayed in the scheduler recurrence editor.
-    recurrenceEditorEndNever: Never
+    recurrenceEditorEndNever: Nie
 
     # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
     recurrenceEditorEndOccurrence: Anzahl Wiederholungen
@@ -287,7 +287,7 @@ kendo:
     recurrenceEditorYearlyInterval: Jahr(e)
 
     # The text similar to 'of' displayed in the scheduler recurrence editor.
-    recurrenceEditorYearlyOf: of
+    recurrenceEditorYearlyOf: von
 
     # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
     recurrenceEditorYearlyRepeatEvery: 'Wiederholen an jedem:'
@@ -305,22 +305,22 @@ kendo:
     timeHeader: Zeit
 
     # The timeline month view title.
-    timelineMonthViewTitle: Timeline Month
+    timelineMonthViewTitle: Zeitplan Monat
 
     # The timeline view title.
-    timelineViewTitle: Timeline
+    timelineViewTitle: Zeitplan
 
     # The timeline week view title.
-    timelineWeekViewTitle: Timeline Week
+    timelineWeekViewTitle: Zeitplan Woche
 
     # The today button text displayed in the navigation.
     today: Heute
 
     # The week view title.
-    weekViewTitle: Week
+    weekViewTitle: Woche
 
     # The work week view title.
-    workWeekViewTitle: Work Week
+    workWeekViewTitle: Arbeitswoche
 
     # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
-    selectView: Select View
+    selectView: Ansicht auswählen

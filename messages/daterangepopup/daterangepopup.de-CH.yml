@@ -1,13 +1,13 @@
 kendo:
   daterangepopup:
     # The Accept button text in the daterangepopup component
-    accept: Set
+    accept: Übernehmen
 
     # The label for the Accept button in the daterangepopup component
-    acceptLabel: Set
+    acceptLabel: Übernehmen
 
     # The Cancel button text in the daterangepopup component
-    cancel: Cancel
+    cancel: Abbrechen
 
     # The label for the Cancel button in the daterangepopup component
-    cancelLabel: Cancel
+    cancelLabel: Abbrechen
