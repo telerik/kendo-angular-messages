@@ -16,10 +16,10 @@ kendo:
     toggle: Umschalten
 
     # The Accept button text in the datetimepicker component
-    accept: Setzen
+    accept: Übernehmen
 
     # The label for the Accept button in the datetimepicker component
-    acceptLabel: Setzen
+    acceptLabel: Übernehmen
 
     # The Cancel button text in the datetimepicker component
     cancel: Abbrechen
@@ -34,28 +34,28 @@ kendo:
     nowLabel: Jetzt
 
     # The label for the today button in the calendar header
-    today: Heute
+    today: HEUTE
 
     # The title of the previous button in the Classic calendar
-    prevButtonTitle: Navigate to previous view
+    prevButtonTitle: Auf vorherige Seite navigieren
 
     # The title of the next button in the Classic calendar
-    nextButtonTitle: Navigate to next view
+    nextButtonTitle: Auf nächste Seite navigieren
 
     # The label for the hour part in the timepicker component
-    hour: Hour
+    hour: Stunde
 
     # The label for the minute part in the timepicker component
     minute: Minute
 
     # The label for the second part in the timepicker component
-    second: Second
+    second: Sekunde
 
     # The label for the millisecond part in the timepicker component
-    millisecond: Millisecond
+    millisecond: Millisekunde
 
     # The label for the dayperiod part in the timepicker component
-    dayperiod: Dayperiod
+    dayperiod: Zeitraum
 
     # The title of the parent view button in the calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Auf Hauptansicht navigieren

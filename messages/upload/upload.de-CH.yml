@@ -1,13 +1,13 @@
 kendo:
   upload:
     # The text for the Cancel button
-    cancel: Abbrechen
+    cancel: Beenden
 
     # The text for the Clear button
-    clearSelectedFiles: Löschen
+    clearSelectedFiles: Leeren
 
     # The drop zone hint
-    dropFilesHere: Dateien hierhin ziehen zum Hochladen
+    dropFilesHere: Dateien zum Hochladen hierhin ziehen
 
     # The header status message after file upload completion
     headerStatusUploaded: Hochgeladen
@@ -19,40 +19,40 @@ kendo:
     invalidFileExtension: Dateityp nicht erlaubt.
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize: Dateigrösse zu gross.
+    invalidMaxFileSize: Datei ist zu groß.
 
     # The text for the invalid min file size restriction message
-    invalidMinFileSize: Dateigrösse zu klein.
+    invalidMinFileSize: Datei ist zu klein.
 
     # The text for the Remove button
-    remove: Entfernen
+    remove: Löschen
 
     # The text for the Retry button
     retry: Wiederholen
 
     # The text for the Select button
-    select: Dateien auswählen...
+    select: Datei(en) auswählen...
 
     # The text for the Upload files button
-    uploadSelectedFiles: Dateien hochladen
+    uploadSelectedFiles: Datei(en) hochladen
 
     # The external drop zone hint
-    externalDropFilesHere: Drag and drop files here to upload
+    externalDropFilesHere: Dateien zum Hochladen hierhin ziehen
 
     # The status message for a batch of files
-    filesBatchStatus: files
+    filesBatchStatus: Dateien
 
     # The status message for a batch of files after failed upload
-    filesBatchStatusFailed: files failed to upload.
+    filesBatchStatusFailed: Hochladen der Dateien fehlgeschlagen.
 
     # The status message for a batch of files after successful upload
-    filesBatchStatusUploaded: files successfully uploaded.
+    filesBatchStatusUploaded: Dateien erfolgreich hochgeladen.
 
     # The file status message after failed upload
-    fileStatusFailed: File failed to upload.
+    fileStatusFailed: Hochladen der Datei fehlgeschlagen.
 
     # The file status message after successful upload
-    fileStatusUploaded: File successfully uploaded.
+    fileStatusUploaded: Datei erfolgreich hochgeladen.
 
     # The header status message when the file upload is paused
-    headerStatusPaused: Paused
+    headerStatusPaused: Pausiert

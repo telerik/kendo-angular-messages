@@ -10,7 +10,7 @@ kendo:
     nextButtonTitle: Nächster Zeitraum
 
     # The title of the parent view button in the calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Auf übergeordnete Seite navigieren
 
   multiviewcalendar:
     # The label for the today button in the calendar header
@@ -22,6 +22,5 @@ kendo:
     # The label for the next button in the Multiview calendar
     nextButtonTitle: Nächster Zeitraum
 
-
     # The title of the parent view button in the Multiview calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Auf Hauptansicht navigieren

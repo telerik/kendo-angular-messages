@@ -1,22 +1,22 @@
 kendo:
   listbox:
     # The text of the `Move Up` button title.
-    moveUp: Move Up
+    moveUp: Hinaufziehen
   
     # The text of the `Move Down` button title.
-    moveDown: Move Down
+    moveDown: Hinunterziehen
 
     # The text of the `Transfer To` button title.
-    transferTo: Transfer To
+    transferTo: Übertragen nach
   
     # The text of the `Transfer From` button title.
-    transferFrom: Transfer From
+    transferFrom: Übertragen von
 
     # The text of the `Transfer All To` button title.
-    transferAllTo: Transfer All To
+    transferAllTo: Alle Übertragen nach
   
     # The text of the `Transfer All From` button title.
-    transferAllFrom: Transfer All From
+    transferAllFrom: Alle Übertragen von
 
     # The text of the `Remove` button title.
-    remove: Remove
+    remove: Entfernen

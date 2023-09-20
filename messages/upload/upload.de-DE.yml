@@ -37,22 +37,22 @@ kendo:
     uploadSelectedFiles: Datei(en) hochladen
 
     # The external drop zone hint
-    externalDropFilesHere: Drag and drop files here to upload
+    externalDropFilesHere: Dateien zum Hochladen hierhin ziehen
 
     # The status message for a batch of files
-    filesBatchStatus: files
+    filesBatchStatus: Dateien
 
     # The status message for a batch of files after failed upload
-    filesBatchStatusFailed: files failed to upload.
+    filesBatchStatusFailed: Hochladen der Dateien fehlgeschlagen.
 
     # The status message for a batch of files after successful upload
-    filesBatchStatusUploaded: files successfully uploaded.
+    filesBatchStatusUploaded: Dateien erfolgreich hochgeladen.
 
     # The file status message after failed upload
-    fileStatusFailed: File failed to upload.
+    fileStatusFailed: Hochladen der Datei fehlgeschlagen.
 
     # The file status message after successful upload
-    fileStatusUploaded: File successfully uploaded.
+    fileStatusUploaded: Datei erfolgreich hochgeladen.
 
     # The header status message when the file upload is paused
-    headerStatusPaused: Paused
+    headerStatusPaused: Pausiert

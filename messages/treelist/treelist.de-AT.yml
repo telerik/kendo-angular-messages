@@ -31,7 +31,7 @@ kendo:
     pagerItemsPerPage: Elemente pro Seite
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Seitennummer
 
     # The label of the filter cell or icon
     filter: Filter
@@ -88,7 +88,7 @@ kendo:
     filterBooleanAll: (Alle)
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: ist gleich oder später als
+    filterAfterOrEqualOperator: ist später als oder gleich
 
     # The text of the after date filter operator
     filterAfterOperator: ist später als
@@ -97,7 +97,7 @@ kendo:
     filterBeforeOperator: ist früher als
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: ist gleich oder früher als
+    filterBeforeOrEqualOperator: ist früher als oder gleich
 
     # The text of the "filter button"
     filterFilterButton: Filtern
@@ -142,40 +142,40 @@ kendo:
     columnsReset: Zurücksetzen
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Sortierbar
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Aufsteigend sortiert
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Absteigend sortiert
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Nicht sortiert
 
     # The aria-label and title of the page select element in TreeList pager
-    selectPage: Select page
+    selectPage: Seite auswählen
 
     # The label for the TreeList drag row handle.
-    dragRowHandleLabel: Drag row
+    dragRowHandleLabel: Zeile ziehen
 
     # The label for the TreeList pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Zeilennavigation, Seite {currentPage} von {totalPages}'
 
     # The label for the TreeList top toolbar
-    topToolbarLabel: Top toolbar
+    topToolbarLabel: Obere Toolbar
 
     # The label for the TreeList bottom toolbar
-    bottomToolbarLabel: Bottom toolbar
+    bottomToolbarLabel: Untere Toolbar
 
     # The label for the select row checkbox.
-    selectRowCheckboxLabel: Select row
+    selectRowCheckboxLabel: Zeile auswählen
 
     # The label for the select all rows checkbox.
-    selectAllRowsCheckboxLabel: Select all rows
+    selectAllRowsCheckboxLabel: Alle Zeilen auswählen
 
     # The label for the filter cell operators dropdown.
-    filterCellOperatorLabel: 'Filter cell operators for {columnName}'
+    filterCellOperatorLabel: 'Filterzelle Operatoren für {columnName}'
 
     # The label for the boolean filter cell dropdown.
-    booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
+    booleanFilterCellLabel: 'Boolesche Filterzelle für {columnName}'
