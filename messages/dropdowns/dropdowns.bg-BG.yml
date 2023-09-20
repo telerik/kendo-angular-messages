@@ -71,13 +71,13 @@ kendo:
     filterInputLabel: Филтър
 
     # The text of the Apply button in the action sheet
-    applyButton: Apply
+    applyButton: Приложи
 
     # The text of the Cancel button in the action sheet
-    cancelButton: Cancel
+    cancelButton: Отмени
 
     # The text displayed for the check-all checkbox
-    checkAllText: Check all
+    checkAllText: Избери всички
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
@@ -100,7 +100,7 @@ kendo:
     popupLabel: Списък с опции
 
     # The text of the Apply button in the action sheet
-    applyButton: Apply
+    applyButton: Приложи
 
     # The text of the Cancel button in the action sheet
-    cancelButton: Cancel
+    cancelButton: Отмени
