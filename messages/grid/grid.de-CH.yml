@@ -25,13 +25,13 @@ kendo:
     pagerOf: von
 
     # The label after the total pages number in the Grid pager
-    pagerItems: Elementen
+    pagerItems: Elemente
 
     # The label for the page size chooser in the Grid pager
     pagerItemsPerPage: Elemente pro Seite
 
     # The title attribute of the page number input element.
-    pagerPageNumberInputTitle: Page Number
+    pagerPageNumberInputTitle: Seitennummer
 
     # The label of the filter cell or icon
     filter: Filter
@@ -67,13 +67,13 @@ kendo:
     filterEndsWithOperator: endet mit
 
     # The text of the "greater than or equal" filter operator
-    filterGteOperator: ist grösser als oder gleich
+    filterGteOperator: ist größer als oder gleich
 
     # The text of the "greater than" filter operator
-    filterGtOperator: ist grösser als
+    filterGtOperator: ist größer als
 
     # The text of the "less than or equal" filter operator
-    filterLteOperator: ist kleiner oder gleich als
+    filterLteOperator: ist kleiner als oder gleich
 
     # The text of the "less than" filter operator
     filterLtOperator: ist kleiner als
@@ -88,7 +88,7 @@ kendo:
     filterBooleanAll: (Alle)
 
     # The text of the after or equal date filter operator
-    filterAfterOrEqualOperator: ist gleich oder später als
+    filterAfterOrEqualOperator: ist später als oder gleich
 
     # The text of the after date filter operator
     filterAfterOperator: ist später als
@@ -97,7 +97,7 @@ kendo:
     filterBeforeOperator: ist früher als
 
     # The text of the before or equal date filter operator
-    filterBeforeOrEqualOperator: ist gleich oder früher als
+    filterBeforeOrEqualOperator: ist früher als oder gleich
 
     # The text of the "filter button"
     filterFilterButton: Filtern
@@ -112,7 +112,7 @@ kendo:
     filterOrLogic: oder
 
     # The title of the Toggle button of the Date filter.
-    filterDateToggle: Toggle calendar
+    filterDateToggle: Kalender umschalten
 
     # The text of the Today button of the Date filter.
     filterDateToday: Heute
@@ -136,13 +136,13 @@ kendo:
     unlock: Entsperren
 
     # The text shown in the column menu for the stick item
-    stick: Stick
+    stick: Anheften
 
     # The text shown in the column menu for the unstick item
-    unstick: Unstick
+    unstick: Loslösen
 
     # The text shown in the column menu for the set column position item
-    setColumnPosition: Set Column Position
+    setColumnPosition: Spaltenposition setzen
 
     # The text shown in the column menu for the sort ascending item
     sortAscending: Aufsteigend sortieren
@@ -157,94 +157,94 @@ kendo:
     columnsReset: Zurücksetzen
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Sortierbar
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Aufsteigend sortiert
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Absteigend sortiert
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Nicht sortiert
 
     # The label of the filter row and menu inputs
     filterInputLabel: '{columnName} Filter'
 
     # The title of the filter menu icon
-    filterMenuTitle: '{columnName} Filter Menu'
+    filterMenuTitle: '{columnName} Filter Menü'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operatoren'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
+    filterMenuLogicDropDownLabel: '{columnName} Filter Logik'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Column Menu'
+    columnMenu: '{columnName} Spaltenmenü'
 
     # The labels of the checkbox column checkboxes
-    selectionCheckboxLabel: Select Row
+    selectionCheckboxLabel: Zeile auswählen
 
     # The label of the checkbox column select all checkbox
-    selectAllCheckboxLabel: Select All Rows
+    selectAllCheckboxLabel: Alle Zeilen auswählen
 
     # The label of the Grid pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Zeilennavigation, Seite {currentPage} von {totalPages}'
 
     # The Grid aria-label
-    gridLabel: Data table
+    gridLabel: Datentabelle
 
     # The text of the title and aria-label attributes applied to the collapse icon of group rows.
-    groupCollapse: Collapse Group
+    groupCollapse: Gruppe verbergen
 
     # The text of the title and aria-label attributes applied to the expand icon of group rows.
-    groupExpand: Expand Group
+    groupExpand: Gruppe anzeigen
 
     # The title of the collapse icon of detail rows.
-    detailCollapse: Collapse Details
+    detailCollapse: Details verbergen
 
     # The title of the expand icon of detail rows.
-    detailExpand: Expand Details
+    detailExpand: Details anzeigen
     
     # The text shown in the column menu for the autosize this column item
-    autosizeThisColumn: Autosize This Column
+    autosizeThisColumn: Autogröße für diese Spalte
         
     # The text shown in the column menu for the autosize all columns item
-    autosizeAllColumns: Autosize All Columns
+    autosizeAllColumns: Autogröße für alle Spalten
     
     # The aria-label and title of the page select element in Grid pager
-    selectPage: Select page
+    selectPage: Seite auswählen
 
     # The label for the Grid top toolbar
-    topToolbarLabel: Top toolbar
+    topToolbarLabel: Obere Toolbar
 
     # The label for the Grid bottom toolbar
-    bottomToolbarLabel: Bottom toolbar
+    bottomToolbarLabel: Untere Toolbar
 
     # The label for the Grid group panel toolbar
-    groupPanelLabel: Group panel
+    groupPanelLabel: Gruppenpanel
 
     # The label for the Grid drag row handle.
-    dragRowHandleLabel: Drag row
+    dragRowHandleLabel: Zeile ziehen
 
     # The label for the select row checkbox.
-    selectRowCheckboxLabel: Select row
+    selectRowCheckboxLabel: Zeile auswählen
 
     # The label for the select all rows checkbox.
-    selectAllRowsCheckboxLabel: Select all rows
+    selectAllRowsCheckboxLabel: Alle Zeilen auswählen
 
     # The label for the filter cell operators dropdown.
-    filterCellOperatorLabel: 'Filter cell operators for {columnName}'
+    filterCellOperatorLabel: 'Filterzelle Operatoren für {columnName}'
 
     # The label for the boolean filter cell dropdown.
-    booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
+    booleanFilterCellLabel: 'Boolesche Filterzelle für {columnName}'
 
     # The title for the column menu Filter tab.
     columnMenuFilterTabTitle: Filter
 
     # The title for the column menu General tab.
-    columnMenuGeneralTabTitle: General
+    columnMenuGeneralTabTitle: Generell
     
     # The title for the column menu Columns tab.
-    columnMenuColumnsTabTitle: Columns
+    columnMenuColumnsTabTitle: Spalten

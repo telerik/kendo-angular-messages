@@ -1,22 +1,22 @@
 kendo:
   chat:
     # The placholder text of the message text input
-    messagePlaceholder: Type a message...
+    messagePlaceholder: Nachricht eintippen...
 
     # The text for the Send button
-    send: Send...
+    send: Senden...
 
     # The label text for the Message list
-    messageListLabel: Message list
+    messageListLabel: Nachrichtenliste
 
     # The label text for the Message input box
-    messageBoxInputLabel: Message
+    messageBoxInputLabel: Nachricht
 
     # The text for the left arrow of the message attachments
-    messageAttachmentLeftArrow: Previous Item
+    messageAttachmentLeftArrow: Vorheriges Element
 
     # The text for the right arrow of the message attachments
-    messageAttachmentRightArrow: Next Item
+    messageAttachmentRightArrow: Nächstes Element
 
     # The alt attribute text for the avatar
     messageAvatarAlt: Avatar
