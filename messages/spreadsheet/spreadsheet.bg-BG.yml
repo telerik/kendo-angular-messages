@@ -71,3 +71,30 @@ kendo:
 
     # The title of the Text Align tool
     align: Подравняване
+
+    # The text of the **Apply** button in all Spreadsheet dialogs
+    dialogApply: Apply
+
+    # The text of the **Cancel** button in all Spreadsheet dialogs
+    dialogCancel: Cancel
+
+    # The text of the **Delete** button in all Spreadsheet dialogs
+    dialogDelete: Delete
+
+    # The text of the **Rename** button in all Spreadsheet dialogs
+    dialogRename: Rename
+
+    # The title of the Rename sheet dialog.
+    rename: Rename Sheet
+
+    # The title of the Delete sheet dialog.
+    delete: Delete Sheet
+
+    # The title of the Name Box input.
+    nameBox: Name Box
+
+    # The title of the Add new sheet button
+    addSheet: Add New Sheet
+
+    # The title of the Sheets menu button
+    sheetsMenu: All Sheets
