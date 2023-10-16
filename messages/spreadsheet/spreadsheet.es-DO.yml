@@ -1,0 +1,100 @@
+kendo:
+  spreadsheet:
+    # The title of the tool that changes the text background color
+    background: Background color
+
+    # The title of the tool that changes the text font color
+    color: Font color
+
+    # The title of the Bold tool
+    bold: Bold
+
+    # The title of the Italic tool
+    italic: Italic
+
+    # The title of the Underline tool
+    underline: Underline
+
+    # The title of the Save File tool
+    saveFile: Export...
+
+    # The title of the Load File tool
+    loadFile: Open...
+
+    # The text of the Format tool
+    format: Custom format...
+
+    # The text of the Font Family tool
+    fontFamily: Font
+
+    # The text of the Font Size tool
+    fontSize: Font size
+
+    # The text of the Home toolbar tab
+    home: Home
+
+    # The text of the File toolbar tab
+    file: File
+
+    # The text of the Insert toolbar tab
+    insert: Insert
+
+    # The title of the Undo tool
+    undo: Undo
+
+    # The title of the Redo tool
+    redo: Redo
+
+    # The text of the Grid Lines tool
+    gridLines: Toggle grid lines
+
+    # The title of the tool that adds new column before currently selected column
+    addColumnLeft: Add column left
+
+    # The title of the tool that adds new column after currently selected column
+    addColumnRight: Add column right
+
+    # The title of the tool that adds new row below currently selected row
+    addRowBelow: Add row below
+
+    # The title of the tool that adds new row above currently selected row
+    addRowAbove: Add row above
+
+    # The title of the tool that deletes a column
+    deleteColumn: Delete column
+
+    # The title of the tool that deletes a row
+    deleteRow: Delete row
+
+    # The title of the Text Wrap tool
+    wrap: Text wrap
+
+    # The title of the Text Align tool
+    align: Align
+
+    # The text of the **Apply** button in all Spreadsheet dialogs
+    dialogApply: Apply
+
+    # The text of the **Cancel** button in all Spreadsheet dialogs
+    dialogCancel: Cancel
+
+    # The text of the **Delete** button in all Spreadsheet dialogs
+    dialogDelete: Delete
+
+    # The text of the **Rename** button in all Spreadsheet dialogs
+    dialogRename: Rename
+
+    # The title of the Rename sheet dialog.
+    rename: Rename Sheet
+
+    # The title of the Delete sheet dialog.
+    delete: Delete Sheet
+
+    # The title of the Name Box input.
+    nameBox: Name Box
+
+    # The title of the Add new sheet button
+    addSheet: Add New Sheet
+
+    # The title of the Sheets menu button
+    sheetsMenu: All Sheets
