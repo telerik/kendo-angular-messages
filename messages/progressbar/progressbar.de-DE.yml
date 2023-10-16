@@ -1,14 +1,12 @@
 kendo:
   progressbar:
     #The title for the ProgressBar component.
-    progressBarLabel: Progressbar
+    progressBarLabel: Fortschrittsanzeige
 
   chunkprogressbar:
     #The title for the ChunkProgressBar component.
-    progressBarLabel: Chunk progressbar
+    progressBarLabel: Abgestufte Fortschrittsanzeige
 
   circularprogressbar:
     #The title for the Circular ProgressBar component.
-    progressBarLabel: Circular progressbar
-
-
+    progressBarLabel: Runde Fortschrittsanzeige

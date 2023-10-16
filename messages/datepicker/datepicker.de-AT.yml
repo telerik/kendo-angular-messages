@@ -13,4 +13,4 @@ kendo:
     nextButtonTitle: Auf nächste Seite navigieren
 
     # The title of the parent view button in the calendar header
-    parentViewButtonTitle: Navigate to parent view
+    parentViewButtonTitle: Auf Hauptansicht navigieren

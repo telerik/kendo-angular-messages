@@ -4,52 +4,52 @@ kendo:
     noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: Löschen
+    clearTitle: Leeren
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
   combobox:
     # The text displayed in the popup when there are no items
     noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: Löschen
+    clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
   dropdownlist:
     # The text displayed in the popup when there are no items
     noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: Löschen
+    clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
     # The text of the popup filter input aria label
     filterInputLabel: Filter
 
   dropdowntree:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
     # The text of the popup filter input aria label
     filterInputLabel: Filter
@@ -59,33 +59,48 @@ kendo:
     noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: Löschen
+    clearTitle: Leeren
 
     # The text set as aria-label on the select button"
-    selectButtonText: Select
+    selectButtonText: Auswählen
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
 
     # The text of the popup filter input aria label
     filterInputLabel: Filter
+
+    # The text of the Apply button in the action sheet
+    applyButton: Anwenden
+
+    # The text of the Cancel button in the action sheet
+    cancelButton: Abbrechen
+
+    # The text displayed for the check-all checkbox
+    checkAllText: Alle auswählen
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: Leeren
 
-    # The text of the popup filter input aria label
-    filterInputLabel: Filter
+    # The text of the popup label
+    popupLabel: Optionsliste
 
   multiselect:
     # The text displayed in the popup when there are no items
     noDataText: Keine Daten gefunden
 
     # The title of the clear button
-    clearTitle: Löschen
+    clearTitle: Leeren
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Optionsliste
+
+    # The text of the Apply button in the action sheet
+    applyButton: Anwenden
+
+    # The text of the Cancel button in the action sheet
+    cancelButton: Abbrechen
