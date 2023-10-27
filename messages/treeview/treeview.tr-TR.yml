@@ -1,0 +1,4 @@
+kendo:
+  treeview:
+    # The title of the Load More button
+    loadMore: Load more...
