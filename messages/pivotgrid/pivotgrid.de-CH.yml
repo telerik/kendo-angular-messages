@@ -90,3 +90,14 @@ kendo:
     # The text content of the PivotGrid configurator empty measures container.
     configuratorEmptyMeasuresText: Wählen Sie einige Felder aus um die Einrichtung zu beginnen
 
+    # The text content of the Move to Columns item in the column and row fields menu
+    fieldMenuMoveToColumnsItem: Move to Columns
+
+    # The text content of the Move to Rows item in the column and row fields menu
+    fieldMenuMoveToRowsItem: Move to Rows
+
+    # The text content of the Move Previous item in the column, row, and value fields menu
+    fieldMenuMovePreviousItem: Move Previous
+
+    # The text content of the Move Next item in the column, row, and value fields menu
+    fieldMenuMoveNextItem: Move Next
