@@ -89,3 +89,15 @@ kendo:
 
     # The text content of the PivotGrid configurator empty measures container.
     configuratorEmptyMeasuresText: Изберете някои полета, за да започнете настройката
+
+    # The text content of the Move to Columns item in the column and row fields menu
+    fieldMenuMoveToColumnsItem: Премести в Колони
+
+    # The text content of the Move to Rows item in the column and row fields menu
+    fieldMenuMoveToRowsItem: Премести в Редове
+
+    # The text content of the Move Previous item in the column, row, and value fields menu
+    fieldMenuMovePreviousItem: Премести напред
+
+    # The text content of the Move Next item in the column, row, and value fields menu
+    fieldMenuMoveNextItem: Премести назад
