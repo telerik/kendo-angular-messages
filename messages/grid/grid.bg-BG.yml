@@ -249,8 +249,8 @@ kendo:
     # The title for the column menu Columns tab.
     columnMenuColumnsTabTitle: Колони
 
-    # The text for the Group pane Chip Menu Move Previous item
+    # The text for the Group pane Chip Menu Move as previous item
     groupChipMenuPrevious: Премести напред
 
-    # The text for the Group pane Chip Menu Move Next item
+    # The text for the Group pane Chip Menu Move as next item
     groupChipMenuNext: Премести назад
