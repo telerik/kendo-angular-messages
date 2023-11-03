@@ -96,8 +96,8 @@ kendo:
     # The text content of the Move to Rows item in the column and row fields menu
     fieldMenuMoveToRowsItem: Move to Rows
 
-    # The text content of the Move Previous item in the column, row, and value fields menu
-    fieldMenuMovePreviousItem: Move Previous
+    # The text content of the Move as previous item in the column, row, and value fields menu
+    fieldMenuMovePreviousItem: Move as previous
 
-    # The text content of the Move Next item in the column, row, and value fields menu
-    fieldMenuMoveNextItem: Move Next
+    # The text content of the Move as next item in the column, row, and value fields menu
+    fieldMenuMoveNextItem: Move as next
