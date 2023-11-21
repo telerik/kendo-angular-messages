@@ -98,3 +98,33 @@ kendo:
 
     # The title of the Sheets menu button
     sheetsMenu: All Sheets
+
+    # The text of the Format toolbar tab
+    formatTab: Format
+
+    # The text of the View toolbar tab
+    view: View
+
+    # The title of the Cells Merge tool
+    merge: Merge
+
+    # The title of the tool that decreases decimals
+    decreaseDecimal: Decrease decimal
+
+    # The title of the tool that inserts a link
+    insertLink: Insert Link
+
+    # The title of the tool that increases decimals
+    increaseDecimal: Increase Decimal
+
+    # The title of the tool that increases the cell font size
+    increaseFontSize: Increase font size
+
+    # The title of the tool that decreases the cell font size
+    decreaseFontSize: Decrease font size
+
+    # The text of the **Remove link** button in the Link tool dialog
+    dialogRemoveLink: Remove link
+
+    # The text of the **Insert** button in all Spreadsheet dialogs
+    dialogInsert: Insert
