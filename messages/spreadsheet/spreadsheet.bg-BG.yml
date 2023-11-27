@@ -146,3 +146,60 @@ kendo:
 
     # The content of the dialog that warns about duplicated sheet name
     duplicateSheetName: Има съществуващ лист с това име. Моля, въведете друго име.
+
+    # The title of the Text Align Horizontal tool.
+    alignHorizontal: Подравни хоризонтално
+
+    # The title of the Text Align Vertical tool.
+    alignVertical: Подравни вертикално
+
+    # The title of the Text Align Left tool.
+    alignLeft: Подравни наляво
+
+    # The title of the Text Align Center tool.
+    alignCenter: Центрирай хоризонтално
+
+    # The title of the Text Align Right tool.
+    alignRight: Подравни надясно
+
+    # The title of the Text Align Justify tool.
+    alignJustify: Подравни двустранно
+
+    # The title of the Text Align Top tool.
+    alignTop: Подравни нагоре
+
+    # The title of the Text Align Middle tool.
+    alignMiddle: Центрирай вертикално
+
+    # The title of the Text Align Bottom tool.
+    alignBottom: Подравни надолу
+
+    # The title of the Merge all tool.
+    mergeAll: Слей всички
+
+    # The title of the Merge horizontally tool.
+    mergeHorizontally: Слей хоризонтално
+
+    # The title of the Merge vertically tool.
+    mergeVertically: Слей вертикално
+
+    # The title of the Unmerge tool.
+    unmerge: Раздели
+
+    # The text of the Copy command.
+    copy: Копирай
+
+    # The text of the Cut command.
+    cut: Изрежи
+
+    # The text of the Hide row command.
+    hideRow: Скрий
+
+    # The text of the Unhide row command.
+    unhideRow: Покажи
+
+    # The text of the Hide column command.
+    hideColumn: Скрий
+
+    # The text of the Unhide column command.
+    unhideColumn: Покажи

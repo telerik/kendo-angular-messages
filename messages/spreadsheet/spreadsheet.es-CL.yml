@@ -146,3 +146,60 @@ kendo:
 
     # The content of the dialog that warns about duplicated sheet name
     duplicateSheetName: There is an existing sheet with this name. Please enter another name.
+
+    # The title of the Text Align Horizontal tool.
+    alignHorizontal: Align horizontally
+
+    # The title of the Text Align Vertical tool.
+    alignVertical: Align vertically
+
+    # The title of the Text Align Left tool.
+    alignLeft: Align Left
+
+    # The title of the Text Align Center tool.
+    alignCenter: Align Center
+
+    # The title of the Text Align Right tool.
+    alignRight: Align Right
+
+    # The title of the Text Align Justify tool.
+    alignJustify: Align Justify
+
+    # The title of the Text Align Top tool.
+    alignTop: Align Top
+
+    # The title of the Text Align Middle tool.
+    alignMiddle: Align Middle
+
+    # The title of the Text Align Bottom tool.
+    alignBottom: Align Bottom
+
+    # The title of the Merge all tool.
+    mergeAll: Merge all
+
+    # The title of the Merge horizontally tool.
+    mergeHorizontally: Merge horizontally
+
+    # The title of the Merge vertically tool.
+    mergeVertically: Merge vertically
+
+    # The title of the Unmerge tool.
+    unmerge: Unmerge
+
+    # The text of the Copy command.
+    copy: Copy
+
+    # The text of the Cut command.
+    cut: Cut
+
+    # The text of the Hide row command.
+    hideRow: Hide
+
+    # The text of the Unhide row command.
+    unhideRow: Unhide
+
+    # The text of the Hide column command.
+    hideColumn: Hide
+
+    # The text of the Unhide column command.
+    unhideColumn: Unhide
