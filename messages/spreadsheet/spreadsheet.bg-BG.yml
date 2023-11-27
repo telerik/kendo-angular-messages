@@ -73,28 +73,76 @@ kendo:
     align: Подравняване
 
     # The text of the **Apply** button in all Spreadsheet dialogs
-    dialogApply: Apply
+    dialogApply: Приложи
 
     # The text of the **Cancel** button in all Spreadsheet dialogs
-    dialogCancel: Cancel
+    dialogCancel: Отказ
 
     # The text of the **Delete** button in all Spreadsheet dialogs
-    dialogDelete: Delete
+    dialogDelete: Изтриване
 
     # The text of the **Rename** button in all Spreadsheet dialogs
-    dialogRename: Rename
+    dialogRename: Преименуване
 
     # The title of the Rename sheet dialog.
-    rename: Rename Sheet
+    rename: Преименувай листа
 
     # The title of the Delete sheet dialog.
-    delete: Delete Sheet
+    delete: Изтрий листа
 
     # The title of the Name Box input.
-    nameBox: Name Box
+    nameBox: Поле за име
 
     # The title of the Add new sheet button
-    addSheet: Add New Sheet
+    addSheet: Добави нов лист
 
     # The title of the Sheets menu button
-    sheetsMenu: All Sheets
+    sheetsMenu: Всички листове
+
+    # The text of the Format toolbar tab
+    formatTab: Форматиране
+
+    # The text of the View toolbar tab
+    view: Изглед
+
+    # The title of the Cells Merge tool
+    merge: Сливане
+
+    # The title of the tool that decreases decimals
+    decreaseDecimal: Намаляване на десетичния знак
+
+    # The title of the tool that inserts a link
+    insertLink: Добавяне на линк
+
+    # The title of the tool that increases decimals
+    increaseDecimal: Увеличаване на десетичния знак
+
+    # The title of the tool that increases the cell font size
+    increaseFontSize: Увеличаване на шрифта
+
+    # The title of the tool that decreases the cell font size
+    decreaseFontSize: Намаляване на шрифта
+
+    # The text of the **Remove link** button in the Link tool dialog
+    dialogRemoveLink: Премахване на линк
+
+    # The text of the **Insert** button in all Spreadsheet dialogs
+    dialogInsert: Въведи
+
+    # The content of the dialog that warns about an unsupported file type
+    openUnsupported: Неподдържан формат. Моля, изберете .xlsx файл.
+
+    # The content of the dialog that warns about modifying a merged cell
+    modifyMerged: Не може да се промени част от обединена клетка.
+
+    # The content of the dialog that warns about modifying a disabled cell
+    cannotModifyDisabled: Не може да се промени част от недостъпна клетка.
+
+    # The text of the **OK** dialog button
+    dialogOk: ОК
+
+    # The title of an error dialog
+    dialogError: Грешка
+
+    # The content of the dialog that warns about duplicated sheet name
+    duplicateSheetName: Има съществуващ лист с това име. Моля, въведете друго име.
