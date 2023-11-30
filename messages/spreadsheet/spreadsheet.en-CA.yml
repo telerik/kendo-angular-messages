@@ -206,3 +206,21 @@ kendo:
 
     # The title of the Formula input
     formulaInput: Formula Input
+
+    # The text of the Sheet menu Delete option
+    sheetDelete: Delete
+
+    # The text of the Sheet menu Rename option
+    sheetRename: Rename
+
+    # The text of the Sheet menu Duplicate option
+    sheetDuplicate: Duplicate
+
+    # The text of the Sheet menu Hide option
+    sheetHide: Hide
+
+    # The text of the Sheet menu Move Left option
+    sheetMoveLeft: Move Left
+
+    # The text of the Sheet menu Move Right option
+    sheetMoveRight: Move Right
