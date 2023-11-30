@@ -203,3 +203,6 @@ kendo:
 
     # The text of the Unhide column command.
     unhideColumn: Покажи
+
+    # The title of the Formula input
+    formulaInput: Въвеждане на формула
