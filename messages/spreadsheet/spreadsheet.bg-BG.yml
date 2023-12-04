@@ -203,3 +203,24 @@ kendo:
 
     # The text of the Unhide column command.
     unhideColumn: Покажи
+
+    # The title of the Formula input
+    formulaInput: Въвеждане на формула
+
+    # The text of the Sheet menu Delete option
+    sheetDelete: Изтрий
+
+    # The text of the Sheet menu Rename option
+    sheetRename: Преименувай
+
+    # The text of the Sheet menu Duplicate option
+    sheetDuplicate: Дублирай
+
+    # The text of the Sheet menu Hide option
+    sheetHide: Скрий
+
+    # The text of the Sheet menu Move Left option
+    sheetMoveLeft: Премести наляво
+
+    # The text of the Sheet menu Move Right option
+    sheetMoveRight: Премести надясно
