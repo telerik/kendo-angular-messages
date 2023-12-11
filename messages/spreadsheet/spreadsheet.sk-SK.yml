@@ -224,3 +224,6 @@ kendo:
 
     # The text of the Sheet menu Move Right option
     sheetMoveRight: Move Right
+
+    # The content of the dialog that warns about invalid name input
+    invalidNameError: 'Invalid name: {inputValue}'
