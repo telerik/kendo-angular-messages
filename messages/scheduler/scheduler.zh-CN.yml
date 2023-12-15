@@ -106,25 +106,25 @@ kendo:
     # The text of today's date in the header of the Calendar.
     calendarToday: TODAY
 
-    # The text similar to 'Cancel' displayed in scheduler.
+    # The text similar to 'Cancel' displayed in the Scheduler.
     cancel: 取消
 
-    # The text similar to 'Save' displayed in scheduler.
+    # The text similar to 'Save' displayed in the Scheduler.
     save: Save
 
-    # The text similar to 'Title' displayed in the scheduler event editor.
+    # The text similar to 'Title' displayed in the Scheduler event editor.
     editorEventTitle: Title
 
-    # The text similar to 'Start' displayed in the scheduler event editor.
+    # The text similar to 'Start' displayed in the Scheduler event editor.
     editorEventStart: Start
 
-    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    # The text similar to 'Start Time Zone' displayed in the Scheduler event editor.
     editorEventStartTimeZone: Start Time Zone
 
-    # The text similar to 'End' displayed in the scheduler event editor.
+    # The text similar to 'End' displayed in the Scheduler event editor.
     editorEventEnd: End
 
-    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    # The text similar to 'End Time Zone' displayed in the Scheduler event editor.
     editorEventEndTimeZone: End Time Zone
 
     # The date header text displayed in the agenda view.
@@ -133,55 +133,55 @@ kendo:
     # The day view title.
     dayViewTitle: 事件标题
 
-    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    # The text similar to 'Are you sure you want to delete this event?' displayed in the Scheduler remove confirmation dialog.
     deleteConfirmation: 你确定要删除这个事件吗？
 
     # The title of the remove confirmation dialog, similar to 'Delete Event'.
     deleteDialogTitle: 删除事件
 
-    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    # The text of the 'Delete current occurrence' button displayed in the Scheduler recurring confirmation dialog.
     deleteOccurrence: Delete current occurrence
 
-    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
 
-    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'.
     deleteRecurringDialogTitle: 你想仅删除当前事件还是整个周期事件？
 
-    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    # The text similar of the 'Delete the series' button displayed in the Scheduler recurring confirmation dialog.
     deleteSeries: 删除整个周期事件
 
     # The delete icon title.
     deleteTitle: 删除事件
 
-    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    # The text of the 'Delete' button displayed in the Scheduler remove confirmation dialog.
     destroy: 删除
 
-    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    # The text of the 'Edit current occurrence' button displayed in the Scheduler recurring confirmation dialog.
     editOccurrence: 编辑当前事件
 
-    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    # The text similar to 'All Day event' displayed in the Scheduler event editor.
     editorEventAllDay: 全天事件
 
-    # The text similar to 'Description' displayed in the scheduler event editor.
+    # The text similar to 'Description' displayed in the Scheduler event editor.
     editorEventDescription: 描述
 
-    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the Scheduler event editor.
     editorEventSeparateTimeZones: 使用独立的开始和结束时区
 
-    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    # The text similar to 'Time Zone' displayed in the Scheduler event editor.
     editorEventTimeZone: 结束时区
 
-    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    # The text similar to 'Event' displayed as title of the Scheduler event editor.
     editorTitle: 事件标题
 
-    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: 你想仅编辑当前事件还是整个周期事件？
 
-    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'.
     editRecurringDialogTitle: 编辑周期类型事件
 
-    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    # The text of the 'Edit the series' button displayed in the Scheduler recurring confirmation dialog.
     editSeries: 编辑整个周期事件
 
     # The event header text displayed in the agenda view.
@@ -199,70 +199,70 @@ kendo:
     # The title of the navigation previous button.
     previousTitle: Previous
 
-    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'day(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorDailyInterval: 天
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorDailyRepeatEvery: 周期
 
-    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    # The text similar to 'After' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndAfter: After
 
-    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    # The text similar to 'End' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndLabel: End
 
-    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndNever: Never
 
-    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'occurrence(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndOccurrence: 次后
 
-    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndOn: On
 
-    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    # The text similar to 'Daily' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesDaily: 每天
 
-    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    # The text similar to 'Monthly' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesMonthly: 每月
 
-    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesNever: 从不
 
-    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    # The text similar to 'Weekly' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesWeekly: 每周
 
-    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    # The text similar to 'Yearly' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesYearly: 每年
 
-    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    # The text similar to 'Day' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyDay: 几号
 
-    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'month(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyInterval: 月
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyRepeatEvery: 周期
 
-    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyRepeatOn: 重复于
 
-    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    # The text similar to 'First' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFirst: 第一
 
-    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    # The text similar to 'Fourth' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFourth: 第四
 
-    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    # The text similar to 'Last' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsLast: 最后一
 
-    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    # The text similar to 'Second' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsSecond: 第二
 
-    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    # The text similar to 'Third' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsThird: 第三
 
-    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat' displayed in the Scheduler recurrence editor.
     recurrenceEditorRepeat: 重复
 
     # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
@@ -274,25 +274,25 @@ kendo:
     # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
     recurrenceEditorWeekdaysWeekendday: Weekend Day
 
-    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'week(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyInterval: 周
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyRepeatEvery: 周期
 
-    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyRepeatOn: 重复于
 
-    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'year(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyInterval: 年
 
-    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    # The text similar to 'of' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyOf: of
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyRepeatEvery: 周期
 
-    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyRepeatOn: 重复于
 
     # The text of the show full day button displayed in the footer of the day, week and timeline views.
@@ -324,3 +324,48 @@ kendo:
 
     # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
     selectView: Select View
+
+    # The 'Today' button text in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsToday: Today
+
+    #The title of the 'Toggle' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsToggle: Toggle popup
+
+    #The title of the 'Parent View' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsParentViewButton: Navigate to parent view
+
+    #The text of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsNow: NOW
+
+    #The label of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsNowLabel: Select now
+
+    #The text of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsAccept: Set
+
+    #The label of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsAcceptLabel: Set
+
+    #The text of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsCancel: Cancel
+
+    #The label of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsCancelLabel: Cancel
+
+    #The text of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsDateTab: Date
+
+    #The label of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsDateTabLabel: Date tab
+
+    #The text of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsTimeTab: Time
+
+    #The label of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsTimeTabLabel: Time tab
+
+    #The title of the 'Increment' button of the NumericTextBox in the Scheduler recurrence editor.
+    recurrenceEditorNumericIncrement: Increase value
+
+    #The title of the 'Decrement' button of the NumericTextBox in the Scheduler recurrence editor.
+    recurrenceEditorNumericDecrement: Decrease value
