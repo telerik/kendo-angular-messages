@@ -161,3 +161,6 @@ kendo:
 
     # The title of the tool that splits the currently selected cell.
     splitCell: Zellen separieren
+
+    # The caption for the hint in the insert table tool.
+    insertTableHint: 'Create a {rows} {x} {columns} table'
