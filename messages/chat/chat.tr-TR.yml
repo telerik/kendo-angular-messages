@@ -1,22 +1,22 @@
-kendo:
+﻿kendo:
   chat:
     # The placholder text of the message text input
-    messagePlaceholder: Type a message...
+    messagePlaceholder: Bir mesaj yazın...
 
     # The text for the Send button
-    send: Send...
+    send: Gönder...
 
     # The label text for the Message list
-    messageListLabel: Message list
+    messageListLabel: Mesaj Listesi
 
     # The label text for the Message input box
-    messageBoxInputLabel: Message
+    messageBoxInputLabel: Mesaj
 
     # The text for the left arrow of the message attachments
-    messageAttachmentLeftArrow: Previous Item
+    messageAttachmentLeftArrow: Önceki
 
     # The text for the right arrow of the message attachments
-    messageAttachmentRightArrow: Next Item
+    messageAttachmentRightArrow: Sonraki
 
     # The alt attribute text for the avatar
     messageAvatarAlt: Avatar
