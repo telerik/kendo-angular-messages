@@ -106,25 +106,25 @@ kendo:
     # The text of today's date in the header of the Calendar.
     calendarToday: Dnes
 
-    # The text similar to 'Cancel' displayed in scheduler.
+    # The text similar to 'Cancel' displayed in the Scheduler.
     cancel: Zrušiť
 
-    # The text similar to 'Save' displayed in scheduler.
+    # The text similar to 'Save' displayed in the Scheduler.
     save: Uložiť
 
-    # The text similar to 'Title' displayed in the scheduler event editor.
+    # The text similar to 'Title' displayed in the Scheduler event editor.
     editorEventTitle: Názov
 
-    # The text similar to 'Start' displayed in the scheduler event editor.
+    # The text similar to 'Start' displayed in the Scheduler event editor.
     editorEventStart: Začiatok
 
-    # The text similar to 'Start Time Zone' displayed in the scheduler event editor.
+    # The text similar to 'Start Time Zone' displayed in the Scheduler event editor.
     editorEventStartTimeZone: Časová zóna začiatku
 
-    # The text similar to 'End' displayed in the scheduler event editor.
+    # The text similar to 'End' displayed in the Scheduler event editor.
     editorEventEnd: Koniec
 
-    # The text similar to 'End Time Zone' displayed in the scheduler event editor.
+    # The text similar to 'End Time Zone' displayed in the Scheduler event editor.
     editorEventEndTimeZone: Časová zóna konca
 
     # The date header text displayed in the agenda view.
@@ -133,55 +133,55 @@ kendo:
     # The day view title.
     dayViewTitle: Názov
 
-    # The text similar to 'Are you sure you want to delete this event?' displayed in scheduler remove confirmation dialog.
+    # The text similar to 'Are you sure you want to delete this event?' displayed in the Scheduler remove confirmation dialog.
     deleteConfirmation: Naozaj chcete odstrániť túto udalosť?
 
     # The title of the remove confirmation dialog, similar to 'Delete Event'.
     deleteDialogTitle: Odstránenie udalosti
 
-    # The text of the 'Delete current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    # The text of the 'Delete current occurrence' button displayed in the Scheduler recurring confirmation dialog.
     deleteOccurrence: Odstrániť aktuálny výskyt
 
-    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     deleteRecurringConfirmation: Chcete odstrániť len túto udalosť alebo celú sériu udalostí?
 
-    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'
+    # The title of the recurring remove confirmation dialog, similar to 'Delete Recurring Item'.
     deleteRecurringDialogTitle: Chcete odstrániť len túto udalosť alebo aj všetky jej opakovania?
 
-    # The text similar of the 'Delete the series' button displayed in the scheduler recurring confirmation dialog.
+    # The text similar of the 'Delete the series' button displayed in the Scheduler recurring confirmation dialog.
     deleteSeries: Odstrániť všetko
 
     # The delete icon title.
     deleteTitle: Odstránenie udalosti
 
-    # The text of the 'Delete' button displayed in the scheduler remove confirmation dialog.
+    # The text of the 'Delete' button displayed in the Scheduler remove confirmation dialog.
     destroy: Odstrániť
 
-    # The text of the 'Edit current occurrence' button displayed in the scheduler recurring confirmation dialog.
+    # The text of the 'Edit current occurrence' button displayed in the Scheduler recurring confirmation dialog.
     editOccurrence: Upraviť aktuálnu udalosť
 
-    # The text similar to 'All Day event' displayed in the scheduler event editor.
+    # The text similar to 'All Day event' displayed in the Scheduler event editor.
     editorEventAllDay: Celodenný
 
-    # The text similar to 'Description' displayed in the scheduler event editor.
+    # The text similar to 'Description' displayed in the Scheduler event editor.
     editorEventDescription: Popis
 
-    # The text similar to 'Use separate Start and End Time Zones' displayed in the scheduler event editor.
+    # The text similar to 'Use separate Start and End Time Zones' displayed in the Scheduler event editor.
     editorEventSeparateTimeZones: Rôzne časové pásma pre začiatok a koniec
 
-    # The text similar to 'Time Zone' displayed in the scheduler event editor.
+    # The text similar to 'Time Zone' displayed in the Scheduler event editor.
     editorEventTimeZone: Časové pásmo konca
 
-    # The text similar to 'Event' displayed as title of the scheduler event editor.
+    # The text similar to 'Event' displayed as title of the Scheduler event editor.
     editorTitle: Názov
 
-    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the scheduler recurring confirmation dialog.
+    # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: Chcete upraviť len túto udalosť alebo aj všetky jej opakovania?
 
-    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'
+    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'.
     editRecurringDialogTitle: Úprava opakovanej udalosti
 
-    # The text of the 'Edit the series' button displayed in the scheduler recurring confirmation dialog.
+    # The text of the 'Edit the series' button displayed in the Scheduler recurring confirmation dialog.
     editSeries: Upraviť všetko
 
     # The event header text displayed in the agenda view.
@@ -199,71 +199,71 @@ kendo:
     # The title of the navigation previous button.
     previousTitle: Predchádzajúci
 
-    # The text similar to 'day(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'day(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorDailyInterval: deň(dní)
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorDailyRepeatEvery: 'Opakovať každý:'
 
-    # The text similar to 'After' displayed in the scheduler recurrence editor.
+    # The text similar to 'After' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndAfter: Po
 
-    # The text similar to 'End' displayed in the scheduler recurrence editor.
+    # The text similar to 'End' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndLabel: Ukončiť
 
-    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndNever: Nikdy
 
-    # The text similar to 'occurrence(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'occurrence(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndOccurrence: opakovaní(-iach)
 
-    # The text similar to 'On' displayed in the scheduler recurrence editor.
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
     # Not used in reality.This is the best fitting word I've found that makes sense.
     recurrenceEditorEndOn: Presne
 
-    # The text similar to 'Daily' displayed in the scheduler recurrence editor.
+    # The text similar to 'Daily' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesDaily: Denne
 
-    # The text similar to 'Monthly' displayed in the scheduler recurrence editor.
+    # The text similar to 'Monthly' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesMonthly: Mesačne
 
-    # The text similar to 'Never' displayed in the scheduler recurrence editor.
+    # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesNever: Nikdy
 
-    # The text similar to 'Weekly' displayed in the scheduler recurrence editor.
+    # The text similar to 'Weekly' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesWeekly: Týždenne
 
-    # The text similar to 'Yearly' displayed in the scheduler recurrence editor.
+    # The text similar to 'Yearly' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesYearly: Ročne
 
-    # The text similar to 'Day' displayed in the scheduler recurrence editor.
+    # The text similar to 'Day' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyDay: Deň
 
-    # The text similar to 'month(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'month(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyInterval: mesiac(mesiacov)
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyRepeatEvery: 'Opakovať každý:'
 
-    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyRepeatOn: 'Opakovať:'
 
-    # The text similar to 'First' displayed in the scheduler recurrence editor.
+    # The text similar to 'First' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFirst: prvý
 
-    # The text similar to 'Fourth' displayed in the scheduler recurrence editor.
+    # The text similar to 'Fourth' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFourth: štvrtý
 
-    # The text similar to 'Last' displayed in the scheduler recurrence editor.
+    # The text similar to 'Last' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsLast: posledný
 
-    # The text similar to 'Second' displayed in the scheduler recurrence editor.
+    # The text similar to 'Second' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsSecond: druhý
 
-    # The text similar to 'Third' displayed in the scheduler recurrence editor.
+    # The text similar to 'Third' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsThird: tretí
 
-    # The text similar to 'Repeat' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat' displayed in the Scheduler recurrence editor.
     recurrenceEditorRepeat: Opakovať
 
     # The text similar to 'Day' displayed in the repeat by section of the monthly recurrence pattern.
@@ -275,25 +275,25 @@ kendo:
     # The text similar to 'Weekend Day' displayed in the repeat by section of the monthly recurrence pattern.
     recurrenceEditorWeekdaysWeekendday: víkendový deň
 
-    # The text similar to 'week(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'week(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyInterval: týždeň(týždňov)
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyRepeatEvery: 'Opakovať každý:'
 
-    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyRepeatOn: 'Opakovať:'
 
-    # The text similar to 'year(s)' displayed in the scheduler recurrence editor.
+    # The text similar to 'year(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyInterval: rok(rokov)
 
-    # The text similar to 'of' displayed in the scheduler recurrence editor.
+    # The text similar to 'of' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyOf: v
 
-    # The text similar to 'Repeat every' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyRepeatEvery: 'Opakovať každý:'
 
-    # The text similar to 'Repeat on' displayed in the scheduler recurrence editor.
+    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyRepeatOn: 'Opakovať:'
 
     # The text of the show full day button displayed in the footer of the day, week and timeline views.
@@ -325,3 +325,48 @@ kendo:
 
     # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
     selectView: Vybrať zobrazenie
+
+    # The 'Today' button text in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsToday: Today
+
+    #The title of the 'Toggle' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsToggle: Toggle popup
+
+    #The title of the 'Parent View' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsParentViewButton: Navigate to parent view
+
+    #The text of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsNow: NOW
+
+    #The label of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsNowLabel: Select now
+
+    #The text of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsAccept: Set
+
+    #The label of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsAcceptLabel: Set
+
+    #The text of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsCancel: Cancel
+
+    #The label of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsCancelLabel: Cancel
+
+    #The text of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsDateTab: Date
+
+    #The label of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsDateTabLabel: Date tab
+
+    #The text of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsTimeTab: Time
+
+    #The label of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
+    editorDateInputsTimeTabLabel: Time tab
+
+    #The title of the 'Increment' button of the NumericTextBox in the Scheduler recurrence editor.
+    recurrenceEditorNumericIncrement: Increase value
+
+    #The title of the 'Decrement' button of the NumericTextBox in the Scheduler recurrence editor.
+    recurrenceEditorNumericDecrement: Decrease value
