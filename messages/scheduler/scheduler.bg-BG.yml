@@ -369,3 +369,9 @@ kendo:
 
     #The title of the 'Decrement' button of the NumericTextBox in the Scheduler recurrence editor.
     recurrenceEditorNumericDecrement: Намали стойността
+
+    # The year view title.
+    yearViewTitle: Година
+
+    # The year view no events message.
+    yearViewNoEvents: Няма събития на тази дата.

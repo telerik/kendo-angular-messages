@@ -369,3 +369,9 @@ kendo:
 
     #The title of the 'Decrement' button of the NumericTextBox in the Scheduler recurrence editor.
     recurrenceEditorNumericDecrement: Decrease value
+
+    # The year view title.
+    yearViewTitle: Year
+
+    # The year view no events message.
+    yearViewNoEvents: No events on this date.
