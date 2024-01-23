@@ -1,0 +1,28 @@
+kendo:
+  aiprompt:
+    # The Toolbar button text for the Prompt view
+    promptView: Попитай AI
+
+    # The Toolbar button text for the Output view
+    outputView: Резултат
+
+    # The text for the Generate button in the Prompt view
+    generateOutput: Генерирай
+
+    # The placeholder text for the Prompt view textarea
+    promptPlaceholder: Попитайте или генерирайте съдържание с AI
+
+    # The Copy button text in each Output view card
+    copyOutput: Копирай
+
+    # The Retry button text in each Output view card
+    retryGeneration: Повтори
+
+    # The title of each Output view card
+    outputTitle: Генерирано с AI
+
+    # The title of each Output view retry card
+    outputRetryTitle: Генерирано с AI
+
+    # The title of the Prompt suggestions button
+    promptSuggestions: Предложения за въвеждане
