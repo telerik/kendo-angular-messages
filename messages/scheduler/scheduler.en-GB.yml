@@ -93,6 +93,21 @@ kendo:
     # The text similar to 'Repeat on' displayed in the recurrence editor.
     yearlyRepeatOn: Repeat on
 
+    #The title of the 'Increment' button of the NumericTextBoxes displayed in the recurrence editor.
+    numericIncrement: Increase value
+
+    #The title of the 'Decrement' button of the NumericTextBoxes displayed in the recurrence editor.
+    numericDecrement: Decrease value
+
+    # The 'Today' button text in the popup of the DatePickers displayed in the recurrence editor.
+    dateInputsToday: Today
+
+    #The title of the 'Toggle' button in the popup of the DatePickers displayed in the recurrence editor.
+    dateInputsToggle: Toggle popup
+
+    #The title of the 'Parent View' button in the popup of the DatePickers displayed in the recurrence editor.
+    dateInputsParentViewButton: Navigate to parent view
+
   scheduler:
     # The agenda view title.
     agendaViewTitle: Agenda
@@ -364,11 +379,20 @@ kendo:
     #The label of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
     editorDateInputsTimeTabLabel: Time tab
 
-    #The title of the 'Increment' button of the NumericTextBox in the Scheduler recurrence editor.
+    #The title of the 'Increment' button of the NumericTextBoxes displayed in the Scheduler recurrence editor.
     recurrenceEditorNumericIncrement: Increase value
 
-    #The title of the 'Decrement' button of the NumericTextBox in the Scheduler recurrence editor.
+    #The title of the 'Decrement' button of the NumericTextBoxes displayed in the Scheduler recurrence editor.
     recurrenceEditorNumericDecrement: Decrease value
+
+    # The 'Today' button text in the popup of the DatePickers displayed in the Scheduler recurrence editor.
+    recurrenceEditorDateInputsToday: Today
+
+    #The title of the 'Toggle' button of the DatePickers displayed in the Scheduler recurrence editor.
+    recurrenceEditorDateInputsToggle: Toggle popup
+
+    #The title of the 'Parent View' button in the popup of the DatePickers displayed in the Scheduler recurrence editor.
+    recurrenceEditorDateInputsParentViewButton: Navigate to parent view
 
     # The year view title.
     yearViewTitle: Year
