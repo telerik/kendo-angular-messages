@@ -20,3 +20,6 @@ kendo:
 
     # The text of the `Remove` button title.
     remove: Remove
+
+    # The text displayed when there are no items.
+    noDataText: No data found.
