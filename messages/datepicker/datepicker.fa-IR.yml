@@ -14,3 +14,6 @@ kendo:
 
     # The title of the parent view button in the calendar header
     parentViewButtonTitle: Navigate to parent view
+
+    # The title for the **Clear** button in the DatePicker
+    clearTitle: Clear
