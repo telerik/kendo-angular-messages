@@ -35,3 +35,6 @@ kendo:
 
     # The label for the dayperiod part in the timepicker component
     dayperiod: პერიოდი
+
+    # The title for the **Clear** button in the TimePicker
+    clearTitle: Clear

@@ -5,3 +5,6 @@ kendo:
 
     # The label for the **Decrement** button in the DateInput
     decrement: مقدار را کاهش بده
+
+    # The title for the **Clear** button in the DateInput
+    clearTitle: Clear
