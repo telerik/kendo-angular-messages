@@ -112,70 +112,70 @@ kendo:
     filterOrLogic: O
 
     # The loading text
-    loading: Loading
+    loading: Cargando
 
     # The label of the sort icon
-    sort: Sort
+    sort: Ordenar
 
     # The title of the column menu icon
-    columnMenu: Column Menu
+    columnMenu: Menú de columna
 
     # The text shown in the column menu for the columns item
-    columns: Columns
+    columns: Columnas
 
     # The text shown in the column menu for the lock item
-    lock: Lock
+    lock: Bloquear
 
     # The text shown in the column menu for the unlock item
-    unlock: Unlock
+    unlock: Desbloquear
 
     # The text shown in the column menu for the sort ascending item
-    sortAscending: Sort Ascending
+    sortAscending: Ordenar ascendente
 
     # The text shown in the column menu for the sort descending item
-    sortDescending: Sort Descending
+    sortDescending: Ordenar descendente
 
     # The text shown in the column menu or column chooser for the columns apply button
-    columnsApply: Apply
+    columnsApply: Aplicar
 
     # The text shown in the column menu or column chooser for the columns reset button
-    columnsReset: Reset
+    columnsReset: Restablecer
 
     # The label of the sort icon
-    sortable: Sortable
+    sortable: Ordenable
 
     # The status announcement when a column is sorted ascending
-    sortedAscending: Sorted ascending
+    sortedAscending: Ordenado ascendente
 
     # The status announcement when a column is sorted descending
-    sortedDescending: Sorted descending
+    sortedDescending: Ordenado descendente
 
     # The status announcement when a column is no longer sorted
-    sortedDefault: Not sorted
+    sortedDefault: Sin ordenar
 
     # The aria-label and title of the page select element in TreeList pager
-    selectPage: Select page
+    selectPage: Seleccionar página
 
     # The label for the TreeList drag row handle.
-    dragRowHandleLabel: Drag row
+    dragRowHandleLabel: Arrastrar fila
 
     # The label for the TreeList pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Navegación de página, página {currentPage} de {totalPages}'
 
     # The label for the TreeList top toolbar
-    topToolbarLabel: Top toolbar
+    topToolbarLabel: Barra de herramientas superior
 
     # The label for the TreeList bottom toolbar
-    bottomToolbarLabel: Bottom toolbar
+    bottomToolbarLabel: Barra de herramientas inferior
 
     # The label for the select row checkbox.
-    selectRowCheckboxLabel: Select row
+    selectRowCheckboxLabel: Seleccionar fila
 
     # The label for the select all rows checkbox.
-    selectAllRowsCheckboxLabel: Select all rows
+    selectAllRowsCheckboxLabel: Seleccionar todas las filas
 
     # The label for the filter cell operators dropdown.
-    filterCellOperatorLabel: 'Filter cell operators for {columnName}'
+    filterCellOperatorLabel: 'Operadores de filtro de celda para {columnName}'
 
     # The label for the boolean filter cell dropdown.
-    booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
+    booleanFilterCellLabel: 'Filtro booleano de celda para {columnName}'
