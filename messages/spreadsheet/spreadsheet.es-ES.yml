@@ -1,229 +1,229 @@
 kendo:
   spreadsheet:
     # The title of the tool that changes the text background color
-    background: Background color
+    background: Color de fondo
 
     # The title of the tool that changes the text font color
-    color: Font color
+    color: Color de fuente
 
     # The title of the Bold tool
-    bold: Bold
+    bold: Negrita
 
     # The title of the Italic tool
-    italic: Italic
+    italic: Cursiva
 
     # The title of the Underline tool
-    underline: Underline
+    underline: Subrayado
 
     # The title of the Save File tool
-    saveFile: Export...
+    saveFile: Guardar fichero
 
     # The title of the Load File tool
-    loadFile: Open...
+    loadFile: Abrir fichero
 
     # The text of the Format tool
-    format: Custom format...
+    format: Formato personalizado
 
     # The text of the Font Family tool
-    fontFamily: Font
+    fontFamily: Fuente
 
     # The text of the Font Size tool
-    fontSize: Font size
+    fontSize: Tamaño de fuente
 
     # The text of the Home toolbar tab
-    home: Home
+    home: Inicio
 
     # The text of the File toolbar tab
-    file: File
+    file: Archivo
 
     # The text of the Insert toolbar tab
-    insert: Insert
+    insert: Insertar
 
     # The title of the Undo tool
-    undo: Undo
+    undo: Deshacer
 
     # The title of the Redo tool
-    redo: Redo
+    redo: Rehacer
 
     # The text of the Grid Lines tool
-    gridLines: Toggle grid lines
+    gridLines: Alternar líneas de cuadrícula
 
     # The title of the tool that adds new column before currently selected column
-    addColumnLeft: Add column left
+    addColumnLeft: Agregar columna a la izquierda
 
     # The title of the tool that adds new column after currently selected column
-    addColumnRight: Add column right
+    addColumnRight: Agregar columna a la derecha
 
     # The title of the tool that adds new row below currently selected row
-    addRowBelow: Add row below
+    addRowBelow: Agregar fila debajo
 
     # The title of the tool that adds new row above currently selected row
-    addRowAbove: Add row above
+    addRowAbove: Agregar fila arriba
 
     # The title of the tool that deletes a column
-    deleteColumn: Delete column
+    deleteColumn: Eliminar columna
 
     # The title of the tool that deletes a row
-    deleteRow: Delete row
+    deleteRow: Eliminar fila
 
     # The title of the Text Wrap tool
-    wrap: Text wrap
+    wrap: Ajustar texto
 
     # The title of the Text Align tool
-    align: Align
+    align: Alinear
 
     # The text of the **Apply** button in all Spreadsheet dialogs
-    dialogApply: Apply
+    dialogApply: Aplicar
 
     # The text of the **Cancel** button in all Spreadsheet dialogs
-    dialogCancel: Cancel
+    dialogCancel: Cancelar
 
     # The text of the **Delete** button in all Spreadsheet dialogs
-    dialogDelete: Delete
+    dialogDelete: Eliminar
 
     # The text of the **Rename** button in all Spreadsheet dialogs
-    dialogRename: Rename
+    dialogRename: Renombrar
 
     # The title of the Rename sheet dialog.
-    rename: Rename Sheet
+    rename: Renombrar hoja
 
     # The title of the Delete sheet dialog.
-    delete: Delete Sheet
+    delete: Eliminar hoja
 
     # The title of the Name Box input.
-    nameBox: Name Box
+    nameBox: Cuadro de nombres
 
     # The title of the Add new sheet button
-    addSheet: Add New Sheet
+    addSheet: Agregar nueva hoja
 
     # The title of the Sheets menu button
-    sheetsMenu: All Sheets
+    sheetsMenu: Todas las hojas
 
     # The text of the Format toolbar tab
-    formatTab: Format
+    formatTab: Formato
 
     # The text of the View toolbar tab
-    view: View
+    view: Vista
 
     # The title of the Cells Merge tool
-    merge: Merge
+    merge: Combinar
 
     # The title of the tool that decreases decimals
-    decreaseDecimal: Decrease decimal
+    decreaseDecimal: Disminuir decimales
 
     # The title of the tool that inserts a link
-    insertLink: Insert Link
+    insertLink: Insertar enlace
 
     # The title of the tool that increases decimals
-    increaseDecimal: Increase Decimal
+    increaseDecimal: Aumentar decimales
 
     # The title of the tool that increases the cell font size
-    increaseFontSize: Increase font size
+    increaseFontSize: Aumentar tamaño de fuente
 
     # The title of the tool that decreases the cell font size
-    decreaseFontSize: Decrease font size
+    decreaseFontSize: Disminuir tamaño de fuente
 
     # The text of the **Remove link** button in the Link tool dialog
-    dialogRemoveLink: Remove link
+    dialogRemoveLink: Eliminar enlace
 
     # The text of the **Insert** button in all Spreadsheet dialogs
-    dialogInsert: Insert
+    dialogInsert: Insertar
 
     # The content of the dialog that warns about an unsupported file type
-    openUnsupported: Unsupported format. Please select an .xlsx file.
+    openUnsupported: Formato no compatible. Por favor seleccione un fichero .xlsx.
 
     # The content of the dialog that warns about modifying a merged cell
-    modifyMerged: Cannot change part of a merged cell.
+    modifyMerged: No se puede cambiar parte de una celda combinada.
 
     # The content of the dialog that warns about modifying a disabled cell
-    cannotModifyDisabled: Cannot modify disabled cells.
+    cannotModifyDisabled: No se pueden modificar celdas deshabilitadas.
 
     # The text of the **OK** dialog button
-    dialogOk: OK
+    dialogOk: Aceptar
 
     # The title of an error dialog
     dialogError: Error
 
     # The content of the dialog that warns about duplicated sheet name
-    duplicateSheetName: There is an existing sheet with this name. Please enter another name.
+    duplicateSheetName: Ya existe una hoja con este nombre. Por favor ingrese otro nombre.
 
     # The title of the Text Align Horizontal tool.
-    alignHorizontal: Align horizontally
+    alignHorizontal: Alinear horizontalmente
 
     # The title of the Text Align Vertical tool.
-    alignVertical: Align vertically
+    alignVertical: Alinear verticalmente
 
     # The title of the Text Align Left tool.
-    alignLeft: Align Left
+    alignLeft: Alinear a la izquierda
 
     # The title of the Text Align Center tool.
-    alignCenter: Align Center
+    alignCenter: Alinear al centro
 
     # The title of the Text Align Right tool.
-    alignRight: Align Right
+    alignRight: Alinear a la derecha
 
     # The title of the Text Align Justify tool.
-    alignJustify: Align Justify
+    alignJustify: Alinear justificado
 
     # The title of the Text Align Top tool.
-    alignTop: Align Top
+    alignTop: Alinear arriba
 
     # The title of the Text Align Middle tool.
-    alignMiddle: Align Middle
+    alignMiddle: Alinear en el medio
 
     # The title of the Text Align Bottom tool.
-    alignBottom: Align Bottom
+    alignBottom: Alinear abajo
 
     # The title of the Merge all tool.
-    mergeAll: Merge all
+    mergeAll: Combinar todo
 
     # The title of the Merge horizontally tool.
-    mergeHorizontally: Merge horizontally
+    mergeHorizontally: Combinar horizontalmente
 
     # The title of the Merge vertically tool.
-    mergeVertically: Merge vertically
+    mergeVertically: Combinar verticalmente
 
     # The title of the Unmerge tool.
-    unmerge: Unmerge
+    unmerge: Separar
 
     # The text of the Copy command.
-    copy: Copy
+    copy: Copiar
 
     # The text of the Cut command.
-    cut: Cut
+    cut: Cortar
 
     # The text of the Hide row command.
-    hideRow: Hide
+    hideRow: Ocultar fila
 
     # The text of the Unhide row command.
-    unhideRow: Unhide
+    unhideRow: Mostrar fila
 
     # The text of the Hide column command.
-    hideColumn: Hide
+    hideColumn: Ocultar columna
 
     # The text of the Unhide column command.
-    unhideColumn: Unhide
+    unhideColumn: Mostrar columna
 
     # The title of the Formula input
-    formulaInput: Formula Input
+    formulaInput: Entrada de fórmula
 
     # The text of the Sheet menu Delete option
-    sheetDelete: Delete
+    sheetDelete: Eliminar
 
     # The text of the Sheet menu Rename option
-    sheetRename: Rename
+    sheetRename: Renombrar
 
     # The text of the Sheet menu Duplicate option
-    sheetDuplicate: Duplicate
+    sheetDuplicate: Duplicar
 
     # The text of the Sheet menu Hide option
-    sheetHide: Hide
+    sheetHide: Ocultar
 
     # The text of the Sheet menu Move Left option
-    sheetMoveLeft: Move Left
+    sheetMoveLeft: Mover a la izquierda
 
     # The text of the Sheet menu Move Right option
-    sheetMoveRight: Move Right
+    sheetMoveRight: Mover a la derecha
 
     # The content of the dialog that warns about invalid name input
-    invalidNameError: 'Invalid name: {inputValue}'
+    invalidNameError: 'Nombre inválido: {inputValue}'
