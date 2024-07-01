@@ -1,106 +1,106 @@
 kendo:
   autocomplete:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: No se encontraron datos
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: limpiar
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Lista de opciones
 
   combobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: No se encontraron datos
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: limpiar
 
     # The text set as aria-label on the select button
-    selectButtonText: Select
+    selectButtonText: Seleccionar
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Lista de opciones
 
   dropdownlist:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: No se encontraron datos
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: limpiar
 
     # The text set as aria-label on the select button
-    selectButtonText: Select
+    selectButtonText: Seleccionar
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Lista de opciones
 
     # The text of the popup filter input aria label
-    filterInputLabel: Filter
+    filterInputLabel: Filtrar
 
   dropdowntree:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: No se encontraron datos
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: limpiar
 
     # The text set as aria-label on the select button
-    selectButtonText: Select
+    selectButtonText: Seleccionar
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Lista de opciones
 
     # The text of the popup filter input aria label
-    filterInputLabel: Filter
+    filterInputLabel: Filtrar
 
   multiselecttree:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: No se encontraron datos
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: limpiar
 
     # The text set as aria-label on the select button
-    selectButtonText: Select
+    selectButtonText: Seleccionar
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Lista de opciones
 
     # The text of the popup filter input aria label
-    filterInputLabel: Filter
+    filterInputLabel: Filtrar
 
     # The text of the Apply button in the action sheet
-    applyButton: Apply
+    applyButton: Aplicar
 
     # The text of the Cancel button in the action sheet
-    cancelButton: Cancel
+    cancelButton: Cancelar
 
     # The text displayed for the check-all checkbox
-    checkAllText: Check all
+    checkAllText: Seleccionar todo
 
   multicolumncombobox:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: No se encontraron datos
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: limpiar
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Lista de opciones
 
   multiselect:
     # The text displayed in the popup when there are no items
-    noDataText: No data found
+    noDataText: No se encontraron datos
 
     # The title of the clear button
-    clearTitle: clear
+    clearTitle: limpiar
 
     # The text of the popup label
-    popupLabel: Options list
+    popupLabel: Lista de opciones
 
     # The text of the Apply button in the action sheet
-    applyButton: Apply
+    applyButton: Aplicar
 
     # The text of the Cancel button in the action sheet
-    cancelButton: Cancel
+    cancelButton: Cancelar
