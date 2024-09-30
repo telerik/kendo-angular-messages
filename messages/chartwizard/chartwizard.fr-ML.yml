@@ -1,0 +1,319 @@
+kendo:
+  chartwizard:
+    # The title of the window.
+    windowTitle: Chart Preview
+
+    # The text of the **Export** DropDownButton.
+    exportButton: Export
+
+    # The text of the **Export** DropDownButton option that represents PDF.
+    exportPDFButton: PDF File
+
+    # The text of the **Export** DropDownButton option that represents SVG.
+    exportSVGButton: SVG File
+
+    # The text of the **Export** DropDownButton option that represents PNG.
+    exportPNGButton: PNG File
+
+    # The text of the **Chart** tab of the property pane.
+    tabChart: Chart
+
+    # The text of the **Data** tab of the property pane.
+    tabData: Data
+
+    # The text of the **Format** tab of the property pane.
+    tabFormat: Format
+
+    # The text of the **Chart** panel that represents Bar Charts.
+    barChart: Bar Chart
+
+    # The text of the Bar Chart type.
+    barChartBar: Bar
+
+    # The text of the Stacked Bar Chart type.
+    barChartStackedBar: Stacked Bar
+
+    # The text of the 100% Stacked Bar Chart type.
+    barChart100StackedBar: 100% Stacked Bar
+
+    # The text of the **Chart** panel that represents Pie Charts.
+    pieChart: Pie Chart
+
+    # The text of the Pie Chart type.
+    pieChartPie: Pie
+
+    # The text of the **Chart** panel that represents Column Charts.
+    columnChart: Column Chart
+
+    # The text of the Column Chart type.
+    columnChartColumn: Column
+
+    # The text of the Stacked Column Chart type.
+    columnChartStackedColumn: Stacked Column
+
+    # The text of the 100% Stacked Column Chart type.
+    columnChart100StackedColumn: 100% Stacked Column
+
+    # The text of the **Chart** panel that represents Line Charts.
+    lineChart: Line Chart
+
+    # The text of the Line Chart type.
+    lineChartLine: Line
+
+    # The text of the Stacked Line Chart type.
+    lineChartStackedLine: Stacked Line
+
+    # The text of the 100% Stacked Line Chart type.
+    lineChart100StackedLine: 100% Stacked Line
+
+    # The text of the **Chart** panel that represents Scatter Charts.
+    scatterChart: Scatter Chart
+
+    # The text of the Scatter Chart type.
+    scatterChartScatter: Scatter
+
+    # The text of the **Configuration** panel of the **Data** tab.
+    configuration: Configuration
+
+    # The caption of the **Category Axis** DropDown in the **Configuration** panel.
+    configurationCategoryAxis: Category Axis
+
+    # The caption of the **X Axis** DropDown in the **Configuration** panel when a Scatter Chart is selected.
+    configurationXAxis: X Axis
+
+    # The caption of the **Value Axis** DropDown in the **Configuration** panel when a Pie Chart is selected.
+    configurationValueAxis: Value Axis
+
+    # The text of the **Series** Grid in the **Configuration** panel when a Categorical Chart is selected.
+    configurationSeries: Series
+
+    # The text of the **Add Series** button in the Grid of the **Configuration** panel.
+    configurationSeriesAdd: Add
+
+    # The text of the **Chart Area** panel of the **Format** tab.
+    formatChartArea: Chart Area
+
+    # The text of the **Margins** settings of the **Chart Area** panel.
+    formatChartAreaMargins: Margins
+
+    # The placeholder of the **Margins** settings of the **Chart Area** panel.
+    formatChartAreaMarginsAuto: Auto
+
+    # The label of the **Left** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsLeft: Left
+
+    # The label of the **Right** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsRight: Right
+
+    # The label of the **Top** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsTop: Top
+
+    # The label of the **Bottom** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsBottom: Bottom
+
+    # The text of the **Background** settings of the **Chart Area** panel.
+    formatChartAreaBackground: Background
+
+    # The label of the **Color** background setting of the **Chart Area** panel.
+    formatChartAreaBackgroundColor: Color
+
+    # The text of the **Title** panel of the **Format** tab.
+    formatTitle: Title
+
+    # The label of the **Apply to** DropDown of the **Title** panel.
+    formatTitleApplyTo: Apply to
+
+    # The text of the **Chart Title** option of the **Apply to** DropDown in the **Title** panel.
+    formatTitleChartTitle: Chart Title
+
+    # The text of the **Chart Subtitle** option of the **Apply to** DropDown in the **Title** panel.
+    formatTitleChartSubtitle: Chart Subtitle
+
+    # The label of the **Title** input of the **Title** panel.
+    formatTitleLabel: Title
+
+    # The label of the **Font** setting of the **Title** panel.
+    formatTitleFont: Font
+
+    # The placeholder of the **Font** setting of the **Title** panel.
+    formatTitleFontPlaceholder: (inherited font)
+
+    # The label of the **Size** setting of the **Title** panel.
+    formatTitleSize: Size
+
+    # The placeholder of the **Size** setting of the **Title** panel.
+    formatTitleSizePlaceholder: px
+
+    # The label of the **Color** setting of the **Title** panel.
+    formatTitleColor: Color
+
+    # The text of the **Series** panel of the **Format** tab.
+    formatSeries: Series
+
+    # The label of the **Apply to** DropDown of the **Series** panel.
+    formatSeriesApplyTo: Apply to
+
+    # The text of the **All Series** option of the **Apply to** DropDown in the **Series** panel.
+    formatSeriesAllSeries: All Series
+
+    # The label of the **Color** setting of the **Series** panel.
+    formatSeriesColor: Color
+
+    # The label of the **Show Labels** checkbox of the **Series** panel.
+    formatSeriesShowLabels: Show Labels
+
+    # The text of the **Legend** panel of the **Format** tab.
+    formatLegend: Legend
+
+    # The label of the **Show Legend** switch of the **Legend** panel.
+    formatLegendShowLegend: Show Legend
+
+    # The label of the **Font** setting of the **Legend** panel.
+    formatLegendFont: Font
+
+    # The placeholder of the **Font** setting of the **Legend** panel.
+    formatLegendFontPlaceholder: (inherited font)
+
+    # The label of the **Size** setting of the **Legend** panel.
+    formatLegendSize: Size
+
+    # The placeholder of the **Size** setting of the **Legend** panel.
+    formatLegendSizePlaceholder: px
+
+    # The label of the **Color** setting of the **Legend** panel.
+    formatLegendColor: Color
+
+    # The label of the **Posititon** DropDown of the **Legend** panel.
+    formatLegendPosition: Position
+
+    # The text of the **Top** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionTop: Top
+
+    # The text of the **Bottom** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionBottom: Bottom
+
+    # The text of the **Left** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionLeft: Left
+
+    # The text of the **Right** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionRight: Right
+
+    # The text of the **Category Axis** panel of the **Format** tab.
+    formatCategoryAxis: Category Axis
+
+    # The text of the **X Axis** panel of the **Format** tab when a Scatter Chart is selected.
+    formatXAxis: X Axis
+
+    # The label of the **Title** settings of the **Category Axis** panel.
+    formatCategoryAxisTitle: Title
+
+    # The placeholder of the **Title** input of the **Category Axis** panel.
+    formatCategoryAxisTitlePlaceholder: Axis Title
+
+    # The label of the **Font** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleFont: Font
+
+    # The placeholder of the **Font** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleFontPlaceholder: (inherited font)
+
+    # The label of the **Size** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleSize: Size
+
+    # The placeholder of the **Size** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleColor: Color
+
+    # The label of the **Labels** settings of the **Category Axis** panel.
+    formatCategoryAxisLabels: Labels
+
+    # The label of the **Font** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsFont: Font
+
+    # The placeholder of the **Font** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsFontPlaceholder: (inherited font)
+
+    # The label of the **Size** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsSize: Size
+
+    # The placeholder of the **Size** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsColor: Color
+
+    # The label of the **Rotation** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsRotation: Rotation
+
+    # The **Auto** option of the **Rotation** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsRotationAuto: Auto
+
+    # The label of the **Reverse Order** checkbox of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsReverseOrder: Reverse Order
+
+    # The text of the **Value Axis** panel of the **Format** tab.
+    formatValueAxis: Value Axis
+
+    # The text of the **Y Axis** panel of the **Format** tab.
+    formatYAxis: Y Axis
+
+    # The label of the **Title** settings of the **Value Axis** panel.
+    formatValueAxisTitle: Title
+
+    # The placeholder of the **Title** settings of the **Value Axis** panel.
+    formatValueAxisTitlePlaceholder: Axis Title
+
+    # The label of the **Font** settings of the **Value Axis** panel.
+    formatValueAxisTitleFont: Font
+
+    # The placeholder of the **Font** settings of the **Value Axis** panel.
+    formatValueAxisTitleFontPlaceholder: (inherited font)
+
+    # The label of the **Size** settings of the **Value Axis** panel.
+    formatValueAxisTitleSize: Size
+
+    # The placeholder of the **Size** settings of the **Value Axis** panel.
+    formatValueAxisTitleSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Value Axis** panel.
+    formatValueAxisTitleColor: Color
+
+    # The label of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabels: Labels
+
+    # The label of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormat: Label Format
+
+    # The **Text** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatText: Text
+
+    # The **Number** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatNumber: Number
+
+    # The **Currency** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatCurrency: Currency
+
+    # The **Percent** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatPercent: Percent
+
+    # The label of the **Font** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsFont: Font
+
+    # The placeholder of the **Font** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsFontPlaceholder: (inherited font)
+
+    # The label of the **Size** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsSize: Size
+
+    # The placeholder of the **Size** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsColor: Color
+
+    # The label of the **Rotation** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsRotation: Rotation
+
+    # The **Auto** option of the **Rotation** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsRotationAuto: Auto
