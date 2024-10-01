@@ -1,0 +1,319 @@
+kendo:
+  chartwizard:
+    # The title of the window.
+    windowTitle: Преглед на диаграмата
+
+    # The text of the **Export** DropDownButton.
+    exportButton: Експортирай
+
+    # The text of the **Export** DropDownButton option that represents PDF.
+    exportPDFButton: PDF файл
+
+    # The text of the **Export** DropDownButton option that represents SVG.
+    exportSVGButton: SVG файл
+
+    # The text of the **Export** DropDownButton option that represents PNG.
+    exportPNGButton: PNG файл
+
+    # The text of the **Chart** tab of the property pane.
+    tabChart: Диаграма
+
+    # The text of the **Data** tab of the property pane.
+    tabData: Данни
+
+    # The text of the **Format** tab of the property pane.
+    tabFormat: Формат
+
+    # The text of the **Chart** panel that represents Bar Charts.
+    barChart: Лентова диаграма
+
+    # The text of the Bar Chart type.
+    barChartBar: Лента
+
+    # The text of the Stacked Bar Chart type.
+    barChartStackedBar: Наслоена лента
+
+    # The text of the 100% Stacked Bar Chart type.
+    barChart100StackedBar: 100% Наслоена лента
+
+    # The text of the **Chart** panel that represents Pie Charts.
+    pieChart: Кръгова диаграма
+
+    # The text of the Pie Chart type.
+    pieChartPie: Кръг
+
+    # The text of the **Chart** panel that represents Column Charts.
+    columnChart: Колонна диаграма
+
+    # The text of the Column Chart type.
+    columnChartColumn: Колона
+
+    # The text of the Stacked Column Chart type.
+    columnChartStackedColumn: Наслоена колона
+
+    # The text of the 100% Stacked Column Chart type.
+    columnChart100StackedColumn: 100% Наслоена колона
+
+    # The text of the **Chart** panel that represents Line Charts.
+    lineChart: Линейна диаграма
+
+    # The text of the Line Chart type.
+    lineChartLine: Линия
+
+    # The text of the Stacked Line Chart type.
+    lineChartStackedLine: Наслоена линия
+
+    # The text of the 100% Stacked Line Chart type.
+    lineChart100StackedLine: 100% Наслоена линия
+
+    # The text of the **Chart** panel that represents Scatter Charts.
+    scatterChart: Точкова диаграма
+
+    # The text of the Scatter Chart type.
+    scatterChartScatter: Точки
+
+    # The text of the **Configuration** panel of the **Data** tab.
+    configuration: Конфигурация
+
+    # The caption of the **Category Axis** DropDown in the **Configuration** panel.
+    configurationCategoryAxis: Категорийна ос
+
+    # The caption of the **X Axis** DropDown in the **Configuration** panel when a Scatter Chart is selected.
+    configurationXAxis: X ос
+
+    # The caption of the **Value Axis** DropDown in the **Configuration** panel when a Pie Chart is selected.
+    configurationValueAxis: Ос на стойностите
+
+    # The text of the **Series** Grid in the **Configuration** panel when a Categorical Chart is selected.
+    configurationSeries: Серия
+
+    # The text of the **Add Series** button in the Grid of the **Configuration** panel.
+    configurationSeriesAdd: Добави
+
+    # The text of the **Chart Area** panel of the **Format** tab.
+    formatChartArea: Зона на диаграмата
+
+    # The text of the **Margins** settings of the **Chart Area** panel.
+    formatChartAreaMargins: Отстояние
+
+    # The placeholder of the **Margins** settings of the **Chart Area** panel.
+    formatChartAreaMarginsAuto: Автоматично
+
+    # The label of the **Left** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsLeft: Ляво
+
+    # The label of the **Right** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsRight: Дясно
+
+    # The label of the **Top** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsTop: Горе
+
+    # The label of the **Bottom** margin setting of the **Chart Area** panel.
+    formatChartAreaMarginsBottom: Долу
+
+    # The text of the **Background** settings of the **Chart Area** panel.
+    formatChartAreaBackground: Фон
+
+    # The label of the **Color** background setting of the **Chart Area** panel.
+    formatChartAreaBackgroundColor: Цвят
+
+    # The text of the **Title** panel of the **Format** tab.
+    formatTitle: Заглавие
+
+    # The label of the **Apply to** DropDown of the **Title** panel.
+    formatTitleApplyTo: Приложи към
+
+    # The text of the **Chart Title** option of the **Apply to** DropDown in the **Title** panel.
+    formatTitleChartTitle: Заглавие на диаграмата
+
+    # The text of the **Chart Subtitle** option of the **Apply to** DropDown in the **Title** panel.
+    formatTitleChartSubtitle: Подзаглавие на диаграмата
+
+    # The label of the **Title** input of the **Title** panel.
+    formatTitleLabel: Етикет
+
+    # The label of the **Font** setting of the **Title** panel.
+    formatTitleFont: Шрифт
+
+    # The placeholder of the **Font** setting of the **Title** panel.
+    formatTitleFontPlaceholder: (наследен шрифт)
+
+    # The label of the **Size** setting of the **Title** panel.
+    formatTitleSize: Размер
+
+    # The placeholder of the **Size** setting of the **Title** panel.
+    formatTitleSizePlaceholder: px
+
+    # The label of the **Color** setting of the **Title** panel.
+    formatTitleColor: Цвят
+
+    # The text of the **Series** panel of the **Format** tab.
+    formatSeries: Серия
+
+    # The label of the **Apply to** DropDown of the **Series** panel.
+    formatSeriesApplyTo: Приложи към
+
+    # The text of the **All Series** option of the **Apply to** DropDown in the **Series** panel.
+    formatSeriesAllSeries: Всички серии
+
+    # The label of the **Color** setting of the **Series** panel.
+    formatSeriesColor: Цвят
+
+    # The label of the **Show Labels** checkbox of the **Series** panel.
+    formatSeriesShowLabels: Покажи етикети
+
+    # The text of the **Legend** panel of the **Format** tab.
+    formatLegend: Легенда
+
+    # The label of the **Show Legend** switch of the **Legend** panel.
+    formatLegendShowLegend: Покажи легенда
+
+    # The label of the **Font** setting of the **Legend** panel.
+    formatLegendFont: Шрифт
+
+    # The placeholder of the **Font** setting of the **Legend** panel.
+    formatLegendFontPlaceholder: (наследен шрифт)
+
+    # The label of the **Size** setting of the **Legend** panel.
+    formatLegendSize: Размер
+
+    # The placeholder of the **Size** setting of the **Legend** panel.
+    formatLegendSizePlaceholder: px
+
+    # The label of the **Color** setting of the **Legend** panel.
+    formatLegendColor: Цвят
+
+    # The label of the **Posititon** DropDown of the **Legend** panel.
+    formatLegendPosition: Позиция
+
+    # The text of the **Top** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionTop: Горе
+
+    # The text of the **Bottom** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionBottom: Долу
+
+    # The text of the **Left** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionLeft: Ляво
+
+    # The text of the **Right** option of the **Position** DropDown of the **Legend** panel.
+    formatLegendPositionRight: Дясно
+
+    # The text of the **Category Axis** panel of the **Format** tab.
+    formatCategoryAxis: Категорийна ос
+
+    # The text of the **X Axis** panel of the **Format** tab when a Scatter Chart is selected.
+    formatXAxis: X ос
+
+    # The label of the **Title** settings of the **Category Axis** panel.
+    formatCategoryAxisTitle: Заглавие
+
+    # The placeholder of the **Title** input of the **Category Axis** panel.
+    formatCategoryAxisTitlePlaceholder: Заглавие на оста
+
+    # The label of the **Font** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleFont: Шрифт
+
+    # The placeholder of the **Font** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleFontPlaceholder: (наследен шрифт)
+
+    # The label of the **Size** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleSize: Размер
+
+    # The placeholder of the **Size** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Title** in the **Category Axis** panel.
+    formatCategoryAxisTitleColor: Цвят
+
+    # The label of the **Labels** settings of the **Category Axis** panel.
+    formatCategoryAxisLabels: Етикети
+
+    # The label of the **Font** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsFont: Шрифт
+
+    # The placeholder of the **Font** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsFontPlaceholder: (наследен шрифт)
+
+    # The label of the **Size** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsSize: Размер
+
+    # The placeholder of the **Size** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsColor: Цвят
+
+    # The label of the **Rotation** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsRotation: Завъртане
+
+    # The **Auto** option of the **Rotation** settings of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsRotationAuto: Автоматично
+
+    # The label of the **Reverse Order** checkbox of the **Labels** in the **Category Axis** panel.
+    formatCategoryAxisLabelsReverseOrder: Обратен ред
+
+    # The text of the **Value Axis** panel of the **Format** tab.
+    formatValueAxis: Ос на стойностите
+
+    # The text of the **Y Axis** panel of the **Format** tab.
+    formatYAxis: Y ос
+
+    # The label of the **Title** settings of the **Value Axis** panel.
+    formatValueAxisTitle: Заглавие
+
+    # The placeholder of the **Title** settings of the **Value Axis** panel.
+    formatValueAxisTitlePlaceholder: Заглавие на оста
+
+    # The label of the **Font** settings of the **Value Axis** panel.
+    formatValueAxisTitleFont: Шрифт
+
+    # The placeholder of the **Font** settings of the **Value Axis** panel.
+    formatValueAxisTitleFontPlaceholder: (наследен шрифт)
+
+    # The label of the **Size** settings of the **Value Axis** panel.
+    formatValueAxisTitleSize: Размер
+
+    # The placeholder of the **Size** settings of the **Value Axis** panel.
+    formatValueAxisTitleSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Value Axis** panel.
+    formatValueAxisTitleColor: Цвят
+
+    # The label of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabels: Етикети
+
+    # The label of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormat: Формат на етикети
+
+    # The **Text** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatText: Текст
+
+    # The **Number** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatNumber: Число
+
+    # The **Currency** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatCurrency: Валута
+
+    # The **Percent** option of the **Format** DropDown of the **Labels** settings of the **Value Axis** panel.
+    formatValueAxisLabelsFormatPercent: Процент
+
+    # The label of the **Font** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsFont: Шрифт
+
+    # The placeholder of the **Font** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsFontPlaceholder: (наследен шрифт)
+
+    # The label of the **Size** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsSize: Размер
+
+    # The placeholder of the **Size** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsSizePlaceholder: px
+
+    # The label of the **Color** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsColor: Цвят
+
+    # The label of the **Rotation** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsRotation: Завъртане
+
+    # The **Auto** option of the **Rotation** settings of the **Labels** in the **Value Axis** panel.
+    formatValueAxisLabelsRotationAuto: Автоматично
