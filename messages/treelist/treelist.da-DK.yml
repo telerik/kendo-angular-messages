@@ -154,7 +154,7 @@ kendo:
     sortedDefault: Not sorte
 
     # The aria-label and title of the page select element in TreeList pager
-    selectPage: Select page
+    pagerSelectPage: Select page
 
     # The label for the TreeList drag row handle.
     dragRowHandleLabel: Drag row
@@ -179,3 +179,6 @@ kendo:
 
     # The label for the boolean filter cell dropdown.
     booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
+
+    # The text of the aria-label attribute applied to the input element for entering the page number
+    pagerInputLabel: Type a page number
