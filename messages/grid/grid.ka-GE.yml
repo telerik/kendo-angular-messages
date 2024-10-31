@@ -249,3 +249,6 @@ kendo:
 
     # The text for the Group pane Chip Menu Move as next item
     groupChipMenuNext: Move as next
+
+    # The text of the aria-label attribute applied to the input element for entering the page number
+    pagerInputLabel: Type a page number

@@ -215,7 +215,7 @@ kendo:
     
 
     # The aria-label and title of the page select element in Grid pager
-    selectPage: Select page
+    pagerSelectPage: Select page
 
     # The label for the Grid top toolbar
     topToolbarLabel: Top toolbar
@@ -255,3 +255,6 @@ kendo:
 
     # The text for the Group pane Chip Menu Move as next item
     groupChipMenuNext: Move as next
+
+    # The text of the aria-label attribute applied to the input element for entering the page number
+    pagerInputLabel: Type a page number
