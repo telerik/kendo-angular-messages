@@ -203,3 +203,9 @@ kendo:
 
     # The status announcement when a column is no longer sorted
     sortedDefault: Non ordinato
+
+    # The text shown in the task tooltip before the task start date
+    tooltipStartDateText: Start
+
+    # The text shown in the task tooltip before the task start date
+    tooltipEndDateText: End
