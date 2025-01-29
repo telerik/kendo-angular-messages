@@ -4,7 +4,7 @@ kendo:
     moreToolsTitle: Plus d'outils
 
     # The title for the **Previous Tool** button when the Toolbar is scrollable.
-    previousToolButton: Previous Tool
+    previousToolButton: Scroll left
 
     # The title for the **Next Tool** button when the Toolbar is scrollable.
-    nextToolButton: Next Tool
+    nextToolButton: Scroll right
