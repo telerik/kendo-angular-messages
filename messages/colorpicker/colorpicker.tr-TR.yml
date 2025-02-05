@@ -80,3 +80,9 @@
 
     # The pass message for the contrast tool.
     passContrast: Es geç
+
+    # The title for the Close button.
+    closeButton: Close
+
+    # The title for the ActionSheet when in adaptive mode.
+    adaptiveTitle: Choose Color

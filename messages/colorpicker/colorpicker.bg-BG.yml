@@ -58,10 +58,10 @@ kendo:
     formatButton: Change color format
 
     # The message for the Apply action button
-    applyButton: Apply
+    applyButton: Приложи
 
     # The message for the Cancel action button
-    cancelButton: Cancel
+    cancelButton: Откажи
 
     # The label of the NumericTextBox representing the red color channel.
     redChannelLabel: Червен
@@ -76,7 +76,13 @@ kendo:
     alphaChannelLabel: Алфа
 
     # The fail message for the contrast tool.
-    failContrast: Fail
+    failContrast: Неуспешно
 
     # The pass message for the contrast tool.
-    passContrast: Pass
+    passContrast: Успешно
+
+    # The title for the Close button.
+    closeButton: Затвори
+
+    # The title for the ActionSheet when in adaptive mode.
+    adaptiveTitle: Избери цвят
