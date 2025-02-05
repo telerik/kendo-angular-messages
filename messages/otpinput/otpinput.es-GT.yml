@@ -1,0 +1,4 @@
+kendo:
+  otpinput:
+    # The value of the aria-label attribute of the input fields.
+    ariaLabel: 'Input {currentInput} of {totalInputs}, current value {value}'
