@@ -1,33 +1,30 @@
 kendo:
   treelist:
-    # The label visible in the Grid group panel when it is empty
-    groupPanelEmpty: Trascina l'header di una colonna e rilascialo qui per raggruppare secondo tale colonna
-
-    # The label visible in the Grid when there are no records
+    # The label visible in the TreeList when there are no records
     noRecords: Nessun elemento disponibile.
 
-    # The label for the first page button in Grid pager
+    # The label for the first page button in TreeList pager
     pagerFirstPage: Vai alla prima pagina
 
-    # The label for the previous page button in Grid pager
+    # The label for the previous page button in TreeList pager
     pagerPreviousPage: Vai alla pagina precedente
 
-    # The label for the next page button in Grid pager
+    # The label for the next page button in TreeList pager
     pagerNextPage: Vai alla prossima pagina
 
-    # The label for the last page button in Grid pager
+    # The label for the last page button in TreeList pager
     pagerLastPage: Vai all'ultima pagina
 
-    # The label before the current page number in the Grid pager
+    # The label before the current page number in the TreeList pager
     pagerPage: Pagina
 
-    # The label before the total pages number in the Grid pager
+    # The label before the total pages number in the TreeList pager
     pagerOf: di
 
     # The label after the total items count in the TreeList pager
     pagerItemsTotal: elementi
 
-    # The label for the page size chooser in the Grid pager
+    # The label for the page size chooser in the TreeList pager
     pagerItemsPerPage: elementi per pagina
 
     # The title attribute of the page number input element.
@@ -118,7 +115,7 @@ kendo:
     sort: Ordina
 
     # The title of the column menu icon
-    columnMenu: Menu Colonna
+    columnMenu: 'Menù colonna {columnName}'
 
     # The text shown in the column menu for the columns item
     columns: Colonne
@@ -182,3 +179,33 @@ kendo:
 
     # The text of the aria-label attribute applied to the input element for entering the page number
     pagerInputLabel: Type a page number
+    
+    # The label of the filter row and menu inputs
+    filterInputLabel: '{columnName} Filter'
+
+    # The title of the filter menu icon
+    filterMenuTitle: '{columnName} Filter Menu'
+
+    # The text of the Today button of the Date filter.
+    filterDateToday: Today
+
+    # The title of the Toggle button of the Date filter.
+    filterDateToggle: Toggle calendar
+
+    # The title of the Decrement button of the Numeric filter.
+    filterNumericDecrement: Decrease value
+
+    # The title of the Increment button of the Numeric filter.
+    filterNumericIncrement: Increase value
+
+    # The label of the filter menu operators dropdown
+    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+
+    # The label of the filter menu logic dropdown
+    filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
+
+    # The text shown in the column menu for the autosize this column item
+    autosizeThisColumn: Autosize This Column
+        
+    # The text shown in the column menu for the autosize all columns item
+    autosizeAllColumns: Autosize All Columns
