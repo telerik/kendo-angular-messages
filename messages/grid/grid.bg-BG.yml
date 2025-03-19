@@ -257,3 +257,27 @@ kendo:
 
     # The text of the aria-label attribute applied to the input element for entering the page number
     pagerInputLabel: Въведи номер на страница
+
+    # The default text of a form validation error when using external editing
+    formValidationErrorText: 'Грешка от тип {errorName} при валидация на полето {fieldName}'
+
+    # The title of the remove item confirmation Dialog
+    removeConfirmationDialogTitle: Моля потвърдете
+
+    # The title of the remove item confirmation Dialog
+    removeConfirmationDialogContent: Сигурни ли сте, че искате да изтриете този запис?
+
+    # The text of the remove item confirmation Dialog confirm action button
+    removeConfirmationDialogConfirmText: Да
+
+    # The text of the remove item confirmation Dialog reject action button
+    removeConfirmationDialogRejectText: Не
+
+    # The title of the built-in external editing form container
+    externalEditingTitle: Редактиране
+
+    # The text of the external editing form Save button
+    externalEditingSaveText: Запази
+
+    # The text of the external editing form Cancel button
+    externalEditingCancelText: Откажи
