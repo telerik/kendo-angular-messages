@@ -181,7 +181,7 @@ kendo:
     filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Column Menu'
+    columnMenu: '{columnName} Spaltenmenü'
 
     # The labels of the checkbox column checkboxes
     selectionCheckboxLabel: Select Row
