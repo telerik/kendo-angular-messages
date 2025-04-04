@@ -258,3 +258,27 @@ kendo:
 
     # The text of the aria-label attribute applied to the input element for entering the page number
     pagerInputLabel: Type a page number
+
+    # The default text of a form validation error when using external editing
+    formValidationErrorText: 'The {fieldName} field has {errorName} validation error'
+
+    # The title of the remove item confirmation Dialog
+    removeConfirmationDialogTitle: Please confirm
+
+    # The title of the remove item confirmation Dialog
+    removeConfirmationDialogContent: Are you sure you want to delete this item?
+
+    # The text of the remove item confirmation Dialog confirm action button
+    removeConfirmationDialogConfirmText: Yes
+
+    # The text of the remove item confirmation Dialog reject action button
+    removeConfirmationDialogRejectText: No
+
+    # The title of the built-in external editing form container
+    externalEditingTitle: Edit
+
+    # The text of the external editing form Save button
+    externalEditingSaveText: Save
+
+    # The text of the external editing form Cancel button
+    externalEditingCancelText: Cancel
