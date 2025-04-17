@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 'use strict';
 
-const glob = require('glob');
+const {glob} = require('glob');
 const path = require('path');
 const yaml = require('js-yaml');
 const fs = require('fs');
@@ -51,9 +51,10 @@ const complete = (reject, resolve) => (error, result) => {
 };
 
 // findFiles :: String => Task [FilePath]
-const findFiles = wildcard => new Task((reject, resolve) => {
-    glob(wildcard, { nocase: true, root: msgRoot }, complete(reject, resolve));
-});
+const findFiles = (wildcard) =>
+    new Task((reject, resolve) => {
+      glob(wildcard, { nocase: true, root: msgRoot }).then(resolve).catch(reject);
+    });
 
 //  readFile :: FilePath -> Task FileContent
 const readFile = filename => new Task((reject, resolve) => {
