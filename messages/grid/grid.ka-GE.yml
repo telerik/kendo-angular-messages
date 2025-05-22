@@ -268,7 +268,7 @@ kendo:
     # The text of the remove item confirmation Dialog reject action button
     removeConfirmationDialogRejectText: No
 
-    # The title of the built-in external editing form container
+    # The title of the built-in external editing form container when editing an item
     externalEditingTitle: Edit
 
     # The text of the external editing form Save button
@@ -276,3 +276,33 @@ kendo:
 
     # The text of the external editing form Cancel button
     externalEditingCancelText: Cancel
+
+    # The text of the clear sort button located in the Sort Toolbar Tool and adaptive Sort Toolbar Tool
+    sortClearButton: Clear sorting
+
+    # The title of the Close button of the ActionSheet that is rendered instead of the Popup when using small screen devices in adaptive mode
+    adaptiveCloseButtonTitle: Close
+
+    # The title of the Back button of the ActionSheet that is rendered instead of the Popup when using small screen devices in adaptive mode
+    adaptiveBackButtonTitle: Back
+
+    # The text of the clear all filters button located in the Filter Toolbar Tool and adaptive Filter Toolbar Tool
+    filterClearAllButton: Clear all filters
+
+    # The text of the done sort button
+    sortDoneButton: Done
+
+    # The subtitle for the adaptive Grid Column Chooser and Column Chooser toolbar tool
+    columnsSubtitle: Selected fields are visible
+
+    # The title that is displayed in the adaptive Filter Toolbar Tool and Filter Menu
+    adaptiveFilterTitle: Filter by
+
+    # The title that is displayed in the Operators Action Sheet
+    adaptiveFilterOperatorsTitle: Operators
+
+    # The title that is displayed in the adaptive Sort Toolbar Tool
+    adaptiveSortTitle: Sort by
+
+    # The title of the built-in external editing form container when adding a new item
+    externalEditingAddTitle: Add
