@@ -7,7 +7,7 @@ kendo:
     clearSelectedFiles: Очистить
 
     # The drop zone hint
-    dropFilesHere: перетащите сюда файлы для загрузки
+    dropFilesHere: Перетащите сюда файлы для загрузки
 
     # The header status message after file upload completion
     headerStatusUploaded: Готово
@@ -16,14 +16,14 @@ kendo:
     headerStatusUploading: Загружается...
 
     # The text for the invalid allowed extensions restriction message
-    invalidFileExtension: Не разрешенный тип файла.
+    invalidFileExtension: Недопустимый тип файла
 
     # The text for the invalid max file size restriction message
-    invalidMaxFileSize: Размер файла слишком большой.
+    invalidMaxFileSize: Файл превышает допустимый размер
 
     # The text for the invalid min file size restriction message
-    invalidMinFileSize: Размер файла слишком маленький.
-
+    invalidMinFileSize: Файл меньше допустимого размера
+    
     # The text for the Remove button
     remove: Удалить
 
@@ -31,28 +31,28 @@ kendo:
     retry: Повторить
 
     # The text for the Select button
-    select: Выбрать...
+    select: Выбрать
 
     # The text for the Upload files button
     uploadSelectedFiles: Загрузить выбранные файлы
 
     # The external drop zone hint
-    externalDropFilesHere: Drag and drop files here to upload
+    externalDropFilesHere: Перетащите сюда файлы для загрузки
 
     # The status message for a batch of files
-    filesBatchStatus: files
+    filesBatchStatus: Файлы
 
     # The status message for a batch of files after failed upload
-    filesBatchStatusFailed: files failed to upload.
+    filesBatchStatusFailed: Не удалось загрузить файлы
 
     # The status message for a batch of files after successful upload
-    filesBatchStatusUploaded: files successfully uploaded.
-
+    filesBatchStatusUploaded: Файлы успешно загружены
+    
     # The file status message after failed upload
-    fileStatusFailed: File failed to upload.
+    fileStatusFailed: Не удалось загрузить файл
 
     # The file status message after successful upload
-    fileStatusUploaded: File successfully uploaded.
+    fileStatusUploaded: Файл успешно загружен
 
     # The header status message when the file upload is paused
-    headerStatusPaused: Paused
+    headerStatusPaused: Приостановлено
