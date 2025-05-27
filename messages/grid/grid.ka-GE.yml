@@ -306,3 +306,15 @@ kendo:
 
     # The title of the built-in external editing form container when adding a new item
     externalEditingAddTitle: Add
+
+    # The title that is displayed in the adaptive Group Toolbar Tool
+    adaptiveGroupTitle: Group by
+
+    # The text of the Clear grouping button in the Group Toolbar Tool and adaptive Group Toolbar Tool.
+    groupClearButton: Clear grouping
+
+    # The button text of the Group toolbar tool.
+    groupToolbarToolText: Group
+
+    # The text of the Done group button in the adaptive Group Toolbar Tool.
+    groupDoneButton: Done
