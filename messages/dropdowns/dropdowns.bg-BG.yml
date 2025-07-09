@@ -104,3 +104,6 @@ kendo:
 
     # The text of the Cancel button in the action sheet
     cancelButton: Отмени
+
+    # The text displayed when the user types a custom value that is not in the list of options.
+    useCustomValueText: Използвай "{customValue}"
