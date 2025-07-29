@@ -85,7 +85,7 @@ kendo:
     deleteAnnotationTitle: Изтриване на анотация
 
     # The highlight annotation tool title and label.
-    highlightAnnotationTitle: Цветно маркиране
+    highlightAnnotationTitle: Маркиране
 
     # The free text annotation tool title and label.
     freeTextAnnotationTitle: Свободен текст
