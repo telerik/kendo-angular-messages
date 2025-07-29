@@ -74,3 +74,33 @@ kendo:
 
     # The text of the Zoom tool input placeholder.
     zoomInputPlaceholder: Choose zoom level
+
+    # The Annotations tool title and label.
+    annotationsTitle: Annotations
+
+    # The annotation editor tool title and label.
+    annotationEditorTitle: Annotation editor
+
+    # The delete annotation tool title and label.
+    deleteAnnotationTitle: Delete annotation
+
+    # The highlight annotation tool title and label.
+    highlightAnnotationTitle: Highlight
+
+    # The free text annotation tool title and label.
+    freeTextAnnotationTitle: Free text
+
+    # The close annotations toolbar tool title and label.
+    closeAnnotationsToolbarTitle: Close
+
+    # The delete annotation confirmation dialog title.
+    deleteAnnotationConfirmationDialogTitle: Delete annotation
+
+    # The delete annotation confirmation dialog content.
+    deleteAnnotationConfirmationDialogContent: Are you sure you want to delete this annotation?
+
+    # The delete annotation confirmation dialog confirm button text.
+    deleteAnnotationConfirmationDialogConfirmText: Delete
+
+    # The delete annotation confirmation dialog reject button text.
+    deleteAnnotationConfirmationDialogRejectText: Cancel

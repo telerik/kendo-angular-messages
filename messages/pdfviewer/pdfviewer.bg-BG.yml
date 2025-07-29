@@ -74,3 +74,33 @@ kendo:
 
     # The text of the Zoom tool input placeholder.
     zoomInputPlaceholder: Избери ниво на приближаване
+
+    # The Annotations tool title and label.
+    annotationsTitle: Анотации
+
+    # The annotation editor tool title and label.
+    annotationEditorTitle: Редактор на анотации
+
+    # The delete annotation tool title and label.
+    deleteAnnotationTitle: Изтриване на анотация
+
+    # The highlight annotation tool title and label.
+    highlightAnnotationTitle: Цветно маркиране
+
+    # The free text annotation tool title and label.
+    freeTextAnnotationTitle: Свободен текст
+
+    # The close annotations toolbar tool title and label.
+    closeAnnotationsToolbarTitle: Затвори
+
+    # The delete annotation confirmation dialog title.
+    deleteAnnotationConfirmationDialogTitle: Изтриване на анотация
+
+    # The delete annotation confirmation dialog content.
+    deleteAnnotationConfirmationDialogContent: Сигурни ли сте, че искате да изтриете тази анотация?
+
+    # The delete annotation confirmation dialog confirm button text.
+    deleteAnnotationConfirmationDialogConfirmText: Изтриване
+
+    # The delete annotation confirmation dialog reject button text.
+    deleteAnnotationConfirmationDialogRejectText: Отказ
