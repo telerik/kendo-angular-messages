@@ -323,3 +323,30 @@ kendo:
 
     # The text of the Done group button in the adaptive Group Toolbar Tool.
     groupDoneButton: Готово
+
+    # The text of the AI Assistant toolbar tool
+    aiAssistantToolbarToolText: ИИ Асистент
+
+    # The text of the AI Assistant Window title
+    aiAssistantWindowTitle: ИИ Асистент
+
+    # The text of the AI Assistant Apply button
+    aiAssistantApplyButtonText: Приложи
+
+    # The title of the AI Assistant Window close button
+    aiAssistantWindowCloseTitle: Затвори
+
+    # The title of the AI Assistant Window maximize button
+    aiAssistantWindowMaximizeTitle: Увеличи
+
+    # The title of the AI Assistant Window minimize button
+    aiAssistantWindowMinimizeTitle: Намали
+
+    # The title of the AI Assistant Window restore button
+    aiAssistantWindowRestoreTitle: Възстанови
+
+    # The title of the AI Assistant Prompt Output Card
+    aiAssistantOutputCardTitle: Създадено с изкуствен интелект
+
+    # The success message displayed in the AI Assistant Prompt Output Card's body
+    aiAssistantOutputCardBodyContent: "Operation is successful. Data is:"
