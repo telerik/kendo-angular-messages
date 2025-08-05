@@ -106,7 +106,7 @@ kendo:
     deleteAnnotationConfirmationDialogRejectText: Отказ
 
     # The annotation editor font size section title.
-    annotationEditorFontSizeTitle: Font Size
+    annotationEditorFontSizeTitle: Размер на шрифта
 
      # The annotation editor color section title.
-    annotationEditorColorTitle: Color
+    annotationEditorColorTitle: Цвят
