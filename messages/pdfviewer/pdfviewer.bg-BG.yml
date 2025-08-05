@@ -104,3 +104,9 @@ kendo:
 
     # The delete annotation confirmation dialog reject button text.
     deleteAnnotationConfirmationDialogRejectText: Отказ
+
+    # The annotation editor font size section title.
+    annotationEditorFontSizeTitle: Font Size
+
+     # The annotation editor color section title.
+    annotationEditorColorTitle: Color
