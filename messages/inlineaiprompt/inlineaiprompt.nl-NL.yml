@@ -1,0 +1,10 @@
+kendo:
+  inlineaiprompt:
+    # The text of the `Commands` button title.
+    commandsButtonTitle: Command Menu
+
+    # The text of the `Generate` button title.
+    generateButtonTitle: Generate
+
+    # The text of the `Speech to Text` button title.
+    speechToTextButtonTitle: Speech to Text
