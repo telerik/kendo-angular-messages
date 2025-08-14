@@ -23,7 +23,7 @@ jobs:
       - name: Use NodeJS v1
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '20'
 
       - name: Import Secrets
         id: import-secrets
