@@ -47,7 +47,7 @@ jobs:
 
       - name: Lint
         run: npm run lint
-        shell: powershell
+        shell: bash
 
       - name: Publish release
         run: npx semantic-release
