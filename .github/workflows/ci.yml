@@ -29,6 +29,9 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
+      - name: Clean Cache
+        run: npm cache clean --force
+
       - name: Install modules
         run: npm ci --ignore-scripts
 

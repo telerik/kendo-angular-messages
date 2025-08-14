@@ -29,7 +29,7 @@
     "@commitlint/config-conventional": "^17.4.0",
     "husky": "^8.0.0",
     "semantic-release": "^19.0.5",
-    "yaml-lint": "^1.7.0"
+    "yaml-lint": "1.7.0"
   },
   "overrides": {
     "ip": "2.0.1"
