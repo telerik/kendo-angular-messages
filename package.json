@@ -10,7 +10,7 @@
     "kendo-translate": "./bin/kendo-translate.js"
   },
   "scripts": {
-    "lint": "npx yaml-lint ./messages/**/*.yml",
+    "lint": "find ./messages -name '*.yml' -print0 | xargs -0 npx yaml-lint",
     "test": "bash ./test/run",
     "seed-messages": "bash ./tools/seed-messages.sh",
     "append-message": "bash ./tools/append-message.sh",
