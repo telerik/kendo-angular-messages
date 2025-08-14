@@ -10,7 +10,7 @@
     "kendo-translate": "./bin/kendo-translate.js"
   },
   "scripts": {
-    "lint": "npx yaml-lint ./messages/**/*.yml",
+    "lint": "find ./messages -name '*.yml' -print0 | xargs -0 npx yaml-lint",
     "test": "bash ./test/run",
     "seed-messages": "bash ./tools/seed-messages.sh",
     "append-message": "bash ./tools/append-message.sh",
@@ -29,7 +29,7 @@
     "@commitlint/config-conventional": "^17.4.0",
     "husky": "^8.0.0",
     "semantic-release": "^19.0.5",
-    "yaml-lint": "^1.7.0"
+    "yaml-lint": "1.7.0"
   },
   "overrides": {
     "ip": "2.0.1"
