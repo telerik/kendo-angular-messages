@@ -5,6 +5,7 @@
 * [Installation](https://github.com/telerik/kendo-angular-messages#installation)
 * [Builds](https://github.com/telerik/kendo-angular-messages#builds)
 
+
 ## Overview
 
 This repository contains translated messages for Kendo UI components for Angular.
