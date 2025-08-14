@@ -22,15 +22,20 @@ jobs:
       cancel-in-progress: true
 
     steps:
+      - name: Use NodeJS v1
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
       - name: Check out repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Install modules
         run: npm ci --ignore-scripts
 
       - name: Lint
         run: npm run lint
-        shell: bash
+        shell: sh
 
       - name: Test
         run: npm run test
+        shell: sh
