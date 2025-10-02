@@ -2,3 +2,5 @@ kendo:
   splitbutton:
     # The text for the SplitButton aria-label
     splitButtonLabel: '{buttonText} splitbutton'
+    # The text for the SplitButton toggle button aria-label
+    toggleButtonLabel: Toggle options
