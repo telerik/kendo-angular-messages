@@ -86,3 +86,6 @@ kendo:
 
     # The title for the ActionSheet when in adaptive mode.
     adaptiveTitle: Избери цвят
+
+    # The text set as aria-label on the toggle button
+    toggleButtonLabel: Избери цвят
