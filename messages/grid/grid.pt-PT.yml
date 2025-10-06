@@ -351,3 +351,12 @@ kendo:
 
     # The success message displayed in the AI Assistant Prompt Output Card's body
     aiAssistantOutputCardBodyContent: "Operation is successful. Data is:"
+
+    # The placeholder text for the multi-checkbox filter search input
+    multiCheckboxFilterSearchPlaceholder: Search...
+
+    # The label for the multi-checkbox filter select all option
+    multiCheckboxFilterSelectAllLabel: Select all
+
+    # The text for the multi-checkbox filter selected items count
+    multiCheckboxFilterSelectedItemsCount: '"{selectedItemsCount}" selected items'
