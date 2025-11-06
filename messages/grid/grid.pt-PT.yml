@@ -359,4 +359,16 @@ kendo:
     multiCheckboxFilterSelectAllLabel: Select all
 
     # The text for the multi-checkbox filter selected items count
-    multiCheckboxFilterSelectedItemsCount: '"{selectedItemsCount}" selected items'
+    multiCheckboxFilterSelectedItemsCount: '{selectedItemsCount} selected items'
+    
+    # The message shown when AI selection requires the Grid selectable option
+    aiAssistantSelectionNotEnabled: "Selection can be applied only when the Grid selectable option is enabled."
+
+    # The message shown when AI selection requires row selection mode
+    aiAssistantSelectionRowModeRequired: "Selection can be applied only when row selection mode is enabled."
+
+    # The message shown when AI selection requires cell selection mode
+    aiAssistantSelectionCellModeRequired: "Selection can be applied only when cell selection mode is enabled."
+
+    # The text displayed in the Column Chooser for the number of selected columns
+    columnChooserSelectedColumnsCount: '{selectedColumnsCount} Selected items'
