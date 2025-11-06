@@ -358,4 +358,16 @@ kendo:
     multiCheckboxFilterSelectAllLabel: Избери всички
 
     # The text for the multi-checkbox filter selected items count
-    multiCheckboxFilterSelectedItemsCount: '"{selectedItemsCount}" избрани елементи'
+    multiCheckboxFilterSelectedItemsCount: '{selectedItemsCount} избрани елементи'
+    
+    # The message shown when AI selection requires the Grid selectable option
+    aiAssistantSelectionNotEnabled: "Селекцията може да се приложи само когато е включена съответната грид опция."
+
+    # The message shown when AI selection requires row selection mode
+    aiAssistantSelectionRowModeRequired: "Селекцията може да се приложи само когато режимът за селекция на редове е включен."
+
+    # The message shown when AI selection requires cell selection mode
+    aiAssistantSelectionCellModeRequired: "Селекцията може да се приложи само когато режимът за селекция на клетки е включен."
+
+    # The text displayed in the Column Chooser for the number of selected columns
+    columnChooserSelectedColumnsCount: '{selectedColumnsCount} избрани колони'
