@@ -11,34 +11,23 @@ on:
 
 jobs:
   build:
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     environment: upload
 
     permissions:
-        id-token: write # Required by Akeyless
-        contents: write
-        packages: read
+      id-token: write # Required by Akeyless
+      contents: write # Allows semantic-release to create tags
+      issues: write # Allows semantic-release to comment on issues
+      pull-requests: write # Allows semantic-release to comment on PRs
+      packages: read
 
     steps:
-      - name: Use NodeJS v1
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v6
         with:
-          node-version: '20'
-
-      - name: Import Secrets
-        id: import-secrets
-        uses: LanceMcCarthy/akeyless-action@v3
-        with:
-          access-id: ${{ secrets.GH_AKEYLESS_ACCESS_ID }}
-          static-secrets: |
-            {
-              "/WebComponents/prod/tokens/GH_TOKEN": "GH_TOKEN",
-              "/WebComponents/prod/tokens/PROGRESS_NPM_REGISTRY_TOKEN": "NPM_TOKEN"
-            }
-          export-secrets-to-environment: false
+          node-version: '24'
 
       - name: Check out branch
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0 # Fetch all branches
 
@@ -50,7 +39,6 @@ jobs:
         shell: bash
 
       - name: Publish release
-        run: npx semantic-release
+        run: npx --ignore-scripts semantic-release@25.0.2
         env:
-          NPM_TOKEN: ${{ steps.import-secrets.outputs.NPM_TOKEN }}
-          GH_TOKEN: ${{ steps.import-secrets.outputs.GH_TOKEN }}
+          GH_TOKEN: ${{ github.token }}

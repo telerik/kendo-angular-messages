@@ -28,7 +28,6 @@
     "@commitlint/cli": "^17.4.0",
     "@commitlint/config-conventional": "^17.4.0",
     "husky": "^8.0.0",
-    "semantic-release": "^19.0.5",
     "yaml-lint": "1.7.0"
   },
   "overrides": {
