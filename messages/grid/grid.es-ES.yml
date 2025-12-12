@@ -372,3 +372,6 @@ kendo:
 
     # The text displayed in the Column Chooser for the number of selected columns
     columnChooserSelectedColumnsCount: '{selectedColumnsCount} Selected items'
+
+    # The text for the Select all checkbox in the Column Chooser
+    columnChooserSelectAll: "Select all"
