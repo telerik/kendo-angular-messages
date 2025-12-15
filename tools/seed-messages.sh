@@ -11,7 +11,7 @@ Use this tool when creating messages for new components.
 
 1. Create a new messages file in 'messages/<component>/<component>.en-US.yml'
 2. Run 'npm run seed-messages <component>'
-3. Commit new files from 'messages/component'
+3. Commit new files from 'messages/component' 
   "
   exit
 fi
