@@ -110,3 +110,12 @@ kendo:
 
      # The annotation editor color section title.
     annotationEditorColorTitle: Цвят
+
+    # The text for the FileSelect drop zone hint when no file is being dragged.
+    blankPageDropFilesHere: Преместете с мишката файлове тук, за да ги качите
+
+    # The text for the FileSelect external drop zone hint when no file is being dragged.
+    blankPageExternalDropFilesHer: Преместете с мишката файлове тук, за да ги качите
+
+    # The text for the FileSelect button in the blank page drop zone
+    blankPageSelect: Избери...
