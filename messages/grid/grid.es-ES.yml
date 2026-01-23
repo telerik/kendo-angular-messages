@@ -375,6 +375,15 @@ kendo:
 
     # The text for the Select all checkbox in the Column Chooser
     columnChooserSelectAll: "Select all"
+
+    # The text for the Grid Excel export toolbar tool
+    excelExportToolbarToolText: "Excel Export"
+
+    # The text for the Grid CSV export toolbar tool
+    csvExportToolbarToolText: "CSV Export"
+
+    # The text for the Grid PDF export toolbar tool
+    pdfExportToolbarToolText: "PDF Export"
     
     # The text for the aria-label of the search input in the Column Chooser
     columnChooserSearchLabel: "Search"
