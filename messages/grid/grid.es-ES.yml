@@ -384,3 +384,6 @@ kendo:
 
     # The text for the Grid PDF export toolbar tool
     pdfExportToolbarToolText: "PDF Export"
+    
+    # The text for the aria-label of the search input in the Column Chooser
+    columnChooserSearchLabel: "Search"
