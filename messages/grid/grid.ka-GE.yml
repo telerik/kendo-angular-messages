@@ -369,3 +369,6 @@ kendo:
 
     # The text for the Select all checkbox in the Column Chooser
     columnChooserSelectAll: "Select all"
+    
+    # The text for the aria-label of the search input in the Column Chooser
+    columnChooserSearchLabel: "Search"
