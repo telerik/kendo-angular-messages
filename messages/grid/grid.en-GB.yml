@@ -386,3 +386,54 @@ kendo:
 
     # The text for the aria-label of the search input in the Column Chooser
     columnChooserSearchLabel: "Search"
+
+    # The aria-label for the Speech to Text button of the SmartBox tool in AI Assistant mode
+    smartBoxSpeechToTextButton: Voice input
+
+    # The aria-label for the Submit button of the SmartBox tool in AI Assistant mode
+    smartBoxSubmitPromptButton: Submit prompt
+
+    # The placeholder text for the SmartBox tool Search mode input
+    smartBoxSearchPlaceholder: Search...
+
+    # The placeholder text for the SmartBox tool Semantic Search mode input
+    smartBoxSemanticSearchPlaceholder: Semantic Search
+
+    # The placeholder text for the SmartBox tool AI Assistant mode input
+    smartBoxAIAssistantPlaceholder: Sort, Filter, or group with AI
+
+    # The text for the suggested prompts section in the SmartBox tool AI Assistant mode
+    smartBoxSuggestedPrompts: Suggested prompts
+
+    # The text displayed when there are no previous searches in the SmartBox tool
+    smartBoxNoPreviousSearches: No previous searches
+
+    # The text displayed when there are no previous prompts in the SmartBox tool
+    smartBoxNoPreviousPrompts: No previous prompts
+
+    # The text displayed when there is previous search history in the SmartBox tool
+    smartBoxPreviouslySearched: Previously Searched
+
+    # The Search mode text displayed in the SmartBox tool search modes list
+    searchModeListItemText: Search
+
+    # The text displayed when there is previous ask history in the SmartBox tool
+    smartBoxPreviouslyAsked: Previously Asked
+
+    # The Search mode description displayed in the SmartBox tool search modes list
+    searchModeListItemDescription: Looks for exact word matches accross your data.
+
+    # The Semantic Search mode text displayed in the SmartBox tool search modes list
+    semanticSearchModeListItemText: Semantic Search
+
+    # The Semantic Search mode description displayed in the SmartBox tool search modes list
+    semanticSearchModeListItemDescription: Understands context to surface the most relevant results.
+
+    # The text for the Search mode button in the SmartBox tool popup
+    smartBoxSearchModePopupButton: Search
+
+    # The text for the Semantic Search mode button in the SmartBox tool popup
+    smartBoxSemanticSearchModePopupButton: Search
+
+    # The text for the AI Assistant mode button in the SmartBox tool popup
+    smartBoxAIAssistantModePopupButton: AI Assistant

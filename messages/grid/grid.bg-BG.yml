@@ -386,3 +386,54 @@ kendo:
 
     # The text for the aria-label of the search input in the Column Chooser
     columnChooserSearchLabel: "Търси"
+
+    # The aria-label for the Speech to Text button of the SmartBox tool in AI Assistant mode
+    smartBoxSpeechToTextButton: Гласов вход
+
+    # The aria-label for the Submit button of the SmartBox tool in AI Assistant mode
+    smartBoxSubmitPromptButton: Изпрати заявка
+
+    # The placeholder text for the SmartBox tool Search mode input
+    smartBoxSearchPlaceholder: Търси...
+
+    # The placeholder text for the SmartBox tool Semantic Search mode input
+    smartBoxSemanticSearchPlaceholder: Семантично търсене
+
+    # The placeholder text for the SmartBox tool AI Assistant mode input
+    smartBoxAIAssistantPlaceholder: Сортирай, филтрирай или групирай с изкуствен интелект
+
+    # The text for the suggested prompts section in the SmartBox tool AI Assistant mode
+    smartBoxSuggestedPrompts: Предложени заявки
+
+    # The text displayed when there are no previous searches in the SmartBox tool
+    smartBoxNoPreviousSearches: Няма предишни търсения
+
+    # The text displayed when there are no previous prompts in the SmartBox tool
+    smartBoxNoPreviousPrompts: Няма предишни заявки
+
+    # The text displayed when there is previous search history in the SmartBox tool
+    smartBoxPreviouslySearched: Предишни търсения
+
+    # The Search mode text displayed in the SmartBox tool search modes list
+    searchModeListItemText: Търсене
+
+    # The text displayed when there is previous ask history in the SmartBox tool
+    smartBoxPreviouslyAsked: Предишни заявки
+
+    # The Search mode description displayed in the SmartBox tool search modes list
+    searchModeListItemDescription: Търси за точни съвпадения на думи във вашите данни.
+
+    # The Semantic Search mode text displayed in the SmartBox tool search modes list
+    semanticSearchModeListItemText: Семантично търсене
+
+    # The Semantic Search mode description displayed in the SmartBox tool search modes list
+    semanticSearchModeListItemDescription: Разбира контекста, за да покаже най-подходящите резултати.
+
+    # The text for the Search mode button in the SmartBox tool popup
+    smartBoxSearchModePopupButton: Търсене
+
+    # The text for the Semantic Search mode button in the SmartBox tool popup
+    smartBoxSemanticSearchModePopupButton: Семантично търсене
+
+    # The text for the AI Assistant mode button in the SmartBox tool popup
+    smartBoxAIAssistantModePopupButton: ИИ Асистент
