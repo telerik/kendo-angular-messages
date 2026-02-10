@@ -3,9 +3,6 @@ kendo:
     # The placholder text of the message text input
     messagePlaceholder: Напишете съобщение...
 
-    # The text for the Send button
-    send: Изпратете...
-
     # The label text for the Message list
     messageListLabel: Списък със съобщения
 
@@ -20,3 +17,51 @@ kendo:
 
     # The alt attribute text for the avatar
     messageAvatarAlt: Аватар
+
+    # The text that is displayed when the sender deletes a message
+    deletedMessageSenderText: Премахнахте това съобщение.
+
+    # The text that is displayed when the receiver deletes a message
+    deletedMessageReceiverText: Това съобщение беше премахнато от подателя.
+
+    # The text that is displayed when the message has failed to send
+    messageFailedText: Неуспешно изпращане
+
+    # Sets the aria-label for the input/textarea element.
+    messageBoxTitle: Съобщение
+
+    # The text for the Action button
+    actionButtonTitle: Изпратете...
+
+    # Sets the Speech to Text button title.
+    speechToTextButtonTitle: Реч към текст
+
+    # Sets the File Select button title.
+    fileSelectButtonTitle: Изберете файлове
+
+    # Sets the title of the icon which removes the reply reference in the Message Box.
+    removeReplyTitle: Премахване на отговор
+
+    # Sets the title of the icon which removes a selected file in the Message Box.
+    removeFileTitle: Премахване на файл
+
+    # Sets the title of the icon which demonstrates that the message can be expanded.
+    expandTitle: Разширяване на съобщение
+
+    # Sets the title of the icon which demonstrates that the message can be collapsed.
+    collapseTitle: Свиване на съобщение
+
+    # Sets the title of the DropDownButton which opens the File actions.
+    fileActionsTitle: Действия с файлове
+
+    # Sets the text that is displayed in the download section of the message.
+    downloadAllFilesText: Изтеглете всички
+
+    # The title of the button that scrolls to the previous suggestions
+    previousSuggestionsButtonTitle: Превъртете наляво
+
+    # The title of the button that scrolls to the next suggestions
+    nextSuggestionsButtonTitle: Превъртете надясно
+
+    # The title of the button that unpins a pinned message
+    unpinMessageTitle: Откачете съобщение

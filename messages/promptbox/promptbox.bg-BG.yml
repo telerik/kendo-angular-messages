@@ -1,0 +1,18 @@
+
+    # Sets the File Select button title.
+    fileSelectButtonTitle: Изберете прикачени файлове
+
+    # Sets the Action button title.
+    actionButtonTitle: Изпратете запитване
+
+    # Sets the Stop Generating button title.
+    stopGeneratingTitle: Спиране на генериране
+
+    # Sets the Speech to Text button title.
+    speechToTextButtonTitle: Диктувай
+
+    # Sets the Remove file button title.
+    removeFileTitle: Премахване на файл
+
+    # Sets the aria-label for the input/textarea element.
+    messageBoxTitle: Съобщение

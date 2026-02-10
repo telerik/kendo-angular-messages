@@ -1,0 +1,18 @@
+
+    # Sets the File Select button title.
+    fileSelectButtonTitle: Select attachments
+
+    # Sets the Action button title.
+    actionButtonTitle: Send prompt
+
+    # Sets the Stop Generating button title.
+    stopGeneratingTitle: Stop generating
+
+    # Sets the Speech to Text button title.
+    speechToTextButtonTitle: Dictate
+
+    # Sets the Remove file button title.
+    removeFileTitle: Remove file
+
+    # Sets the aria-label for the input/textarea element.
+    messageBoxTitle: Message
