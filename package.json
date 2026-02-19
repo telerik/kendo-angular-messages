@@ -30,28 +30,12 @@
     "husky": "^9.1.7",
     "yaml-lint": "1.7.0"
   },
-  "overrides": {
-    "ip": "2.0.1"
-  },
   "bugs": {
     "url": "https://github.com/telerik/kendo-angular-messages/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/telerik/kendo-angular-messages.git"
-  },
-  "release": {
-    "branches": [
-      {
-        "name": "master",
-        "channel": "latest"
-      },
-      {
-        "name": "develop",
-        "prerelease": true,
-        "channel": "dev"
-      }
-    ]
+    "url": "git+https://github.com/telerik/kendo-angular-messages.git"
   },
   "files": [
     "bin",
