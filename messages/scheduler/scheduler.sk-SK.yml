@@ -400,3 +400,6 @@ kendo:
 
     # The year view no events message.
     yearViewNoEvents: No events on this date.
+
+    # The screen-reader-only label for the resource group column header in the Agenda view".
+    resourceColumnHeaderLabel: Resource

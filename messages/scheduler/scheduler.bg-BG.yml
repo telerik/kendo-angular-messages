@@ -399,3 +399,6 @@ kendo:
 
     # The year view no events message.
     yearViewNoEvents: Няма събития на тази дата.
+
+    # The screen-reader-only label for the resource group column header in the Agenda view".
+    resourceColumnHeaderLabel: Ресурс
