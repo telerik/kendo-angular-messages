@@ -206,3 +206,9 @@ kendo:
         
     # The text shown in the column menu for the autosize all columns item
     autosizeAllColumns: Autosize All Columns
+
+    # The screen-reader-only content for the row reorder column header
+    dragColumnHeaderLabel: "Row reorder"
+
+    # The screen-reader-only content for the checkbox selection column header
+    checkboxColumnHeaderLabel: "Selection"

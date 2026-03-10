@@ -445,4 +445,4 @@ kendo:
     dragColumnHeaderLabel: "Row reorder"
 
     # The screen-reader-only label for the checkbox column header
-    checkboxColumnHeaderLabel: "Select"
+    checkboxColumnHeaderLabel: "Selection"
