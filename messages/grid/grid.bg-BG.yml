@@ -439,10 +439,13 @@ kendo:
     smartBoxAIAssistantModePopupButton: ИИ Асистент
 
     # The screen-reader-only content for the detail expand/collapse column header
-    detailColumnHeaderLabel: "Детайли"
+    detailColumnHeaderLabel: Детайли
 
     # The screen-reader-only content for the row reorder column header
-    dragColumnHeaderLabel: "Пренареждане на редове"
+    dragColumnHeaderLabel: Пренареждане на редове
 
     # The screen-reader-only content for the checkbox selection column header
-    checkboxColumnHeaderLabel: "Селекция"
+    checkboxColumnHeaderLabel: Селекция
+
+    # The screen-reader-only content for the command column header
+    commandColumnHeaderLabel: Действия
