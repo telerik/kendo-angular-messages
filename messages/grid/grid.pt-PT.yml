@@ -440,10 +440,13 @@ kendo:
     smartBoxAIAssistantModePopupButton: AI Assistant
 
     # The screen-reader-only label for the detail expand/collapse column header
-    detailColumnHeaderLabel: "Details Toggle"
+    detailColumnHeaderLabel: Details Toggle
 
     # The screen-reader-only label for the row reorder column header
-    dragColumnHeaderLabel: "Row reorder"
+    dragColumnHeaderLabel: Row reorder
 
     # The screen-reader-only label for the checkbox column header
-    checkboxColumnHeaderLabel: "Selection"
+    checkboxColumnHeaderLabel: Selection
+
+    # The screen-reader-only content for the command column header
+    commandColumnHeaderLabel: Command
