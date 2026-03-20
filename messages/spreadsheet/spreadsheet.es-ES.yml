@@ -227,3 +227,6 @@ kendo:
 
     # The content of the dialog that warns about invalid name input
     invalidNameError: 'Nombre inválido: {inputValue}'
+
+    # The content of the dialog that warns about performing an action on a range that contains disabled cells.
+    rangeDisabled: Destination range contains disabled cells.
