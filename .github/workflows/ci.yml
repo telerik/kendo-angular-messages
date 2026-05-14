@@ -7,7 +7,7 @@ on:
       - master
       - develop
       - release-*
-  pull_request:
+  pull_request_target:
     branches-ignore:
       - master
       - develop
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-24.04
 
     concurrency:
-      group: ${{ github.workflow }}-${{ github.ref }}
+      group: ${{ github.workflow }}-${{ github.event.pull_request.number || github.ref }}
       cancel-in-progress: true
 
     steps:
@@ -28,6 +28,8 @@ jobs:
 
       - name: Check out repository
         uses: actions/checkout@v6
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
 
       - name: Install modules
         run: npm ci --ignore-scripts
