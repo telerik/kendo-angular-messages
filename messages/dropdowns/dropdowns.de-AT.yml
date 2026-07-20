@@ -106,4 +106,4 @@ kendo:
     cancelButton: Abbrechen
 
     # The text displayed when the user types a custom value that is not in the list of options.
-    useCustomValueText: Use "{customValue}"
+    useCustomValueText: Use "[[customValue]]"

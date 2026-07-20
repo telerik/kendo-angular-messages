@@ -163,4 +163,4 @@ kendo:
     splitCell: Rozdeliť bunku
 
     # The caption for the hint in the insert table tool.
-    insertTableHint: 'Create a {rows} {x} {columns} table'
+    insertTableHint: 'Create a [[rows]] [[x]] [[columns]] table'

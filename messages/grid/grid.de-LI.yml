@@ -169,19 +169,19 @@ kendo:
     sortedDefault: Not sorted
 
     # The label of the filter row and menu inputs
-    filterInputLabel: '{columnName} Filter'
+    filterInputLabel: '[[columnName]] Filter'
 
     # The title of the filter menu icon
-    filterMenuTitle: '{columnName} Filter Menu'
+    filterMenuTitle: '[[columnName]] Filter Menu'
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+    filterMenuOperatorsDropDownLabel: '[[columnName]] Filter Operators'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
+    filterMenuLogicDropDownLabel: '[[columnName]] Filter Logic'
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Spaltenmenü'
+    columnMenu: '[[columnName]] Spaltenmenü'
 
     # The labels of the checkbox column checkboxes
     selectionCheckboxLabel: Select Row
@@ -190,7 +190,7 @@ kendo:
     selectAllCheckboxLabel: Select All Rows
 
     # The label of the Grid pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Page navigation, page [[currentPage]] of [[totalPages]]'
 
     # The Grid aria-label
     gridLabel: Data table
@@ -235,10 +235,10 @@ kendo:
     selectAllRowsCheckboxLabel: Select all rows
 
     # The label for the filter cell operators dropdown.
-    filterCellOperatorLabel: 'Filter cell operators for {columnName}'
+    filterCellOperatorLabel: 'Filter cell operators for [[columnName]]'
 
     # The label for the boolean filter cell dropdown.
-    booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
+    booleanFilterCellLabel: 'Boolean filter cell for [[columnName]]'
 
     # The title for the column menu Filter tab.
     columnMenuFilterTabTitle: Filter
@@ -259,7 +259,7 @@ kendo:
     pagerInputLabel: Type a page number
 
     # The default text of a form validation error when using external editing
-    formValidationErrorText: 'The {fieldName} field has {errorName} validation error'
+    formValidationErrorText: 'The [[fieldName]] field has [[errorName]] validation error'
 
     # The title of the remove item confirmation Dialog
     removeConfirmationDialogTitle: Please confirm
@@ -358,7 +358,7 @@ kendo:
     multiCheckboxFilterSelectAllLabel: Select all
 
     # The text for the multi-checkbox filter selected items count
-    multiCheckboxFilterSelectedItemsCount: '{selectedItemsCount} selected items'
+    multiCheckboxFilterSelectedItemsCount: '[[selectedItemsCount]] selected items'
     
     # The message shown when AI selection requires the Grid selectable option
     aiAssistantSelectionNotEnabled: "Selection can be applied only when the Grid selectable option is enabled."
@@ -370,7 +370,7 @@ kendo:
     aiAssistantSelectionCellModeRequired: "Selection can be applied only when cell selection mode is enabled."
 
     # The text displayed in the Column Chooser for the number of selected columns
-    columnChooserSelectedColumnsCount: '{selectedColumnsCount} Selected items'
+    columnChooserSelectedColumnsCount: '[[selectedColumnsCount]] Selected items'
 
     # The text for the Select all checkbox in the Column Chooser
     columnChooserSelectAll: "Select all"

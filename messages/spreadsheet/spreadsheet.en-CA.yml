@@ -226,7 +226,7 @@ kendo:
     sheetMoveRight: Move Right
 
     # The content of the dialog that warns about invalid name input
-    invalidNameError: 'Invalid name: {inputValue}'
+    invalidNameError: 'Invalid name: [[inputValue]]'
 
     # The content of the dialog that warns about performing an action on a range that contains disabled cells.
     rangeDisabled: Destination range contains disabled cells.

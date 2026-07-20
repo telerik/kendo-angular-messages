@@ -7,10 +7,10 @@ kendo:
     fieldMenuFilterItemLabel: Filtro
 
     # The label of the filter input
-    filterInputLabel: 'Filtro {fields}'
+    filterInputLabel: 'Filtro [[fields]]'
 
     # The label of the filter operators DropDownList
-    filterOperatorsDropDownLabel: 'Operatori filtro per {fields}'
+    filterOperatorsDropDownLabel: 'Operatori filtro per [[fields]]'
 
     # The text of the "equal" filter operator
     filterEqOperator: È uguale a

@@ -226,7 +226,7 @@ kendo:
     sheetMoveRight: Премести надясно
 
     # The content of the dialog that warns about invalid name input
-    invalidNameError: 'Невалидно име: {inputValue}'
+    invalidNameError: 'Невалидно име: [[inputValue]]'
 
     # The content of the dialog that warns about performing an action on a range that contains disabled cells.
     rangeDisabled: Избраният диапазон съдържа недостъпни клетки.

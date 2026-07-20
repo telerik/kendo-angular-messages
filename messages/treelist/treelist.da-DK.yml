@@ -115,7 +115,7 @@ kendo:
     sort: Sort
 
     # The title of the column menu icon
-    columnMenu: '{columnName} Column Menu'
+    columnMenu: '[[columnName]] Column Menu'
 
     # The text shown in the column menu for the columns item
     columns: Columns
@@ -157,7 +157,7 @@ kendo:
     dragRowHandleLabel: Drag row
 
     # The label for the TreeList pager
-    pagerLabel: 'Page navigation, page {currentPage} of {totalPages}'
+    pagerLabel: 'Page navigation, page [[currentPage]] of [[totalPages]]'
 
     # The label for the TreeList top toolbar
     topToolbarLabel: Top toolbar
@@ -172,19 +172,19 @@ kendo:
     selectAllRowsCheckboxLabel: Select all rows
 
     # The label for the filter cell operators dropdown.
-    filterCellOperatorLabel: 'Filter cell operators for {columnName}'
+    filterCellOperatorLabel: 'Filter cell operators for [[columnName]]'
 
     # The label for the boolean filter cell dropdown.
-    booleanFilterCellLabel: 'Boolean filter cell for {columnName}'
+    booleanFilterCellLabel: 'Boolean filter cell for [[columnName]]'
 
     # The text of the aria-label attribute applied to the input element for entering the page number
     pagerInputLabel: Type a page number
     
     # The label of the filter row and menu inputs
-    filterInputLabel: '{columnName} Filter'
+    filterInputLabel: '[[columnName]] Filter'
 
     # The title of the filter menu icon
-    filterMenuTitle: '{columnName} Filter Menu'
+    filterMenuTitle: '[[columnName]] Filter Menu'
 
     # The text of the Today button of the Date filter.
     filterDateToday: Today
@@ -199,10 +199,10 @@ kendo:
     filterNumericIncrement: Increase value
 
     # The label of the filter menu operators dropdown
-    filterMenuOperatorsDropDownLabel: '{columnName} Filter Operators'
+    filterMenuOperatorsDropDownLabel: '[[columnName]] Filter Operators'
 
     # The label of the filter menu logic dropdown
-    filterMenuLogicDropDownLabel: '{columnName} Filter Logic'
+    filterMenuLogicDropDownLabel: '[[columnName]] Filter Logic'
 
     # The text shown in the column menu for the autosize this column item
     autosizeThisColumn: Autosize This Column
