@@ -6,7 +6,7 @@ kendo:
     addFilter: Aggiungi un filtro
     # The text of the Filter Group `Add Group` button.
     addGroup: Aggiungi un gruppo
-    # The text of the `Remove` button.
+    # The text of the Filter Group `Remove Expression` button.
     remove: Rimuovi
     # The text of the Today button of the Filter Expression date editor.
     editorDateTodayText: Oggi
@@ -76,3 +76,5 @@ kendo:
     filterAriaLabel: filtro
     # The text of the filter group aria label.
     filterToolbarAriaLabel: impostazioni del filtro
+    # The text of the Filter Group `Remove Group` button.
+    removeGroup: Remove Group

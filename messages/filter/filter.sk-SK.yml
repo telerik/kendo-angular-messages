@@ -9,7 +9,7 @@ kendo:
     # The text of the Filter Group `Add Group` button.
     addGroup: Pridať skupinu
 
-    # The text of the `Remove` button.
+    # The text of the Filter Group `Remove Expression` button.
     remove: Vymazať
 
     # The text of the Today button of the Filter Expression date editor.
@@ -113,3 +113,5 @@ kendo:
 
     # The text of the filter group aria label.
     filterToolbarAriaLabel: Nastavenia filtra
+    # The text of the Filter Group `Remove Group` button.
+    removeGroup: Remove Group

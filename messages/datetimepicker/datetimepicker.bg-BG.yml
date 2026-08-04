@@ -62,3 +62,9 @@ kendo:
 
     # The title for the **Clear** button in the DateTimePicker
     clearTitle: Изчисти
+
+    # The label for the date and time selector in the datetimepicker component
+    dateTimeSelectorLabel: Инструмент за избор на дата и час
+
+    # The label for the time selector in the datetimepicker component
+    timeSelectorLabel: Инструмент за избор на час

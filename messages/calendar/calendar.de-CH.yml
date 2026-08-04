@@ -12,6 +12,9 @@ kendo:
     # The title of the parent view button in the calendar header
     parentViewButtonTitle: Auf übergeordnete Seite navigieren
 
+    # The label for the week number column in the Calendar
+    weekNumberLabel: Week number
+
   multiviewcalendar:
     # The label for the today button in the calendar header
     today: Heute
@@ -24,3 +27,6 @@ kendo:
 
     # The title of the parent view button in the Multiview calendar header
     parentViewButtonTitle: Auf Hauptansicht navigieren
+
+    # The label for the week number column in the MultiViewCalendar
+    weekNumberLabel: Week number

@@ -104,3 +104,6 @@ kendo:
 
     # The text content of the PivotGrid configurator fields TreeView Measures node
     configuratorMeasuresText: Mesures
+
+    # The text of the PivotGrid configurator chip list aria-label
+    configuratorChipListLabel: chip list
