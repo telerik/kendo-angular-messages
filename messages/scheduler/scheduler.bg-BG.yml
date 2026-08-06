@@ -4,13 +4,13 @@ kendo:
     dailyInterval: ден(дни)
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    dailyRepeatEvery: 'Повтаряй всеки:'
+    dailyRepeatEvery: Повтаряй всеки
 
     # The text similar to 'After' displayed in the recurrence editor.
     endAfter: След
 
     # The text similar to 'End' displayed in the recurrence editor.
-    endLabel: 'Край:'
+    endLabel: Край
 
     # The text similar to 'Never' displayed in the recurrence editor.
     endNever: Никога
@@ -22,19 +22,19 @@ kendo:
     endOn: На
 
     # The text similar to 'Daily' displayed in the recurrence editor.
-    frequenciesDaily: Ежедневно
+    frequenciesDaily: Ден
 
     # The text similar to 'Monthly' displayed in the recurrence editor.
-    frequenciesMonthly: Месечно
+    frequenciesMonthly: Мсец
 
     # The text similar to 'Never' displayed in the recurrence editor.
     frequenciesNever: Никога
 
     # The text similar to 'Weekly' displayed in the recurrence editor.
-    frequenciesWeekly: Седмично
+    frequenciesWeekly: Седмица
 
     # The text similar to 'Yearly' displayed in the recurrence editor.
-    frequenciesYearly: Годишно
+    frequenciesYearly: Година
 
     # The text similar to 'Day' displayed in the recurrence editor.
     monthlyDay: Ден
@@ -43,10 +43,10 @@ kendo:
     monthlyInterval: месец(и)
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    monthlyRepeatEvery: 'Повтаряй всеки:'
+    monthlyRepeatEvery: Повтаряй всеки
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    monthlyRepeatOn: 'Повтаряй на:'
+    monthlyRepeatOn: На
 
     # The text similar to 'Fourth' displayed in the recurrence editor.
     offsetPositionsFourth: четвърти(та)
@@ -76,10 +76,10 @@ kendo:
     weeklyInterval: седмица(и)
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    weeklyRepeatEvery: 'Повтаряй на:'
+    weeklyRepeatEvery: 'Повтаряй всяка'
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    weeklyRepeatOn: 'Повтаряй всеки:'
+    weeklyRepeatOn: В
 
     # The text similar to 'year(s)' displayed in the recurrence editor.
     yearlyInterval: година(ни)
@@ -88,10 +88,10 @@ kendo:
     yearlyOf: от
 
     # The text similar to 'Repeat every' displayed in the recurrence editor.
-    yearlyRepeatEvery: 'Повтаряй всеки:'
+    yearlyRepeatEvery: 'Повтаряй всяка'
 
     # The text similar to 'Repeat on' displayed in the recurrence editor.
-    yearlyRepeatOn: 'Повтаряй на:'
+    yearlyRepeatOn: На
 
     #The title of the 'Increment' button of the NumericTextBoxes displayed in the recurrence editor.
     numericIncrement: Увеличи стойността
@@ -181,14 +181,11 @@ kendo:
     # The text similar to 'Description' displayed in the Scheduler event editor.
     editorEventDescription: Описание
 
-    # The text similar to 'Use separate Start and End Time Zones' displayed in the Scheduler event editor.
-    editorEventSeparateTimeZones: Използвай различни часови зони за начало и край
-
     # The text similar to 'Time Zone' displayed in the Scheduler event editor.
-    editorEventTimeZone: Крайна часова зона
+    editorEventTimeZone: Часова зона
 
-    # The text similar to 'Event' displayed as title of the Scheduler event editor.
-    editorTitle: Заглавие
+    # The text similar to 'Edit event' displayed as title of the Scheduler event editor.
+    editorTitle: Редактиране на събитие
 
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: Сигурен ли сте че искате да промените това събитие или цялата серия?
@@ -217,14 +214,14 @@ kendo:
     # The text similar to 'day(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorDailyInterval: ден(дни)
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorDailyRepeatEvery: 'Повтаряй всеки:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorDailyRepeatEvery: Повтаряй всеки
 
     # The text similar to 'After' displayed in the Scheduler recurrence editor.
-    recurrenceEditorEndAfter: After
+    recurrenceEditorEndAfter: След
 
-    # The text similar to 'End' displayed in the Scheduler recurrence editor.
-    recurrenceEditorEndLabel: End
+    # The text similar to 'Ends' displayed in the Scheduler recurrence editor.
+    recurrenceEditorEndLabel: Свършва
 
     # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndNever: Never
@@ -235,20 +232,20 @@ kendo:
     # The text similar to 'On' displayed in the Scheduler recurrence editor.
     recurrenceEditorEndOn: On
 
-    # The text similar to 'Daily' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesDaily: Ежедневно
+    # The text similar to 'Day' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesDaily: Ден
 
-    # The text similar to 'Monthly' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesMonthly: Месечно
+    # The text similar to 'Month' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesMonthly: Месец
 
     # The text similar to 'Never' displayed in the Scheduler recurrence editor.
     recurrenceEditorFrequenciesNever: Никога
 
-    # The text similar to 'Weekly' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesWeekly: Седмично
+    # The text similar to 'Week' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesWeekly: Седмица
 
-    # The text similar to 'Yearly' displayed in the Scheduler recurrence editor.
-    recurrenceEditorFrequenciesYearly: Годишно
+    # The text similar to 'Year' displayed in the Scheduler recurrence editor.
+    recurrenceEditorFrequenciesYearly: Година
 
     # The text similar to 'Day' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyDay: Ден
@@ -256,11 +253,11 @@ kendo:
     # The text similar to 'month(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorMonthlyInterval: месец(и)
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatEvery: 'Повтаряй всеки:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatEvery: Повтаряй всеки
 
-    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
-    recurrenceEditorMonthlyRepeatOn: 'Повтаряй на:'
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
+    recurrenceEditorMonthlyRepeatOn: На
 
     # The text similar to 'First' displayed in the Scheduler recurrence editor.
     recurrenceEditorOffsetPositionsFirst: първи(а)
@@ -292,11 +289,11 @@ kendo:
     # The text similar to 'week(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorWeeklyInterval: седмица(и)
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatEvery: 'Повтаряй на:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatEvery: Повтаряй всяка
 
-    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
-    recurrenceEditorWeeklyRepeatOn: 'Повтаряй всеки:'
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
+    recurrenceEditorWeeklyRepeatOn: На
 
     # The text similar to 'year(s)' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyInterval: година(ни)
@@ -304,11 +301,11 @@ kendo:
     # The text similar to 'of' displayed in the Scheduler recurrence editor.
     recurrenceEditorYearlyOf: of
 
-    # The text similar to 'Repeat every' displayed in the Scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatEvery: 'Повтаряй всеки:'
+    # The text similar to 'Repeats every' displayed in the Scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatEvery: Повтаряй всяка
 
-    # The text similar to 'Repeat on' displayed in the Scheduler recurrence editor.
-    recurrenceEditorYearlyRepeatOn: 'Повтаряй на:'
+    # The text similar to 'On' displayed in the Scheduler recurrence editor.
+    recurrenceEditorYearlyRepeatOn: На
 
     # The text of the show full day button displayed in the footer of the day, week and timeline views.
     showFullDay: Покажи цял ден
@@ -340,44 +337,29 @@ kendo:
     # The value of the aria-label attribute of the <select> element used for switching the Scheduler views.
     selectView: Избери изглед
 
-    # The 'Today' button text in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    # The 'Today' button text in the popup of the DatePickers in the Scheduler event editor.
     editorDateInputsToday: Днес
 
-    #The title of the 'Toggle' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsToggle: Покажи календар
-
-    #The title of the 'Parent View' button in the popup of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The title of the 'Parent View' button in the popup of the DatePickers in the Scheduler event editor.
     editorDateInputsParentViewButton: Преминаване към следващия диапазон от дати
 
-    #The text of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The text of the 'Now' button in the popup header of the TimePickers in the Scheduler event editor.
     editorDateInputsNow: СЕГА
 
-    #The label of the 'Now' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The label of the 'Now' button in the popup header of the TimePickers in the Scheduler event editor.
     editorDateInputsNowLabel: Избери сега
 
-    #The text of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The text of the 'Set' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsAccept: Запази
 
-    #The label of the 'Accept' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The label of the 'Set' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsAcceptLabel: Запази
 
-    #The text of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The text of the 'Cancel' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsCancel: Откажи
 
-    #The label of the 'Cancel' button in the popup footer of the DateTimePickers and DatePickers in the Scheduler event editor.
+    #The label of the 'Cancel' button in the popup footer of the TimePickers in the Scheduler event editor.
     editorDateInputsCancelLabel: Откажи
-
-    #The text of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsDateTab: Дата
-
-    #The label of the 'Date' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsDateTabLabel: Дата
-
-    #The text of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsTimeTab: Час
-
-    #The label of the 'Time' tab in the popup header of the DateTimePickers and DatePickers in the Scheduler event editor.
-    editorDateInputsTimeTabLabel: Час
 
     #The title of the 'Increment' button of the NumericTextBoxes displayed in the Scheduler recurrence editor.
     recurrenceEditorNumericIncrement: Увеличи стойността
@@ -402,3 +384,66 @@ kendo:
 
     # The screen-reader-only label for the resource group column header in the Agenda view".
     resourceColumnHeaderLabel: Ресурс
+
+    # The text of the overflow button in the month view of the Scheduler.
+    moreEvents: "{брой} още"
+
+    # The aria-label for the start time TimePicker in the Scheduler event editor.
+    editorEventStartTime: Начален час
+
+    # The aria-label for the end time TimePicker in the Scheduler event editor.
+    editorEventEndTime: Краен час
+
+    # The text of the reset timezone button in the Scheduler event editor.
+    editorEventTimeZoneReset: Изчисти часовата зона
+
+    # The placeholder text of the description textarea in the Scheduler event editor.
+    editorEventDescriptionPlaceholder: Добавете описание
+
+    # The separator text between start and end dates in the Scheduler event editor.
+    editorEventDateRangeSeparator: до
+
+    # The separator text between start date and time in the Scheduler event editor.
+    editorEventDateRangeStart: от
+
+    # The text of the recurrence button when no recurrence rule is set in the Scheduler event editor.
+    editorRecurrenceMakeRecurring: Направи повтарящо се
+
+    # The text of the recurrence button when a recurrence rule exists in the Scheduler event editor.
+    editorRecurrenceEdit: Редактирай повтарящо се
+
+    # The title of the recurrence dialog in the Scheduler event editor.
+    editorRecurrenceDialogTitle: Повтарящо се събитие
+
+    # The text of the remove recurrence button in the Scheduler event editor.
+    editorRecurrenceRemove: Премахни повтарянето
+
+    # The title of the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmationTitle: Промахни повтарящо се събитие
+
+    # The message of the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmation: Искате ли да премахнете повтарящото се събитие?
+
+    # The text of the 'No' button in the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmationNo: Не
+
+    # The text of the 'Yes' button in the remove recurrence confirmation dialog in the Scheduler.
+    editorRecurrenceRemoveConfirmationYes: Да
+
+    #The title of the 'Toggle' button of the DatePickers in the Scheduler event editor.
+    editorDatePickersToggle: Покажи календар
+
+    #The title of the 'Toggle' button of the TimePickers in the Scheduler event editor.
+    editorTimePickersToggle: Покажи време
+
+    # The text displayed as title of the Scheduler event editor for new events.
+    editorTitleNew: Ново събитие
+
+    # The text of the new event button in the Scheduler toolbar.
+    newEvent: Ново събитие
+
+    # The aria-label of the new event button in the Scheduler toolbar.
+    newEventLabel: Добавяне на ново събитие
+
+    # The aria-label of the Scheduler toolbar.
+    toolbar: Лента с инструменти
