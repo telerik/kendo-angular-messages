@@ -25,7 +25,7 @@ kendo:
     frequenciesDaily: Ден
 
     # The text similar to 'Monthly' displayed in the recurrence editor.
-    frequenciesMonthly: Мсец
+    frequenciesMonthly: Месец
 
     # The text similar to 'Never' displayed in the recurrence editor.
     frequenciesNever: Никога
@@ -419,7 +419,7 @@ kendo:
     editorRecurrenceRemove: Премахни повтарянето
 
     # The title of the remove recurrence confirmation dialog in the Scheduler.
-    editorRecurrenceRemoveConfirmationTitle: Промахни повтарящо се събитие
+    editorRecurrenceRemoveConfirmationTitle: Премахни повтарящо се събитие
 
     # The message of the remove recurrence confirmation dialog in the Scheduler.
     editorRecurrenceRemoveConfirmation: Искате ли да премахнете повтарящото се събитие?
