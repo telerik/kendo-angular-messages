@@ -1,0 +1,6 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # scans package.json and package-lock.json
+    directory: "/" # looks for package.json at the repo root
+    schedule:
+      interval: "weekly" # opens PRs every Monday to bump outdated dependencies
