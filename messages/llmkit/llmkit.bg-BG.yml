@@ -1,0 +1,46 @@
+kendo:
+  llmkit:
+    # The aria-label for a collapsed disclosure head without a visible label
+    expandLabel: Разширяване
+
+    # The aria-label for an expanded disclosure head without a visible label
+    collapseLabel: Свиване
+
+    # The default Approve action for a ToolCall
+    approveAction: Одобри
+
+    # The default Reject action for a ToolCall
+    rejectAction: Отхвърли
+
+    # The default action for a Checkpoint in the startOver state
+    startOverAction: Започни отначало
+
+    # The default action for a Checkpoint in the restore state
+    restoreAction: Възстанови
+
+    # The default action for a Checkpoint in the redo state
+    redoAction: Отмени възстановяването
+
+    # The default stamp shown by a Checkpoint in the redo state
+    checkpointRestoredText: Отметката е възстановена
+
+    # The aria-label for the previous-source action in a Citation popover
+    previousSourceAction: Предишен източник
+
+    # The aria-label for the next-source action in a Citation popover
+    nextSourceAction: Следващ източник
+
+    # The label above a ToolCall parameters block
+    parametersLabel: Параметри
+
+    # The label above a ToolCall result block
+    resultLabel: Резултат
+
+    # The ToolCall badge text while awaiting approval
+    awaitingApprovalStatus: Очаква одобрение
+
+    # The ToolCall badge text in the completed state
+    completedStatus: Завършено
+
+    # The ToolCall badge text in the error state
+    errorStatus: Грешка

@@ -130,3 +130,6 @@ kendo:
 
     # The text of the listbox label
     listboxLabel: Options
+
+    # The text of the Select All item in the popup
+    selectAllText: Select all

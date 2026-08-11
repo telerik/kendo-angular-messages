@@ -16,3 +16,6 @@
 
     # Sets the aria-label for the input/textarea element.
     messageBoxTitle: Message
+
+    # The aria-label for the attached files list
+    attachedFilesLabel: Attached files
