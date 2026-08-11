@@ -131,3 +131,6 @@ kendo:
 
     # The text of the listbox label
     listboxLabel: Опции
+
+    # The text of the Select All item in the popup
+    selectAllText: Избери всички

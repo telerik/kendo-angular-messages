@@ -26,3 +26,9 @@ kendo:
 
     # The title of the Prompt suggestions button
     promptSuggestions: Предложения за въвеждане
+
+    # The aria-label for the Speech to Text button
+    speechToTextButton: Реч към текст
+
+    # The aria-label for the Toolbar element
+    toolbarLabel: Лента с инструменти
