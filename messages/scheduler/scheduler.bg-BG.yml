@@ -386,7 +386,7 @@ kendo:
     resourceColumnHeaderLabel: Ресурс
 
     # The text of the overflow button in the month view of the Scheduler.
-    moreEvents: "{брой} още"
+    moreEvents: "[[count]] още"
 
     # The aria-label for the start time TimePicker in the Scheduler event editor.
     editorEventStartTime: Начален час
