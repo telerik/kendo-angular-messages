@@ -1,133 +1,133 @@
 kendo:
   pdfviewer:
     # The label for the first page button in the Pager.
-    pagerFirstPage: Go to the first page
+    pagerFirstPage: Aller à la première page
 
     # The label for the previous page button in the Pager.
-    pagerPreviousPage: Go to the previous page
+    pagerPreviousPage: Aller à la page précédente
 
     # The label for the next page button in the Pager.
-    pagerNextPage: Go to the next page
+    pagerNextPage: Aller à la page suivante
 
     # The label for the last page button in the Pager.
-    pagerLastPage: Go to the last page
+    pagerLastPage: Aller à la dernière page
 
     # The text before the current page number in the Pager.
     pagerPage: Page
 
     # The text before the total pages number in the Pager.
-    pagerOf: of
+    pagerOf: sur
 
     # The title of the pager input element.
-    pagerInputTitle: Page Number
+    pagerInputTitle: Numéro de page
 
     # The text of the aria-label attribute applied to the pager input element.
-    pagerInputLabel: Type a page number
+    pagerInputLabel: Saisissez un numéro de page
 
     # The ZoomIn tool title and label.
-    zoomInTitle: Zoom in
+    zoomInTitle: Zoom avant
 
     # The ZoomOut tool title and label.
-    zoomOutTitle: Zoom out
+    zoomOutTitle: Zoom arrière
 
     # The Selection tool title and label.
-    selectionTitle: Enable selection
+    selectionTitle: Activer la sélection
 
     # The Panning tool title and label.
-    panningTitle: Enable panning
+    panningTitle: Activer l'outil main
 
     # The Search tool title and label.
-    searchTitle: Search
+    searchTitle: Rechercher
 
     # The text for the search input placeholder.
-    searchInputPlaceholder: Search
+    searchInputPlaceholder: Rechercher
 
     # The text before the total number of matches in the Search tool.
-    searchMatchesOf: of
+    searchMatchesOf: sur
 
     # The title of the Search tool previous match button.
-    searchPreviousMatchTitle: Previous match
+    searchPreviousMatchTitle: Correspondance précédente
 
     # The title of the Search tool next match button.
-    searchNextMatchTitle: Next match
+    searchNextMatchTitle: Correspondance suivante
 
     # The title of the Search tool close button.
-    searchCloseTitle: Close
+    searchCloseTitle: Fermer
 
     # The Open tool title and label.
-    openTitle: Open
+    openTitle: Ouvrir
 
     # The Download tool title and label.
-    downloadTitle: Download
+    downloadTitle: Télécharger
 
     # The Print tool title and label.
-    printTitle: Print
+    printTitle: Imprimer
 
     # The text for the zoom level chooser Fit to page option.
-    fitToPage: Fit to page
+    fitToPage: Ajuster à la page
 
     # The text for the zoom level chooser Fit to width option.
-    fitToWidth: Fit to width
+    fitToWidth: Ajuster à la largeur
 
     # The title of the Search tool match case button.
-    searchMatchCaseTitle: Match case
+    searchMatchCaseTitle: Respecter la casse
 
     # The text of the Zoom tool input placeholder.
-    zoomInputPlaceholder: Choose zoom level
+    zoomInputPlaceholder: Choisir le niveau de zoom
 
     # The Annotations tool title and label.
     annotationsTitle: Annotations
 
     # The annotation editor tool title and label.
-    annotationEditorTitle: Annotation editor
+    annotationEditorTitle: Éditeur d'annotations
 
     # The delete annotation tool title and label.
-    deleteAnnotationTitle: Delete annotation
+    deleteAnnotationTitle: Supprimer l'annotation
 
     # The highlight annotation tool title and label.
-    highlightAnnotationTitle: Highlight
+    highlightAnnotationTitle: Surligner
 
     # The free text annotation tool title and label.
-    freeTextAnnotationTitle: Free text
+    freeTextAnnotationTitle: Texte libre
 
     # The close annotations toolbar tool title and label.
-    closeAnnotationsToolbarTitle: Close
+    closeAnnotationsToolbarTitle: Fermer
 
     # The delete annotation confirmation dialog title.
-    deleteAnnotationConfirmationDialogTitle: Delete annotation
+    deleteAnnotationConfirmationDialogTitle: Supprimer l'annotation
 
     # The delete annotation confirmation dialog content.
-    deleteAnnotationConfirmationDialogContent: Are you sure you want to delete this annotation?
+    deleteAnnotationConfirmationDialogContent: "Êtes-vous sûr de vouloir supprimer cette annotation ?"
 
     # The delete annotation confirmation dialog confirm button text.
-    deleteAnnotationConfirmationDialogConfirmText: Delete
+    deleteAnnotationConfirmationDialogConfirmText: Supprimer
 
     # The delete annotation confirmation dialog reject button text.
-    deleteAnnotationConfirmationDialogRejectText: Cancel
+    deleteAnnotationConfirmationDialogRejectText: Annuler
 
     # The annotation editor font size section title.
-    annotationEditorFontSizeTitle: Font Size
+    annotationEditorFontSizeTitle: Taille de police
 
      # The annotation editor color section title.
-    annotationEditorColorTitle: Color
+    annotationEditorColorTitle: Couleur
 
     # The text for the FileSelect drop zone hint when no file is being dragged.
-    blankPageDropFilesHere: Drag and drop files here to upload
+    blankPageDropFilesHere: Glisser-déposer des fichiers ici pour les téléverser
 
     # The text for the FileSelect external drop zone hint when no file is being dragged.
-    blankPageExternalDropFilesHer: Drag and drop files here to upload
+    blankPageExternalDropFilesHer: Glisser-déposer des fichiers ici pour les téléverser
 
     # The text for the FileSelect button in the blank page drop zone
-    blankPageSelect: Select files...
+    blankPageSelect: Sélectionner des fichiers...
 
     # The title of the Search tool drag handle.
-    searchDragHandleTitle: Drag handle
+    searchDragHandleTitle: Poignée de déplacement
 
     # The aria-label of the PDFViewer toolbar.
-    toolbarLabel: Toolbar
+    toolbarLabel: Barre d'outils
 
     # The aria-label of the zoom level chooser.
-    zoomLevelAriaLabel: Zoom level
+    zoomLevelAriaLabel: Niveau de zoom
 
     # The aria-label of the search input.
-    searchAriaLabel: Search text
+    searchAriaLabel: Rechercher du texte
