@@ -1,0 +1,13 @@
+kendo:
+  floatingtoolbar:
+    # The title of the drag handle of the FloatingToolBar
+    dragHandleTitle: Плъзни, за да преместиш лентата с инструменти
+
+    # The title of the More Tools button in the hosted FloatingToolBar
+    moreToolsTitle: Още инструменти
+
+    # The title of the previous scroll button in the hosted FloatingToolBar
+    previousToolButton: Плъзни наляво
+
+    # The title of the next scroll button in the hosted FloatingToolBar
+    nextToolButton: Плъзни надясно
