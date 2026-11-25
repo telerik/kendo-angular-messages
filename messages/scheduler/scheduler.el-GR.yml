@@ -127,8 +127,11 @@ kendo:
     # The text similar to 'Save' displayed in the Scheduler.
     save: Save
 
-    # The text similar to 'Title' displayed in the Scheduler event editor.
-    editorEventTitle: Title
+    # The text of the discard button in the Scheduler discard changes dialog.
+    editorDiscardChangesDiscard: Απόρριψη
+
+    # The text similar to 'Event title' displayed in the Scheduler event editor.
+    editorEventTitle: Event title
 
     # The text similar to 'Start' displayed in the Scheduler event editor.
     editorEventStart: Start
@@ -151,11 +154,11 @@ kendo:
     # The text similar to 'Are you sure you want to delete this event?' displayed in the Scheduler remove confirmation dialog.
     deleteConfirmation: Είστε σίγουροι ότι θέλετε να διαγράψετε το γεγονός;
 
-    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    # The title of the remove confirmation dialog, similar to 'Delete event'.
     deleteDialogTitle: Διαγραφή γεγονότος
 
-    # The text of the 'Delete current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    # The text of the 'Delete this event' button displayed in the Scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete this event
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
@@ -166,14 +169,26 @@ kendo:
     # The text similar of the 'Delete the series' button displayed in the Scheduler recurring confirmation dialog.
     deleteSeries: Διαγραφή της σειράς
 
+    # The title of the Scheduler dialog that confirms deletion of an event series.
+    deleteSeriesDialogTitle: Διαγραφή της σειράς
+
+    # The title of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsTitle: Διατήρηση ή διαγραφή προσαρμοσμένων γεγονότων;
+
+    # The message of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsConfirmation: Ορισμένα γεγονότα αυτής της σειράς έχουν υποστεί ξεχωριστή επεξεργασία. Επιλέξτε αν θέλετε να διατηρήσετε ή να διαγράψετε αυτά τα προσαρμοσμένα γεγονότα.
+
+    # The text of the delete button in the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsAction: Διαγραφή προσαρμοσμένων γεγονότων
+
     # The delete icon title.
     deleteTitle: Διαγραφή γεγονότος
 
     # The text of the 'Delete' button displayed in the Scheduler remove confirmation dialog.
     destroy: Διαγραφή
 
-    # The text of the 'Edit current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    editOccurrence: Επεξεργασία τρέχουσας εμφάνισης
+    # The text of the 'Edit this event' button displayed in the Scheduler recurring confirmation dialog.
+    editOccurrence: Επεξεργασία αυτού του γεγονότος
 
     # The text similar to 'All Day event' displayed in the Scheduler event editor.
     editorEventAllDay: Ολοήμερο γεγονός
@@ -190,8 +205,8 @@ kendo:
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: Θέλετε να επεξεργαστείτε μονο αυτό το γεγονός ή ολόκληρη της σειρά;
 
-    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'.
-    editRecurringDialogTitle: Επεξεργασία επαναλαμβανόμενου αντικειμένου
+    # The title of the recurring edit confirmation dialog, similar to 'Edit recurring event'.
+    editRecurringDialogTitle: Επεξεργασία επαναλαμβανόμενου γεγονότος
 
     # The text of the 'Edit the series' button displayed in the Scheduler recurring confirmation dialog.
     editSeries: Επεξεργασία της σειράς

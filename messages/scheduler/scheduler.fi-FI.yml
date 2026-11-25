@@ -127,8 +127,11 @@ kendo:
     # The text similar to 'Save' displayed in the Scheduler.
     save: Save
 
-    # The text similar to 'Title' displayed in the Scheduler event editor.
-    editorEventTitle: Title
+    # The text of the discard button in the Scheduler discard changes dialog.
+    editorDiscardChangesDiscard: Hylkää
+
+    # The text similar to 'Event title' displayed in the Scheduler event editor.
+    editorEventTitle: Event title
 
     # The text similar to 'Start' displayed in the Scheduler event editor.
     editorEventStart: Start
@@ -151,11 +154,11 @@ kendo:
     # The text similar to 'Are you sure you want to delete this event?' displayed in the Scheduler remove confirmation dialog.
     deleteConfirmation: Haluatko varmasti poistaa tapahtuman?
 
-    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    # The title of the remove confirmation dialog, similar to 'Delete event'.
     deleteDialogTitle: Poista tapahtuma
 
-    # The text of the 'Delete current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    # The text of the 'Delete this event' button displayed in the Scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete this event
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
@@ -166,14 +169,26 @@ kendo:
     # The text similar of the 'Delete the series' button displayed in the Scheduler recurring confirmation dialog.
     deleteSeries: Poista kaikki tapahtumat
 
+    # The title of the Scheduler dialog that confirms deletion of an event series.
+    deleteSeriesDialogTitle: Poista sarja
+
+    # The title of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsTitle: Säilytetäänkö vai poistetaanko mukautetut tapahtumat?
+
+    # The message of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsConfirmation: Joitakin tämän sarjan tapahtumia on muokattu erikseen. Valitse, haluatko säilyttää vai poistaa nämä mukautetut tapahtumat.
+
+    # The text of the delete button in the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsAction: Poista mukautetut tapahtumat
+
     # The delete icon title.
     deleteTitle: Poista tapahtuma
 
     # The text of the 'Delete' button displayed in the Scheduler remove confirmation dialog.
     destroy: Poista
 
-    # The text of the 'Edit current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    editOccurrence: Muokkaa vain tätä tapahtumaa
+    # The text of the 'Edit this event' button displayed in the Scheduler recurring confirmation dialog.
+    editOccurrence: Muokkaa tätä tapahtumaa
 
     # The text similar to 'All Day event' displayed in the Scheduler event editor.
     editorEventAllDay: Koko päivän tapahtuma
@@ -190,7 +205,7 @@ kendo:
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: Haluatko muokata vain tätä tapahtumaa, vai koko sarjaa?
 
-    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'.
+    # The title of the recurring edit confirmation dialog, similar to 'Edit recurring event'.
     editRecurringDialogTitle: Muokkaa toistuvaa tapahtumaa
 
     # The text of the 'Edit the series' button displayed in the Scheduler recurring confirmation dialog.

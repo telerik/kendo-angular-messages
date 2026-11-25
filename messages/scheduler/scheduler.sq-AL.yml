@@ -127,8 +127,11 @@ kendo:
     # The text similar to 'Save' displayed in the Scheduler.
     save: Save
 
-    # The text similar to 'Title' displayed in the Scheduler event editor.
-    editorEventTitle: Title
+    # The text of the discard button in the Scheduler discard changes dialog.
+    editorDiscardChangesDiscard: Hidh poshtë
+
+    # The text similar to 'Event title' displayed in the Scheduler event editor.
+    editorEventTitle: Event title
 
     # The text similar to 'Start' displayed in the Scheduler event editor.
     editorEventStart: Start
@@ -151,11 +154,11 @@ kendo:
     # The text similar to 'Are you sure you want to delete this event?' displayed in the Scheduler remove confirmation dialog.
     deleteConfirmation: Je i sigurt që dëshiron ta fshish këtë ngjarje?
 
-    # The title of the remove confirmation dialog, similar to 'Delete Event'.
-    deleteDialogTitle: Fshij ngjarjen
+    # The title of the remove confirmation dialog, similar to 'Delete event'.
+    deleteDialogTitle: Fshi ngjarjen
 
-    # The text of the 'Delete current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    deleteOccurrence: Delete current occurrence
+    # The text of the 'Delete this event' button displayed in the Scheduler recurring confirmation dialog.
+    deleteOccurrence: Delete this event
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     deleteRecurringConfirmation: Do you want to delete only this event occurrence or the whole series?
@@ -166,14 +169,26 @@ kendo:
     # The text similar of the 'Delete the series' button displayed in the Scheduler recurring confirmation dialog.
     deleteSeries: Fshini serinë
 
+    # The title of the Scheduler dialog that confirms deletion of an event series.
+    deleteSeriesDialogTitle: Fshi serinë
+
+    # The title of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsTitle: Të mbahen apo të fshihen ngjarjet e personalizuara?
+
+    # The message of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsConfirmation: Disa ngjarje në këtë seri janë redaktuar veçmas. Zgjidh nëse dëshiron t’i mbash apo t’i fshish këto ngjarje të personalizuara.
+
+    # The text of the delete button in the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsAction: Fshi ngjarjet e personalizuara
+
     # The delete icon title.
     deleteTitle: Fshij ngjarjen
 
     # The text of the 'Delete' button displayed in the Scheduler remove confirmation dialog.
     destroy: Fshij
 
-    # The text of the 'Edit current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    editOccurrence: Redakto dukurin e tanishme
+    # The text of the 'Edit this event' button displayed in the Scheduler recurring confirmation dialog.
+    editOccurrence: Redakto këtë ngjarje
 
     # The text similar to 'All Day event' displayed in the Scheduler event editor.
     editorEventAllDay: Ngjarja gjithë ditës
@@ -190,8 +205,8 @@ kendo:
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: Doni të redaktoni vetëm këtë dukuri apo të gjithë serinë?
 
-    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'.
-    editRecurringDialogTitle: Redakto artikullin e përsëritur
+    # The title of the recurring edit confirmation dialog, similar to 'Edit recurring event'.
+    editRecurringDialogTitle: Redakto ngjarjen e përsëritur
 
     # The text of the 'Edit the series' button displayed in the Scheduler recurring confirmation dialog.
     editSeries: Redakto serinë
