@@ -127,8 +127,11 @@ kendo:
     # The text similar to 'Save' displayed in the Scheduler.
     save: Salva
 
-    # The text similar to 'Title' displayed in the Scheduler event editor.
-    editorEventTitle: Titolo
+    # The text of the discard button in the Scheduler discard changes dialog.
+    editorDiscardChangesDiscard: Scarta
+
+    # The text similar to 'Event title' displayed in the Scheduler event editor.
+    editorEventTitle: Titolo dell’evento
 
     # The text similar to 'Start' displayed in the Scheduler event editor.
     editorEventStart: Inizio
@@ -151,11 +154,11 @@ kendo:
     # The text similar to 'Are you sure you want to delete this event?' displayed in the Scheduler remove confirmation dialog.
     deleteConfirmation: Sicuro di voler rimuovere questo evento?
 
-    # The title of the remove confirmation dialog, similar to 'Delete Event'.
+    # The title of the remove confirmation dialog, similar to 'Delete event'.
     deleteDialogTitle: Rimuovi evento
 
-    # The text of the 'Delete current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    deleteOccurrence: Rimuovi elemento corrente
+    # The text of the 'Delete this event' button displayed in the Scheduler recurring confirmation dialog.
+    deleteOccurrence: Rimuovi questo evento
 
     # The text similar to 'Do you want to delete only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     deleteRecurringConfirmation: Vuoi rimuovere solo questo evento o la serie completa?
@@ -166,14 +169,26 @@ kendo:
     # The text similar of the 'Delete the series' button displayed in the Scheduler recurring confirmation dialog.
     deleteSeries: Rimuovi la serie
 
+    # The title of the Scheduler dialog that confirms deletion of an event series.
+    deleteSeriesDialogTitle: Rimuovi la serie
+
+    # The title of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsTitle: Mantenere o rimuovere gli eventi personalizzati?
+
+    # The message of the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsConfirmation: Alcuni eventi di questa serie sono stati modificati singolarmente. Scegli se mantenere o rimuovere questi eventi personalizzati.
+
+    # The text of the delete button in the Scheduler dialog for keeping or deleting custom events.
+    deleteCustomEventsAction: Rimuovi gli eventi personalizzati
+
     # The delete icon title.
     deleteTitle: Rimuovi evento
 
     # The text of the 'Delete' button displayed in the Scheduler remove confirmation dialog.
     destroy: Rimuovi
 
-    # The text of the 'Edit current occurrence' button displayed in the Scheduler recurring confirmation dialog.
-    editOccurrence: Modifica l'evento corrente
+    # The text of the 'Edit this event' button displayed in the Scheduler recurring confirmation dialog.
+    editOccurrence: Modifica questo evento
 
     # The text similar to 'All Day event' displayed in the Scheduler event editor.
     editorEventAllDay: Giornata intera
@@ -190,8 +205,8 @@ kendo:
     # The text similar to 'Do you want to edit only this event occurrence or the whole series?' displayed in the Scheduler recurring confirmation dialog.
     editRecurringConfirmation: Vuoi modifcare solo questo evento o la serie completa?
 
-    # The title of the recurring edit confirmation dialog, similar to 'Edit Recurring Item'.
-    editRecurringDialogTitle: Modifica elemento ricorrente
+    # The title of the recurring edit confirmation dialog, similar to 'Edit recurring event'.
+    editRecurringDialogTitle: Modifica evento ricorrente
 
     # The text of the 'Edit the series' button displayed in the Scheduler recurring confirmation dialog.
     editSeries: Modifica la serie
@@ -457,9 +472,6 @@ kendo:
     # The text of the delete button in the Scheduler overview popover.
     overviewPopoverDelete: Delete
 
-    # The title of the delete series dialog in the Scheduler.
-    deleteSeriesDialogTitle: Delete Series
-
     # The confirmation message in the delete series dialog in the Scheduler.
     deleteSeriesConfirmation: Are you sure you want to delete this series?
 
@@ -483,9 +495,6 @@ kendo:
 
     # The confirmation message in the discard changes dialog in the Scheduler event editor.
     editorDiscardChangesConfirmation: Are you sure you want to discard the changes?
-
-    # The text of the discard changes button in the Scheduler event editor.
-    editorDiscardChangesDiscard: Discard changes
 
     # The text of the cancel button in the discard changes dialog in the Scheduler event editor.
     editorDiscardChangesCancel: Cancel
