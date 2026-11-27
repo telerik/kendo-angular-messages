@@ -410,7 +410,7 @@ kendo:
     editorRecurrenceMakeRecurring: Направи повтарящо се
 
     # The text of the recurrence button when a recurrence rule exists in the Scheduler event editor.
-    editorRecurrenceEdit: Редактирай повтарящо се
+    editorRecurrenceEditRecurring: Редактирай повтарящо се
 
     # The title of the recurrence dialog in the Scheduler event editor.
     editorRecurrenceDialogTitle: Повтарящо се събитие
@@ -447,3 +447,45 @@ kendo:
 
     # The aria-label of the Scheduler toolbar.
     toolbar: Лента с инструменти
+
+    # The text of the more options button in the Scheduler quick create view.
+    quickCreateMoreOptions: Още опции
+
+    # The text of the edit button in the Scheduler overview popover.
+    overviewPopoverEdit: Редактирай
+
+    # The text of the delete button in the Scheduler overview popover.
+    overviewPopoverDelete: Изтрий
+
+    # The title of the delete series dialog in the Scheduler.
+    deleteSeriesDialogTitle: Изтриване на серия
+
+    # The confirmation message in the delete series dialog in the Scheduler.
+    deleteSeriesConfirmation: Сигурни ли сте, че искате да изтриете тази серия?
+
+    # The title of the dialog asking whether to keep or reset custom events in a recurrence.
+    recurrenceCustomEventsDialogTitle: Да запазите или нулирате персонализираните събития?
+
+    # The message asking whether to keep or reset custom events in a recurrence.
+    recurrenceCustomEventsConfirmation: Някои събития в тази серия са редактирани отделно. Изберете дали да запазите тези персонализирани събития, или да ги нулирате, така че да съответстват на актуализираната серия?
+
+    # The text of the keep custom events button in the Scheduler.
+    recurrenceCustomEventsKeep: Запази персонализираните събития
+
+    # The text of the reset custom events button in the Scheduler.
+    recurrenceCustomEventsReset: Нулирай персонализираните събития
+
+    # The text of the cancel button in the custom events dialog in the Scheduler.
+    recurrenceCustomEventsCancel: Откажи
+
+    # The title of the discard changes dialog in the Scheduler event editor.
+    editorDiscardChangesDialogTitle: Отхвърляне на промените
+
+    # The confirmation message in the discard changes dialog in the Scheduler event editor.
+    editorDiscardChangesConfirmation: Сигурни ли сте, че искате да отхвърлите промените?
+
+    # The text of the discard changes button in the Scheduler event editor.
+    editorDiscardChangesDiscard: Отхвърли промените
+
+    # The text of the cancel button in the discard changes dialog in the Scheduler event editor.
+    editorDiscardChangesCancel: Откажи

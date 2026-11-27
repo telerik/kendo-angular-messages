@@ -1,0 +1,13 @@
+kendo:
+  floatingtoolbar:
+    # The title of the drag handle of the FloatingToolBar
+    dragHandleTitle: Drag to reposition
+
+    # The title of the More Tools button in the hosted FloatingToolBar
+    moreToolsTitle: More tools
+
+    # The title of the previous scroll button in the hosted FloatingToolBar
+    previousToolButton: Scroll left
+
+    # The title of the next scroll button in the hosted FloatingToolBar
+    nextToolButton: Scroll right

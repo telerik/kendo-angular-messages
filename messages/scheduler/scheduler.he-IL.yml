@@ -410,7 +410,7 @@ kendo:
     editorRecurrenceMakeRecurring: Make recurring
 
     # The text of the recurrence button when a recurrence rule exists in the Scheduler event editor.
-    editorRecurrenceEdit: Edit recurrence
+    editorRecurrenceEditRecurring: Edit recurrence
 
     # The title of the recurrence dialog in the Scheduler event editor.
     editorRecurrenceDialogTitle: Recurrence
@@ -447,3 +447,45 @@ kendo:
 
     # The aria-label of the Scheduler toolbar.
     toolbar: Toolbar
+
+    # The text of the more options button in the Scheduler quick create view.
+    quickCreateMoreOptions: More options
+
+    # The text of the edit button in the Scheduler overview popover.
+    overviewPopoverEdit: Edit
+
+    # The text of the delete button in the Scheduler overview popover.
+    overviewPopoverDelete: Delete
+
+    # The title of the delete series dialog in the Scheduler.
+    deleteSeriesDialogTitle: Delete Series
+
+    # The confirmation message in the delete series dialog in the Scheduler.
+    deleteSeriesConfirmation: Are you sure you want to delete this series?
+
+    # The title of the dialog asking whether to keep or reset custom events in a recurrence.
+    recurrenceCustomEventsDialogTitle: Keep or reset custom events?
+
+    # The message asking whether to keep or reset custom events in a recurrence.
+    recurrenceCustomEventsConfirmation: Some events in this series have been edited separately. Choose whether to keep those custom events, or reset them to match the updated series?
+
+    # The text of the keep custom events button in the Scheduler.
+    recurrenceCustomEventsKeep: Keep custom events
+
+    # The text of the reset custom events button in the Scheduler.
+    recurrenceCustomEventsReset: Reset custom events
+
+    # The text of the cancel button in the custom events dialog in the Scheduler.
+    recurrenceCustomEventsCancel: Cancel
+
+    # The title of the discard changes dialog in the Scheduler event editor.
+    editorDiscardChangesDialogTitle: Discard changes
+
+    # The confirmation message in the discard changes dialog in the Scheduler event editor.
+    editorDiscardChangesConfirmation: Are you sure you want to discard the changes?
+
+    # The text of the discard changes button in the Scheduler event editor.
+    editorDiscardChangesDiscard: Discard changes
+
+    # The text of the cancel button in the discard changes dialog in the Scheduler event editor.
+    editorDiscardChangesCancel: Cancel
