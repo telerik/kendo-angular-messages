@@ -146,7 +146,7 @@ kendo:
     dateHeader: Data
 
     # The day view title.
-    dayViewTitle: Titolo
+    dayViewTitle: Giorno
 
     # The text similar to 'Are you sure you want to delete this event?' displayed in the Scheduler remove confirmation dialog.
     deleteConfirmation: Sicuro di voler rimuovere questo evento?
